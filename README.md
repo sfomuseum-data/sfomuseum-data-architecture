@@ -1,8 +1,12 @@
 # sfomuseum-data-architecture
 
-Architectural features in the SFO Museum.
+Architectural features that are part of SFO and the SFO Museum collection.
 
-## catalog
+## Background
+
+For background we recommend reading the [Who's On First at SFO Museum](https://millsfield.sfomuseum.org/blog/2018/08/28/whosonfirst/) blog post.
+
+## Catalog
 
 ### SFO Terminal Complex (2017~ - open)
 
@@ -178,7 +182,7 @@ Architectural features in the SFO Museum.
 | 1159396329 | 1159396195 | 1159396131 | concourse | Pier E (1954~ - 1963~) |
 | 1159396329 | 1159396131 | 1159396329 | wing | Central Terminal (1954~ - 1963~) |
 
-## breadcrumbs
+## Breadcrumbs
 
 ### Boarding Area A (2017~ - open)
 
