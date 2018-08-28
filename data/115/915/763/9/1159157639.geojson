@@ -1,0 +1,72 @@
+{
+  "id": 1159157639,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2017-01-01",
+    "date:inception_upper":"2017-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":"2017~",
+    "faa:latitude":37.612346,
+    "faa:longitude":-122.389243,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.389242674,37.6123455467,-122.389242674,37.6123455467",
+    "geom:latitude":37.612346,
+    "geom:longitude":-122.389243,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"gate",
+    "sfomuseum:post_security":1,
+    "wof:belongsto":[
+        1159157339,
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159157271,
+        1159157333,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522881126,
+    "wof:geomhash":"dd05edce674c59a0c128a8a126092258",
+    "wof:hierarchy":[
+        {
+            "building_id":1159157271,
+            "campus_id":102527513,
+            "concourse_id":1159157339,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "venue_id":1159157639,
+            "wing_id":1159157333
+        }
+    ],
+    "wof:id":1159157639,
+    "wof:lastmodified":1534958471,
+    "wof:name":"A7",
+    "wof:parent_id":1159157339,
+    "wof:placetype":"venue",
+    "wof:repo":"sfomuseum-data-architecture",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.38924267386258,
+    37.61234554669146,
+    -122.38924267386258,
+    37.61234554669146
+],
+  "geometry": {"coordinates":[-122.38924267386258,37.61234554669146],"type":"Point"}
+}

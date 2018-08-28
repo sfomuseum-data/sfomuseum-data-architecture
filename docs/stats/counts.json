@@ -1,0 +1,16 @@
+{
+  "stats": {
+    "building": 13, 
+    "concourse": 81, 
+    "count": 296, 
+    "enclosure": 50, 
+    "is_alt": 1, 
+    "is_ceased": 294, 
+    "is_current": 159, 
+    "is_current_false": 136, 
+    "is_superseded": 105, 
+    "is_superseding": 105, 
+    "venue": 116, 
+    "wing": 35
+  }
+}
