@@ -362,6 +362,10 @@ For background we recommend reading the [Who's On First at SFO Museum](https://m
 | 8 | 1159396129 | North Terminal (1981~ - 1983~) |
 | 9 | 1159396145 | North Terminal (1979~ - 1981~) |
 
+## See also
+
+* https://millsfield.sfomuseum.org/architecture/
+
 ## License
 
 This data is published under the [Community Data License Agreement – Permissive – Version 1.0](LICENSE) license, but we'd love a [shout-out](https://twitter.com/flysfo) and generally to hear what you're doing if you use the data.
