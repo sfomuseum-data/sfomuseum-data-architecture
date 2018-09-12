@@ -10,11 +10,12 @@
     "edtf:inception":"2001~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38622,37.616463,-122.38622,37.616463",
-    "geom:latitude":37.616463,
-    "geom:longitude":-122.38622,
+    "geom:bbox":"-122.382695,37.617349,-122.382695,37.617349",
+    "geom:latitude":37.617349,
+    "geom:longitude":-122.382695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
     "mz:is_current":0,
     "name:eng_x_preferred":[
         "D-09 Central South"
@@ -44,7 +45,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522946176,
-    "wof:geomhash":"480dfda201eec6bb4a19bd3be1b0d4d7",
+    "wof:geomhash":"c350c769493cdcce8118f12594c424e8",
     "wof:hierarchy":[
         {
             "building_id":-1,
@@ -60,7 +61,7 @@
     ],
     "wof:id":1159157905,
     "wof:label":"D-09 Central South (2001~ - 2002~)",
-    "wof:lastmodified":1534958471,
+    "wof:lastmodified":1536794323,
     "wof:name":"D-09 Central South",
     "wof:parent_id":-1,
     "wof:placetype":"enclosure",
@@ -70,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38622,
-    37.616463,
-    -122.38622,
-    37.616463
+    -122.382695,
+    37.617349,
+    -122.382695,
+    37.617349
 ],
-  "geometry": {"coordinates":[[[-122.38621999999999,37.616463],[-122.38621999999999,37.616463],[-122.38621999999999,37.616463],[-122.38621999999999,37.616463],[-122.38621999999999,37.616463]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.382695,37.617349],"type":"Point"}
 }

@@ -1,5 +1,8 @@
 OS := $(shell uname -s | tr '[:upper:]' '[:lower:]')
 
+exportify:
+	wof-exportify -s data -i $(ID)
+
 metafiles:
 	utils/$(OS)/wof-build-metafiles -out meta .
 
