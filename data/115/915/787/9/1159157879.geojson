@@ -2,11 +2,11 @@
   "id": 1159157879,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1997-01-01",
-    "date:cessation_upper":"1997-12-31",
+    "date:cessation_lower":"1988-01-01",
+    "date:cessation_upper":"1988-12-31",
     "date:inception_lower":"1985-01-01",
     "date:inception_upper":"1985-12-31",
-    "edtf:cessation":"1997~",
+    "edtf:cessation":"1988~",
     "edtf:inception":"1985~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -63,13 +63,15 @@
         }
     ],
     "wof:id":1159157879,
-    "wof:label":"E-02 Gate 62 Cultural Wall (1985~ - 1997~)",
-    "wof:lastmodified":1534958476,
+    "wof:label":"E-02 Gate 62 Cultural Wall (1985~ - 1988~)",
+    "wof:lastmodified":1536784197,
     "wof:name":"E-02 Gate 62 Cultural Wall",
     "wof:parent_id":1159554819,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1360516451
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

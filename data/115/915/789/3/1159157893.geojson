@@ -2,11 +2,11 @@
   "id": 1159157893,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-01-01",
-    "date:cessation_upper":"2011-12-31",
+    "date:cessation_lower":"2000-01-01",
+    "date:cessation_upper":"2000-12-31",
     "date:inception_lower":"1997-01-01",
     "date:inception_upper":"1997-12-31",
-    "edtf:cessation":"2011~",
+    "edtf:cessation":"2000~",
     "edtf:inception":"1997~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -63,13 +63,15 @@
         }
     ],
     "wof:id":1159157893,
-    "wof:label":"D-06 Kids\u2019 Spot (1997~ - 2011~)",
-    "wof:lastmodified":1534958476,
+    "wof:label":"D-06 Kids\u2019 Spot (1997~ - 2000~)",
+    "wof:lastmodified":1536784198,
     "wof:name":"D-06 Kids\u2019 Spot",
     "wof:parent_id":1159554829,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1360516457
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,11 +2,11 @@
   "id": 1159157865,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-01-01",
-    "date:cessation_upper":"2011-12-31",
+    "date:cessation_lower":"1988-01-01",
+    "date:cessation_upper":"1988-12-31",
     "date:inception_lower":"1983-01-01",
     "date:inception_upper":"1983-12-31",
-    "edtf:cessation":"2011~",
+    "edtf:cessation":"1988~",
     "edtf:inception":"1983~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -63,13 +63,15 @@
         }
     ],
     "wof:id":1159157865,
-    "wof:label":"D-04 Central Gallery (1983~ - 2011~)",
-    "wof:lastmodified":1534958475,
+    "wof:label":"D-04 Central Gallery (1983~ - 1988~)",
+    "wof:lastmodified":1536784202,
     "wof:name":"D-04 Central Gallery",
     "wof:parent_id":1159554827,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1360516471
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

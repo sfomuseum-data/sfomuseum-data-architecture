@@ -2,11 +2,11 @@
   "id": 1159157883,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-01-01",
-    "date:cessation_upper":"2015-12-31",
+    "date:cessation_lower":"2000-01-01",
+    "date:cessation_upper":"2000-12-31",
     "date:inception_lower":"1990-01-01",
     "date:inception_upper":"1990-12-31",
-    "edtf:cessation":"2015~",
+    "edtf:cessation":"2000~",
     "edtf:inception":"1990~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -63,13 +63,15 @@
         }
     ],
     "wof:id":1159157883,
-    "wof:label":"A-03 Entrance Lobby A (1990~ - 2015~)",
-    "wof:lastmodified":1534958475,
+    "wof:label":"A-03 Entrance Lobby A (1990~ - 2000~)",
+    "wof:lastmodified":1536784203,
     "wof:name":"A-03 Entrance Lobby A",
     "wof:parent_id":1159554817,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1360516477
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
