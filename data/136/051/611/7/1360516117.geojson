@@ -1,0 +1,80 @@
+{
+  "id": 1360516117,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2017-01-01",
+    "date:cessation_upper":"2017-12-31",
+    "date:inception_lower":"2017-01-01",
+    "date:inception_upper":"2017-01-01",
+    "edtf:cessation":"2017~",
+    "edtf:inception":"2017-01-01",
+    "geom:area":0.0,
+    "geom:area_square_m":96.445046,
+    "geom:bbox":"-122.384527624,37.6186017535,-122.384382784,37.6187377249",
+    "geom:latitude":37.61867,
+    "geom:longitude":-122.384454,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "E-06 Kid's Spot"
+    ],
+    "name:eng_x_variant":[
+        "E-06",
+        "E06"
+    ],
+    "sfomuseum:gallery_id":65,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"gallery",
+    "sfomuseum:post_security":1,
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        1159157315,
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159396321,
+        1159396157,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:geomhash":"88e14de3ef92e0dfa167001d6478efb6",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396321,
+            "campus_id":102527513,
+            "concourse_id":1159157315,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516117,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396157
+        }
+    ],
+    "wof:id":1360516117,
+    "wof:label":"E-06 Kid's Spot (2017-01-01 - 2017~)",
+    "wof:lastmodified":1536776720,
+    "wof:name":"E-06 Kid's Spot",
+    "wof:parent_id":1159157315,
+    "wof:placetype":"enclosure",
+    "wof:repo":"sfomuseum-data-architecture",
+    "wof:superseded_by":[
+        1175727175
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.3845276236534,
+    37.61860175347619,
+    -122.38438278436661,
+    37.61873772487125
+],
+  "geometry": {"coordinates":[[[-122.38438278436661,37.61871010570178],[-122.38445252180101,37.61873772487125],[-122.3845276236534,37.61863149724012],[-122.38445252180101,37.61860175347619],[-122.38438278436661,37.61871010570178]]],"type":"Polygon"}
+}

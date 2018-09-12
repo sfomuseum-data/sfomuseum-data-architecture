@@ -2,10 +2,10 @@
   "id": 1159157053,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1981-01-01",
-    "date:inception_upper":"1981-12-31",
+    "date:inception_lower":"2017-01-01",
+    "date:inception_upper":"2017-12-31",
     "edtf:cessation":"open",
-    "edtf:inception":"1981~",
+    "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":2123.229928,
     "geom:bbox":"-122.38748861,37.6185415858,-122.386908487,37.6196249494",
@@ -61,14 +61,16 @@
         }
     ],
     "wof:id":1159157053,
-    "wof:label":"F-02 North Connector (1981~)",
-    "wof:lastmodified":1534958473,
+    "wof:label":"F-02 North Connector (2017~)",
+    "wof:lastmodified":1536776721,
     "wof:name":"F-02 North Connector",
     "wof:parent_id":1159396301,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360516119
+    ],
     "wof:tags":[]
 },
   "bbox": [

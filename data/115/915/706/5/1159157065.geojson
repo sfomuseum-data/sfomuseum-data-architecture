@@ -2,10 +2,10 @@
   "id": 1159157065,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1983-01-01",
-    "date:inception_upper":"1983-12-31",
+    "date:inception_lower":"2017-01-01",
+    "date:inception_upper":"2017-12-31",
     "edtf:cessation":"open",
-    "edtf:inception":"1983~",
+    "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":83.495225,
     "geom:bbox":"-122.384912127,37.6177334315,-122.384716423,37.6178417679",
@@ -60,14 +60,16 @@
         }
     ],
     "wof:id":1159157065,
-    "wof:label":"D-01 Central North Connector (1983~)",
-    "wof:lastmodified":1534958471,
+    "wof:label":"D-01 Central North Connector (2017~)",
+    "wof:lastmodified":1536776749,
     "wof:name":"D-01 Central North Connector",
     "wof:parent_id":1159396121,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360516261
+    ],
     "wof:tags":[]
 },
   "bbox": [

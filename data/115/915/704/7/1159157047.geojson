@@ -2,13 +2,13 @@
   "id": 1159157047,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2000-01-01",
-    "date:inception_upper":"2000-12-31",
+    "date:inception_lower":"2017-01-01",
+    "date:inception_upper":"2017-12-31",
     "dc:identifier":"A01",
     "dc:title":"A-01 International South Wall",
     "dc:type":"gallery",
     "edtf:cessation":"open",
-    "edtf:inception":"2000~",
+    "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":723.824295,
     "geom:bbox":"-122.389093561,37.615157822,-122.388790944,37.6156890196",
@@ -64,14 +64,16 @@
         }
     ],
     "wof:id":1159157047,
-    "wof:label":"A-01 International South Wall (2000~)",
-    "wof:lastmodified":1534958474,
+    "wof:label":"A-01 International South Wall (2017~)",
+    "wof:lastmodified":1536776733,
     "wof:name":"A-01 International South Wall",
     "wof:parent_id":1159157335,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360516181
+    ],
     "wof:tags":[]
 },
   "bbox": [

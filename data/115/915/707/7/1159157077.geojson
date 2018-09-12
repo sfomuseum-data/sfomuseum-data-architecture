@@ -2,10 +2,10 @@
   "id": 1159157077,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1990-01-01",
-    "date:inception_upper":"1990-12-31",
+    "date:inception_lower":"2017-01-01",
+    "date:inception_upper":"2017-12-31",
     "edtf:cessation":"open",
-    "edtf:inception":"1990~",
+    "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":88.966289,
     "geom:bbox":"-122.385682981,37.6125128753,-122.385524921,37.612645442",
@@ -61,14 +61,16 @@
         }
     ],
     "wof:id":1159157077,
-    "wof:label":"B-03 Gate 36 (1990~)",
-    "wof:lastmodified":1534958472,
+    "wof:label":"B-03 Gate 36 (2017~)",
+    "wof:lastmodified":1536776740,
     "wof:name":"B-03 Gate 36",
     "wof:parent_id":1159396217,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360516217
+    ],
     "wof:tags":[]
 },
   "bbox": [

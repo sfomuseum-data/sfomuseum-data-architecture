@@ -2,10 +2,10 @@
   "id": 1159157075,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1988-01-01",
-    "date:inception_upper":"1988-12-31",
+    "date:inception_lower":"2017-01-01",
+    "date:inception_upper":"2017-12-31",
     "edtf:cessation":"open",
-    "edtf:inception":"1988~",
+    "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":467.367672,
     "geom:bbox":"-122.384635836,37.6146833179,-122.384247525,37.6149726474",
@@ -59,14 +59,16 @@
         }
     ],
     "wof:id":1159157075,
-    "wof:label":"C-05 Terminal One Lower Gallery (1988~)",
-    "wof:lastmodified":1534958472,
+    "wof:label":"C-05 Terminal One Lower Gallery (2017~)",
+    "wof:lastmodified":1536776743,
     "wof:name":"C-05 Terminal One Lower Gallery",
     "wof:parent_id":1159157317,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360516229
+    ],
     "wof:tags":[]
 },
   "bbox": [

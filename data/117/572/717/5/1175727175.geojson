@@ -60,13 +60,16 @@
         }
     ],
     "wof:id":1175727175,
-    "wof:lastmodified":1534977389,
+    "wof:label":"E-06 Kid's Spot (2017~)",
+    "wof:lastmodified":1536776720,
     "wof:name":"E-06 Kid's Spot",
     "wof:parent_id":1159396267,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360516117
+    ],
     "wof:tags":[]
 },
   "bbox": [

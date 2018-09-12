@@ -2,10 +2,10 @@
   "id": 1159157063,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2015-01-01",
-    "date:inception_upper":"2015-12-31",
+    "date:inception_lower":"2017-01-01",
+    "date:inception_upper":"2017-12-31",
     "edtf:cessation":"open",
-    "edtf:inception":"2015~",
+    "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":419.044963,
     "geom:bbox":"-122.385020464,37.6178452626,-122.384712928,37.6181510507",
@@ -60,14 +60,16 @@
         }
     ],
     "wof:id":1159157063,
-    "wof:label":"E-05 E Plaza Meet and Greet (2015~)",
-    "wof:lastmodified":1534958471,
+    "wof:label":"E-05 E Plaza Meet and Greet (2017~)",
+    "wof:lastmodified":1536776746,
     "wof:name":"E-05 E Plaza Meet and Greet",
     "wof:parent_id":1159157307,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360516249
+    ],
     "wof:tags":[]
 },
   "bbox": [

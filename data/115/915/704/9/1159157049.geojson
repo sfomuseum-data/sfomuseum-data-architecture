@@ -2,10 +2,10 @@
   "id": 1159157049,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2002-01-01",
-    "date:inception_upper":"2002-12-31",
+    "date:inception_lower":"2017-01-01",
+    "date:inception_upper":"2017-12-31",
     "edtf:cessation":"open",
-    "edtf:inception":"2002~",
+    "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":781.898465,
     "geom:bbox":"-122.388888412,37.6167562052,-122.388175903,37.6170461799",
@@ -60,14 +60,16 @@
         }
     ],
     "wof:id":1159157049,
-    "wof:label":"F-09 Terminal 3 Connector Arrival Level (2002~)",
-    "wof:lastmodified":1534958474,
+    "wof:label":"F-09 Terminal 3 Connector Arrival Level (2017~)",
+    "wof:lastmodified":1536776731,
     "wof:name":"F-09 Terminal 3 Connector Arrival Level",
     "wof:parent_id":1159157307,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360516173
+    ],
     "wof:tags":[]
 },
   "bbox": [

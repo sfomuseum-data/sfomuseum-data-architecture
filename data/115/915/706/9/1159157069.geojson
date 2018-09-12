@@ -2,10 +2,10 @@
   "id": 1159157069,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2011-01-01",
-    "date:inception_upper":"2011-12-31",
+    "date:inception_lower":"2017-01-01",
+    "date:inception_upper":"2017-12-31",
     "edtf:cessation":"open",
-    "edtf:inception":"2011~",
+    "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":244.245562,
     "geom:bbox":"-122.381311655,37.6174481112,-122.3811239,37.6176350747",
@@ -61,14 +61,16 @@
         }
     ],
     "wof:id":1159157069,
-    "wof:label":"D-14 Wall Case (2011~)",
-    "wof:lastmodified":1534958471,
+    "wof:label":"D-14 Wall Case (2017~)",
+    "wof:lastmodified":1536776747,
     "wof:name":"D-14 Wall Case",
     "wof:parent_id":1159396181,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360516251
+    ],
     "wof:tags":[]
 },
   "bbox": [

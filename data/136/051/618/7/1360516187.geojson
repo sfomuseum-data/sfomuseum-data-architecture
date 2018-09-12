@@ -1,0 +1,80 @@
+{
+  "id": 1360516187,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2011-01-01",
+    "date:cessation_upper":"2011-12-31",
+    "date:inception_lower":"2006-01-01",
+    "date:inception_upper":"2006-12-31",
+    "edtf:cessation":"2011~",
+    "edtf:inception":"2006~",
+    "geom:area":0.0,
+    "geom:area_square_m":723.824295,
+    "geom:bbox":"-122.389093561,37.615157822,-122.388790944,37.6156890196",
+    "geom:latitude":37.615424,
+    "geom:longitude":-122.388942,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "A-01 International South Wall"
+    ],
+    "name:eng_x_variant":[
+        "A-01",
+        "A01"
+    ],
+    "sfomuseum:gallery_id":18,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"gallery",
+    "sfomuseum:post_security":0,
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159396337,
+        1159396147,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:geomhash":"129a3c26e251a3e9eb9156b62749f869",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396337,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516187,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396147
+        }
+    ],
+    "wof:id":1360516187,
+    "wof:label":"A-01 International South Wall (2006~ - 2011~)",
+    "wof:lastmodified":1536776734,
+    "wof:name":"A-01 International South Wall",
+    "wof:parent_id":1159396147,
+    "wof:placetype":"enclosure",
+    "wof:repo":"sfomuseum-data-architecture",
+    "wof:superseded_by":[
+        1360516183
+    ],
+    "wof:supersedes":[
+        1360516189
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.38909356109951,
+    37.61515782199906,
+    -122.38879094366311,
+    37.61568901962578
+],
+  "geometry": {"coordinates":[[[-122.38909356109951,37.61565407241349],[-122.38895377225037,37.61568901962578],[-122.38879094366311,37.6151908099386],[-122.38892581448054,37.61515782199906],[-122.38909356109951,37.61565407241349]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1360516249,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2017-01-01",
+    "date:cessation_upper":"2017-12-31",
+    "date:inception_lower":"2015-01-01",
+    "date:inception_upper":"2015-01-01",
+    "edtf:cessation":"2017~",
+    "edtf:inception":"2015-01-01",
+    "geom:area":0.0,
+    "geom:area_square_m":419.044963,
+    "geom:bbox":"-122.385020464,37.6178452626,-122.384712928,37.6181510507",
+    "geom:latitude":37.617997,
+    "geom:longitude":-122.384864,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "E-05 E Plaza Meet and Greet"
+    ],
+    "name:eng_x_variant":[
+        "E-05",
+        "E05"
+    ],
+    "sfomuseum:gallery_id":64,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"gallery",
+    "sfomuseum:post_security":0,
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159396321,
+        1159396157,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:geomhash":"920978a74889daa2c8f2fedbfcc9909d",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396321,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516249,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396157
+        }
+    ],
+    "wof:id":1360516249,
+    "wof:label":"E-05 E Plaza Meet and Greet (2015-01-01 - 2017~)",
+    "wof:lastmodified":1536776746,
+    "wof:name":"E-05 E Plaza Meet and Greet",
+    "wof:parent_id":1159396157,
+    "wof:placetype":"enclosure",
+    "wof:repo":"sfomuseum-data-architecture",
+    "wof:superseded_by":[
+        1159157063
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.38502046350781,
+    37.61784526262372,
+    -122.3847129280397,
+    37.61815105073121
+],
+  "geometry": {"coordinates":[[[-122.38483699064332,37.61815105073121],[-122.3847129280397,37.61809688255217],[-122.38488067465867,37.61784526262372],[-122.38502046350781,37.61790292552399],[-122.38483699064332,37.61815105073121]]],"type":"Polygon"}
+}

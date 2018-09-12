@@ -2,10 +2,10 @@
   "id": 1159157045,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2000-01-01",
-    "date:inception_upper":"2000-12-31",
+    "date:inception_lower":"2017-01-01",
+    "date:inception_upper":"2017-12-31",
     "edtf:cessation":"open",
-    "edtf:inception":"2000~",
+    "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":776.781935,
     "geom:bbox":"-122.38927831,37.6157449352,-122.388988719,37.6163068078",
@@ -61,14 +61,16 @@
         }
     ],
     "wof:id":1159157045,
-    "wof:label":"G-01 International North Wall (2000~)",
-    "wof:lastmodified":1534958474,
+    "wof:label":"G-01 International North Wall (2017~)",
+    "wof:lastmodified":1536776735,
     "wof:name":"G-01 International North Wall",
     "wof:parent_id":1159157335,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360516191
+    ],
     "wof:tags":[]
 },
   "bbox": [
