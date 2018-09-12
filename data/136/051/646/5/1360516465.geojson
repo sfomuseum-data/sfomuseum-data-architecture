@@ -6,7 +6,7 @@
     "date:cessation_upper":"2013-12-31",
     "date:inception_lower":"2011-01-01",
     "date:inception_upper":"2011-12-31",
-    "edtf:cessation":"2013-12-31",
+    "edtf:cessation":"2013~",
     "edtf:inception":"2011~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1360516465,
-    "wof:label":"C-01 Aquarium (2011~ - 2013-12-31)",
+    "wof:label":"C-01 Aquarium (2011~ - 2013~)",
     "wof:lastmodified":1536784200,
     "wof:name":"C-01 Aquarium",
     "wof:parent_id":1159396163,
