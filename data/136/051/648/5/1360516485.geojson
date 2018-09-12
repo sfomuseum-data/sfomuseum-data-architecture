@@ -6,7 +6,7 @@
     "date:cessation_upper":"2002-12-31",
     "date:inception_lower":"2000-01-01",
     "date:inception_upper":"2000-12-31",
-    "edtf:cessation":"2002-12-31",
+    "edtf:cessation":"2002~",
     "edtf:inception":"2000~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1360516485,
-    "wof:label":"F-01 Gate 68 Children\u2019s Art Gallery (2000~ - 2002-12-31)",
+    "wof:label":"F-01 Gate 68 Children\u2019s Art Gallery (2000~ - 2002~)",
     "wof:lastmodified":1536784204,
     "wof:name":"F-01 Gate 68 Children\u2019s Art Gallery",
     "wof:parent_id":1159396123,

@@ -6,7 +6,7 @@
     "date:cessation_upper":"2001-12-31",
     "date:inception_lower":"2000-01-01",
     "date:inception_upper":"2000-12-31",
-    "edtf:cessation":"2001-12-31",
+    "edtf:cessation":"2001~",
     "edtf:inception":"2000~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -56,7 +56,7 @@
         }
     ],
     "wof:id":1360516459,
-    "wof:label":"B-01 Gate 20 (2000~ - 2001-12-31)",
+    "wof:label":"B-01 Gate 20 (2000~ - 2001~)",
     "wof:lastmodified":1536784198,
     "wof:name":"B-01 Gate 20",
     "wof:parent_id":1159396115,
