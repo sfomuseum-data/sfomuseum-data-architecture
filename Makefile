@@ -1,6 +1,6 @@
 OS := $(shell uname -s | tr '[:upper:]' '[:lower:]')
 
-exportify:
+x:
 	wof-exportify -s data -i $(ID)
 
 metafiles:
