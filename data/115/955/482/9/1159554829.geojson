@@ -48,13 +48,13 @@
     ],
     "wof:id":1159554829,
     "wof:label":"International Terminal (1988~ - 2000~)",
-    "wof:lastmodified":1534958470,
+    "wof:lastmodified":1536865110,
     "wof:name":"International Terminal",
     "wof:parent_id":1159554803,
     "wof:placetype":"wing",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
-        1159396109
+        1360521543
     ],
     "wof:supersedes":[
         "1159554827"

@@ -48,7 +48,7 @@
     ],
     "wof:id":1159396109,
     "wof:label":"Terminal 2 (2011~ - 2014~)",
-    "wof:lastmodified":1534958465,
+    "wof:lastmodified":1536866616,
     "wof:name":"Terminal 2",
     "wof:parent_id":1159396333,
     "wof:placetype":"wing",
@@ -57,7 +57,7 @@
         1159157325
     ],
     "wof:supersedes":[
-        1159554829
+        1360521545
     ],
     "wof:tags":[]
 },
