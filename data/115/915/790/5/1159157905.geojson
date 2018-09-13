@@ -10,9 +10,9 @@
     "edtf:inception":"2001~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.382695,37.617349,-122.382695,37.617349",
-    "geom:latitude":37.617349,
-    "geom:longitude":-122.382695,
+    "geom:bbox":"-122.383596,37.617219,-122.383596,37.617219",
+    "geom:latitude":37.617219,
+    "geom:longitude":-122.383596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
@@ -36,6 +36,8 @@
         85633793,
         85922583,
         102087579,
+        1159396319,
+        1360521543,
         85688637
     ],
     "wof:breaches":[],
@@ -45,10 +47,10 @@
     ],
     "wof:country":"US",
     "wof:created":1522946176,
-    "wof:geomhash":"c350c769493cdcce8118f12594c424e8",
+    "wof:geomhash":"72290e32fbdf2ddf78e15a0af9daa48d",
     "wof:hierarchy":[
         {
-            "building_id":-1,
+            "building_id":1159396319,
             "campus_id":102527513,
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,14 +58,15 @@
             "enclosure_id":1159157905,
             "locality_id":85922583,
             "neighbourhood_id":-1,
-            "region_id":85688637
+            "region_id":85688637,
+            "wing_id":1360521543
         }
     ],
     "wof:id":1159157905,
     "wof:label":"D-09 Central South (2001~ - 2002~)",
-    "wof:lastmodified":1536794323,
+    "wof:lastmodified":1536867716,
     "wof:name":"D-09 Central South",
-    "wof:parent_id":-1,
+    "wof:parent_id":1360521543,
     "wof:placetype":"enclosure",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
@@ -71,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.382695,
-    37.617349,
-    -122.382695,
-    37.617349
+    -122.383596,
+    37.617219,
+    -122.383596,
+    37.617219
 ],
-  "geometry": {"coordinates":[-122.382695,37.617349],"type":"Point"}
+  "geometry": {"coordinates":[-122.383596,37.617219],"type":"Point"}
 }
