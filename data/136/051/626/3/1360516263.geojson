@@ -58,7 +58,7 @@
     ],
     "wof:id":1360516263,
     "wof:label":"D-01 Central North Connector (2011~ - 2014~)",
-    "wof:lastmodified":1536776750,
+    "wof:lastmodified":1536952914,
     "wof:name":"D-01 Central North Connector",
     "wof:parent_id":1159396109,
     "wof:placetype":"enclosure",
@@ -67,7 +67,7 @@
         1360516261
     ],
     "wof:supersedes":[
-        1360516265
+        1360521555
     ],
     "wof:tags":[]
 },
