@@ -2,9 +2,11 @@
   "id": 1360541561,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2006-01-01",
+    "date:cessation_upper":"2006-12-31",
     "date:inception_lower":"2000-11-20",
     "date:inception_upper":"2000-11-20",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2006~",
     "edtf:inception":"2000-11-20",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -22,6 +24,7 @@
     "sfomuseum:map_id":"K03",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":0,
+    "src:geom":"unknown",
     "wof:belongsto":[
         1360521571,
         102527513,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1360541561,
-    "wof:lastmodified":1537296928,
+    "wof:lastmodified":1537297423,
     "wof:name":"AML Aviation Museum Gallery 03",
     "wof:parent_id":1360521571,
     "wof:placetype":"enclosure",
