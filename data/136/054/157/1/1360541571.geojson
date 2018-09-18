@@ -2,11 +2,11 @@
   "id": 1360541571,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-06-23",
-    "date:cessation_upper":"2017-06-23",
+    "date:cessation_lower":"2006-01-01",
+    "date:cessation_upper":"2006-12-31",
     "date:inception_lower":"2000-12-03",
     "date:inception_upper":"2000-12-03",
-    "edtf:cessation":"2017-06-23",
+    "edtf:cessation":"2006~",
     "edtf:inception":"2000-12-03",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -24,6 +24,7 @@
     "sfomuseum:map_id":"K04B",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":0,
+    "src:geom":"unknown",
     "wof:belongsto":[
         1360521571,
         102527513,
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1360541571,
-    "wof:lastmodified":1537296938,
+    "wof:lastmodified":1537298666,
     "wof:name":"AML Aviation Museum Gallery 04b Special Collections Room",
     "wof:parent_id":1360521571,
     "wof:placetype":"enclosure",
