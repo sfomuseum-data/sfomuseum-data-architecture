@@ -53,10 +53,11 @@
         }
     ],
     "wof:id":1159157807,
-    "wof:lastmodified":1534958476,
+    "wof:lastmodified":1537232308,
     "wof:name":"A3B",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",
+    "wof:placetype_alt":"gate",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

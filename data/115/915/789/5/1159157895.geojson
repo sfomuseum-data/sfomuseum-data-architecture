@@ -64,10 +64,11 @@
     ],
     "wof:id":1159157895,
     "wof:label":"B-01 Gate 20 (1995~ - 2000~)",
-    "wof:lastmodified":1536784198,
+    "wof:lastmodified":1537232308,
     "wof:name":"B-01 Gate 20",
     "wof:parent_id":1159554817,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516459

@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516457,
     "wof:label":"D-06 Kids\u2019 Spot (2011~ - 2011~)",
-    "wof:lastmodified":1536787820,
+    "wof:lastmodified":1537232298,
     "wof:name":"D-06 Kids\u2019 Spot",
     "wof:parent_id":1159396109,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

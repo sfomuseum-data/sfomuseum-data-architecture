@@ -53,10 +53,11 @@
         }
     ],
     "wof:id":1159157771,
-    "wof:lastmodified":1534958473,
+    "wof:lastmodified":1537232309,
     "wof:name":"E62",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",
+    "wof:placetype_alt":"gate",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

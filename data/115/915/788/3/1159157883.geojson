@@ -64,10 +64,11 @@
     ],
     "wof:id":1159157883,
     "wof:label":"A-03 Entrance Lobby A (1990~ - 2000~)",
-    "wof:lastmodified":1536784203,
+    "wof:lastmodified":1537232308,
     "wof:name":"A-03 Entrance Lobby A",
     "wof:parent_id":1159554817,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516477

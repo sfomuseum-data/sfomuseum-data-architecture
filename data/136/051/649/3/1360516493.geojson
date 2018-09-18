@@ -2,7 +2,7 @@
   "id": 1360516493,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1990-12-31",
+    "date:cessation_lower":"1990-01-01",
     "date:cessation_upper":"1990-12-31",
     "date:inception_lower":"1988-01-01",
     "date:inception_upper":"1988-12-31",
@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516493,
     "wof:label":"F-06 Gate 72 (1988~ - 1990~)",
-    "wof:lastmodified":1536784206,
+    "wof:lastmodified":1537232298,
     "wof:name":"F-06 Gate 72",
     "wof:parent_id":1159554821,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

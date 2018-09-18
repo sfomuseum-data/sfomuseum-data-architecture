@@ -2,7 +2,7 @@
   "id": 1360516483,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-12-31",
+    "date:cessation_lower":"2015-01-01",
     "date:cessation_upper":"2015-12-31",
     "date:inception_lower":"2014-01-01",
     "date:inception_upper":"2014-12-31",
@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516483,
     "wof:label":"A-03 Entrance Lobby A (2014~ - 2015~)",
-    "wof:lastmodified":1536784204,
+    "wof:lastmodified":1537232298,
     "wof:name":"A-03 Entrance Lobby A",
     "wof:parent_id":1159396151,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

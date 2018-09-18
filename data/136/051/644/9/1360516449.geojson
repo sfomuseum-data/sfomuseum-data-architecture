@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516449,
     "wof:label":"C-03 Entrance Lobby C (2014~ - 2016~)",
-    "wof:lastmodified":1536787206,
+    "wof:lastmodified":1537232296,
     "wof:name":"C-03 Entrance Lobby C",
     "wof:parent_id":1159396151,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

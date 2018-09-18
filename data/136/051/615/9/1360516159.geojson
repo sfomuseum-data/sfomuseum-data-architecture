@@ -59,10 +59,11 @@
     ],
     "wof:id":1360516159,
     "wof:label":"F-05 Terminal 3 Hub (1991~ - 2000~)",
-    "wof:lastmodified":1536788307,
+    "wof:lastmodified":1537232297,
     "wof:name":"F-05 Terminal 3 Hub",
     "wof:parent_id":1159554855,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516157

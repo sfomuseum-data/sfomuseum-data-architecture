@@ -50,10 +50,11 @@
     ],
     "wof:id":1159396195,
     "wof:label":"Pier E (1954~ - 1963~)",
-    "wof:lastmodified":1534958466,
+    "wof:lastmodified":1537232301,
     "wof:name":"Pier E",
     "wof:parent_id":1159396131,
     "wof:placetype":"concourse",
+    "wof:placetype_alt":"boardingarea",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159396241

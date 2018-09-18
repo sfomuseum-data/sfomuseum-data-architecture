@@ -9,7 +9,7 @@
     "edtf:cessation":"1988~",
     "edtf:inception":"1983~",
     "geom:area":0.000005,
-    "geom:area_square_m":51012.799216,
+    "geom:area_square_m":51012.799214,
     "geom:bbox":"-122.390334636,37.6168915467,-122.383839351,37.6212097859",
     "geom:latitude":37.61903,
     "geom:longitude":-122.386898,
@@ -48,10 +48,11 @@
     ],
     "wof:id":1159554819,
     "wof:label":"North Terminal (1983~ - 1988~)",
-    "wof:lastmodified":1534958471,
+    "wof:lastmodified":1537232305,
     "wof:name":"North Terminal",
     "wof:parent_id":1159554801,
     "wof:placetype":"wing",
+    "wof:placetype_alt":"terminal",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159554821

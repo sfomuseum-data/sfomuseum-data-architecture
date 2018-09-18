@@ -48,10 +48,11 @@
     ],
     "wof:id":1159396143,
     "wof:label":"South Terminal (1979~ - 1981~)",
-    "wof:lastmodified":1534958468,
+    "wof:lastmodified":1537232304,
     "wof:name":"South Terminal",
     "wof:parent_id":1159396331,
     "wof:placetype":"wing",
+    "wof:placetype_alt":"terminal",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159396135

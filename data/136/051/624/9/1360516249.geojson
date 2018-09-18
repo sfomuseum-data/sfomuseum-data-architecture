@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516249,
     "wof:label":"E-05 E Plaza Meet and Greet (2015~ - 2017~)",
-    "wof:lastmodified":1536788700,
+    "wof:lastmodified":1537232299,
     "wof:name":"E-05 E Plaza Meet and Greet",
     "wof:parent_id":1159396157,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159157063

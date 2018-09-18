@@ -2,7 +2,7 @@
   "id": 1360516453,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2001-12-31",
+    "date:cessation_lower":"2001-01-01",
     "date:cessation_upper":"2001-12-31",
     "date:inception_lower":"2000-01-01",
     "date:inception_upper":"2000-12-31",
@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516453,
     "wof:label":"B-04 Entrance Lobby B (2000~ - 2001~)",
-    "wof:lastmodified":1536784197,
+    "wof:lastmodified":1537232298,
     "wof:name":"B-04 Entrance Lobby B",
     "wof:parent_id":1159396115,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

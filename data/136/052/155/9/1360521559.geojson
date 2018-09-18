@@ -55,10 +55,11 @@
         }
     ],
     "wof:id":1360521559,
-    "wof:lastmodified":1536957001,
+    "wof:lastmodified":1537232300,
     "wof:name":"D-05 Central South Connector",
     "wof:parent_id":1360521545,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516469

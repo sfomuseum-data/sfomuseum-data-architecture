@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516171,
     "wof:label":"F-11 Photographs (1991~ - 2000~)",
-    "wof:lastmodified":1536787879,
+    "wof:lastmodified":1537232297,
     "wof:name":"F-11 Photographs",
     "wof:parent_id":1159554821,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516169

@@ -64,10 +64,11 @@
     ],
     "wof:id":1159157909,
     "wof:label":"A-05 Terminal One Lower Gallery (2000~ - 2006~)",
-    "wof:lastmodified":1536784193,
+    "wof:lastmodified":1537232306,
     "wof:name":"A-05 Terminal One Lower Gallery",
     "wof:parent_id":1159396115,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516435

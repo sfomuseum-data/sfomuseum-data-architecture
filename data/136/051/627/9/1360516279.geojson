@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516279,
     "wof:label":"A-02 International South Cases (2000~ - 2006~)",
-    "wof:lastmodified":1536776752,
+    "wof:lastmodified":1537232299,
     "wof:name":"A-02 International South Cases",
     "wof:parent_id":1159396107,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516277

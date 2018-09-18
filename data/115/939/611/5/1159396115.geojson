@@ -48,10 +48,11 @@
     ],
     "wof:id":1159396115,
     "wof:label":"Terminal 1 (2000~ - 2006~)",
-    "wof:lastmodified":1534958467,
+    "wof:lastmodified":1537232300,
     "wof:name":"Terminal 1",
     "wof:parent_id":1159396319,
     "wof:placetype":"wing",
+    "wof:placetype_alt":"terminal",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159396139

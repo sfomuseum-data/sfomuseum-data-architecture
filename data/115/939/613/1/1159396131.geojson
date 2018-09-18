@@ -9,7 +9,7 @@
     "edtf:cessation":"1963~",
     "edtf:inception":"1954~",
     "geom:area":0.000006,
-    "geom:area_square_m":58251.449586,
+    "geom:area_square_m":58251.449585,
     "geom:bbox":"-122.3854805,37.6145006023,-122.380924805,37.6196407614",
     "geom:latitude":37.617077,
     "geom:longitude":-122.383415,
@@ -48,10 +48,11 @@
     ],
     "wof:id":1159396131,
     "wof:label":"Central Terminal (1954~ - 1963~)",
-    "wof:lastmodified":1534958468,
+    "wof:lastmodified":1537232301,
     "wof:name":"Central Terminal",
     "wof:parent_id":1159396329,
     "wof:placetype":"wing",
+    "wof:placetype_alt":"terminal",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         "1159396171"

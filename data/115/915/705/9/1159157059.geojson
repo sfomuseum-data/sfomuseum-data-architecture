@@ -62,10 +62,11 @@
     ],
     "wof:id":1159157059,
     "wof:label":"F-04 Gate 87a (2017~)",
-    "wof:lastmodified":1536714298,
+    "wof:lastmodified":1537232306,
     "wof:name":"F-04 Gate 87a",
     "wof:parent_id":1159396301,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -9,7 +9,7 @@
     "edtf:cessation":"2006~",
     "edtf:inception":"2000~",
     "geom:area":0.000001,
-    "geom:area_square_m":14561.554794,
+    "geom:area_square_m":14561.554795,
     "geom:bbox":"-122.390497204,37.6114628502,-122.38818233,37.6142698945",
     "geom:latitude":37.612895,
     "geom:longitude":-122.389348,
@@ -51,10 +51,11 @@
     ],
     "wof:id":1159396231,
     "wof:label":"International Boarding Area A (2000~ - 2006~)",
-    "wof:lastmodified":1534958468,
+    "wof:lastmodified":1537232305,
     "wof:name":"International Boarding Area A",
     "wof:parent_id":1159396107,
     "wof:placetype":"concourse",
+    "wof:placetype_alt":"boardingarea",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159396269

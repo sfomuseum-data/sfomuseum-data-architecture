@@ -2,7 +2,7 @@
   "id": 1360516441,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-12-31",
+    "date:cessation_lower":"2016-01-01",
     "date:cessation_upper":"2016-12-31",
     "date:inception_lower":"2014-01-01",
     "date:inception_upper":"2014-12-31",
@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516441,
     "wof:label":"A-05 Terminal One Lower Gallery (2014~ - 2016~)",
-    "wof:lastmodified":1536784194,
+    "wof:lastmodified":1537232296,
     "wof:name":"A-05 Terminal One Lower Gallery",
     "wof:parent_id":1159396151,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

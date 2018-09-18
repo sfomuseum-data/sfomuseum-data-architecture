@@ -65,10 +65,11 @@
     ],
     "wof:id":1159157047,
     "wof:label":"A-01 International South Wall (2017~)",
-    "wof:lastmodified":1536776733,
+    "wof:lastmodified":1537232306,
     "wof:name":"A-01 International South Wall",
     "wof:parent_id":1159157335,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

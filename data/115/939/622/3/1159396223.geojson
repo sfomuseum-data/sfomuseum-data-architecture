@@ -50,10 +50,11 @@
     ],
     "wof:id":1159396223,
     "wof:label":"Pier FF (1963~ - 1974~)",
-    "wof:lastmodified":1534958468,
+    "wof:lastmodified":1537232301,
     "wof:name":"Pier FF",
     "wof:parent_id":1159396127,
     "wof:placetype":"concourse",
+    "wof:placetype_alt":"boardingarea",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159396271

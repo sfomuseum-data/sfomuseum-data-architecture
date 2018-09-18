@@ -62,10 +62,11 @@
     ],
     "wof:id":1159157045,
     "wof:label":"G-01 International North Wall (2017~)",
-    "wof:lastmodified":1536776735,
+    "wof:lastmodified":1537232306,
     "wof:name":"G-01 International North Wall",
     "wof:parent_id":1159157335,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

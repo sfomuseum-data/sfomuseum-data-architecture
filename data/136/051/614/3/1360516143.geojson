@@ -59,10 +59,11 @@
     ],
     "wof:id":1360516143,
     "wof:label":"F-03 Gate 76 (2000~ - 2006~)",
-    "wof:lastmodified":1536776726,
+    "wof:lastmodified":1537232299,
     "wof:name":"F-03 Gate 76",
     "wof:parent_id":1159396205,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516141

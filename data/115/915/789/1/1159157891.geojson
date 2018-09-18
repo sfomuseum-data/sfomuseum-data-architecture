@@ -64,10 +64,11 @@
     ],
     "wof:id":1159157891,
     "wof:label":"C-01 Aquarium (1995~ - 2000~)",
-    "wof:lastmodified":1536784199,
+    "wof:lastmodified":1537232308,
     "wof:name":"C-01 Aquarium",
     "wof:parent_id":1159554817,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516461

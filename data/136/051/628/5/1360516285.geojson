@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516285,
     "wof:label":"G-02 International North Cases (2006~ - 2011~)",
-    "wof:lastmodified":1536776754,
+    "wof:lastmodified":1537232297,
     "wof:name":"G-02 International North Cases",
     "wof:parent_id":1159396147,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516283

@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516501,
     "wof:label":"D-03 Central Concourse (2011~ - 2013~)",
-    "wof:lastmodified":1536787344,
+    "wof:lastmodified":1537232297,
     "wof:name":"D-03 Central Concourse",
     "wof:parent_id":1159396109,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

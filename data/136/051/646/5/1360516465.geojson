@@ -2,7 +2,7 @@
   "id": 1360516465,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-12-31",
+    "date:cessation_lower":"2013-01-01",
     "date:cessation_upper":"2013-12-31",
     "date:inception_lower":"2011-01-01",
     "date:inception_upper":"2011-12-31",
@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516465,
     "wof:label":"C-01 Aquarium (2011~ - 2013~)",
-    "wof:lastmodified":1536784200,
+    "wof:lastmodified":1537232296,
     "wof:name":"C-01 Aquarium",
     "wof:parent_id":1159396163,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

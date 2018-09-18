@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516489,
     "wof:label":"F-07 Gate 74 (1988~ - 1990~)",
-    "wof:lastmodified":1536788457,
+    "wof:lastmodified":1537232298,
     "wof:name":"F-07 Gate 74",
     "wof:parent_id":1159554821,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

@@ -53,10 +53,11 @@
         }
     ],
     "wof:id":1159157615,
-    "wof:lastmodified":1534958475,
+    "wof:lastmodified":1537232307,
     "wof:name":"G101A",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",
+    "wof:placetype_alt":"gate",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

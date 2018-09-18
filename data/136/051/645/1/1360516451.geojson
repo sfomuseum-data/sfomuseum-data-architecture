@@ -57,10 +57,11 @@
     ],
     "wof:id":1360516451,
     "wof:label":"E-02 Gate 62 Cultural Wall (1988~ - 1997~)",
-    "wof:lastmodified":1536788400,
+    "wof:lastmodified":1537232298,
     "wof:name":"E-02 Gate 62 Cultural Wall",
     "wof:parent_id":1159554821,
     "wof:placetype":"enclosure",
+    "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[
