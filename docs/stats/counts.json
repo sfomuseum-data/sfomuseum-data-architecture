@@ -2,15 +2,15 @@
   "stats": {
     "building": 13, 
     "concourse": 81, 
-    "count": 296, 
-    "enclosure": 50, 
+    "count": 468, 
+    "enclosure": 215, 
     "is_alt": 1, 
-    "is_ceased": 294, 
-    "is_current": 159, 
-    "is_current_false": 136, 
-    "is_superseded": 105, 
-    "is_superseding": 105, 
-    "venue": 116, 
-    "wing": 35
+    "is_ceased": 467, 
+    "is_current": 168, 
+    "is_current_false": 299, 
+    "is_superseded": 265, 
+    "is_superseding": 265, 
+    "venue": 121, 
+    "wing": 37
   }
 }
