@@ -26,7 +26,7 @@
     "sfomuseum:map_id":"C05",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":0,
-    "src:geom":"mapzen",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -60,7 +60,7 @@
     ],
     "wof:id":1159157075,
     "wof:label":"C-05 Terminal One Lower Gallery (2017~)",
-    "wof:lastmodified":1537232307,
+    "wof:lastmodified":1537310498,
     "wof:name":"C-05 Terminal One Lower Gallery",
     "wof:parent_id":1159157317,
     "wof:placetype":"enclosure",

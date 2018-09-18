@@ -24,6 +24,7 @@
     "sfomuseum:map_id":"K01",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":0,
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1360521569,
         102527513,
@@ -55,7 +56,7 @@
     ],
     "wof:id":1360541661,
     "wof:label":"AML Aviation Museum Gallery 01 (2006~ - 2011~)",
-    "wof:lastmodified":1537298761,
+    "wof:lastmodified":1537310496,
     "wof:name":"AML Aviation Museum Gallery 01",
     "wof:parent_id":1360521569,
     "wof:placetype":"enclosure",

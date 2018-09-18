@@ -29,7 +29,7 @@
     "sfomuseum:map_id":"D09",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":1,
-    "src:geom":"mapzen",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -64,7 +64,7 @@
     ],
     "wof:id":1159157905,
     "wof:label":"D-09 Central South (2001~ - 2002~)",
-    "wof:lastmodified":1537232306,
+    "wof:lastmodified":1537310498,
     "wof:name":"D-09 Central South",
     "wof:parent_id":1360521543,
     "wof:placetype":"enclosure",

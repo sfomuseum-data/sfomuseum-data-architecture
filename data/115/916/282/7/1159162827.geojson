@@ -16,7 +16,7 @@
     "mz:is_current":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:post_security":0,
-    "src:geom":"mapzen",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -49,7 +49,7 @@
     ],
     "wof:id":1159162827,
     "wof:label":"Loan Objects (1980)",
-    "wof:lastmodified":1534958477,
+    "wof:lastmodified":1537310501,
     "wof:name":"Loan Objects",
     "wof:parent_id":1159160869,
     "wof:placetype":"concourse",

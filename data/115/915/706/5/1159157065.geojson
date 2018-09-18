@@ -27,7 +27,7 @@
     "sfomuseum:map_id":"D01",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":0,
-    "src:geom":"mapzen",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -61,7 +61,7 @@
     ],
     "wof:id":1159157065,
     "wof:label":"D-01 Central North Connector (2017~)",
-    "wof:lastmodified":1537232308,
+    "wof:lastmodified":1537310498,
     "wof:name":"D-01 Central North Connector",
     "wof:parent_id":1159396121,
     "wof:placetype":"enclosure",

@@ -26,7 +26,7 @@
     "sfomuseum:map_id":"B03",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":1,
-    "src:geom":"mapzen",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1159396217,
         102527513,
@@ -62,7 +62,7 @@
     ],
     "wof:id":1159157077,
     "wof:label":"B-03 Gate 36 (2017~)",
-    "wof:lastmodified":1537232307,
+    "wof:lastmodified":1537310498,
     "wof:name":"B-03 Gate 36",
     "wof:parent_id":1159396217,
     "wof:placetype":"enclosure",

@@ -24,6 +24,7 @@
     "sfomuseum:map_id":"K07",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":0,
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1360521565,
         102527513,
@@ -55,7 +56,7 @@
     ],
     "wof:id":1360541627,
     "wof:label":"AML Aviation Museum Ceiling (2011~ - 2014~)",
-    "wof:lastmodified":1537298761,
+    "wof:lastmodified":1537310496,
     "wof:name":"AML Aviation Museum Ceiling",
     "wof:parent_id":1360521565,
     "wof:placetype":"enclosure",

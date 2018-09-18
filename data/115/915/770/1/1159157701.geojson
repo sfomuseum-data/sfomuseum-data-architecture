@@ -19,6 +19,7 @@
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1159396181,
         102527513,
@@ -53,7 +54,7 @@
         }
     ],
     "wof:id":1159157701,
-    "wof:lastmodified":1537232307,
+    "wof:lastmodified":1537310499,
     "wof:name":"D50A",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",

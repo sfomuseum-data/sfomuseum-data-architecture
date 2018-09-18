@@ -26,7 +26,7 @@
     "sfomuseum:map_id":-1,
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":1,
-    "src:geom":"unknown",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1159396267,
         102527513,
@@ -61,7 +61,7 @@
     ],
     "wof:id":1175727175,
     "wof:label":"E-06 Kid's Spot (2017~)",
-    "wof:lastmodified":1537232300,
+    "wof:lastmodified":1537310495,
     "wof:name":"E-06 Kid's Spot",
     "wof:parent_id":1159396267,
     "wof:placetype":"enclosure",

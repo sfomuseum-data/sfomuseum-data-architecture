@@ -22,6 +22,7 @@
     "sfomuseum:map_id":"D08",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":0,
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":1360541555,
-    "wof:lastmodified":1537295181,
+    "wof:lastmodified":1537310497,
     "wof:name":"D-08 International Garage Passageway",
     "wof:parent_id":1159554829,
     "wof:placetype":"enclosure",

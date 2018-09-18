@@ -26,7 +26,7 @@
     "sfomuseum:map_id":"A07",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":0,
-    "src:geom":"mapzen",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1159157335,
         102527513,
@@ -62,7 +62,7 @@
     ],
     "wof:id":1159157041,
     "wof:label":"A-07 International Central Case (2017~)",
-    "wof:lastmodified":1537232307,
+    "wof:lastmodified":1537310500,
     "wof:name":"A-07 International Central Case",
     "wof:parent_id":1159157335,
     "wof:placetype":"enclosure",

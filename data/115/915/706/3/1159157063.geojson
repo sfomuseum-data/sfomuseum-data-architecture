@@ -26,7 +26,7 @@
     "sfomuseum:map_id":"E05",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":0,
-    "src:geom":"mapzen",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -61,7 +61,7 @@
     ],
     "wof:id":1159157063,
     "wof:label":"E-05 E Plaza Meet and Greet (2017~)",
-    "wof:lastmodified":1537232308,
+    "wof:lastmodified":1537310498,
     "wof:name":"E-05 E Plaza Meet and Greet",
     "wof:parent_id":1159157307,
     "wof:placetype":"enclosure",
