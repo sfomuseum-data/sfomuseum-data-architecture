@@ -6,6 +6,9 @@ x:
 metafiles:
 	utils/$(OS)/wof-build-metafiles -out meta .
 
+travel:
+	utils/$(OS)/wof-travel-id -source data -superseded-by $(ID)
+
 prune:
 	git gc --aggressive --prune
 
