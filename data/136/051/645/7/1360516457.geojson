@@ -2,11 +2,11 @@
   "id": 1360516457,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-01-01",
-    "date:cessation_upper":"2011-12-31",
+    "date:cessation_lower":"2011-12-01",
+    "date:cessation_upper":"2011-12-01",
     "date:inception_lower":"2011-01-01",
     "date:inception_upper":"2011-12-31",
-    "edtf:cessation":"2011~",
+    "edtf:cessation":"2011-12-01",
     "edtf:inception":"2011~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -39,6 +39,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:controlled":[
+        "edtf:cessation"
+    ],
     "wof:country":"US",
     "wof:geomhash":"976138a8c8164e94b2aa8641a839c32b",
     "wof:hierarchy":[
@@ -57,7 +60,7 @@
     ],
     "wof:id":1360516457,
     "wof:label":"D-06 Kids\u2019 Spot (2011~ - 2011~)",
-    "wof:lastmodified":1537232298,
+    "wof:lastmodified":1537550530,
     "wof:name":"D-06 Kids\u2019 Spot",
     "wof:parent_id":1159396109,
     "wof:placetype":"enclosure",

@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower":"1988-01-01",
     "date:cessation_upper":"1988-12-31",
-    "date:inception_lower":"1985-01-01",
-    "date:inception_upper":"1985-12-31",
+    "date:inception_lower":"1985-05-29",
+    "date:inception_upper":"1985-05-29",
     "edtf:cessation":"1988~",
-    "edtf:inception":"1985~",
+    "edtf:inception":"1985-05-29",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.386898,37.61903,-122.386898,37.61903",
@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:controlled":[
+        "edtf:inception",
         "wof:parent_id",
         "wof:hierarchy"
     ],
@@ -64,7 +65,7 @@
     ],
     "wof:id":1159157879,
     "wof:label":"E-02 Gate 62 Cultural Wall (1985~ - 1988~)",
-    "wof:lastmodified":1537232306,
+    "wof:lastmodified":1537549775,
     "wof:name":"E-02 Gate 62 Cultural Wall",
     "wof:parent_id":1159554819,
     "wof:placetype":"enclosure",

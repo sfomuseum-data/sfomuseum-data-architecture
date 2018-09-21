@@ -2,11 +2,11 @@
   "id": 1360516465,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-01-01",
-    "date:cessation_upper":"2013-12-31",
+    "date:cessation_lower":"2013-10-31",
+    "date:cessation_upper":"2013-10-31",
     "date:inception_lower":"2011-01-01",
     "date:inception_upper":"2011-12-31",
-    "edtf:cessation":"2013~",
+    "edtf:cessation":"2013-10-31",
     "edtf:inception":"2011~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -39,6 +39,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:controlled":[
+        "edtf:cessation"
+    ],
     "wof:country":"US",
     "wof:geomhash":"5a42f7502cd7a21d42ead6a8e0f04fcc",
     "wof:hierarchy":[
@@ -57,7 +60,7 @@
     ],
     "wof:id":1360516465,
     "wof:label":"C-01 Aquarium (2011~ - 2013~)",
-    "wof:lastmodified":1537232296,
+    "wof:lastmodified":1537550173,
     "wof:name":"C-01 Aquarium",
     "wof:parent_id":1159396163,
     "wof:placetype":"enclosure",

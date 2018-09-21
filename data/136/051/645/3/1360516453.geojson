@@ -2,11 +2,11 @@
   "id": 1360516453,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2001-01-01",
-    "date:cessation_upper":"2001-12-31",
+    "date:cessation_lower":"2001-11-26",
+    "date:cessation_upper":"2001-11-26",
     "date:inception_lower":"2000-01-01",
     "date:inception_upper":"2000-12-31",
-    "edtf:cessation":"2001~",
+    "edtf:cessation":"2001-11-26",
     "edtf:inception":"2000~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -39,6 +39,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:controlled":[
+        "edtf:cessation"
+    ],
     "wof:country":"US",
     "wof:geomhash":"5a42f7502cd7a21d42ead6a8e0f04fcc",
     "wof:hierarchy":[
@@ -57,7 +60,7 @@
     ],
     "wof:id":1360516453,
     "wof:label":"B-04 Entrance Lobby B (2000~ - 2001~)",
-    "wof:lastmodified":1537232298,
+    "wof:lastmodified":1537550624,
     "wof:name":"B-04 Entrance Lobby B",
     "wof:parent_id":1159396115,
     "wof:placetype":"enclosure",

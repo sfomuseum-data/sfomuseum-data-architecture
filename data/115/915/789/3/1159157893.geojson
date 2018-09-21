@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower":"2000-01-01",
     "date:cessation_upper":"2000-12-31",
-    "date:inception_lower":"1997-01-01",
-    "date:inception_upper":"1997-12-31",
+    "date:inception_lower":"1997-08-01",
+    "date:inception_upper":"1997-08-01",
     "edtf:cessation":"2000~",
-    "edtf:inception":"1997~",
+    "edtf:inception":"1997-08-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.38274,37.617227,-122.38274,37.617227",
@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:controlled":[
+        "edtf:inception",
         "wof:parent_id",
         "wof:hierarchy"
     ],
@@ -64,7 +65,7 @@
     ],
     "wof:id":1159157893,
     "wof:label":"D-06 Kids\u2019 Spot (1997~ - 2000~)",
-    "wof:lastmodified":1537232308,
+    "wof:lastmodified":1537550574,
     "wof:name":"D-06 Kids\u2019 Spot",
     "wof:parent_id":1159554829,
     "wof:placetype":"enclosure",

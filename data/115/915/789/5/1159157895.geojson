@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower":"2000-01-01",
     "date:cessation_upper":"2000-12-31",
-    "date:inception_lower":"1995-01-01",
-    "date:inception_upper":"1995-12-31",
+    "date:inception_lower":"1995-12-01",
+    "date:inception_upper":"1995-12-01",
     "edtf:cessation":"2000~",
-    "edtf:inception":"1995~",
+    "edtf:inception":"1995-12-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.385472,37.613926,-122.385472,37.613926",
@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:controlled":[
+        "edtf:inception",
         "wof:parent_id",
         "wof:hierarchy"
     ],
@@ -64,7 +65,7 @@
     ],
     "wof:id":1159157895,
     "wof:label":"B-01 Gate 20 (1995~ - 2000~)",
-    "wof:lastmodified":1537232308,
+    "wof:lastmodified":1537550475,
     "wof:name":"B-01 Gate 20",
     "wof:parent_id":1159554817,
     "wof:placetype":"enclosure",

@@ -2,11 +2,11 @@
   "id": 1360516495,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1998-01-01",
-    "date:cessation_upper":"1998-12-31",
+    "date:cessation_lower":"1998-02-01",
+    "date:cessation_upper":"1998-02-01",
     "date:inception_lower":"1988-01-01",
     "date:inception_upper":"1988-12-31",
-    "edtf:cessation":"1998~",
+    "edtf:cessation":"1998-02-01",
     "edtf:inception":"1988~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -39,6 +39,9 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:controlled":[
+        "edtf:cessation"
+    ],
     "wof:country":"US",
     "wof:geomhash":"976138a8c8164e94b2aa8641a839c32b",
     "wof:hierarchy":[
@@ -57,7 +60,7 @@
     ],
     "wof:id":1360516495,
     "wof:label":"D-11 Central Wall, Duty Free (1988~ - 1998~)",
-    "wof:lastmodified":1537232298,
+    "wof:lastmodified":1537551687,
     "wof:name":"D-11 Central Wall, Duty Free",
     "wof:parent_id":1159554829,
     "wof:placetype":"enclosure",

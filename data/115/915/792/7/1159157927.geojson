@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower":"1988-01-01",
     "date:cessation_upper":"1988-12-31",
-    "date:inception_lower":"1987-01-01",
-    "date:inception_upper":"1987-12-31",
+    "date:inception_lower":"1987-09-01",
+    "date:inception_upper":"1987-09-01",
     "edtf:cessation":"1988~",
-    "edtf:inception":"1987~",
+    "edtf:inception":"1987-09-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.386898,37.61903,-122.386898,37.61903",
@@ -42,6 +42,7 @@
     ],
     "wof:breaches":[],
     "wof:controlled":[
+        "edtf:inception",
         "wof:parent_id",
         "wof:hierarchy"
     ],
@@ -64,7 +65,7 @@
     ],
     "wof:id":1159157927,
     "wof:label":"F-08 Gate 81 (1987~ - 1988~)",
-    "wof:lastmodified":1537232310,
+    "wof:lastmodified":1537551534,
     "wof:name":"F-08 Gate 81",
     "wof:parent_id":1159554819,
     "wof:placetype":"enclosure",
