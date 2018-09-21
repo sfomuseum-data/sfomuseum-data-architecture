@@ -26,6 +26,7 @@
     ],
     "sfomuseum:gallery_id":46,
     "sfomuseum:is_sfo":1,
+    "sfomuseum:level":"D",
     "sfomuseum:map_id":"F07",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":1,
@@ -64,8 +65,8 @@
         }
     ],
     "wof:id":1159157921,
-    "wof:label":"F-07 Gate 74 (1987~ - 1988~)",
-    "wof:lastmodified":1537551420,
+    "wof:label":"F-07 Gate 74 (1987-05-01 - 1988~)",
+    "wof:lastmodified":1537552700,
     "wof:name":"F-07 Gate 74",
     "wof:parent_id":1159554819,
     "wof:placetype":"enclosure",

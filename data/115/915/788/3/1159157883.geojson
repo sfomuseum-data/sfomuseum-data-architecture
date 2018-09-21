@@ -4,8 +4,8 @@
   "properties": {
     "date:cessation_lower":"2000-01-01",
     "date:cessation_upper":"2000-12-31",
-    "date:inception_lower":"1990-01-01",
-    "date:inception_upper":"1990-12-31",
+    "date:inception_lower":"1990-09-01",
+    "date:inception_upper":"1990-09-01",
     "edtf:cessation":"2000~",
     "edtf:inception":"1990-09-01",
     "geom:area":0.0,
@@ -26,6 +26,8 @@
     ],
     "sfomuseum:gallery_id":34,
     "sfomuseum:is_sfo":1,
+    "sfomuseum:level":"D",
+    "sfomuseum:location":"T1",
     "sfomuseum:map_id":"A03",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":1,
@@ -42,7 +44,7 @@
     ],
     "wof:breaches":[],
     "wof:controlled":[
-	"edtf:inception",
+        "edtf:inception",
         "wof:parent_id",
         "wof:hierarchy"
     ],
@@ -64,8 +66,8 @@
         }
     ],
     "wof:id":1159157883,
-    "wof:label":"A-03 Entrance Lobby A (1990~ - 2000~)",
-    "wof:lastmodified":1537232308,
+    "wof:label":"A-03 Entrance Lobby A (1990-09-01 - 2000~)",
+    "wof:lastmodified":1537552700,
     "wof:name":"A-03 Entrance Lobby A",
     "wof:parent_id":1159554817,
     "wof:placetype":"enclosure",

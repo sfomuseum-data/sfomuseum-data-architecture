@@ -26,6 +26,7 @@
     ],
     "sfomuseum:gallery_id":5,
     "sfomuseum:is_sfo":1,
+    "sfomuseum:level":"D",
     "sfomuseum:map_id":"E02",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":1,
@@ -64,8 +65,8 @@
         }
     ],
     "wof:id":1159157879,
-    "wof:label":"E-02 Gate 62 Cultural Wall (1985~ - 1988~)",
-    "wof:lastmodified":1537549775,
+    "wof:label":"E-02 Gate 62 Cultural Wall (1985-05-29 - 1988~)",
+    "wof:lastmodified":1537552697,
     "wof:name":"E-02 Gate 62 Cultural Wall",
     "wof:parent_id":1159554819,
     "wof:placetype":"enclosure",

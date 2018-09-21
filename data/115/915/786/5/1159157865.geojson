@@ -26,6 +26,7 @@
     ],
     "sfomuseum:gallery_id":9,
     "sfomuseum:is_sfo":1,
+    "sfomuseum:level":"D",
     "sfomuseum:map_id":"D04",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":1,
@@ -64,8 +65,8 @@
         }
     ],
     "wof:id":1159157865,
-    "wof:label":"D-04 Central Gallery (1983~ - 1988~)",
-    "wof:lastmodified":1537549951,
+    "wof:label":"D-04 Central Gallery (1983-12-15 - 1988~)",
+    "wof:lastmodified":1537552697,
     "wof:name":"D-04 Central Gallery",
     "wof:parent_id":1159554827,
     "wof:placetype":"enclosure",

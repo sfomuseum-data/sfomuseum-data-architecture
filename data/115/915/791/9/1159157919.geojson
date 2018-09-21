@@ -26,6 +26,7 @@
     ],
     "sfomuseum:gallery_id":45,
     "sfomuseum:is_sfo":1,
+    "sfomuseum:level":"D",
     "sfomuseum:map_id":"F06",
     "sfomuseum:placetype":"gallery",
     "sfomuseum:post_security":1,
@@ -64,8 +65,8 @@
         }
     ],
     "wof:id":1159157919,
-    "wof:label":"F-06 Gate 72 (1987~ - 1988~)",
-    "wof:lastmodified":1537551309,
+    "wof:label":"F-06 Gate 72 (1987-05-01 - 1988~)",
+    "wof:lastmodified":1537552700,
     "wof:name":"F-06 Gate 72",
     "wof:parent_id":1159554819,
     "wof:placetype":"enclosure",
