@@ -31,15 +31,14 @@
     "sfomuseum:post_security":1,
     "src:geom":"sfomuseum",
     "wof:belongsto":[
-        1159396181,
-        1159157865,
+        1159554851,
         102527513,
         102191575,
         85633793,
         85922583,
         102087579,
-        1159157271,
-        1159157325,
+        1159554803,
+        1159554829,
         85688637
     ],
     "wof:breaches":[],
@@ -52,9 +51,9 @@
     "wof:geomhash":"65b6843f74416d44a5c338d7fa3e1c37",
     "wof:hierarchy":[
         {
-            "building_id":1159157271,
+            "building_id":1159554803,
             "campus_id":102527513,
-            "concourse_id":1159396181,
+            "concourse_id":1159554851,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
@@ -62,15 +61,14 @@
             "locality_id":85922583,
             "neighbourhood_id":-1,
             "region_id":85688637,
-            "venue_id":1159157865,
-            "wing_id":1159157325
+            "wing_id":1159554829
         }
     ],
     "wof:id":1159157885,
     "wof:label":"D-02 Central Fountain Gallery (1991-06-01 - 1997-04-10)",
-    "wof:lastmodified":1537490749,
+    "wof:lastmodified":1537994734,
     "wof:name":"D-02 Central Fountain Gallery",
-    "wof:parent_id":1159396181,
+    "wof:parent_id":1159554851,
     "wof:placetype":"enclosure",
     "wof:placetype_alt":"gallery",
     "wof:repo":"sfomuseum-data-architecture",
