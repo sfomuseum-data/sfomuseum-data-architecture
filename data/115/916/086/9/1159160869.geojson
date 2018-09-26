@@ -18,6 +18,7 @@
     "name:eng_x_variant":[
         "T0"
     ],
+    "sfomuseum:building_id":"SFO",
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"building",
     "sfomuseum:post_security":-1,
@@ -52,7 +53,7 @@
     ],
     "wof:id":1159160869,
     "wof:label":"Null Terminal (1980)",
-    "wof:lastmodified":1537310501,
+    "wof:lastmodified":1538006295,
     "wof:name":"Null Terminal",
     "wof:parent_id":102527513,
     "wof:placetype":"building",
