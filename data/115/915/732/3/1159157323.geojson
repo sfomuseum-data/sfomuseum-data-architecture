@@ -17,6 +17,7 @@
     "sfo:parts":[
         "5F5E1722-1667-4147-BA70-43048AE1A7A0"
     ],
+    "sfomuseum:boardingarea_id":"BOARDING AREA C",
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"boardingarea",
     "sfomuseum:post_security":-1,
@@ -54,7 +55,7 @@
     ],
     "wof:id":1159157323,
     "wof:label":"Boarding Area C (2017~)",
-    "wof:lastmodified":1537310500,
+    "wof:lastmodified":1538007283,
     "wof:name":"Boarding Area C",
     "wof:parent_id":1159157317,
     "wof:placetype":"concourse",
