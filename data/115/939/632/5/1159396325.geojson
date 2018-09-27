@@ -15,7 +15,7 @@
     "geom:longitude":-122.384349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
+    "mz:is_approximate":0,
     "mz:is_current":0,
     "sfomuseum:building_id":"SFO",
     "sfomuseum:is_sfo":1,
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1530907292,
-    "wof:geomhash":"eada610c8931740747692c658bf7db6a",
+    "wof:geomhash":"4359b6d95e211cd67e16284a2e117f80",
     "wof:hierarchy":[
         {
             "building_id":1159396325,
@@ -47,7 +47,7 @@
     ],
     "wof:id":1159396325,
     "wof:label":"SFO Terminal Complex (1963~ - 1974~)",
-    "wof:lastmodified":1538080210,
+    "wof:lastmodified":1538080896,
     "wof:name":"SFO Terminal Complex",
     "wof:parent_id":102527513,
     "wof:placetype":"building",
