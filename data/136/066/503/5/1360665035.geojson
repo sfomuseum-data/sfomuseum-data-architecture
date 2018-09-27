@@ -2,11 +2,11 @@
   "id": 1360665035,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1974-01-01",
-    "date:cessation_upper":"1974-12-31",
+    "date:cessation_lower":"1981-01-01",
+    "date:cessation_upper":"1981-12-31",
     "date:inception_lower":"1963-01-01",
     "date:inception_upper":"1963-12-31",
-    "edtf:cessation":"1974~",
+    "edtf:cessation":"1981~",
     "edtf:inception":"1963~",
     "geom:area":0.000003,
     "geom:area_square_m":27419.996565,
@@ -45,14 +45,14 @@
         }
     ],
     "wof:id":1360665035,
-    "wof:label":"Central Parking Garage (1963~ - 1974~)",
-    "wof:lastmodified":1538082189,
+    "wof:label":"Central Parking Garage (1963~ - 1981~)",
+    "wof:lastmodified":1538082771,
     "wof:name":"Central Parking Garage",
     "wof:parent_id":102527513,
     "wof:placetype":"building",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
-        1360665037
+        1360665043
     ],
     "wof:supersedes":[],
     "wof:tags":[]
