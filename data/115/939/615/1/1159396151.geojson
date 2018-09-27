@@ -20,6 +20,7 @@
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"terminal",
     "sfomuseum:post_security":1,
+    "sfomuseum:terminal_id":"T1",
     "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
@@ -49,7 +50,7 @@
     ],
     "wof:id":1159396151,
     "wof:label":"Terminal 1 (2014~ - 2017~)",
-    "wof:lastmodified":1537232302,
+    "wof:lastmodified":1538007065,
     "wof:name":"Terminal 1",
     "wof:parent_id":1159396321,
     "wof:placetype":"wing",

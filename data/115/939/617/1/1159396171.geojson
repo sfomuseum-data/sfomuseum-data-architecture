@@ -19,6 +19,7 @@
     "mz:is_current":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"terminal",
+    "sfomuseum:terminal_id":"CENTRAL",
     "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
@@ -48,7 +49,7 @@
     ],
     "wof:id":1159396171,
     "wof:label":"Central Terminal (1963~ - 1974~)",
-    "wof:lastmodified":1537232301,
+    "wof:lastmodified":1538007064,
     "wof:name":"Central Terminal",
     "wof:parent_id":1159396325,
     "wof:placetype":"wing",

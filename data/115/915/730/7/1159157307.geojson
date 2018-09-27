@@ -28,6 +28,7 @@
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"terminal",
     "sfomuseum:post_security":-1,
+    "sfomuseum:terminal_id":"T3",
     "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
@@ -60,7 +61,7 @@
     ],
     "wof:id":1159157307,
     "wof:label":"Terminal 3 (2017~)",
-    "wof:lastmodified":1537232309,
+    "wof:lastmodified":1538007067,
     "wof:name":"Terminal 3",
     "wof:parent_id":1159157271,
     "wof:placetype":"wing",
