@@ -15,6 +15,7 @@
     "geom:longitude":-122.391953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_approximate":0,
     "mz:is_current":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"building",
@@ -30,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1538086746,
-    "wof:geomhash":"6d9480594a5cdcbe47deb4567a0fea08",
+    "wof:geomhash":"7348adddc79024f01b2aee6e2c1b7831",
     "wof:hierarchy":[
         {
             "building_id":1360665047,
@@ -45,7 +46,7 @@
     ],
     "wof:id":1360665047,
     "wof:label":"SFO Terminal Building (1941~ - 1954~)",
-    "wof:lastmodified":1538086746,
+    "wof:lastmodified":1538095469,
     "wof:name":"SFO Terminal Building",
     "wof:parent_id":102527513,
     "wof:placetype":"building",
@@ -58,7 +59,7 @@
     -122.39226202916933,
     37.62440011956428,
     -122.39164476225079,
-    37.625061913401865
+    37.62506191340186
 ],
   "geometry": {"coordinates":[[[-122.39194323252792,37.62506191340186],[-122.39164476225079,37.62450898456487],[-122.39196355696591,37.62440011956428],[-122.39226202916933,37.62495304760517],[-122.39194323252792,37.62506191340186]]],"type":"Polygon"}
 }

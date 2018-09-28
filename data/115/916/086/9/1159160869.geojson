@@ -13,6 +13,7 @@
     "geom:longitude":-122.386155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_approximate":0,
     "mz:is_current":1,
     "name:eng_x_preferred":[],
     "name:eng_x_variant":[
@@ -53,7 +54,7 @@
     ],
     "wof:id":1159160869,
     "wof:label":"Null Terminal (1980)",
-    "wof:lastmodified":1538006295,
+    "wof:lastmodified":1538095474,
     "wof:name":"Null Terminal",
     "wof:parent_id":102527513,
     "wof:placetype":"building",
