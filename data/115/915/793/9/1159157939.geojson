@@ -29,7 +29,7 @@
     "sfomuseum:location":"IT",
     "sfomuseum:map_id":"G03",
     "sfomuseum:placetype":"gallery",
-    "sfomuseum:post_security":1,
+    "sfomuseum:post_security":0,
     "src:geom":"sfomuseum",
     "wof:belongsto":[
         1159157335,
