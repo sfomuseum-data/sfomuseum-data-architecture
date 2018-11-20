@@ -1,16 +1,23 @@
 {
   "stats": {
-    "building": 13, 
+    "boardingarea": 75, 
+    "building": 30, 
+    "commonarea": 4, 
     "concourse": 81, 
-    "count": 468, 
-    "enclosure": 215, 
+    "count": 471, 
+    "enclosure": 214, 
+    "gallery": 214, 
+    "garage": 2, 
+    "gate": 116, 
     "is_alt": 1, 
-    "is_ceased": 467, 
+    "is_ceased": 470, 
     "is_current": 168, 
-    "is_current_false": 299, 
+    "is_current_false": 302, 
     "is_superseded": 265, 
     "is_superseding": 265, 
+    "museum": 5, 
+    "terminal": 37, 
     "venue": 121, 
-    "wing": 37
+    "wing": 39
   }
 }
