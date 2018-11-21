@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.613507,
     "faa:longitude":-122.388489,
+    "flysfo:gate_code":"A3",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.388489472,37.6135071245,-122.388489472,37.6135071245",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157717,
-    "wof:lastmodified":1537310498,
+    "wof:lastmodified":1542767140,
     "wof:name":"A3",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",

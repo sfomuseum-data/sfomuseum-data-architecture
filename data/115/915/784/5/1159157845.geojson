@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.614714,
     "faa:longitude":-122.383024,
+    "flysfo:gate_code":"42A",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.383024052,37.6147138007,-122.383024052,37.6147138007",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157845,
-    "wof:lastmodified":1537310499,
+    "wof:lastmodified":1542767138,
     "wof:name":"C42A",
     "wof:parent_id":1159157323,
     "wof:placetype":"venue",

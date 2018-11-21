@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.615642,
     "faa:longitude":-122.383369,
+    "flysfo:gate_code":"41",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.383369484,37.6156421712,-122.383369484,37.6156421712",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157747,
-    "wof:lastmodified":1537310501,
+    "wof:lastmodified":1542767140,
     "wof:name":"C41",
     "wof:parent_id":1159157323,
     "wof:placetype":"venue",

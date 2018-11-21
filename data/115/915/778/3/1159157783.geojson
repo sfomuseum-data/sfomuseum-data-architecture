@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.617573,
     "faa:longitude":-122.388785,
+    "flysfo:gate_code":"75",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.388785432,37.6175732437,-122.388785432,37.6175732437",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157783,
-    "wof:lastmodified":1537310498,
+    "wof:lastmodified":1542767140,
     "wof:name":"F75",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",

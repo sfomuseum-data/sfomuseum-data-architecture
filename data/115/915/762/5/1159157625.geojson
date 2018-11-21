@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.613471,
     "faa:longitude":-122.385388,
+    "flysfo:gate_code":"22",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.385388494,37.6134710989,-122.385388494,37.6134710989",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157625,
-    "wof:lastmodified":1537310498,
+    "wof:lastmodified":1542767138,
     "wof:name":"B22",
     "wof:parent_id":1159396217,
     "wof:placetype":"venue",

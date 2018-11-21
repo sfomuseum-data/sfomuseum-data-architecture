@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.611286,
     "faa:longitude":-122.389728,
+    "flysfo:gate_code":"A11",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.389727866,37.6112858259,-122.389727866,37.6112858259",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157627,
-    "wof:lastmodified":1537310498,
+    "wof:lastmodified":1542767139,
     "wof:name":"A11",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",

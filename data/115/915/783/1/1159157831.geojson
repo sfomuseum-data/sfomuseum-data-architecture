@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.617557,
     "faa:longitude":-122.380502,
+    "flysfo:gate_code":"54B",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.380502457,37.617557193,-122.380502457,37.617557193",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157831,
-    "wof:lastmodified":1537310499,
+    "wof:lastmodified":1542767138,
     "wof:name":"D54B",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",

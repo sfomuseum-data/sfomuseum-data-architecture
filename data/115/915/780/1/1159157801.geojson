@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.618463,
     "faa:longitude":-122.381626,
+    "flysfo:gate_code":"57",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.381625683,37.6184634856,-122.381625683,37.6184634856",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157801,
-    "wof:lastmodified":1537310501,
+    "wof:lastmodified":1542767138,
     "wof:name":"D57",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",

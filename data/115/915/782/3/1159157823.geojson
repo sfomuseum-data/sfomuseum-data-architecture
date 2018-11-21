@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.611506,
     "faa:longitude":-122.390583,
+    "flysfo:gate_code":"A10",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.390582848,37.6115057549,-122.390582848,37.6115057549",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157823,
-    "wof:lastmodified":1537310499,
+    "wof:lastmodified":1542767139,
     "wof:name":"A10",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",

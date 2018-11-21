@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.614704,
     "faa:longitude":-122.383093,
+    "flysfo:gate_code":"42",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.383092735,37.6147042622,-122.383092735,37.6147042622",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157711,
-    "wof:lastmodified":1537310498,
+    "wof:lastmodified":1542767140,
     "wof:name":"C42",
     "wof:parent_id":1159157323,
     "wof:placetype":"venue",

@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.617245,
     "faa:longitude":-122.390776,
+    "flysfo:gate_code":"G91",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.390775794,37.617245463,-122.390775794,37.617245463",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157623,
-    "wof:lastmodified":1537310498,
+    "wof:lastmodified":1542767139,
     "wof:name":"G91",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",

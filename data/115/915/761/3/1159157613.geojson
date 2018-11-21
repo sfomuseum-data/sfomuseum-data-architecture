@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.6142,
     "faa:longitude":-122.387478,
+    "flysfo:gate_code":"A1",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.387477947,37.6142003476,-122.387477947,37.6142003476",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157613,
-    "wof:lastmodified":1537310500,
+    "wof:lastmodified":1542767140,
     "wof:name":"A1",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",

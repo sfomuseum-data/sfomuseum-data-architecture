@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.612186,
     "faa:longitude":-122.386442,
+    "flysfo:gate_code":"26",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.386441605,37.6121863286,-122.386441605,37.6121863286",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157809,
-    "wof:lastmodified":1537310501,
+    "wof:lastmodified":1542767137,
     "wof:name":"B26",
     "wof:parent_id":1159396217,
     "wof:placetype":"venue",

@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.611985,
     "faa:longitude":-122.386269,
+    "flysfo:gate_code":"27",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.386268502,37.611985489,-122.386268502,37.611985489",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157811,
-    "wof:lastmodified":1537310501,
+    "wof:lastmodified":1542767138,
     "wof:name":"B27",
     "wof:parent_id":1159396217,
     "wof:placetype":"venue",

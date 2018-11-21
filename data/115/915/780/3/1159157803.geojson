@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.615424,
     "faa:longitude":-122.382829,
+    "flysfo:gate_code":"43",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.382829094,37.6154242604,-122.382829094,37.6154242604",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157803,
-    "wof:lastmodified":1537310501,
+    "wof:lastmodified":1542767140,
     "wof:name":"C43",
     "wof:parent_id":1159157323,
     "wof:placetype":"venue",

@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.614561,
     "faa:longitude":-122.382043,
+    "flysfo:gate_code":"48",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.382042968,37.6145610825,-122.382042968,37.6145610825",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157743,
-    "wof:lastmodified":1537310501,
+    "wof:lastmodified":1542767139,
     "wof:name":"C48",
     "wof:parent_id":1159157323,
     "wof:placetype":"venue",

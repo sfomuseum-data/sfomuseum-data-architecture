@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.616741,
     "faa:longitude":-122.382573,
+    "flysfo:gate_code":"50A",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.382573177,37.6167410295,-122.382573177,37.6167410295",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157701,
-    "wof:lastmodified":1537310499,
+    "wof:lastmodified":1542767139,
     "wof:name":"D50A",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",

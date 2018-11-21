@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.618113,
     "faa:longitude":-122.391195,
+    "flysfo:gate_code":"G96",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.391195473,37.6181133402,-122.391195473,37.6181133402",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157657,
-    "wof:lastmodified":1537310498,
+    "wof:lastmodified":1542767140,
     "wof:name":"G96",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",

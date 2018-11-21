@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.612976,
     "faa:longitude":-122.385445,
+    "flysfo:gate_code":"23",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.385445087,37.6129756888,-122.385445087,37.6129756888",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157813,
-    "wof:lastmodified":1537310501,
+    "wof:lastmodified":1542767138,
     "wof:name":"B23",
     "wof:parent_id":1159396217,
     "wof:placetype":"venue",

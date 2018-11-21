@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.620782,
     "faa:longitude":-122.386513,
+    "flysfo:gate_code":"77C",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.386512863,37.6207819857,-122.386512863,37.6207819857",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157739,
-    "wof:lastmodified":1537310501,
+    "wof:lastmodified":1542767140,
     "wof:name":"F77C",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",

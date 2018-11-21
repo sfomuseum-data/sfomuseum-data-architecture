@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.619029,
     "faa:longitude":-122.393377,
+    "flysfo:gate_code":"G102",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.393376684,37.6190288072,-122.393376684,37.6190288072",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157677,
-    "wof:lastmodified":1537310499,
+    "wof:lastmodified":1542767139,
     "wof:name":"G102",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",

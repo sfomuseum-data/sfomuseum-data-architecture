@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.621611,
     "faa:longitude":-122.388941,
+    "flysfo:gate_code":"84B",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.388941135,37.6216114185,-122.388941135,37.6216114185",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157689,
-    "wof:lastmodified":1537310500,
+    "wof:lastmodified":1542767138,
     "wof:name":"F84B",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",

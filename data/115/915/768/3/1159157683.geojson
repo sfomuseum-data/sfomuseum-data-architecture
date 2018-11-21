@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.618206,
     "faa:longitude":-122.3931,
+    "flysfo:gate_code":"G97",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.393100073,37.6182060523,-122.393100073,37.6182060523",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157683,
-    "wof:lastmodified":1537310500,
+    "wof:lastmodified":1542767138,
     "wof:name":"G97",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",

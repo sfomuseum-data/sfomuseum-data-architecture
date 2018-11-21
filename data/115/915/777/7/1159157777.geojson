@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.61781,
     "faa:longitude":-122.390468,
+    "flysfo:gate_code":"G94",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.390468203,37.6178101244,-122.390468203,37.6178101244",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157777,
-    "wof:lastmodified":1537310499,
+    "wof:lastmodified":1542767138,
     "wof:name":"G94",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",

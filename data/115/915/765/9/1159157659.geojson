@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.618126,
     "faa:longitude":-122.387946,
+    "flysfo:gate_code":"73",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.387945546,37.6181261672,-122.387945546,37.6181261672",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157659,
-    "wof:lastmodified":1537310498,
+    "wof:lastmodified":1542767140,
     "wof:name":"F73",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",

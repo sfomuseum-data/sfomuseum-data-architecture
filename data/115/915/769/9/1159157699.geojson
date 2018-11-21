@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.61923,
     "faa:longitude":-122.384778,
+    "flysfo:gate_code":"68",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.384777574,37.6192302672,-122.384777574,37.6192302672",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157699,
-    "wof:lastmodified":1537310500,
+    "wof:lastmodified":1542767139,
     "wof:name":"E68",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",

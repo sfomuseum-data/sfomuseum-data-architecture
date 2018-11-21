@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.620975,
     "faa:longitude":-122.387106,
+    "flysfo:gate_code":"79",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.387106122,37.620975374,-122.387106122,37.620975374",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157645,
-    "wof:lastmodified":1537310498,
+    "wof:lastmodified":1542767140,
     "wof:name":"F79",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",

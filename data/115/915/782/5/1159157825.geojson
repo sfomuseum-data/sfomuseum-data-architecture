@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.618465,
     "faa:longitude":-122.387515,
+    "flysfo:gate_code":"72",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.387515006,37.6184652246,-122.387515006,37.6184652246",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157825,
-    "wof:lastmodified":1537310499,
+    "wof:lastmodified":1542767140,
     "wof:name":"F72",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",

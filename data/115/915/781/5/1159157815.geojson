@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.618328,
     "faa:longitude":-122.393688,
+    "flysfo:gate_code":"G99",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.39368811,37.6183284852,-122.39368811,37.6183284852",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157815,
-    "wof:lastmodified":1537310501,
+    "wof:lastmodified":1542767140,
     "wof:name":"G99",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",

@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.619557,
     "faa:longitude":-122.383709,
+    "flysfo:gate_code":"64",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.383709447,37.6195572096,-122.383709447,37.6195572096",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157785,
-    "wof:lastmodified":1537310498,
+    "wof:lastmodified":1542767139,
     "wof:name":"E64",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",

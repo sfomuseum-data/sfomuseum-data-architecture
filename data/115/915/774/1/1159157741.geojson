@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.621022,
     "faa:longitude":-122.390507,
+    "flysfo:gate_code":"90",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.390507183,37.621021745,-122.390507183,37.621021745",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157741,
-    "wof:lastmodified":1537310501,
+    "wof:lastmodified":1542767139,
     "wof:name":"F90",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",

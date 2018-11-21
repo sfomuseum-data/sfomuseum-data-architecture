@@ -8,6 +8,7 @@
     "edtf:inception":"2017~",
     "faa:latitude":37.619874,
     "faa:longitude":-122.388181,
+    "flysfo:gate_code":"81",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.388180757,37.6198735765,-122.388180757,37.6198735765",
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":1159157757,
-    "wof:lastmodified":1537310500,
+    "wof:lastmodified":1542767138,
     "wof:name":"F81",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
