@@ -49,11 +49,13 @@
     ],
     "wof:id":1159396171,
     "wof:label":"Central Terminal (1963~ - 1974~)",
-    "wof:lastmodified":1538095469,
+    "wof:lastmodified":1547232160,
     "wof:name":"Central Terminal",
     "wof:parent_id":1159396325,
     "wof:placetype":"wing",
-    "wof:placetype_alt":"terminal",
+    "wof:placetype_alt":[
+        "terminal"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         "1159396165"

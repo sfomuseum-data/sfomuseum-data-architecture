@@ -66,11 +66,13 @@
     ],
     "wof:id":1159157885,
     "wof:label":"D-02 Central Fountain Gallery (1991-06-01 - 1997-04-10)",
-    "wof:lastmodified":1537994734,
+    "wof:lastmodified":1547232172,
     "wof:name":"D-02 Central Fountain Gallery",
     "wof:parent_id":1159554851,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

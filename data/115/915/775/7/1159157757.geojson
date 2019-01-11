@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881139,
-    "wof:geomhash":"11927a08f01bd10ac313a71c3e5781c1",
+    "wof:geomhash":"205001e63c7a41da1676db4233466ff2",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157757,
-    "wof:lastmodified":1547231300,
+    "wof:lastmodified":1547232172,
     "wof:name":"F81",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38824019399999,
-    37.620058061000066,
+    37.62005806100007,
     -122.38824019399999,
-    37.620058061000066
+    37.62005806100007
 ],
   "geometry": {"coordinates":[-122.38824019399999,37.62005806100007],"type":"Point"}
 }

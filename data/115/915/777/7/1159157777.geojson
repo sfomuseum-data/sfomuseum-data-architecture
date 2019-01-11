@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881142,
-    "wof:geomhash":"5ca6705e88c695b518f4ea18a74c8832",
+    "wof:geomhash":"8db597c1a445fad5c19be68ca77b3c38",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157777,
-    "wof:lastmodified":1547231301,
+    "wof:lastmodified":1547232169,
     "wof:name":"G94",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.39024693399995,
-    37.617614839000055,
+    37.61761483900005,
     -122.39024693399995,
-    37.617614839000055
+    37.61761483900005
 ],
   "geometry": {"coordinates":[-122.39024693399995,37.61761483900005],"type":"Point"}
 }

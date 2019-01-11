@@ -67,11 +67,13 @@
     ],
     "wof:id":1159157939,
     "wof:label":"G-03 Video Arts Gallery (1987-07-01)",
-    "wof:lastmodified":1537490749,
+    "wof:lastmodified":1547232170,
     "wof:name":"G-03 Video Arts Gallery",
     "wof:parent_id":1159157335,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

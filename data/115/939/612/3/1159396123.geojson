@@ -9,7 +9,7 @@
     "edtf:cessation":"2006~",
     "edtf:inception":"2000~",
     "geom:area":0.000005,
-    "geom:area_square_m":51012.799214,
+    "geom:area_square_m":51012.799216,
     "geom:bbox":"-122.390334636,37.6168915467,-122.383839351,37.6212097859",
     "geom:latitude":37.61903,
     "geom:longitude":-122.386898,
@@ -49,11 +49,13 @@
     ],
     "wof:id":1159396123,
     "wof:label":"Terminal 3 (2000~ - 2006~)",
-    "wof:lastmodified":1538095472,
+    "wof:lastmodified":1547232164,
     "wof:name":"Terminal 3",
     "wof:parent_id":1159396319,
     "wof:placetype":"wing",
-    "wof:placetype_alt":"terminal",
+    "wof:placetype_alt":[
+        "terminal"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159396167

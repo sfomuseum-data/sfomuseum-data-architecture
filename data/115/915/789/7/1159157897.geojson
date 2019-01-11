@@ -65,11 +65,13 @@
     ],
     "wof:id":1159157897,
     "wof:label":"E-03 Entrance Lobby E (1998-10-16 - 1999-01-29)",
-    "wof:lastmodified":1537490749,
+    "wof:lastmodified":1547232173,
     "wof:name":"E-03 Entrance Lobby E",
     "wof:parent_id":1159554821,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

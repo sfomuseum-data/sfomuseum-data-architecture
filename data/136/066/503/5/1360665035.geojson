@@ -47,10 +47,13 @@
     ],
     "wof:id":1360665035,
     "wof:label":"Central Parking Garage (1963~ - 1981~)",
-    "wof:lastmodified":1538088538,
+    "wof:lastmodified":1547232156,
     "wof:name":"Central Parking Garage",
     "wof:parent_id":-1,
     "wof:placetype":"wing",
+    "wof:placetype_alt":[
+        "garage"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360665043

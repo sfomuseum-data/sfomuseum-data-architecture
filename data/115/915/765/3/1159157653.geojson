@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881127,
-    "wof:geomhash":"4994fc546a454db748f90ae6d02300f1",
+    "wof:geomhash":"e76c9d1052c7d33e9ad1e4aeb61671ea",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157653,
-    "wof:lastmodified":1547231299,
+    "wof:lastmodified":1547232168,
     "wof:name":"E65",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38402780499996,
-    37.619424597000034,
+    37.61942459700003,
     -122.38402780499996,
-    37.619424597000034
+    37.61942459700003
 ],
   "geometry": {"coordinates":[-122.38402780499996,37.61942459700003],"type":"Point"}
 }

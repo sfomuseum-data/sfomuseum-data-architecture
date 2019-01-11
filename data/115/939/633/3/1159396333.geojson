@@ -9,7 +9,7 @@
     "edtf:cessation":"2014~",
     "edtf:inception":"2011~",
     "geom:area":0.000028,
-    "geom:area_square_m":273479.756139,
+    "geom:area_square_m":273479.756138,
     "geom:bbox":"-122.393511776,37.6114207883,-122.380982456,37.6212097859",
     "geom:latitude":37.616438,
     "geom:longitude":-122.387266,
@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1530907294,
-    "wof:geomhash":"305799668fe696e9ade7900d6efa4eea",
+    "wof:geomhash":"f3622066b2cfca32d672b267b8f15bb0",
     "wof:hierarchy":[
         {
             "building_id":1159396333,
@@ -47,7 +47,7 @@
     ],
     "wof:id":1159396333,
     "wof:label":"SFO Terminal Complex (2011~ - 2014~)",
-    "wof:lastmodified":1538523432,
+    "wof:lastmodified":1547232162,
     "wof:name":"SFO Terminal Complex",
     "wof:parent_id":102527513,
     "wof:placetype":"building",

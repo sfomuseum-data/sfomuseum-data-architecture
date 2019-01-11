@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881144,
-    "wof:geomhash":"a359d7ac304a5a080825d9402a9cbf1c",
+    "wof:geomhash":"03f7f12fea198585601a310ad902127f",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157795,
-    "wof:lastmodified":1547231301,
+    "wof:lastmodified":1547232170,
     "wof:name":"D56B",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38125792599999,
-    37.618139093000025,
+    37.61813909300002,
     -122.38125792599999,
-    37.618139093000025
+    37.61813909300002
 ],
   "geometry": {"coordinates":[-122.38125792599999,37.61813909300002],"type":"Point"}
 }

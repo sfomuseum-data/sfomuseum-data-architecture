@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881137,
-    "wof:geomhash":"e284ddbb4433fafe3f00f786e049c86c",
+    "wof:geomhash":"43c5612c80b2189978038f468d2105b1",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157741,
-    "wof:lastmodified":1547231300,
+    "wof:lastmodified":1547232173,
     "wof:name":"F90",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.39023947799996,
-    37.621076146000064,
+    37.62107614600006,
     -122.39023947799996,
-    37.621076146000064
+    37.62107614600006
 ],
   "geometry": {"coordinates":[-122.39023947799996,37.62107614600006],"type":"Point"}
 }

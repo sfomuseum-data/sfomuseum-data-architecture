@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881136,
-    "wof:geomhash":"e9ee9d1d4e18595b123a816ad33f36f5",
+    "wof:geomhash":"ddc33c0fe9f21b548006696594380efa",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157733,
-    "wof:lastmodified":1547231300,
+    "wof:lastmodified":1547232172,
     "wof:name":"E67",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38440387399999,
-    37.619451249000065,
+    37.61945124900006,
     -122.38440387399999,
-    37.619451249000065
+    37.61945124900006
 ],
   "geometry": {"coordinates":[-122.38440387399999,37.61945124900006],"type":"Point"}
 }

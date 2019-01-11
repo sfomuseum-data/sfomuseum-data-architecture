@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881128,
-    "wof:geomhash":"bc2b381e019707be6a226e9e25d6081b",
+    "wof:geomhash":"046a3b7e3e03adf3f1e32877463f75e3",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157659,
-    "wof:lastmodified":1547231299,
+    "wof:lastmodified":1547232168,
     "wof:name":"F73",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38768977299998,
-    37.618101995000075,
+    37.61810199500007,
     -122.38768977299998,
-    37.618101995000075
+    37.61810199500007
 ],
   "geometry": {"coordinates":[-122.38768977299998,37.61810199500007],"type":"Point"}
 }

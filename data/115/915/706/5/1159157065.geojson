@@ -63,11 +63,13 @@
     ],
     "wof:id":1159157065,
     "wof:label":"D-01 Central North Connector (2017~)",
-    "wof:lastmodified":1537552697,
+    "wof:lastmodified":1547232168,
     "wof:name":"D-01 Central North Connector",
     "wof:parent_id":1159396121,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

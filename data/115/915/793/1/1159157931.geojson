@@ -66,11 +66,13 @@
     ],
     "wof:id":1159157931,
     "wof:label":"B-05 Boarding Lobby (2003-09-24 - 2006-01-01)",
-    "wof:lastmodified":1537995235,
+    "wof:lastmodified":1547232170,
     "wof:name":"B-05 Boarding Lobby",
     "wof:parent_id":-1,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

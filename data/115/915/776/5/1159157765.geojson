@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881140,
-    "wof:geomhash":"1341555c69b6fc87c5cb7f603c088823",
+    "wof:geomhash":"e48846797c3547c98cf21159e1e56dee",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157765,
-    "wof:lastmodified":1547231301,
+    "wof:lastmodified":1547232169,
     "wof:name":"E60",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38473489799998,
-    37.618161360000045,
+    37.61816136000004,
     -122.38473489799998,
-    37.618161360000045
+    37.61816136000004
 ],
   "geometry": {"coordinates":[-122.38473489799998,37.61816136000004],"type":"Point"}
 }

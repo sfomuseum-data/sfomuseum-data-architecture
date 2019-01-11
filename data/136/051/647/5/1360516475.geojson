@@ -59,11 +59,13 @@
     ],
     "wof:id":1360516475,
     "wof:label":"D-04 Central Gallery (2011~)",
-    "wof:lastmodified":1537552697,
+    "wof:lastmodified":1547232159,
     "wof:name":"D-04 Central Gallery",
     "wof:parent_id":1159396109,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

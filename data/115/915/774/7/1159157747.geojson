@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881138,
-    "wof:geomhash":"c154aa3a749d1d550dbd3a2d5758b126",
+    "wof:geomhash":"901a594ac71f5515ce9bd03cc093bb30",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157747,
-    "wof:lastmodified":1547231300,
+    "wof:lastmodified":1547232173,
     "wof:name":"C41",
     "wof:parent_id":1159157323,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38342558199997,
-    37.615398232000075,
+    37.61539823200008,
     -122.38342558199997,
-    37.615398232000075
+    37.61539823200008
 ],
   "geometry": {"coordinates":[-122.38342558199997,37.61539823200008],"type":"Point"}
 }

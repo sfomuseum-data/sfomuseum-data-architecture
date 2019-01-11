@@ -66,11 +66,13 @@
     ],
     "wof:id":1159157927,
     "wof:label":"F-08 Gate 81 (1987-09-01 - 1988~)",
-    "wof:lastmodified":1537552700,
+    "wof:lastmodified":1547232171,
     "wof:name":"F-08 Gate 81",
     "wof:parent_id":1159554819,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516487

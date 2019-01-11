@@ -7,7 +7,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"1981~",
     "geom:area":0.000007,
-    "geom:area_square_m":64406.857834,
+    "geom:area_square_m":64406.857833,
     "geom:bbox":"-122.387790937,37.6149859921,-122.384291922,37.617673316",
     "geom:latitude":37.616332,
     "geom:longitude":-122.386047,
@@ -45,10 +45,13 @@
     ],
     "wof:id":1360665043,
     "wof:label":"Central Parking Garage (1981~)",
-    "wof:lastmodified":1538088624,
+    "wof:lastmodified":1547232156,
     "wof:name":"Central Parking Garage",
     "wof:parent_id":-1,
     "wof:placetype":"wing",
+    "wof:placetype_alt":[
+        "garage"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

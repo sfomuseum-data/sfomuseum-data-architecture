@@ -64,11 +64,13 @@
     ],
     "wof:id":1159157077,
     "wof:label":"B-03 Gate 36 (2017~)",
-    "wof:lastmodified":1537552698,
+    "wof:lastmodified":1547232169,
     "wof:name":"B-03 Gate 36",
     "wof:parent_id":1159396217,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

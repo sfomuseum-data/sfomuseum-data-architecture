@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881127,
-    "wof:geomhash":"d033684393cf743adcf18c5603da344d",
+    "wof:geomhash":"1614e7fd6c1b7b9731ffa87a9e1e54c6",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157649,
-    "wof:lastmodified":1547231299,
+    "wof:lastmodified":1547232167,
     "wof:name":"D53",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38096854899999,
-    37.616838259000076,
+    37.61683825900008,
     -122.38096854899999,
-    37.616838259000076
+    37.61683825900008
 ],
   "geometry": {"coordinates":[-122.38096854899999,37.61683825900008],"type":"Point"}
 }

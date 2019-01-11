@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881148,
-    "wof:geomhash":"60df7cb1f7f618497808de11f27d51bc",
+    "wof:geomhash":"6e0e39bd128b578fd7deccfa6f9c63b3",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157825,
-    "wof:lastmodified":1547231301,
+    "wof:lastmodified":1547232169,
     "wof:name":"F72",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38721879299999,
-    37.618338668000035,
+    37.61833866800004,
     -122.38721879299999,
-    37.618338668000035
+    37.61833866800004
 ],
   "geometry": {"coordinates":[-122.38721879299999,37.61833866800004],"type":"Point"}
 }

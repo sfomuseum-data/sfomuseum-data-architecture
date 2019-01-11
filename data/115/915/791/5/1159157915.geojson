@@ -66,11 +66,13 @@
     ],
     "wof:id":1159157915,
     "wof:label":"D-10 Central Cases (Currency Exchange) (1987-09-01 - 1988~)",
-    "wof:lastmodified":1537552700,
+    "wof:lastmodified":1547232168,
     "wof:name":"D-10 Central Cases (Currency Exchange)",
     "wof:parent_id":1159554827,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516497

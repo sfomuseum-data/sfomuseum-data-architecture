@@ -52,11 +52,13 @@
     ],
     "wof:id":1159396261,
     "wof:label":"Boarding Area D (2011~ - 2014~)",
-    "wof:lastmodified":1538096154,
+    "wof:lastmodified":1547232161,
     "wof:name":"Boarding Area D",
     "wof:parent_id":1159396109,
     "wof:placetype":"concourse",
-    "wof:placetype_alt":"boardingarea",
+    "wof:placetype_alt":[
+        "boardingarea"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159396193

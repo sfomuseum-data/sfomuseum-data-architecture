@@ -53,11 +53,13 @@
         }
     ],
     "wof:id":1360541553,
-    "wof:lastmodified":1537310497,
+    "wof:lastmodified":1547232155,
     "wof:name":"E-01 Children\u2019s Art Gallery #2",
     "wof:parent_id":1159554853,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

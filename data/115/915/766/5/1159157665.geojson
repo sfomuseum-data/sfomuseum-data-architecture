@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881128,
-    "wof:geomhash":"b556e8aeb6d68ac01836a51a640635f1",
+    "wof:geomhash":"fb44d119b1f7b43fe76e708ebc54db8a",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157665,
-    "wof:lastmodified":1547231299,
+    "wof:lastmodified":1547232172,
     "wof:name":"F89",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.39027176199994,
-    37.620929054000044,
+    37.62092905400004,
     -122.39027176199994,
-    37.620929054000044
+    37.62092905400004
 ],
   "geometry": {"coordinates":[-122.39027176199994,37.62092905400004],"type":"Point"}
 }

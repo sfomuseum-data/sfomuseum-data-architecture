@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157647,
-    "wof:lastmodified":1547231299,
+    "wof:lastmodified":1547232167,
     "wof:name":"E63",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

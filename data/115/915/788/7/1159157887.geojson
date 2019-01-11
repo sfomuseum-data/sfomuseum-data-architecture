@@ -65,11 +65,13 @@
     ],
     "wof:id":1159157887,
     "wof:label":"D-07 International Customs Area (1992-05-01 - 1998-06-02)",
-    "wof:lastmodified":1537490749,
+    "wof:lastmodified":1547232172,
     "wof:name":"D-07 International Customs Area",
     "wof:parent_id":1159554829,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

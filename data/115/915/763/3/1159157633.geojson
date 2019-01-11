@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881125,
-    "wof:geomhash":"95ae72a65a9caee51bdb0d493d98e709",
+    "wof:geomhash":"fb1d068e0d84200aaaf7f58bab30876a",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157633,
-    "wof:lastmodified":1547231299,
+    "wof:lastmodified":1547232167,
     "wof:name":"A9",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38991190399997,
-    37.611564893000036,
+    37.61156489300004,
     -122.38991190399997,
-    37.611564893000036
+    37.61156489300004
 ],
   "geometry": {"coordinates":[-122.38991190399997,37.61156489300004],"type":"Point"}
 }

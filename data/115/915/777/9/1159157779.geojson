@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881142,
-    "wof:geomhash":"9edb445ee338e4b1c10389a3f73a1f7e",
+    "wof:geomhash":"a80af21265e642692d04b5870f51d58b",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157779,
-    "wof:lastmodified":1547231301,
+    "wof:lastmodified":1547232169,
     "wof:name":"G92",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.389476592,
-    37.617321023000045,
+    37.61732102300004,
     -122.389476592,
-    37.617321023000045
+    37.61732102300004
 ],
   "geometry": {"coordinates":[-122.38947659199999,37.61732102300004],"type":"Point"}
 }

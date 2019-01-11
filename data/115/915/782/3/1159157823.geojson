@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157823,
-    "wof:lastmodified":1547231301,
+    "wof:lastmodified":1547232169,
     "wof:name":"A10",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

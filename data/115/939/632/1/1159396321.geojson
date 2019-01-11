@@ -32,7 +32,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1530907290,
-    "wof:geomhash":"7309dfa9aaa86017f5f9b42cb5133ef9",
+    "wof:geomhash":"0b545657268c1462eb97bea45a6c1934",
     "wof:hierarchy":[
         {
             "building_id":1159396321,
@@ -47,7 +47,7 @@
     ],
     "wof:id":1159396321,
     "wof:label":"SFO Terminal Complex (2014~ - 2017~)",
-    "wof:lastmodified":1538523423,
+    "wof:lastmodified":1547232163,
     "wof:name":"SFO Terminal Complex",
     "wof:parent_id":102527513,
     "wof:placetype":"building",

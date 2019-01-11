@@ -57,11 +57,13 @@
     ],
     "wof:id":1159157309,
     "wof:label":"Terminal 3 Main Hall (2017~)",
-    "wof:lastmodified":1537310498,
+    "wof:lastmodified":1547232168,
     "wof:name":"Terminal 3 Main Hall",
     "wof:parent_id":1159157307,
     "wof:placetype":"concourse",
-    "wof:placetype_alt":"commonarea",
+    "wof:placetype_alt":[
+        "commonarea"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

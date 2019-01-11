@@ -62,11 +62,13 @@
     ],
     "wof:id":1360516117,
     "wof:label":"E-06 Kid\u2019s Spot Boarding Area E (2014~ - 2017~)",
-    "wof:lastmodified":1537552701,
+    "wof:lastmodified":1547232158,
     "wof:name":"E-06 Kid\u2019s Spot Boarding Area E",
     "wof:parent_id":1159157315,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1175727175

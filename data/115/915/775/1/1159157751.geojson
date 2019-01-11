@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881138,
-    "wof:geomhash":"8618467b857a6d100cf8a5db0a255896",
+    "wof:geomhash":"db628a826191456d8b2ab9bc10895fda",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157751,
-    "wof:lastmodified":1547231300,
+    "wof:lastmodified":1547232172,
     "wof:name":"F88",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.39013062199996,
-    37.621173304000024,
+    37.62117330400002,
     -122.39013062199996,
-    37.621173304000024
+    37.62117330400002
 ],
   "geometry": {"coordinates":[-122.39013062199996,37.62117330400002],"type":"Point"}
 }

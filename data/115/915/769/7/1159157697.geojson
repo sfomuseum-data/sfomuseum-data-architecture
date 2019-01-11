@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881132,
-    "wof:geomhash":"83c0429f42c28f52711dba0b7c46b116",
+    "wof:geomhash":"707a86fde7408863248ef03429b37a77",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157697,
-    "wof:lastmodified":1547231300,
+    "wof:lastmodified":1547232171,
     "wof:name":"F74",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38801945499995,
-    37.617834671000026,
+    37.61783467100003,
     -122.38801945499995,
-    37.617834671000026
+    37.61783467100003
 ],
   "geometry": {"coordinates":[-122.38801945499995,37.61783467100003],"type":"Point"}
 }

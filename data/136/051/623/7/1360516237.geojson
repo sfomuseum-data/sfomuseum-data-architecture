@@ -60,11 +60,13 @@
     ],
     "wof:id":1360516237,
     "wof:label":"C-05 Terminal One Lower Gallery (1988~ - 2000~)",
-    "wof:lastmodified":1537552700,
+    "wof:lastmodified":1547232159,
     "wof:name":"C-05 Terminal One Lower Gallery",
     "wof:parent_id":1159554817,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516235

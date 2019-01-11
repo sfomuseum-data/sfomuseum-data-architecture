@@ -60,11 +60,13 @@
     ],
     "wof:id":1360516215,
     "wof:label":"C-04 Entrance Lobby C Meet and Greet (1996~ - 2000~)",
-    "wof:lastmodified":1537552701,
+    "wof:lastmodified":1547232157,
     "wof:name":"C-04 Entrance Lobby C Meet and Greet",
     "wof:parent_id":1159554817,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516213

@@ -9,7 +9,7 @@
     "edtf:cessation":"2000~",
     "edtf:inception":"1988~",
     "geom:area":0.000002,
-    "geom:area_square_m":19880.593453,
+    "geom:area_square_m":19880.593455,
     "geom:bbox":"-122.383674563,37.6164403825,-122.380803873,37.6183080971",
     "geom:latitude":37.617352,
     "geom:longitude":-122.382151,
@@ -52,11 +52,13 @@
     ],
     "wof:id":1159554851,
     "wof:label":"Boarding Area D (1988~ - 2000~)",
-    "wof:lastmodified":1538096156,
+    "wof:lastmodified":1547232165,
     "wof:name":"Boarding Area D",
     "wof:parent_id":1159554829,
     "wof:placetype":"concourse",
-    "wof:placetype_alt":"boardingarea",
+    "wof:placetype_alt":[
+        "boardingarea"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159396261

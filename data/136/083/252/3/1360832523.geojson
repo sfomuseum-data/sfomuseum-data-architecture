@@ -35,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1547231953,
-    "wof:geomhash":"b1eb5298d9722146fd39fa625698ef1c",
+    "wof:geomhash":"add3750f51d239c7e644bc54cae1b776",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -52,7 +52,7 @@
         }
     ],
     "wof:id":1360832523,
-    "wof:lastmodified":1547231953,
+    "wof:lastmodified":1547232153,
     "wof:name":"F77",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
@@ -66,9 +66,9 @@
 },
   "bbox": [
     -122.38689670099996,
-    37.620612685000026,
+    37.62061268500003,
     -122.38689670099996,
-    37.620612685000026
+    37.62061268500003
 ],
   "geometry": {"coordinates":[-122.38689670099996,37.62061268500003],"type":"Point"}
 }

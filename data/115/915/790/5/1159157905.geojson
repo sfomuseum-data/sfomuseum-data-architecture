@@ -64,11 +64,13 @@
     ],
     "wof:id":1159157905,
     "wof:label":"D-09 Central South (2001-12-10 - 2002-09-25)",
-    "wof:lastmodified":1537490749,
+    "wof:lastmodified":1547232167,
     "wof:name":"D-09 Central South",
     "wof:parent_id":1360521543,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

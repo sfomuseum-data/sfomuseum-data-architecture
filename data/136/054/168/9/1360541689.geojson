@@ -56,11 +56,13 @@
     ],
     "wof:id":1360541689,
     "wof:label":"AML Aviation Museum perimeter (2011~ - 2014~)",
-    "wof:lastmodified":1537310495,
+    "wof:lastmodified":1547232153,
     "wof:name":"AML Aviation Museum perimeter",
     "wof:parent_id":1360521565,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360541693

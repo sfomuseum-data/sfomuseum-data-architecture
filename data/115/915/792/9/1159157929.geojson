@@ -65,11 +65,13 @@
     ],
     "wof:id":1159157929,
     "wof:label":"E-04 Gate 61 Cultural Wall (1988-01-01 - 1998-06-30)",
-    "wof:lastmodified":1537490749,
+    "wof:lastmodified":1547232171,
     "wof:name":"E-04 Gate 61 Cultural Wall",
     "wof:parent_id":1159554821,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

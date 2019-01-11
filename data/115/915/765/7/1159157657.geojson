@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881128,
-    "wof:geomhash":"895edd0d7975ed8fff9f1b26ba46c491",
+    "wof:geomhash":"720bb8304ea592d9dfb33dc41ec374d8",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157657,
-    "wof:lastmodified":1547231299,
+    "wof:lastmodified":1547232168,
     "wof:name":"G96",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.39094397399998,
-    37.617906471000026,
+    37.61790647100003,
     -122.39094397399998,
-    37.617906471000026
+    37.61790647100003
 ],
   "geometry": {"coordinates":[-122.39094397399998,37.61790647100003],"type":"Point"}
 }

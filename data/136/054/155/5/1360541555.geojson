@@ -51,11 +51,13 @@
         }
     ],
     "wof:id":1360541555,
-    "wof:lastmodified":1537310497,
+    "wof:lastmodified":1547232155,
     "wof:name":"D-08 International Garage Passageway",
     "wof:parent_id":1159554829,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

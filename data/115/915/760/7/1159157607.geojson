@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881122,
-    "wof:geomhash":"51dc37317f7369d9caa55c033b93b2ad",
+    "wof:geomhash":"de48241f9afa09d248ad7000462d290f",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157607,
-    "wof:lastmodified":1547231299,
+    "wof:lastmodified":1547232171,
     "wof:name":"A12",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.39049519999998,
-    37.611663931000066,
+    37.61166393100007,
     -122.39049519999998,
-    37.611663931000066
+    37.61166393100007
 ],
   "geometry": {"coordinates":[-122.39049519999998,37.61166393100007],"type":"Point"}
 }

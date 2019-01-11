@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881135,
-    "wof:geomhash":"26651fda7aeb2cd52a896bfd9df12f10",
+    "wof:geomhash":"d7cea43427d24ea7fed818697d937fd8",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157723,
-    "wof:lastmodified":1547231300,
+    "wof:lastmodified":1547232172,
     "wof:name":"F71A",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38595521999997,
-    37.618678224000064,
+    37.61867822400006,
     -122.38595521999997,
-    37.618678224000064
+    37.61867822400006
 ],
   "geometry": {"coordinates":[-122.38595521999997,37.61867822400006],"type":"Point"}
 }

@@ -64,11 +64,13 @@
     ],
     "wof:id":1159157041,
     "wof:label":"A-07 International Central Case (2017~)",
-    "wof:lastmodified":1537552701,
+    "wof:lastmodified":1547232171,
     "wof:name":"A-07 International Central Case",
     "wof:parent_id":1159157335,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

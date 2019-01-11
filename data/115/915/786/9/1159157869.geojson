@@ -65,11 +65,13 @@
     ],
     "wof:id":1159157869,
     "wof:label":"C-02 Gate 40 Gallery (1996-01-01 - 1999-01-25)",
-    "wof:lastmodified":1537490749,
+    "wof:lastmodified":1547232172,
     "wof:name":"C-02 Gate 40 Gallery",
     "wof:parent_id":1159554817,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

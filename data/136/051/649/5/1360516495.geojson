@@ -62,11 +62,13 @@
     ],
     "wof:id":1360516495,
     "wof:label":"D-11 Central Wall (Duty Free) (1988~ - 1998-02-01)",
-    "wof:lastmodified":1537552701,
+    "wof:lastmodified":1547232158,
     "wof:name":"D-11 Central Wall (Duty Free)",
     "wof:parent_id":1159554829,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

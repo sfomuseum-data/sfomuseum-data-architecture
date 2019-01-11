@@ -63,11 +63,13 @@
     ],
     "wof:id":1360521565,
     "wof:label":"San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum (2011~ - 2014~)",
-    "wof:lastmodified":1537290864,
+    "wof:lastmodified":1547232155,
     "wof:name":"San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum",
     "wof:parent_id":1159396159,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"museum",
+    "wof:placetype_alt":[
+        "museum"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360521563

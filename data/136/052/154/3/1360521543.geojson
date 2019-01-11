@@ -53,11 +53,13 @@
         }
     ],
     "wof:id":1360521543,
-    "wof:lastmodified":1538095469,
+    "wof:lastmodified":1547232155,
     "wof:name":"Terminal 2",
     "wof:parent_id":1159396319,
     "wof:placetype":"wing",
-    "wof:placetype_alt":"terminal",
+    "wof:placetype_alt":[
+        "terminal"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360521545

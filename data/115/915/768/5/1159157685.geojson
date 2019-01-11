@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881131,
-    "wof:geomhash":"edf919d9e39aad1a60810ad5e61fb6ca",
+    "wof:geomhash":"5479b845a9424f969083c151ea50c618",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157685,
-    "wof:lastmodified":1547231300,
+    "wof:lastmodified":1547232171,
     "wof:name":"G100",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.39221427899997,
-    37.618439598000066,
+    37.61843959800007,
     -122.39221427899997,
-    37.618439598000066
+    37.61843959800007
 ],
   "geometry": {"coordinates":[-122.39221427899997,37.61843959800007],"type":"Point"}
 }

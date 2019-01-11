@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881134,
-    "wof:geomhash":"d43913683d34bbc824bb2c27c606e8bb",
+    "wof:geomhash":"34b6933f322265ec58bf46c4b5b7262f",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157719,
-    "wof:lastmodified":1547231300,
+    "wof:lastmodified":1547232169,
     "wof:name":"G101B",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.39324495599999,
-    37.618793363000066,
+    37.61879336300007,
     -122.39324495599999,
-    37.618793363000066
+    37.61879336300007
 ],
   "geometry": {"coordinates":[-122.39324495599999,37.61879336300007],"type":"Point"}
 }

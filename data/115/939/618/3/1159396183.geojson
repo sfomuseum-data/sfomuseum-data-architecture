@@ -51,11 +51,13 @@
     ],
     "wof:id":1159396183,
     "wof:label":"Pier B (1974~ - 1979~)",
-    "wof:lastmodified":1538096155,
+    "wof:lastmodified":1547232161,
     "wof:name":"Pier B",
     "wof:parent_id":1159396165,
     "wof:placetype":"concourse",
-    "wof:placetype_alt":"boardingarea",
+    "wof:placetype_alt":[
+        "boardingarea"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[

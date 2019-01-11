@@ -9,7 +9,7 @@
     "edtf:cessation":"1974~",
     "edtf:inception":"1963~",
     "geom:area":0.000002,
-    "geom:area_square_m":19283.728506,
+    "geom:area_square_m":19283.728505,
     "geom:bbox":"-122.387899256,37.6124882642,-122.383045898,37.6153730109",
     "geom:latitude":37.6142,
     "geom:longitude":-122.385356,
@@ -49,11 +49,13 @@
     ],
     "wof:id":1159396127,
     "wof:label":"South Terminal (1963~ - 1974~)",
-    "wof:lastmodified":1538095472,
+    "wof:lastmodified":1547232164,
     "wof:name":"South Terminal",
     "wof:parent_id":1159396325,
     "wof:placetype":"wing",
-    "wof:placetype_alt":"terminal",
+    "wof:placetype_alt":[
+        "terminal"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159396169

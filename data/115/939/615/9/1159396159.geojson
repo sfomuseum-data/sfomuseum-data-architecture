@@ -9,7 +9,7 @@
     "edtf:cessation":"2014~",
     "edtf:inception":"2011~",
     "geom:area":0.000008,
-    "geom:area_square_m":75634.216671,
+    "geom:area_square_m":75634.216664,
     "geom:bbox":"-122.393477129,37.6114628502,-122.387345288,37.6188317499",
     "geom:latitude":37.615591,
     "geom:longitude":-122.389704,
@@ -49,11 +49,13 @@
     ],
     "wof:id":1159396159,
     "wof:label":"International Terminal (2011~ - 2014~)",
-    "wof:lastmodified":1538095471,
+    "wof:lastmodified":1547232164,
     "wof:name":"International Terminal",
     "wof:parent_id":1159396333,
     "wof:placetype":"wing",
-    "wof:placetype_alt":"terminal",
+    "wof:placetype_alt":[
+        "terminal"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159396153

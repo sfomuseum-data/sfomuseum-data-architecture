@@ -35,7 +35,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1547231951,
-    "wof:geomhash":"f03f93b6acf4059472c714fa575e34b3",
+    "wof:geomhash":"20b787e68485aa801445e26007d0479f",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -52,7 +52,7 @@
         }
     ],
     "wof:id":1360832519,
-    "wof:lastmodified":1547231951,
+    "wof:lastmodified":1547232153,
     "wof:name":"C45",
     "wof:parent_id":1159157323,
     "wof:placetype":"venue",
@@ -66,9 +66,9 @@
 },
   "bbox": [
     -122.38232233599996,
-    37.614916125000036,
+    37.61491612500004,
     -122.38232233599996,
-    37.614916125000036
+    37.61491612500004
 ],
   "geometry": {"coordinates":[-122.38232233599996,37.61491612500004],"type":"Point"}
 }

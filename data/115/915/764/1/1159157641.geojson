@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881126,
-    "wof:geomhash":"f37d35c5675b5331e2b18347857bef9c",
+    "wof:geomhash":"77dd81a26a30cb64c529e8bf06057811",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157641,
-    "wof:lastmodified":1547231299,
+    "wof:lastmodified":1547232167,
     "wof:name":"A4",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.38939632799998,
-    37.613287626000044,
+    37.61328762600004,
     -122.38939632799998,
-    37.613287626000044
+    37.61328762600004
 ],
   "geometry": {"coordinates":[-122.38939632799998,37.61328762600004],"type":"Point"}
 }

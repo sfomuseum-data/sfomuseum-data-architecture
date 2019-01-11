@@ -43,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881131,
-    "wof:geomhash":"dd8b893ebb2275817da6c9c0ccf90ae9",
+    "wof:geomhash":"685ab89f022b2a013cb9d577432bacd4",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157683,
-    "wof:lastmodified":1547231300,
+    "wof:lastmodified":1547232171,
     "wof:name":"G97",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,9 +74,9 @@
 },
   "bbox": [
     -122.39322904099998,
-    37.618359793000025,
+    37.61835979300002,
     -122.39322904099998,
-    37.618359793000025
+    37.61835979300002
 ],
   "geometry": {"coordinates":[-122.39322904099998,37.61835979300002],"type":"Point"}
 }

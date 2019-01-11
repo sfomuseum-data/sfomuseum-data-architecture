@@ -60,11 +60,13 @@
         }
     ],
     "wof:id":1159157701,
-    "wof:lastmodified":1547231300,
+    "wof:lastmodified":1547232170,
     "wof:name":"D50A",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",
-    "wof:placetype_alt":"gate",
+    "wof:placetype_alt":[
+        "gate"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

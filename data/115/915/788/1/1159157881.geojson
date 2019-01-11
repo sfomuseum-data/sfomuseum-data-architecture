@@ -66,11 +66,13 @@
     ],
     "wof:id":1159157881,
     "wof:label":"F-01 Gate 68 Children\u2019s Art Gallery (1988-07-01 - 2000~)",
-    "wof:lastmodified":1537552696,
+    "wof:lastmodified":1547232172,
     "wof:name":"F-01 Gate 68 Children\u2019s Art Gallery",
     "wof:parent_id":1159554821,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516485

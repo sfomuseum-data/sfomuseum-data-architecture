@@ -56,11 +56,13 @@
     ],
     "wof:id":1360541669,
     "wof:label":"AML Aviation Museum Gallery 06a-e (2006~ - 2011~)",
-    "wof:lastmodified":1537310496,
+    "wof:lastmodified":1547232154,
     "wof:name":"AML Aviation Museum Gallery 06a-e",
     "wof:parent_id":1360521569,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360541671

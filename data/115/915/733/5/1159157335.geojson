@@ -56,11 +56,13 @@
     ],
     "wof:id":1159157335,
     "wof:label":"International Terminal Main Hall (2017~)",
-    "wof:lastmodified":1537310499,
+    "wof:lastmodified":1547232170,
     "wof:name":"International Terminal Main Hall",
     "wof:parent_id":1159157333,
     "wof:placetype":"concourse",
-    "wof:placetype_alt":"commonarea",
+    "wof:placetype_alt":[
+        "commonarea"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],

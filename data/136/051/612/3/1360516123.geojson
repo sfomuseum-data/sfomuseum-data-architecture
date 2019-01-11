@@ -62,11 +62,13 @@
     ],
     "wof:id":1360516123,
     "wof:label":"F-02 North Connector (2006~ - 2011~)",
-    "wof:lastmodified":1537552697,
+    "wof:lastmodified":1547232159,
     "wof:name":"F-02 North Connector",
     "wof:parent_id":1159396221,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1360516121

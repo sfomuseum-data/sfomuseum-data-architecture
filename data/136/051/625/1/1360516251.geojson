@@ -62,11 +62,13 @@
     ],
     "wof:id":1360516251,
     "wof:label":"D-14 Wall Case (2014~ - 2017~)",
-    "wof:lastmodified":1537552702,
+    "wof:lastmodified":1547232158,
     "wof:name":"D-14 Wall Case",
     "wof:parent_id":1159396193,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
         1159157069

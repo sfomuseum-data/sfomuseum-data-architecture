@@ -65,11 +65,13 @@
     ],
     "wof:id":1159157937,
     "wof:label":"F-12 Student Art (2017-04-06)",
-    "wof:lastmodified":1537490749,
+    "wof:lastmodified":1547232170,
     "wof:name":"F-12 Student Art",
     "wof:parent_id":1159157307,
     "wof:placetype":"enclosure",
-    "wof:placetype_alt":"gallery",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
