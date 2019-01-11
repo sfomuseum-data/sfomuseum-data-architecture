@@ -11,16 +11,21 @@
     "flysfo:gate_code":"A8",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.390392758,37.6120143714,-122.390392758,37.6120143714",
-    "geom:latitude":37.612014,
-    "geom:longitude":-122.390393,
+    "geom:bbox":"-122.390078981,37.612270017,-122.390078981,37.612270017",
+    "geom:latitude":37.61227,
+    "geom:longitude":-122.390079,
     "iso:country":"US",
+    "lbl:latitude":37.61227,
+    "lbl:longitude":-122.390079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
+    "src:geom":"flysfo",
+    "src:geom_alt":[
+        "faa"
+    ],
     "wof:belongsto":[
         1159157339,
         102527513,
@@ -38,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881124,
-    "wof:geomhash":"3b9f51e2ab860301ed43ddf9440b3111",
+    "wof:geomhash":"a74b295854dcc5ec6ab9176b18ccea3f",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":1159157631,
-    "wof:lastmodified":1542767140,
+    "wof:lastmodified":1547231299,
     "wof:name":"A8",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",
@@ -66,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.39039275844844,
-    37.61201437144231,
-    -122.39039275844844,
-    37.61201437144231
+    -122.39007898099999,
+    37.61227001700007,
+    -122.39007898099999,
+    37.61227001700007
 ],
-  "geometry": {"coordinates":[-122.39039275844844,37.61201437144231],"type":"Point"}
+  "geometry": {"coordinates":[-122.39007898099999,37.61227001700007],"type":"Point"}
 }

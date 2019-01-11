@@ -11,16 +11,21 @@
     "flysfo:gate_code":"40",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.383592906,37.6149267116,-122.383592906,37.6149267116",
-    "geom:latitude":37.614927,
-    "geom:longitude":-122.383593,
+    "geom:bbox":"-122.383607381,37.615130989,-122.383607381,37.615130989",
+    "geom:latitude":37.615131,
+    "geom:longitude":-122.383607,
     "iso:country":"US",
+    "lbl:latitude":37.615131,
+    "lbl:longitude":-122.383607,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
+    "src:geom":"flysfo",
+    "src:geom_alt":[
+        "faa"
+    ],
     "wof:belongsto":[
         1159157323,
         102527513,
@@ -38,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881152,
-    "wof:geomhash":"8e5e875ae2c79d977f1cc0ecc2a34b0a",
+    "wof:geomhash":"77b971b49f973b00b68767709999c34b",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":1159157857,
-    "wof:lastmodified":1542767140,
+    "wof:lastmodified":1547231302,
     "wof:name":"C40",
     "wof:parent_id":1159157323,
     "wof:placetype":"venue",
@@ -66,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38359290589504,
-    37.61492671155166,
-    -122.38359290589504,
-    37.61492671155166
+    -122.38360738099999,
+    37.61513098900008,
+    -122.38360738099999,
+    37.61513098900008
 ],
-  "geometry": {"coordinates":[-122.38359290589504,37.61492671155166],"type":"Point"}
+  "geometry": {"coordinates":[-122.38360738099999,37.61513098900008],"type":"Point"}
 }

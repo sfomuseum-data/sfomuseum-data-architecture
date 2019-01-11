@@ -11,16 +11,21 @@
     "flysfo:gate_code":"88",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.390390861,37.6212674613,-122.390390861,37.6212674613",
-    "geom:latitude":37.621267,
-    "geom:longitude":-122.390391,
+    "geom:bbox":"-122.390130622,37.621173304,-122.390130622,37.621173304",
+    "geom:latitude":37.621173,
+    "geom:longitude":-122.390131,
     "iso:country":"US",
+    "lbl:latitude":37.621173,
+    "lbl:longitude":-122.390131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
+    "src:geom":"flysfo",
+    "src:geom_alt":[
+        "faa"
+    ],
     "wof:belongsto":[
         1159396301,
         102527513,
@@ -38,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881138,
-    "wof:geomhash":"ee962eb2f3ab01b4b219b4cc83d3f905",
+    "wof:geomhash":"8618467b857a6d100cf8a5db0a255896",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":1159157751,
-    "wof:lastmodified":1542767138,
+    "wof:lastmodified":1547231300,
     "wof:name":"F88",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
@@ -66,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.39039086123388,
-    37.62126746125137,
-    -122.39039086123388,
-    37.62126746125137
+    -122.39013062199996,
+    37.621173304000024,
+    -122.39013062199996,
+    37.621173304000024
 ],
-  "geometry": {"coordinates":[-122.39039086123388,37.62126746125137],"type":"Point"}
+  "geometry": {"coordinates":[-122.39013062199996,37.62117330400002],"type":"Point"}
 }

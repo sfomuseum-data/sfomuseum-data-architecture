@@ -11,16 +11,21 @@
     "flysfo:gate_code":"65",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38413595,37.6196547584,-122.38413595,37.6196547584",
-    "geom:latitude":37.619655,
-    "geom:longitude":-122.384136,
+    "geom:bbox":"-122.384027805,37.619424597,-122.384027805,37.619424597",
+    "geom:latitude":37.619425,
+    "geom:longitude":-122.384028,
     "iso:country":"US",
+    "lbl:latitude":37.619425,
+    "lbl:longitude":-122.384028,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
+    "src:geom":"flysfo",
+    "src:geom_alt":[
+        "faa"
+    ],
     "wof:belongsto":[
         1159396267,
         102527513,
@@ -38,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881127,
-    "wof:geomhash":"50bddaa6c11cbcc370653cd1f10c410f",
+    "wof:geomhash":"4994fc546a454db748f90ae6d02300f1",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":1159157653,
-    "wof:lastmodified":1542767139,
+    "wof:lastmodified":1547231299,
     "wof:name":"E65",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",
@@ -66,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38413594996767,
-    37.61965475843294,
-    -122.38413594996767,
-    37.61965475843294
+    -122.38402780499996,
+    37.619424597000034,
+    -122.38402780499996,
+    37.619424597000034
 ],
-  "geometry": {"coordinates":[-122.38413594996767,37.61965475843294],"type":"Point"}
+  "geometry": {"coordinates":[-122.38402780499996,37.61942459700003],"type":"Point"}
 }

@@ -11,16 +11,21 @@
     "flysfo:gate_code":"74",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.388349518,37.6178629171,-122.388349518,37.6178629171",
-    "geom:latitude":37.617863,
-    "geom:longitude":-122.38835,
+    "geom:bbox":"-122.388019455,37.617834671,-122.388019455,37.617834671",
+    "geom:latitude":37.617835,
+    "geom:longitude":-122.388019,
     "iso:country":"US",
+    "lbl:latitude":37.617835,
+    "lbl:longitude":-122.388019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
+    "src:geom":"flysfo",
+    "src:geom_alt":[
+        "faa"
+    ],
     "wof:belongsto":[
         1159396301,
         102527513,
@@ -38,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881132,
-    "wof:geomhash":"505da41af19ae9b24d05d09caa272238",
+    "wof:geomhash":"83c0429f42c28f52711dba0b7c46b116",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":1159157697,
-    "wof:lastmodified":1542767140,
+    "wof:lastmodified":1547231300,
     "wof:name":"F74",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
@@ -66,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38834951846947,
-    37.61786291706444,
-    -122.38834951846947,
-    37.61786291706444
+    -122.38801945499995,
+    37.617834671000026,
+    -122.38801945499995,
+    37.617834671000026
 ],
-  "geometry": {"coordinates":[-122.38834951846947,37.61786291706444],"type":"Point"}
+  "geometry": {"coordinates":[-122.38801945499995,37.61783467100003],"type":"Point"}
 }

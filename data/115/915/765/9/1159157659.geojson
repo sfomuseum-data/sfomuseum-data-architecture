@@ -11,16 +11,21 @@
     "flysfo:gate_code":"73",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.387945546,37.6181261672,-122.387945546,37.6181261672",
-    "geom:latitude":37.618126,
-    "geom:longitude":-122.387946,
+    "geom:bbox":"-122.387689773,37.618101995,-122.387689773,37.618101995",
+    "geom:latitude":37.618102,
+    "geom:longitude":-122.38769,
     "iso:country":"US",
+    "lbl:latitude":37.618102,
+    "lbl:longitude":-122.38769,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
+    "src:geom":"flysfo",
+    "src:geom_alt":[
+        "faa"
+    ],
     "wof:belongsto":[
         1159396301,
         102527513,
@@ -38,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881128,
-    "wof:geomhash":"49e3f872bb607d5149a442a78f52384e",
+    "wof:geomhash":"bc2b381e019707be6a226e9e25d6081b",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":1159157659,
-    "wof:lastmodified":1542767140,
+    "wof:lastmodified":1547231299,
     "wof:name":"F73",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
@@ -66,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38794554610097,
-    37.6181261671577,
-    -122.38794554610097,
-    37.6181261671577
+    -122.38768977299998,
+    37.618101995000075,
+    -122.38768977299998,
+    37.618101995000075
 ],
-  "geometry": {"coordinates":[-122.38794554610097,37.6181261671577],"type":"Point"}
+  "geometry": {"coordinates":[-122.38768977299998,37.61810199500007],"type":"Point"}
 }

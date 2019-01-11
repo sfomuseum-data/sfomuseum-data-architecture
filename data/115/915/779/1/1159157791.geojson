@@ -11,16 +11,21 @@
     "flysfo:gate_code":"58A",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38190666,37.6182430743,-122.38190666,37.6182430743",
-    "geom:latitude":37.618243,
-    "geom:longitude":-122.381907,
+    "geom:bbox":"-122.381668948,37.61814871,-122.381668948,37.61814871",
+    "geom:latitude":37.618149,
+    "geom:longitude":-122.381669,
     "iso:country":"US",
+    "lbl:latitude":37.618149,
+    "lbl:longitude":-122.381669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
+    "src:geom":"flysfo",
+    "src:geom_alt":[
+        "faa"
+    ],
     "wof:belongsto":[
         1159396181,
         102527513,
@@ -38,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881144,
-    "wof:geomhash":"3ecf3db75ccf7482c4f0f3dc3c903b13",
+    "wof:geomhash":"72164c1db03dddb91fecb80af84f1307",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":1159157791,
-    "wof:lastmodified":1542767138,
+    "wof:lastmodified":1547231301,
     "wof:name":"D58A",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",
@@ -66,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38190665956033,
-    37.61824307427563,
-    -122.38190665956033,
-    37.61824307427563
+    -122.38166894799997,
+    37.61814871000007,
+    -122.38166894799997,
+    37.61814871000007
 ],
-  "geometry": {"coordinates":[-122.38190665956033,37.61824307427563],"type":"Point"}
+  "geometry": {"coordinates":[-122.38166894799997,37.61814871000007],"type":"Point"}
 }

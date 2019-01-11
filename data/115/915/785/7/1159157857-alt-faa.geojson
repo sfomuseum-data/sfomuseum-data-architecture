@@ -1,0 +1,16 @@
+{
+  "id": 1159157857,
+  "type": "Feature",
+  "properties": {
+    "src:geom":"faa",
+    "wof:geomhash":"46168d9f028e45e7dd662212d9aa4c93",
+    "wof:id":1159157857
+},
+  "bbox": [
+    -122.383593,
+    37.614927,
+    -122.383593,
+    37.614927
+],
+  "geometry": {"coordinates":[[-122.383593,37.614927]],"type":"MultiPoint"}
+}

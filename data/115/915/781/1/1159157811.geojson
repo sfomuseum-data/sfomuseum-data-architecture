@@ -11,16 +11,21 @@
     "flysfo:gate_code":"27",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.386268502,37.611985489,-122.386268502,37.611985489",
-    "geom:latitude":37.611985,
-    "geom:longitude":-122.386269,
+    "geom:bbox":"-122.385902285,37.612261576,-122.385902285,37.612261576",
+    "geom:latitude":37.612262,
+    "geom:longitude":-122.385902,
     "iso:country":"US",
+    "lbl:latitude":37.612262,
+    "lbl:longitude":-122.385902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
+    "src:geom":"flysfo",
+    "src:geom_alt":[
+        "faa"
+    ],
     "wof:belongsto":[
         1159396217,
         102527513,
@@ -38,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881147,
-    "wof:geomhash":"8a965958a53d5ce252b08b72700f506d",
+    "wof:geomhash":"5fd0f1f502d81f1f34776df85f5b23fc",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":1159157811,
-    "wof:lastmodified":1542767138,
+    "wof:lastmodified":1547231301,
     "wof:name":"B27",
     "wof:parent_id":1159396217,
     "wof:placetype":"venue",
@@ -66,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38626850241583,
-    37.61198548897097,
-    -122.38626850241583,
-    37.61198548897097
+    -122.38590228499999,
+    37.61226157600004,
+    -122.38590228499999,
+    37.61226157600004
 ],
-  "geometry": {"coordinates":[-122.38626850241583,37.61198548897097],"type":"Point"}
+  "geometry": {"coordinates":[-122.38590228499999,37.61226157600004],"type":"Point"}
 }

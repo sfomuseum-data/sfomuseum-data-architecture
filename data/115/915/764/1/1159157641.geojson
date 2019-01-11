@@ -11,16 +11,21 @@
     "flysfo:gate_code":"A4",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389612378,37.6131653086,-122.389612378,37.6131653086",
-    "geom:latitude":37.613165,
-    "geom:longitude":-122.389612,
+    "geom:bbox":"-122.389396328,37.613287626,-122.389396328,37.613287626",
+    "geom:latitude":37.613288,
+    "geom:longitude":-122.389396,
     "iso:country":"US",
+    "lbl:latitude":37.613288,
+    "lbl:longitude":-122.389396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
+    "src:geom":"flysfo",
+    "src:geom_alt":[
+        "faa"
+    ],
     "wof:belongsto":[
         1159157339,
         102527513,
@@ -38,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881126,
-    "wof:geomhash":"2b4950c513e85a8ec31288342c462ebf",
+    "wof:geomhash":"f37d35c5675b5331e2b18347857bef9c",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":1159157641,
-    "wof:lastmodified":1542767140,
+    "wof:lastmodified":1547231299,
     "wof:name":"A4",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",
@@ -66,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.3896123781016,
-    37.61316530858291,
-    -122.3896123781016,
-    37.61316530858291
+    -122.38939632799998,
+    37.613287626000044,
+    -122.38939632799998,
+    37.613287626000044
 ],
-  "geometry": {"coordinates":[-122.3896123781016,37.61316530858291],"type":"Point"}
+  "geometry": {"coordinates":[-122.38939632799998,37.61328762600004],"type":"Point"}
 }

@@ -11,16 +11,21 @@
     "flysfo:gate_code":"A3",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.388489472,37.6135071245,-122.388489472,37.6135071245",
-    "geom:latitude":37.613507,
-    "geom:longitude":-122.388489,
+    "geom:bbox":"-122.388735093,37.613318128,-122.388735093,37.613318128",
+    "geom:latitude":37.613318,
+    "geom:longitude":-122.388735,
     "iso:country":"US",
+    "lbl:latitude":37.613318,
+    "lbl:longitude":-122.388735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
+    "src:geom":"flysfo",
+    "src:geom_alt":[
+        "faa"
+    ],
     "wof:belongsto":[
         1159157339,
         102527513,
@@ -38,7 +43,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522881134,
-    "wof:geomhash":"0637d925f760f955c3b6bbe82b7217e6",
+    "wof:geomhash":"f6107e97a8124429c2b1018042055a0e",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":1159157717,
-    "wof:lastmodified":1542767140,
+    "wof:lastmodified":1547231300,
     "wof:name":"A3",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",
@@ -66,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38848947182869,
-    37.61350712447113,
-    -122.38848947182869,
-    37.61350712447113
+    -122.38873509299998,
+    37.61331812800006,
+    -122.38873509299998,
+    37.61331812800006
 ],
-  "geometry": {"coordinates":[-122.38848947182869,37.61350712447113],"type":"Point"}
+  "geometry": {"coordinates":[-122.38873509299998,37.61331812800006],"type":"Point"}
 }
