@@ -7,7 +7,7 @@
     "date:inception_lower":"1941-01-01",
     "date:inception_upper":"1941-12-31",
     "edtf:cessation":"1954~",
-    "edtf:inception":"1941~",
+    "edtf:inception":"1927",
     "geom:area":0.000001,
     "geom:area_square_m":5238.30173,
     "geom:bbox":"-122.392083385,37.6228612238,-122.391012402,37.6243201501",
@@ -45,7 +45,7 @@
         }
     ],
     "wof:id":1360665049,
-    "wof:label":"San Francisco Airport Hanger Building (1941~ - 1954~)",
+    "wof:label":"San Francisco Airport Hanger Building (1927 - 1954~)",
     "wof:lastmodified":1547232156,
     "wof:name":"San Francisco Airport Hanger Building",
     "wof:parent_id":102527513,
