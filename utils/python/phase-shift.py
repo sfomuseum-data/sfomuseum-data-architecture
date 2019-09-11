@@ -12,6 +12,7 @@ if __name__ == "__main__":
 
     sfo_id = 1159157271
     inception = "2019-07-23"
+    debug = False
     
     arch = "/usr/local/data/sfomuseum-data-architecture"
     data = os.path.join(arch, "data")
@@ -37,19 +38,22 @@ if __name__ == "__main__":
         old_props = old_feature["properties"]
         old_id = old_props["wof:id"]
         old_name = old_props["wof:name"]
-        old_placetype = props["sfomuseum:placetype"]
-
-        print "UPDATE %s (%s)" % (old_id, old_name)
+        old_placetype = old_props["sfomuseum:placetype"]
         
         old_props["edtf:cessation"] = inception
         old_props["mz:is_current"] = 0
         
-        is_t1_gate = False
+        is_t1_child = False
 
         if old_placetype == "gate" and old_name.startswith("B"):
-            is_t1_gate = True
+            is_t1_child = True
 
-        if not is_t1_gate:
+        if old_id in [ 1159157077, 1159157081 ]:
+            is_t1_child = True
+
+        print "UPDATE %s (%s, %s) is T1: %s" % (old_id, old_name, old_placetype, is_t1_child)
+        
+        if not is_t1_child:
         
             new_feature = copy.deepcopy(feature)
             new_props = new_feature["properties"]
@@ -67,16 +71,22 @@ if __name__ == "__main__":
             new_props["wof:hierarchy"] = parent_props["wof:hierarchy"]
             
             new_feature["properties"] = new_props
-            # exporter.export_feature(new_feature)        
+
+            if not debug:            
+                exporter.export_feature(new_feature)        
 
             old_props["wof:superseded_by"] = [ new_id ]
 
         old_feature["properties"] = old_props
-        # exporter.export_feature(old_feature)
-        
-        for child_id in rels.get(old_id, []):
-            child_feature = mapzen.whosonfirst.utils.load(data, child_id)            
-            update(child_feature, new_feature)
+
+        if not debug:
+            exporter.export_feature(old_feature)
+
+        if not is_t1_child:
+            
+            for child_id in rels.get(old_id, []):
+                child_feature = mapzen.whosonfirst.utils.load(data, child_id)            
+                update(child_feature, new_feature)
 
     sfo = mapzen.whosonfirst.utils.load(data, sfo_id)
     parent = mapzen.whosonfirst.utils.load(wof_data, sfo["properties"]["wof:parent_id"])
