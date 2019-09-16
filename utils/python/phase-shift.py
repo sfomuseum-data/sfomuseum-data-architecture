@@ -12,13 +12,15 @@ if __name__ == "__main__":
 
     sfo_id = 1159157271
     inception = "2019-07-23"
-    debug = False
+    debug = True
     
     arch = "/usr/local/data/sfomuseum-data-architecture"
     data = os.path.join(arch, "data")
 
     wof_data = "/usr/local/data/sfomuseum-data-whosonfirst/data"
     
+    exporter = mapzen.whosonfirst.export.flatfile(data)
+
     crawl = mapzen.whosonfirst.utils.crawl(data, inflate=True)
     rels = {}
     
@@ -40,6 +42,12 @@ if __name__ == "__main__":
         old_name = old_props["wof:name"]
         old_placetype = old_props["sfomuseum:placetype"]
         
+        old_cessation = old_props.get("edtf:cessation", "open")
+
+        if not old_cessation in ("", "uuuu", "open"):
+            print "SKIP %s (%s)" % (old_name, old_cessation)
+            return
+
         old_props["edtf:cessation"] = inception
         old_props["mz:is_current"] = 0
         
@@ -55,11 +63,12 @@ if __name__ == "__main__":
         
         if not is_t1_child:
         
-            new_feature = copy.deepcopy(feature)
+            new_feature = copy.deepcopy(old_feature)
             new_props = new_feature["properties"]
         
             new_id = mapzen.whosonfirst.utils.generate_id()        
             new_props["wof:id"] = new_id
+            new_props["wof:name"] = "%s (%s)" % (new_props["wof:name"], inception)
 
             new_props["edtf:inception"] = inception
             new_props["edtf:cessation"] = "open"
