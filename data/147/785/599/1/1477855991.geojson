@@ -3,16 +3,20 @@
   "type": "Feature",
   "properties": {
     "addr:full":"495 North Link Road, San Francisco, Ca. 94128",
+    "date:inception_lower":"2000-01-01",
+    "date:inception_upper":"2000-12-31",
     "edtf:cessation":"open",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2000",
     "geom:area":0.000001,
-    "geom:area_square_m":5230.6198,
+    "geom:area_square_m":5230.619799,
     "geom:bbox":"-122.393373134,37.6152853279,-122.391689226,37.6159487047",
     "geom:latitude":37.61563,
     "geom:longitude":-122.392532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "sfomuseum:placetype":"garage",
+    "src:geom":"unknown",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -27,7 +31,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1568751864,
-    "wof:geomhash":"5ceaef0bbebdedb895baa85fb3ef91ad",
+    "wof:geomhash":"73c9e68645d179bdb7b638eb020696e1",
     "wof:hierarchy":[
         {
             "building_id":1477855991,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1477855991,
-    "wof:lastmodified":1568751864,
+    "wof:lastmodified":1568763933,
     "wof:name":"Garage G",
     "wof:parent_id":1477855657,
     "wof:placetype":"building",
