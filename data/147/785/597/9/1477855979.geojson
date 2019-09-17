@@ -3,8 +3,10 @@
   "type": "Feature",
   "properties": {
     "addr:full":"674 West Field Road, San Francisco, Ca. 94128",
+    "date:inception_lower":"2018-06-01",
+    "date:inception_upper":"2018-06-30",
     "edtf:cessation":"open",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2018-06",
     "geom:area":0.0,
     "geom:area_square_m":4755.363707,
     "geom:bbox":"-122.398974007,37.6225116142,-122.397478679,37.6233367094",
@@ -13,6 +15,7 @@
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "src:geom":"unknown",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -27,7 +30,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1568751862,
-    "wof:geomhash":"92f72a220e58496710582284eb0552e0",
+    "wof:geomhash":"7ae15f0873b5249f27258e378e549e64",
     "wof:hierarchy":[
         {
             "building_id":1477855979,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1477855979,
-    "wof:lastmodified":1568751862,
+    "wof:lastmodified":1568760132,
     "wof:name":"Consolidated Administration Campus",
     "wof:parent_id":1477855657,
     "wof:placetype":"building",
@@ -60,7 +63,7 @@
 },
   "bbox": [
     -122.39897400685021,
-    37.622511614245305,
+    37.6225116142453,
     -122.39747867924183,
     37.62333670943452
 ],
