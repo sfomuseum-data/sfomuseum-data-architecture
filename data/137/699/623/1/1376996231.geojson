@@ -2,7 +2,7 @@
   "id": 1376996231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2019-07-23",
     "edtf:inception":"uuuu",
     "flysfo:gate_code":"B28",
     "geom:area":0.0,
@@ -12,7 +12,7 @@
     "geom:longitude":-122.385689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
     "src:geom":"flysfo",
@@ -47,7 +47,7 @@
         }
     ],
     "wof:id":1376996231,
-    "wof:lastmodified":1550597180,
+    "wof:lastmodified":1568744415,
     "wof:name":"B28",
     "wof:parent_id":1159396217,
     "wof:placetype":"venue",

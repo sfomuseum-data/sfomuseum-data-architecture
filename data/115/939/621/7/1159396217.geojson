@@ -2,9 +2,11 @@
   "id": 1159396217,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2019-07-23",
+    "date:cessation_upper":"2019-07-23",
     "date:inception_lower":"2017-01-01",
     "date:inception_upper":"2017-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2019-07-23",
     "edtf:inception":"2017~",
     "geom:area":0.000001,
     "geom:area_square_m":7125.28278,
@@ -14,7 +16,7 @@
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfo:parts":[
         "D16DCB30-6FA5-40BC-AACF-4E88BE836818"
     ],
@@ -53,7 +55,7 @@
     ],
     "wof:id":1159396217,
     "wof:label":"Boarding Area B (2017~)",
-    "wof:lastmodified":1547232160,
+    "wof:lastmodified":1568744415,
     "wof:name":"Boarding Area B",
     "wof:parent_id":1159157317,
     "wof:placetype":"concourse",
@@ -61,7 +63,9 @@
         "boardingarea"
     ],
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477855659
+    ],
     "wof:supersedes":[
         1159396237
     ],

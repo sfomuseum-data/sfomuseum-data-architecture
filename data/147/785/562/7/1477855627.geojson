@@ -1,0 +1,105 @@
+{
+  "id": 1477855627,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2019-07-23",
+    "date:inception_upper":"2019-07-23",
+    "edtf:cessation":"open",
+    "edtf:inception":"2019-07-23",
+    "geom:area":0.0,
+    "geom:area_square_m":504.394795,
+    "geom:bbox":"-122.382889557,37.6173184334,-122.38250792,37.6175185062",
+    "geom:latitude":37.617422,
+    "geom:longitude":-122.382712,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "D-12 Wall Case"
+    ],
+    "name:eng_x_variant":[
+        "D-12",
+        "D12"
+    ],
+    "sfomuseum:gallery_id":58,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:level":"D",
+    "sfomuseum:location":"T2",
+    "sfomuseum:map_id":"D12",
+    "sfomuseum:placetype":"gallery",
+    "sfomuseum:post_security":1,
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        1477855609,
+        1477855615,
+        102527513,
+        85688637,
+        102191575,
+        85633793,
+        1477855613,
+        85922583,
+        102087579,
+        1477855605,
+        1477855607,
+        554784711,
+        102085387
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522859222,
+    "wof:geomhash":"7bd638857e87e4c7d2e24e75cbe08e5e",
+    "wof:hierarchy":[
+        {
+            "building_id":1477855605,
+            "campus_id":102527513,
+            "concourse_id":1477855609,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1477855613,
+            "locality_id":85922583,
+            "postalcode_id":554784711,
+            "region_id":85688637,
+            "venue_id":1477855615,
+            "wing_id":1477855607
+        },
+        {
+            "building_id":1477855605,
+            "campus_id":102527513,
+            "concourse_id":1477855609,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "enclosure_id":1477855613,
+            "region_id":85688637,
+            "venue_id":1477855615,
+            "wing_id":1477855607
+        }
+    ],
+    "wof:id":1477855627,
+    "wof:label":"D-12 Wall Case (2017~)",
+    "wof:lastmodified":1568744409,
+    "wof:name":"D-12 Wall Case (2019-07-23)",
+    "wof:parent_id":1477855609,
+    "wof:placetype":"enclosure",
+    "wof:placetype_alt":[
+        "gallery"
+    ],
+    "wof:repo":"sfomuseum-data-architecture",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1159157067
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.38288955723878,
+    37.61731843339854,
+    -122.38250792026518,
+    37.61751850618887
+],
+  "geometry": {"coordinates":[[[-122.38288955723878,37.61749316945996],[-122.38278034720035,37.61751850618887],[-122.38250792026518,37.61746510786793],[-122.38257765769958,37.61735038005604],[-122.38281966281421,37.61731843339854],[-122.38288955723878,37.61749316945996]]],"type":"Polygon"}
+}

@@ -12,7 +12,7 @@ if __name__ == "__main__":
 
     sfo_id = 1159157271
     inception = "2019-07-23"
-    debug = True
+    debug = False
     
     arch = "/usr/local/data/sfomuseum-data-architecture"
     data = os.path.join(arch, "data")
@@ -73,7 +73,7 @@ if __name__ == "__main__":
             new_props["edtf:inception"] = inception
             new_props["edtf:cessation"] = "open"
             new_props["mz:is_current"] = 1
-            new_props["wof:supersedes"] = [ wofid ]
+            new_props["wof:supersedes"] = [ old_id ]
 
             parent_props = parent["properties"]
             new_props["wof:parent_id"] = parent_props["wof:id"]

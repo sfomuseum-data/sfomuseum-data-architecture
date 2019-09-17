@@ -2,9 +2,11 @@
   "id": 1159157327,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2019-07-23",
+    "date:cessation_upper":"2019-07-23",
     "date:inception_lower":"2017-01-01",
     "date:inception_upper":"2017-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2019-07-23",
     "edtf:inception":"2017~",
     "geom:area":0.000001,
     "geom:area_square_m":14351.561759,
@@ -15,7 +17,7 @@
     "lbl:latitude":37.617044,
     "lbl:longitude":-122.383533,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfo:parts":[
         "9DBBAAC8-1404-44AB-BB9A-33626DAA222E"
     ],
@@ -56,7 +58,7 @@
     ],
     "wof:id":1159157327,
     "wof:label":"Terminal 2 Main Hall (2017~)",
-    "wof:lastmodified":1547232171,
+    "wof:lastmodified":1568744414,
     "wof:name":"Terminal 2 Main Hall",
     "wof:parent_id":1159396121,
     "wof:placetype":"concourse",
@@ -64,7 +66,9 @@
         "commonarea"
     ],
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477855655
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
