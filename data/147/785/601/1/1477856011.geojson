@@ -3,10 +3,12 @@
   "type": "Feature",
   "properties": {
     "addr:full":"195 Lower Domestic Loop, San Francisco, Ca. 94128",
+    "date:inception_lower":"1981-01-01",
+    "date:inception_upper":"1981-12-31",
     "edtf:cessation":"open",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1981~",
     "geom:area":0.000007,
-    "geom:area_square_m":66287.417695,
+    "geom:area_square_m":66287.417694,
     "geom:bbox":"-122.387895209,37.6149725597,-122.38437149,37.6177334984",
     "geom:latitude":37.616359,
     "geom:longitude":-122.386105,
@@ -14,6 +16,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "sfomuseum:placetype":"garage",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -21,7 +24,6 @@
         85633793,
         85922583,
         102087579,
-        1477855605,
         554784711,
         102085387
     ],
@@ -31,7 +33,7 @@
     "wof:geomhash":"16b4529869b035da5072031ce6eefb40",
     "wof:hierarchy":[
         {
-            "building_id":1477855605,
+            "building_id":1477856011,
             "campus_id":102527513,
             "continent_id":102191575,
             "country_id":85633793,
@@ -42,7 +44,7 @@
             "wing_id":1477856011
         },
         {
-            "building_id":1477855605,
+            "building_id":1477856011,
             "campus_id":102527513,
             "continent_id":102191575,
             "country_id":85633793,
@@ -52,10 +54,10 @@
         }
     ],
     "wof:id":1477856011,
-    "wof:lastmodified":1568762979,
+    "wof:lastmodified":1568838528,
     "wof:name":"Central Parking Garage",
-    "wof:parent_id":1477855605,
-    "wof:placetype":"wing",
+    "wof:parent_id":102527513,
+    "wof:placetype":"building",
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[],
