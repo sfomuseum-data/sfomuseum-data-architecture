@@ -3,8 +3,10 @@
   "type": "Feature",
   "properties": {
     "addr:full":"250 Upper Domestic Loop, San Francisco, Ca. 94128",
+    "date:inception_lower":"2016-10-15",
+    "date:inception_upper":"2016-10-15",
     "edtf:cessation":"open",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"2016-10-15",
     "geom:area":0.0,
     "geom:area_square_m":1220.545984,
     "geom:bbox":"-122.384063366,37.6155804738,-122.383554645,37.6160529986",
@@ -14,7 +16,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "sfomuseum:placetype":"atc",
-    "src:geom":"unknown",
+    "src:geom":"flysfo",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1477855995,
-    "wof:lastmodified":1568833400,
+    "wof:lastmodified":1568837021,
     "wof:name":"Air Traffic Control Tower",
     "wof:parent_id":1477855605,
     "wof:placetype":"wing",
