@@ -8,7 +8,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"2019-07-23",
     "geom:area":0.000001,
-    "geom:area_square_m":6826.238682,
+    "geom:area_square_m":6826.238681,
     "geom:bbox":"-122.385070593,37.6181192562,-122.383826168,37.619583191",
     "geom:latitude":37.618875,
     "geom:longitude":-122.384456,
@@ -33,15 +33,14 @@
         85922583,
         102087579,
         1477855605,
-        1477855607,
+        1477855699,
         554784711,
-        102085387,
-        1477855699
+        102085387
     ],
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1530907278,
-    "wof:geomhash":"ab8826ee9b8d2d8791c5ed2c59df122c",
+    "wof:geomhash":"1d0555872236de00501dc14f9c19ce42",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -55,7 +54,7 @@
             "postalcode_id":554784711,
             "region_id":85688637,
             "venue_id":1477855615,
-            "wing_id":1477855607
+            "wing_id":1477855699
         },
         {
             "building_id":1477855605,
@@ -67,12 +66,12 @@
             "enclosure_id":1477855613,
             "region_id":85688637,
             "venue_id":1477855615,
-            "wing_id":1477855607
+            "wing_id":1477855699
         }
     ],
     "wof:id":1477855785,
     "wof:label":"Boarding Area E (2017~)",
-    "wof:lastmodified":1568751863,
+    "wof:lastmodified":1568851855,
     "wof:name":"Boarding Area E (2019-07-23)",
     "wof:parent_id":1477855699,
     "wof:placetype":"concourse",
@@ -88,7 +87,7 @@
 },
   "bbox": [
     -122.38507059260056,
-    37.618119256242416,
+    37.61811925624242,
     -122.3838261677342,
     37.61958319104508
 ],

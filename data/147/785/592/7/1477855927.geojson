@@ -8,7 +8,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"2019-07-23",
     "geom:area":0.000005,
-    "geom:area_square_m":44550.429896,
+    "geom:area_square_m":44550.429895,
     "geom:bbox":"-122.390482516,37.6139971937,-122.387332104,37.617296983",
     "geom:latitude":37.615622,
     "geom:longitude":-122.38916,
@@ -27,20 +27,18 @@
     "src:geom":"sfomuseum",
     "wof:belongsto":[
         1477855609,
-        1477855613,
+        1477855615,
         102527513,
         85688637,
         102191575,
         85633793,
-        1477855925,
+        1477855613,
         85922583,
-        1477855615,
         102087579,
         1477855605,
-        1477855607,
+        1477855833,
         554784711,
-        102085387,
-        1477855833
+        102085387
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -51,7 +49,6 @@
     "wof:geomhash":"b60d384a5f51eee073ed8bcf372af69f",
     "wof:hierarchy":[
         {
-            "arcade_id":1477855925,
             "building_id":1477855605,
             "campus_id":102527513,
             "concourse_id":1477855609,
@@ -63,10 +60,9 @@
             "postalcode_id":554784711,
             "region_id":85688637,
             "venue_id":1477855615,
-            "wing_id":1477855607
+            "wing_id":1477855833
         },
         {
-            "arcade_id":1477855925,
             "building_id":1477855605,
             "campus_id":102527513,
             "concourse_id":1477855609,
@@ -76,12 +72,12 @@
             "enclosure_id":1477855613,
             "region_id":85688637,
             "venue_id":1477855615,
-            "wing_id":1477855607
+            "wing_id":1477855833
         }
     ],
     "wof:id":1477855927,
     "wof:label":"International Terminal Main Hall (2017~)",
-    "wof:lastmodified":1568762957,
+    "wof:lastmodified":1568852379,
     "wof:name":"International Terminal Main Hall (2019-07-23)",
     "wof:parent_id":1477855833,
     "wof:placetype":"concourse",

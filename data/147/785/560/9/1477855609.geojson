@@ -8,7 +8,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"2019-07-23",
     "geom:area":0.000002,
-    "geom:area_square_m":17038.720215,
+    "geom:area_square_m":17038.720218,
     "geom:bbox":"-122.383790429,37.6155347972,-122.38079069,37.618303111",
     "geom:latitude":37.617343,
     "geom:longitude":-122.381943,
@@ -41,7 +41,7 @@
     "wof:breaches":[],
     "wof:country":"US",
     "wof:created":1530907263,
-    "wof:geomhash":"29f51bcf75c167b7e28c48b2bffd9644",
+    "wof:geomhash":"b868b24c5e801c328740d1f147924be3",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -68,7 +68,7 @@
     ],
     "wof:id":1477855609,
     "wof:label":"Boarding Area D (2017~)",
-    "wof:lastmodified":1568751868,
+    "wof:lastmodified":1568851854,
     "wof:name":"Boarding Area D (2019-07-23)",
     "wof:parent_id":1477855607,
     "wof:placetype":"concourse",
