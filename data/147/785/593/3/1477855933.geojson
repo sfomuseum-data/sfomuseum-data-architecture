@@ -34,14 +34,13 @@
         1477855615,
         102527513,
         85688637,
-        1477855925,
         102191575,
         85633793,
         1477855613,
         85922583,
         102087579,
         1477855605,
-        1477855607,
+        1477855833,
         554784711,
         102085387,
         1477855927
@@ -55,7 +54,6 @@
     "wof:geomhash":"0481803993c586ab11e09858cfa153d0",
     "wof:hierarchy":[
         {
-            "arcade_id":1477855925,
             "building_id":1477855605,
             "campus_id":102527513,
             "concourse_id":1477855609,
@@ -67,10 +65,9 @@
             "postalcode_id":554784711,
             "region_id":85688637,
             "venue_id":1477855615,
-            "wing_id":1477855607
+            "wing_id":1477855833
         },
         {
-            "arcade_id":1477855925,
             "building_id":1477855605,
             "campus_id":102527513,
             "concourse_id":1477855609,
@@ -80,12 +77,12 @@
             "enclosure_id":1477855613,
             "region_id":85688637,
             "venue_id":1477855615,
-            "wing_id":1477855607
+            "wing_id":1477855833
         }
     ],
     "wof:id":1477855933,
     "wof:label":"A-07 International Central Case (2017~)",
-    "wof:lastmodified":1568744470,
+    "wof:lastmodified":1568919301,
     "wof:name":"A-07 International Central Case (2019-07-23)",
     "wof:parent_id":1477855927,
     "wof:placetype":"enclosure",

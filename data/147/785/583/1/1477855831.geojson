@@ -42,10 +42,9 @@
         85922583,
         102087579,
         1477855605,
-        1477855607,
+        1477855699,
         554784711,
-        102085387,
-        1477855699
+        102085387
     ],
     "wof:breaches":[],
     "wof:controlled":[
@@ -68,7 +67,7 @@
             "postalcode_id":554784711,
             "region_id":85688637,
             "venue_id":1477855615,
-            "wing_id":1477855607
+            "wing_id":1477855699
         },
         {
             "building_id":1477855605,
@@ -80,12 +79,12 @@
             "enclosure_id":1477855613,
             "region_id":85688637,
             "venue_id":1477855615,
-            "wing_id":1477855607
+            "wing_id":1477855699
         }
     ],
     "wof:id":1477855831,
     "wof:label":"F-12 Student Art (2017-04-06)",
-    "wof:lastmodified":1568744450,
+    "wof:lastmodified":1568919302,
     "wof:name":"F-12 Student Art (2019-07-23)",
     "wof:parent_id":1477855699,
     "wof:placetype":"enclosure",
