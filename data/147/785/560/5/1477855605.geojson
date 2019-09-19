@@ -41,7 +41,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522861541,
-    "wof:geomhash":"a72fdbe5930a84e30365cf47aade83d0",
+    "wof:geomhash":"ef435b26bf672ae940380ce6a2ff95fe",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -64,7 +64,7 @@
     ],
     "wof:id":1477855605,
     "wof:label":"SFO Terminal Complex (2019)",
-    "wof:lastmodified":1568766963,
+    "wof:lastmodified":1568921163,
     "wof:name":"SFO Terminal Complex",
     "wof:parent_id":102527513,
     "wof:placetype":"building",

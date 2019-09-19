@@ -8,7 +8,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"2019-07-23",
     "geom:area":0.000005,
-    "geom:area_square_m":44550.429895,
+    "geom:area_square_m":44550.429896,
     "geom:bbox":"-122.390482516,37.6139971937,-122.387332104,37.617296983",
     "geom:latitude":37.615622,
     "geom:longitude":-122.38916,
@@ -76,9 +76,9 @@
         }
     ],
     "wof:id":1477855927,
-    "wof:label":"International Terminal Main Hall (2017~)",
-    "wof:lastmodified":1568852379,
-    "wof:name":"International Terminal Main Hall (2019-07-23)",
+    "wof:label":"International Terminal Main Hall (2019)",
+    "wof:lastmodified":1568921164,
+    "wof:name":"International Terminal Main Hall",
     "wof:parent_id":1477855833,
     "wof:placetype":"concourse",
     "wof:placetype_alt":[

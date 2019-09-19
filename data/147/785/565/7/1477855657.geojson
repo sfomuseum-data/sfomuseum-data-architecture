@@ -7,7 +7,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"2019-07-23",
     "geom:area":0.000006,
-    "geom:area_square_m":58993.843178,
+    "geom:area_square_m":58993.843176,
     "geom:bbox":"-122.387642686,37.6104444246,-122.3821209,37.6157550538",
     "geom:latitude":37.613691,
     "geom:longitude":-122.38515,
@@ -83,9 +83,9 @@
         }
     ],
     "wof:id":1477855657,
-    "wof:label":"Terminal 1 (2017~)",
-    "wof:lastmodified":1568852378,
-    "wof:name":"Terminal 1 (2019-07-23)",
+    "wof:label":"Terminal 1 (2019)",
+    "wof:lastmodified":1568921167,
+    "wof:name":"Terminal 1",
     "wof:parent_id":1477855605,
     "wof:placetype":"wing",
     "wof:placetype_alt":[

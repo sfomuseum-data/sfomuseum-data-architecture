@@ -8,7 +8,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"2019-07-23",
     "geom:area":0.000001,
-    "geom:area_square_m":14351.559377,
+    "geom:area_square_m":14351.559378,
     "geom:bbox":"-122.384925736,37.6156945854,-122.382949192,37.6179345467",
     "geom:latitude":37.617003,
     "geom:longitude":-122.383697,
@@ -69,9 +69,9 @@
         }
     ],
     "wof:id":1477855655,
-    "wof:label":"Terminal 2 Main Hall (2017~)",
-    "wof:lastmodified":1568852379,
-    "wof:name":"Terminal 2 Main Hall (2019-07-23)",
+    "wof:label":"Terminal 2 Main Hall (2019)",
+    "wof:lastmodified":1568921167,
+    "wof:name":"Terminal 2 Main Hall",
     "wof:parent_id":1477855607,
     "wof:placetype":"concourse",
     "wof:placetype_alt":[

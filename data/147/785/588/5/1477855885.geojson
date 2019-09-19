@@ -8,7 +8,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"2019-07-23",
     "geom:area":0.000002,
-    "geom:area_square_m":17003.252563,
+    "geom:area_square_m":17003.252562,
     "geom:bbox":"-122.393463944,37.616892836,-122.388212219,37.6188267646",
     "geom:latitude":37.617853,
     "geom:longitude":-122.391359,
@@ -74,9 +74,9 @@
         }
     ],
     "wof:id":1477855885,
-    "wof:label":"Boarding Area G (2017~)",
-    "wof:lastmodified":1568852636,
-    "wof:name":"Boarding Area G (2019-07-23)",
+    "wof:label":"Boarding Area G (2019)",
+    "wof:lastmodified":1568921165,
+    "wof:name":"Boarding Area G",
     "wof:parent_id":1477855833,
     "wof:placetype":"concourse",
     "wof:placetype_alt":[

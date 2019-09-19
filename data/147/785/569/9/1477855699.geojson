@@ -7,7 +7,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"2019-07-23",
     "geom:area":0.000005,
-    "geom:area_square_m":50989.485902,
+    "geom:area_square_m":50989.485898,
     "geom:bbox":"-122.390321452,37.6168865612,-122.383826168,37.6212048001",
     "geom:latitude":37.619026,
     "geom:longitude":-122.386885,
@@ -85,9 +85,9 @@
         }
     ],
     "wof:id":1477855699,
-    "wof:label":"Terminal 3 (2017~)",
-    "wof:lastmodified":1568852379,
-    "wof:name":"Terminal 3 (2019-07-23)",
+    "wof:label":"Terminal 3 (2019)",
+    "wof:lastmodified":1568921163,
+    "wof:name":"Terminal 3",
     "wof:parent_id":1477855605,
     "wof:placetype":"wing",
     "wof:placetype_alt":[

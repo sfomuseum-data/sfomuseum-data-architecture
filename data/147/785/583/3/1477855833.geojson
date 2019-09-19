@@ -7,7 +7,7 @@
     "edtf:cessation":"open",
     "edtf:inception":"2019-07-23",
     "geom:area":0.000008,
-    "geom:area_square_m":76115.234839,
+    "geom:area_square_m":76115.234853,
     "geom:bbox":"-122.393463944,37.6114578652,-122.387332104,37.6188267646",
     "geom:latitude":37.615598,
     "geom:longitude":-122.389685,
@@ -84,9 +84,9 @@
         }
     ],
     "wof:id":1477855833,
-    "wof:label":"International Terminal (2017~)",
-    "wof:lastmodified":1568852379,
-    "wof:name":"International Terminal (2019-07-23)",
+    "wof:label":"International Terminal (2019)",
+    "wof:lastmodified":1568921169,
+    "wof:name":"International Terminal",
     "wof:parent_id":1477855605,
     "wof:placetype":"wing",
     "wof:placetype_alt":[
