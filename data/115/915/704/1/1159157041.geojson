@@ -2,9 +2,11 @@
   "id": 1159157041,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2019-07-23",
+    "date:cessation_upper":"2019-07-23",
     "date:inception_lower":"2017-01-01",
     "date:inception_upper":"2017-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2019-07-23",
     "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":87.445228,
@@ -13,7 +15,7 @@
     "geom:longitude":-122.389267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:eng_x_preferred":[
         "A-07 International Central Case"
     ],
@@ -64,7 +66,7 @@
     ],
     "wof:id":1159157041,
     "wof:label":"A-07 International Central Case (2017~)",
-    "wof:lastmodified":1547232171,
+    "wof:lastmodified":1568744470,
     "wof:name":"A-07 International Central Case",
     "wof:parent_id":1159157335,
     "wof:placetype":"enclosure",
@@ -72,7 +74,9 @@
         "gallery"
     ],
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477855933
+    ],
     "wof:supersedes":[
         1360516199
     ],

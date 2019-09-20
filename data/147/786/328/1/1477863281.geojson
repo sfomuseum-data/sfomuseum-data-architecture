@@ -1,0 +1,73 @@
+{
+  "id": 1477863281,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"279 Upper Domestic Loop, San Francisco, Ca. 94128",
+    "date:inception_lower":"2003-02-24",
+    "date:inception_upper":"2003-02-24",
+    "edtf:cessation":"open",
+    "edtf:inception":"2003-02-24",
+    "geom:area":0.0,
+    "geom:area_square_m":897.22704,
+    "geom:bbox":"-122.386065834,37.6150356508,-122.38527776,37.615331431",
+    "geom:latitude":37.615184,
+    "geom:longitude":-122.385672,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "sfomuseum:placetype":"airtrain",
+    "src:geom":"flysfo",
+    "wof:belongsto":[
+        102527513,
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        554784711,
+        102085387
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1568840559,
+    "wof:geomhash":"be5b8dd0971f510bf252cffe828c46fb",
+    "wof:hierarchy":[
+        {
+            "building_id":1477863281,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "postalcode_id":554784711,
+            "region_id":85688637,
+            "venue_id":1477863281
+        },
+        {
+            "building_id":1477863281,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "region_id":85688637,
+            "venue_id":1477863281
+        }
+    ],
+    "wof:id":1477863281,
+    "wof:lastmodified":1568845649,
+    "wof:name":"Terminal 1 Air Train Station",
+    "wof:parent_id":102527513,
+    "wof:placetype":"venue",
+    "wof:repo":"sfomuseum-data-architecture",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.38606583442524,
+    37.61503565083899,
+    -122.38527775996369,
+    37.61533143100807
+],
+  "geometry": {"coordinates":[[[-122.3853097519864,37.61530333664485],[-122.38531356788921,37.61530242624676],[-122.38529377587922,37.61524968635925],[-122.38528949096965,37.61525070358962],[-122.38527775996369,37.61521919101231],[-122.38602195062961,37.61503565083899],[-122.38603378417426,37.61506787845457],[-122.3860307376262,37.61506861141104],[-122.38605050806402,37.6151210985032],[-122.38605494026869,37.61512004829996],[-122.38606583442524,37.61514926331387],[-122.38532079323865,37.61533143100807],[-122.3853097519864,37.61530333664485]]],"type":"Polygon"}
+}

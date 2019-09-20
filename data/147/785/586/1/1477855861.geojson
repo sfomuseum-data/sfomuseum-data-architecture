@@ -1,0 +1,102 @@
+{
+  "id": 1477855861,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2019-07-23",
+    "date:inception_upper":"2019-07-23",
+    "edtf:cessation":"open",
+    "edtf:inception":"2019-07-23",
+    "faa:latitude":37.613165,
+    "faa:longitude":-122.389612,
+    "flysfo:gate_code":"A4",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.389396328,37.613287626,-122.389396328,37.613287626",
+    "geom:latitude":37.613288,
+    "geom:longitude":-122.389396,
+    "iso:country":"US",
+    "lbl:latitude":37.613288,
+    "lbl:longitude":-122.389396,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"gate",
+    "sfomuseum:post_security":1,
+    "src:geom":"flysfo",
+    "src:geom_alt":[
+        "faa"
+    ],
+    "wof:belongsto":[
+        1477855835,
+        1477855615,
+        102527513,
+        85688637,
+        102191575,
+        85633793,
+        1477855613,
+        85922583,
+        102087579,
+        1477855605,
+        1477855833,
+        554784711,
+        102085387
+    ],
+    "wof:breaches":[],
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1522881126,
+    "wof:geomhash":"77dd81a26a30cb64c529e8bf06057811",
+    "wof:hierarchy":[
+        {
+            "building_id":1477855605,
+            "campus_id":102527513,
+            "concourse_id":1477855835,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1477855613,
+            "locality_id":85922583,
+            "postalcode_id":554784711,
+            "region_id":85688637,
+            "venue_id":1477855615,
+            "wing_id":1477855833
+        },
+        {
+            "building_id":1477855605,
+            "campus_id":102527513,
+            "concourse_id":1477855835,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "enclosure_id":1477855613,
+            "region_id":85688637,
+            "venue_id":1477855615,
+            "wing_id":1477855833
+        }
+    ],
+    "wof:id":1477855861,
+    "wof:label":"A4 (2019)",
+    "wof:lastmodified":1568921165,
+    "wof:name":"A4",
+    "wof:parent_id":1477855835,
+    "wof:placetype":"venue",
+    "wof:placetype_alt":[
+        "gate"
+    ],
+    "wof:repo":"sfomuseum-data-architecture",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1159157641
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.38939632799998,
+    37.61328762600004,
+    -122.38939632799998,
+    37.61328762600004
+],
+  "geometry": {"coordinates":[-122.38939632799998,37.61328762600004],"type":"Point"}
+}

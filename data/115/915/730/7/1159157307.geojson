@@ -2,12 +2,14 @@
   "id": 1159157307,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2019-07-23",
+    "date:cessation_upper":"2019-07-23",
     "date:inception_lower":"2017-01-01",
     "date:inception_upper":"2017-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2019-07-23",
     "edtf:inception":"2017~",
     "geom:area":0.000005,
-    "geom:area_square_m":51475.587966,
+    "geom:area_square_m":52847.449818,
     "geom:bbox":"-122.390315876,37.6167718861,-122.383837694,37.6212330284",
     "geom:latitude":37.618972,
     "geom:longitude":-122.386934,
@@ -16,7 +18,7 @@
     "lbl:longitude":-122.386773,
     "mz:hierarchy_label":1,
     "mz:is_approximate":0,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:eng_x_preferred":[
         "T3"
     ],
@@ -50,7 +52,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522868102,
-    "wof:geomhash":"713cd6f4a78c0bef8c0b9a2d7e9b020e",
+    "wof:geomhash":"9b4f8d5448197a86f744dda0329ff8e2",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -66,7 +68,7 @@
     ],
     "wof:id":1159157307,
     "wof:label":"Terminal 3 (2017~)",
-    "wof:lastmodified":1558121938,
+    "wof:lastmodified":1568744428,
     "wof:name":"Terminal 3",
     "wof:parent_id":1159157271,
     "wof:placetype":"wing",
@@ -74,7 +76,9 @@
         "terminal"
     ],
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477855699
+    ],
     "wof:supersedes":[
         1159396157
     ],

@@ -2,9 +2,11 @@
   "id": 1159157037,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2019-07-23",
+    "date:cessation_upper":"2019-07-23",
     "date:inception_lower":"2017-01-01",
     "date:inception_upper":"2017-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2019-07-23",
     "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":1128.729477,
@@ -13,7 +15,7 @@
     "geom:longitude":-122.389725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:eng_x_preferred":[
         "G-02 International North Cases"
     ],
@@ -65,7 +67,7 @@
     ],
     "wof:id":1159157037,
     "wof:label":"G-02 International North Cases (2017~)",
-    "wof:lastmodified":1547232171,
+    "wof:lastmodified":1568744475,
     "wof:name":"G-02 International North Cases",
     "wof:parent_id":1159157335,
     "wof:placetype":"enclosure",
@@ -73,7 +75,9 @@
         "gallery"
     ],
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477855961
+    ],
     "wof:supersedes":[
         1360516281
     ],

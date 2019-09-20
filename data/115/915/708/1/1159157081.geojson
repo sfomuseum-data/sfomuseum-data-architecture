@@ -2,9 +2,11 @@
   "id": 1159157081,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2019-07-23",
+    "date:cessation_upper":"2019-07-23",
     "date:inception_lower":"2017-01-01",
     "date:inception_upper":"2017-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2019-07-23",
     "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":190.098443,
@@ -13,7 +15,7 @@
     "geom:longitude":-122.384786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:eng_x_preferred":[
         "B-06 Kid's Spot"
     ],
@@ -63,7 +65,7 @@
     ],
     "wof:id":1159157081,
     "wof:label":"B-06 Kid\u2019s Spot (2017~)",
-    "wof:lastmodified":1547232168,
+    "wof:lastmodified":1568744421,
     "wof:name":"B-06 Kid\u2019s Spot",
     "wof:parent_id":1159157317,
     "wof:placetype":"enclosure",

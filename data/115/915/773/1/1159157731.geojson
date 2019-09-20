@@ -2,9 +2,11 @@
   "id": 1159157731,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2019-07-23",
+    "date:cessation_upper":"2019-07-23",
     "date:inception_lower":"2017-01-01",
     "date:inception_upper":"2017-12-31",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2019-07-23",
     "edtf:inception":"2017~",
     "faa:latitude":37.618801,
     "faa:longitude":-122.385843,
@@ -15,7 +17,7 @@
     "geom:longitude":-122.385843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":1159157731,
-    "wof:lastmodified":1547232172,
+    "wof:lastmodified":1568744442,
     "wof:name":"F70A",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
@@ -62,7 +64,9 @@
         "gate"
     ],
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477855781
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
