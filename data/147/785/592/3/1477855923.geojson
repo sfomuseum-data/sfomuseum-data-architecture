@@ -28,12 +28,10 @@
     ],
     "wof:belongsto":[
         1477855885,
-        1477855615,
         102527513,
         85688637,
         102191575,
         85633793,
-        1477855613,
         85922583,
         102087579,
         1477855605,
@@ -56,11 +54,10 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
-            "enclosure_id":1477855613,
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855615,
+            "venue_id":1477855923,
             "wing_id":1477855833
         },
         {
@@ -70,15 +67,14 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
-            "enclosure_id":1477855613,
             "region_id":85688637,
-            "venue_id":1477855615,
+            "venue_id":1477855923,
             "wing_id":1477855833
         }
     ],
     "wof:id":1477855923,
     "wof:label":"G102 (2019)",
-    "wof:lastmodified":1568921164,
+    "wof:lastmodified":1569430998,
     "wof:name":"G102",
     "wof:parent_id":1477855885,
     "wof:placetype":"venue",
