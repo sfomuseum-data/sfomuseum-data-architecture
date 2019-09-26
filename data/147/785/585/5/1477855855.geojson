@@ -71,7 +71,7 @@
     ],
     "wof:id":1477855855,
     "wof:label":"A3B (2019)",
-    "wof:lastmodified":1569521100,
+    "wof:lastmodified":1569522234,
     "wof:name":"A3B",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
@@ -80,7 +80,7 @@
     ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
-        1477930285
+        1477930283
     ],
     "wof:supersedes":[
         1159157807

@@ -70,7 +70,7 @@
     ],
     "wof:id":1477855843,
     "wof:label":"A1A (2019)",
-    "wof:lastmodified":1569521098,
+    "wof:lastmodified":1569522154,
     "wof:name":"A1A",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
@@ -79,7 +79,7 @@
     ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
-        1477930279
+        1477930281
     ],
     "wof:supersedes":[
         1159157617
