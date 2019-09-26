@@ -1,0 +1,85 @@
+{
+  "id": 1477930297,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2019-10-16",
+    "date:inception_upper":"2019-10-16",
+    "edtf:cessation":"open",
+    "edtf:inception":"2019-10-16",
+    "flysfo:gate_code":"A7",
+    "geom:area":0.0,
+    "geom:bbox":"-122.388757,37.613365,-122.388757,37.613365",
+    "geom:latitude":37.613365,
+    "geom:longitude":-122.388757,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:placetype":"gate",
+    "src:geom":"flysfo",
+    "wof:belongsto":[
+        1477855835,
+        85688637,
+        102087579,
+        554784711,
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        1477855605,
+        1477855833,
+        102085387
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1569521102,
+    "wof:geomhash":"d99fe6bc8363168a66c2f663fc070636",
+    "wof:hierarchy":[
+        {
+            "building_id":1477855605,
+            "campus_id":102527513,
+            "concourse_id":1477855835,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "postalcode_id":554784711,
+            "region_id":85688637,
+            "venue_id":1477930297,
+            "wing_id":1477855833
+        },
+        {
+            "building_id":1477855605,
+            "campus_id":102527513,
+            "concourse_id":1477855835,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "region_id":85688637,
+            "venue_id":1477930297,
+            "wing_id":1477855833
+        }
+    ],
+    "wof:id":1477930297,
+    "wof:label":"A7 (2019-10)",
+    "wof:lastmodified":1569521102,
+    "wof:name":"A7",
+    "wof:parent_id":1477855835,
+    "wof:placetype":"venue",
+    "wof:placetype_alt":[
+        "gate"
+    ],
+    "wof:repo":"sfomuseum-data-architecture",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.388757,
+    37.613365,
+    -122.388757,
+    37.613365
+],
+  "geometry": {"coordinates":[-122.388757,37.613365],"type":"Point"}
+}

@@ -2,9 +2,11 @@
   "id": 1477855897,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2019-10-16",
+    "date:cessation_upper":"2019-10-16",
     "date:inception_lower":"2019-07-23",
     "date:inception_upper":"2019-07-23",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2019-10-16",
     "edtf:inception":"2019-07-23",
     "faa:latitude":37.618113,
     "faa:longitude":-122.391195,
@@ -18,7 +20,7 @@
     "lbl:latitude":37.617906,
     "lbl:longitude":-122.390944,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
@@ -74,7 +76,7 @@
     ],
     "wof:id":1477855897,
     "wof:label":"G96 (2019)",
-    "wof:lastmodified":1569430999,
+    "wof:lastmodified":1569521140,
     "wof:name":"G96",
     "wof:parent_id":1477855885,
     "wof:placetype":"venue",
@@ -82,7 +84,9 @@
         "gate"
     ],
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477930469
+    ],
     "wof:supersedes":[
         1159157657
     ],

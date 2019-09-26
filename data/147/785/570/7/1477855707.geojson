@@ -2,9 +2,11 @@
   "id": 1477855707,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2019-10-16",
+    "date:cessation_upper":"2019-10-16",
     "date:inception_lower":"2019-07-23",
     "date:inception_upper":"2019-07-23",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2019-10-16",
     "edtf:inception":"2019-07-23",
     "flysfo:gate_code":"F84",
     "geom:area":0.0,
@@ -16,7 +18,7 @@
     "lbl:latitude":37.620818,
     "lbl:longitude":-122.389182,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfomuseum:is_sfo":1,
     "sfomuseum:placetype":"gate",
     "sfomuseum:post_security":1,
@@ -66,7 +68,7 @@
     ],
     "wof:id":1477855707,
     "wof:label":"F84 (2019)",
-    "wof:lastmodified":1569431002,
+    "wof:lastmodified":1569521134,
     "wof:name":"F84",
     "wof:parent_id":1477855703,
     "wof:placetype":"venue",
@@ -74,7 +76,9 @@
         "gate"
     ],
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477930443
+    ],
     "wof:supersedes":[
         1360832521
     ],
