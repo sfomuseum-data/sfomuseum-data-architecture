@@ -74,7 +74,7 @@
     ],
     "wof:id":1477921767,
     "wof:label":"Gate D59B (2019)",
-    "wof:lastmodified":1569454882,
+    "wof:lastmodified":1569456300,
     "wof:name":"D59B",
     "wof:parent_id":1477855609,
     "wof:placetype":"venue",
@@ -82,13 +82,10 @@
         "gate"
     ],
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[
-        1477921765
-    ],
+    "wof:superseded_by":[],
     "wof:supersedes":[
         1159157773,
-        1477855633,
-        1159157773
+        1477855633
     ],
     "wof:tags":[]
 },

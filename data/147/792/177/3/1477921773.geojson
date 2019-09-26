@@ -75,7 +75,7 @@
     ],
     "wof:id":1477921773,
     "wof:label":"Gate F76B (2019)",
-    "wof:lastmodified":1569454883,
+    "wof:lastmodified":1569456433,
     "wof:name":"F76B",
     "wof:parent_id":1477855703,
     "wof:placetype":"venue",
@@ -83,13 +83,10 @@
         "gate"
     ],
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[
-        1477921771
-    ],
+    "wof:superseded_by":[],
     "wof:supersedes":[
         1159157729,
-        1477855717,
-        1159157729
+        1477855717
     ],
     "wof:tags":[]
 },

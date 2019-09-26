@@ -74,7 +74,7 @@
     ],
     "wof:id":1477921765,
     "wof:label":"Gate D59A (2019)",
-    "wof:lastmodified":1569454881,
+    "wof:lastmodified":1569456249,
     "wof:name":"D59A",
     "wof:parent_id":1477855609,
     "wof:placetype":"venue",
@@ -85,8 +85,7 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         1159157773,
-        1477855633,
-        1159157773
+        1477855633
     ],
     "wof:tags":[]
 },

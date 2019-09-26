@@ -75,7 +75,7 @@
     ],
     "wof:id":1477921771,
     "wof:label":"Gate F76A (2019)",
-    "wof:lastmodified":1569454883,
+    "wof:lastmodified":1569456402,
     "wof:name":"F76A",
     "wof:parent_id":1477855703,
     "wof:placetype":"venue",
@@ -86,8 +86,7 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         1159157729,
-        1477855717,
-        1159157729
+        1477855717
     ],
     "wof:tags":[]
 },
