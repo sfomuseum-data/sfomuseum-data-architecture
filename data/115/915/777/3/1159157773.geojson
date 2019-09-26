@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":1159157773,
-    "wof:lastmodified":1568744410,
+    "wof:lastmodified":1569454883,
     "wof:name":"D59",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",
@@ -70,7 +70,9 @@
     ],
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[
-        1477855633
+        1477921765,
+        1477921767,
+        1477921769
     ],
     "wof:supersedes":[],
     "wof:tags":[]
