@@ -75,7 +75,7 @@
     ],
     "wof:id":1477930287,
     "wof:label":"A3 (2019-10)",
-    "wof:lastmodified":1569521100,
+    "wof:lastmodified":1578003158,
     "wof:name":"A3",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
@@ -85,7 +85,8 @@
     "wof:repo":"sfomuseum-data-architecture",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        1477855867
+        1477855867,
+        1477855849
     ],
     "wof:tags":[]
 },

@@ -70,7 +70,7 @@
     ],
     "wof:id":1477930281,
     "wof:label":"A1 (2019-10)",
-    "wof:lastmodified":1569522338,
+    "wof:lastmodified":1578003312,
     "wof:name":"A1",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
@@ -81,7 +81,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[
         1477855853,
-        1477855843
+        1477855843,
+        1477855841
     ],
     "wof:tags":[]
 },
