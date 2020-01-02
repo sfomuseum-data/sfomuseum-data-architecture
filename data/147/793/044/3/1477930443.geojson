@@ -7,6 +7,12 @@
     "edtf:cessation":"open",
     "edtf:inception":"2019-10-16",
     "flysfo:gate_code":"F15",
+    "flysfo:gate_code_alt":[
+        "F15K",
+        "F15L",
+        "F15M",
+        "F15N"
+    ],
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.389181919,37.620817571,-122.389181919,37.620817571",
@@ -67,7 +73,7 @@
     ],
     "wof:id":1477930443,
     "wof:label":"F15 (2019-10)",
-    "wof:lastmodified":1569521134,
+    "wof:lastmodified":1578008145,
     "wof:name":"F15",
     "wof:parent_id":1477855703,
     "wof:placetype":"venue",
