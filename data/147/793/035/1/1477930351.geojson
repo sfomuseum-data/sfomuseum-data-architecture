@@ -9,6 +9,9 @@
     "faa:latitude":37.61681,
     "faa:longitude":-122.380678,
     "flysfo:gate_code":"D6",
+    "flysfo:gate_code_alt":[
+        "53A"
+    ],
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.380968549,37.616838259,-122.380968549,37.616838259",
@@ -75,7 +78,7 @@
     ],
     "wof:id":1477930351,
     "wof:label":"D6 (2019-10)",
-    "wof:lastmodified":1569521113,
+    "wof:lastmodified":1578016465,
     "wof:name":"D6",
     "wof:parent_id":1477855609,
     "wof:placetype":"venue",
