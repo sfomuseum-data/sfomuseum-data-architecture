@@ -29,7 +29,6 @@
     "src:geom":"flysfo",
     "wof:belongsto":[
         1477855703,
-        1477855707,
         102527513,
         85688637,
         102191575,
@@ -56,7 +55,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855707,
+            "venue_id":1477930443,
             "wing_id":1477855699
         },
         {
@@ -67,13 +66,13 @@
             "country_id":85633793,
             "county_id":102085387,
             "region_id":85688637,
-            "venue_id":1477855707,
+            "venue_id":1477930443,
             "wing_id":1477855699
         }
     ],
     "wof:id":1477930443,
     "wof:label":"F15 (2019-10)",
-    "wof:lastmodified":1578008145,
+    "wof:lastmodified":1578700237,
     "wof:name":"F15",
     "wof:parent_id":1477855703,
     "wof:placetype":"venue",

@@ -30,7 +30,6 @@
     ],
     "wof:belongsto":[
         1477855703,
-        1477855717,
         102527513,
         85688637,
         102191575,
@@ -60,7 +59,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855717,
+            "venue_id":1477921773,
             "wing_id":1477855699
         },
         {
@@ -71,13 +70,13 @@
             "country_id":85633793,
             "county_id":102085387,
             "region_id":85688637,
-            "venue_id":1477855717,
+            "venue_id":1477921773,
             "wing_id":1477855699
         }
     ],
     "wof:id":1477921773,
     "wof:label":"Gate F76B (2019)",
-    "wof:lastmodified":1578002507,
+    "wof:lastmodified":1578700238,
     "wof:name":"F76B",
     "wof:parent_id":1477855703,
     "wof:placetype":"venue",

@@ -23,7 +23,6 @@
     "src:geom":"sfomuseum",
     "wof:belongsto":[
         1477855703,
-        1477855767,
         102527513,
         85688637,
         102191575,
@@ -53,7 +52,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855767,
+            "venue_id":1477930449,
             "wing_id":1477855699
         },
         {
@@ -64,13 +63,13 @@
             "country_id":85633793,
             "county_id":102085387,
             "region_id":85688637,
-            "venue_id":1477855767,
+            "venue_id":1477930449,
             "wing_id":1477855699
         }
     ],
     "wof:id":1477930449,
     "wof:label":"F18 (2019-10)",
-    "wof:lastmodified":1569521136,
+    "wof:lastmodified":1578700237,
     "wof:name":"F18",
     "wof:parent_id":1477855703,
     "wof:placetype":"venue",

@@ -28,7 +28,6 @@
     ],
     "wof:belongsto":[
         1477855669,
-        1477855687,
         102527513,
         85688637,
         102191575,
@@ -58,7 +57,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855687,
+            "venue_id":1477930331,
             "wing_id":1477855657
         },
         {
@@ -69,13 +68,13 @@
             "country_id":85633793,
             "county_id":102085387,
             "region_id":85688637,
-            "venue_id":1477855687,
+            "venue_id":1477930331,
             "wing_id":1477855657
         }
     ],
     "wof:id":1477930331,
     "wof:label":"C8 (2019-10)",
-    "wof:lastmodified":1569521109,
+    "wof:lastmodified":1578700238,
     "wof:name":"C8",
     "wof:parent_id":1477855669,
     "wof:placetype":"venue",

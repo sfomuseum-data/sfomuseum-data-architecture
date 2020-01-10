@@ -29,7 +29,6 @@
     ],
     "wof:belongsto":[
         1477855609,
-        1477855633,
         102527513,
         85688637,
         102191575,
@@ -59,7 +58,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855633,
+            "venue_id":1477921769,
             "wing_id":1477855607
         },
         {
@@ -70,13 +69,13 @@
             "country_id":85633793,
             "county_id":102085387,
             "region_id":85688637,
-            "venue_id":1477855633,
+            "venue_id":1477921769,
             "wing_id":1477855607
         }
     ],
     "wof:id":1477921769,
     "wof:label":"Gate D59C (2019)",
-    "wof:lastmodified":1569521119,
+    "wof:lastmodified":1578700238,
     "wof:name":"D59C",
     "wof:parent_id":1477855609,
     "wof:placetype":"venue",

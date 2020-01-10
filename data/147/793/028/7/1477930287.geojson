@@ -28,7 +28,6 @@
     ],
     "wof:belongsto":[
         1477855835,
-        1477855867,
         102527513,
         85688637,
         102191575,
@@ -58,7 +57,7 @@
             "locality_id":85922583,
             "postalcode_id":554784711,
             "region_id":85688637,
-            "venue_id":1477855867,
+            "venue_id":1477930287,
             "wing_id":1477855833
         },
         {
@@ -69,13 +68,13 @@
             "country_id":85633793,
             "county_id":102085387,
             "region_id":85688637,
-            "venue_id":1477855867,
+            "venue_id":1477930287,
             "wing_id":1477855833
         }
     ],
     "wof:id":1477930287,
     "wof:label":"A3 (2019-10)",
-    "wof:lastmodified":1578003158,
+    "wof:lastmodified":1578700237,
     "wof:name":"A3",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
