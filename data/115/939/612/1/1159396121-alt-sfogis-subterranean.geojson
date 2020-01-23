@@ -2,9 +2,11 @@
   "id": 1159396121,
   "type": "Feature",
   "properties": {
+    "src:alt_label":"sfogis-subterranean",
     "src:geom":"sfogis-subterranean",
-    "wof:geomhash":"c899f26aa8675710014e88975ac4bde6",
-    "wof:id":1159396121
+    "wof:geomhash":"55c15fb3c317a1272b1f085296a4447b",
+    "wof:id":1159396121,
+    "wof:repo":"sfomuseum-data-architecture"
 },
   "bbox": [
     -122.38486521591712,

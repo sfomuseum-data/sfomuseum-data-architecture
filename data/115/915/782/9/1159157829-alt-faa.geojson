@@ -2,9 +2,11 @@
   "id": 1159157829,
   "type": "Feature",
   "properties": {
+    "src:alt_label":"faa",
     "src:geom":"faa",
     "wof:geomhash":"fa4a7e0acf877f9dbf0b55afb637e8c5",
-    "wof:id":1159157829
+    "wof:id":1159157829,
+    "wof:repo":"sfomuseum-data-architecture"
 },
   "bbox": [
     -122.380833,

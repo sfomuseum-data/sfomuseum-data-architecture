@@ -2,9 +2,11 @@
   "id": 1159396121,
   "type": "Feature",
   "properties": {
+    "src:alt_label":"sfogis-ground",
     "src:geom":"sfogis-ground",
-    "wof:geomhash":"ac7931874e0a6c8efb2464bd950b8665",
-    "wof:id":1159396121
+    "wof:geomhash":"9224185d43590999c67d025b37da2a65",
+    "wof:id":1159396121,
+    "wof:repo":"sfomuseum-data-architecture"
 },
   "bbox": [
     -122.38470480804204,
