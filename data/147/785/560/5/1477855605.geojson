@@ -23,7 +23,7 @@
     "sfomuseum:post_security":-2,
     "src:geom":"sfomuseum",
     "src:geom_alt":[
-        "alt-sfomuseum-reversegeo"
+        "sfomuseum-reversegeo"
     ],
     "wof:belongsto":[
         102527513,
