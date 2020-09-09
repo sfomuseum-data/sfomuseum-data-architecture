@@ -2,12 +2,12 @@
   "id": 1360516499,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2000-01-01",
-    "date:cessation_upper":"2000-12-31",
-    "date:inception_lower":"1988-01-01",
-    "date:inception_upper":"1988-12-31",
-    "edtf:cessation":"2000~",
-    "edtf:inception":"1988~",
+    "date:cessation_lower":"1996-12-30",
+    "date:cessation_upper":"1996-12-30",
+    "date:inception_lower":"1987-07-01",
+    "date:inception_upper":"1987-07-01",
+    "edtf:cessation":"1996-12-30",
+    "edtf:inception":"1987-07-01",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.38274,37.617227,-122.38274,37.617227",
@@ -60,7 +60,7 @@
     ],
     "wof:id":1360516499,
     "wof:label":"D-03 Central Concourse (1988~ - 2000~)",
-    "wof:lastmodified":1551734392,
+    "wof:lastmodified":1599694745,
     "wof:name":"D-03 Central Concourse",
     "wof:parent_id":1159554829,
     "wof:placetype":"enclosure",
@@ -68,9 +68,7 @@
         "gallery"
     ],
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[
-        1360516501
-    ],
+    "wof:superseded_by":[],
     "wof:supersedes":[
         1159157911
     ],
