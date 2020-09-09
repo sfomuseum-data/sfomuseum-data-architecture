@@ -2,15 +2,15 @@
   "id": 1159157077,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-07-23",
-    "date:cessation_upper":"2019-07-23",
+    "date:cessation_lower":"2019-07-22",
+    "date:cessation_upper":"2019-07-22",
     "date:inception_lower":"2017-01-01",
     "date:inception_upper":"2017-12-31",
-    "edtf:cessation":"2019-07-23",
+    "edtf:cessation":"2019-07-22",
     "edtf:inception":"2017~",
     "geom:area":0.0,
-    "geom:area_square_m":88.966289,
-    "geom:bbox":"-122.385682981,37.6125128753,-122.385524921,37.612645442",
+    "geom:area_square_m":88.567843,
+    "geom:bbox":"-122.385683,37.612513,-122.385525,37.612645",
     "geom:latitude":37.61258,
     "geom:longitude":-122.385605,
     "iso:country":"US",
@@ -48,7 +48,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522859223,
-    "wof:geomhash":"8ccc14cb70374f2c6b2942ac0adf0725",
+    "wof:geomhash":"d3339b686697ff35939cd77226544310",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -66,7 +66,7 @@
     ],
     "wof:id":1159157077,
     "wof:label":"B-03 Gate 36 (2017~)",
-    "wof:lastmodified":1568744415,
+    "wof:lastmodified":1599694845,
     "wof:name":"B-03 Gate 36",
     "wof:parent_id":1159396217,
     "wof:placetype":"enclosure",
@@ -81,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38568298094306,
-    37.61251287533349,
-    -122.385524920667,
-    37.61264544201664
+    -122.385683,
+    37.612513,
+    -122.385525,
+    37.612645
 ],
-  "geometry": {"coordinates":[[[-122.38568298094306,37.61256386251932],[-122.38556316105637,37.61264544201664],[-122.385524920667,37.6125970041901],[-122.38564728991298,37.61251287533349],[-122.38568298094306,37.61256386251932]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.385683,37.612564],[-122.385563,37.612645],[-122.385525,37.612597],[-122.38564700000001,37.612513],[-122.385683,37.612564]]],"type":"Polygon"}
 }
