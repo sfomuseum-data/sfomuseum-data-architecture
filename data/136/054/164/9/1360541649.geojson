@@ -7,6 +7,7 @@
     "date:inception_lower":"2017-01-01",
     "date:inception_upper":"2017-12-31",
     "edtf:cessation":"2019-07-23",
+    "edtf:deprecated":"2020-09-09",
     "edtf:inception":"2017~",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -58,7 +59,7 @@
     ],
     "wof:id":1360541649,
     "wof:label":"AML Aviation Museum Gallery 03 (2017~)",
-    "wof:lastmodified":1568744473,
+    "wof:lastmodified":1599695066,
     "wof:name":"AML Aviation Museum Gallery 03",
     "wof:parent_id":1159157863,
     "wof:placetype":"enclosure",
@@ -66,12 +67,8 @@
         "gallery"
     ],
     "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[
-        1477855951
-    ],
-    "wof:supersedes":[
-        1360541647
-    ],
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
