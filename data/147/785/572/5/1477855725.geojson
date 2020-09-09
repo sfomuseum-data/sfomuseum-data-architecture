@@ -2,18 +2,20 @@
   "id": 1477855725,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower":"2020-01-10",
+    "date:cessation_upper":"2020-01-10",
     "date:inception_lower":"2019-07-23",
     "date:inception_upper":"2019-07-23",
-    "edtf:cessation":"open",
+    "edtf:cessation":"2020-01-10",
     "edtf:inception":"2019-07-23",
     "geom:area":0.0,
-    "geom:area_square_m":2123.229928,
-    "geom:bbox":"-122.38748861,37.6185415858,-122.386908487,37.6196249494",
+    "geom:area_square_m":2124.986942,
+    "geom:bbox":"-122.387489,37.618542,-122.386908,37.619625",
     "geom:latitude":37.619087,
     "geom:longitude":-122.387197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "name:eng_x_preferred":[
         "F-02 North Connector"
     ],
@@ -48,7 +50,7 @@
     ],
     "wof:country":"US",
     "wof:created":1522859216,
-    "wof:geomhash":"1a13d6dcd3bacbe713a71693333ff659",
+    "wof:geomhash":"88a6b9826a0b5e5fe9c237c73fc2157c",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -76,8 +78,8 @@
         }
     ],
     "wof:id":1477855725,
-    "wof:label":"F-02 North Connector (2019)",
-    "wof:lastmodified":1569431003,
+    "wof:label":"F-02 North Connector (2019-07-23 - 2020-01-10)",
+    "wof:lastmodified":1599693550,
     "wof:name":"F-02 North Connector",
     "wof:parent_id":1477855703,
     "wof:placetype":"enclosure",
@@ -92,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38748861037539,
-    37.61854158582849,
-    -122.38690848665146,
-    37.6196249494093
+    -122.387489,
+    37.618542,
+    -122.386908,
+    37.619625
 ],
-  "geometry": {"coordinates":[[[-122.38748861037539,37.61955505498473],[-122.38729989542905,37.6196249494093],[-122.38690848665146,37.61862545913797],[-122.38709021215534,37.61854158582849],[-122.38748861037539,37.61955505498473]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.387489,37.619555],[-122.3873,37.619625],[-122.38690800000001,37.618625],[-122.38709,37.618542],[-122.387489,37.619555]]],"type":"Polygon"}
 }
