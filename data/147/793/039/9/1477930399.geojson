@@ -2,97 +2,97 @@
   "id": 1477930399,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2019-10-16",
-    "date:inception_upper":"2019-10-16",
-    "edtf:cessation":"open",
-    "edtf:inception":"2019-10-16",
-    "faa:latitude":37.619557,
-    "faa:longitude":-122.383709,
-    "flysfo:gate_code":"E11",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.383869936,37.619366877,-122.383869936,37.619366877",
-    "geom:latitude":37.619367,
-    "geom:longitude":-122.38387,
-    "iso:country":"US",
-    "lbl:latitude":37.619367,
-    "lbl:longitude":-122.38387,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"gate",
-    "sfomuseum:post_security":1,
-    "src:geom":"flysfo",
-    "src:geom_alt":[
-        "faa"
+    "date:inception_lower": "2019-10-16",
+    "date:inception_upper": "2019-10-16",
+    "edtf:cessation": "..",
+    "edtf:inception": "2019-10-16",
+    "faa:latitude": 37.619557,
+    "faa:longitude": -122.383709,
+    "flysfo:gate_code": "E11",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.383870,37.619367,-122.383870,37.619367",
+    "geom:latitude": 37.61936687700006,
+    "geom:longitude": -122.38386993599994,
+    "iso:country": "US",
+    "lbl:latitude": 37.619367,
+    "lbl:longitude": -122.38387,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "faa"
     ],
-    "wof:belongsto":[
-        1477855785,
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1477855605,
-        1477855699,
-        554784711,
-        102085387
+    "wof:belongsto": [
+      1477855785, 
+      102527513, 
+      85688637, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1477855605, 
+      1477855699, 
+      554784711, 
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
     ],
-    "wof:country":"US",
-    "wof:created":1522881143,
-    "wof:geomhash":"c290abe9f04c602914856cbc94a2f814",
-    "wof:hierarchy":[
-        {
-            "building_id":1477855605,
-            "campus_id":102527513,
-            "concourse_id":1477855785,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "postalcode_id":554784711,
-            "region_id":85688637,
-            "venue_id":1477930399,
-            "wing_id":1477855699
-        },
-        {
-            "building_id":1477855605,
-            "campus_id":102527513,
-            "concourse_id":1477855785,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "region_id":85688637,
-            "venue_id":1477930399,
-            "wing_id":1477855699
-        }
+    "wof:country": "US",
+    "wof:created": 1522881143,
+    "wof:geomhash": "c290abe9f04c602914856cbc94a2f814",
+    "wof:hierarchy": [
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855785,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1477930399,
+        "wing_id": 1477855699
+      }, 
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855785,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1477930399,
+        "wing_id": 1477855699
+      }
     ],
-    "wof:id":1477930399,
-    "wof:label":"E11 (2019-10)",
-    "wof:lastmodified":1578700236,
-    "wof:name":"E11",
-    "wof:parent_id":1477855785,
-    "wof:placetype":"venue",
-    "wof:placetype_alt":[
-        "gate"
+    "wof:id": 1477930399,
+    "wof:label": "E11 (2019-10)",
+    "wof:lastmodified": 1612561837,
+    "wof:name": "E11",
+    "wof:parent_id": 1477855785,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
     ],
-    "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1477855805
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1477855805
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38386993599994,
-    37.61936687700006,
-    -122.38386993599994,
+    -122.38386993599994, 
+    37.61936687700006, 
+    -122.38386993599994, 
     37.61936687700006
-],
+  ],
   "geometry": {"coordinates":[-122.38386993599994,37.61936687700006],"type":"Point"}
 }

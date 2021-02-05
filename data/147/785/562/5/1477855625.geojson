@@ -2,100 +2,100 @@
   "id": 1477855625,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2019-07-23",
-    "date:inception_upper":"2019-07-23",
-    "edtf:cessation":"open",
-    "edtf:inception":"2019-07-23",
-    "geom:area":0.0,
-    "geom:area_square_m":244.245562,
-    "geom:bbox":"-122.381311655,37.6174481112,-122.3811239,37.6176350747",
-    "geom:latitude":37.617538,
-    "geom:longitude":-122.381226,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "name:eng_x_preferred":[
-        "D-14 Wall Case"
+    "date:inception_lower": "2019-07-23",
+    "date:inception_upper": "2019-07-23",
+    "edtf:cessation": "..",
+    "edtf:inception": "2019-07-23",
+    "geom:area": 2.4936993970542138e-8,
+    "geom:area_square_m": 244.245562,
+    "geom:bbox": "-122.381312,37.617448,-122.381124,37.617635",
+    "geom:latitude": 37.61753800404816,
+    "geom:longitude": -122.3812258897383,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "name:eng_x_preferred": [
+      "D-14 Wall Case"
     ],
-    "name:eng_x_variant":[
-        "D-14",
-        "D14"
+    "name:eng_x_variant": [
+      "D-14", 
+      "D14"
     ],
-    "sfomuseum:gallery_id":67,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:level":"D",
-    "sfomuseum:location":"T2",
-    "sfomuseum:map_id":"D14",
-    "sfomuseum:placetype":"gallery",
-    "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        1477855609,
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1477855605,
-        1477855607,
-        554784711,
-        102085387
+    "sfomuseum:gallery_id": 67,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "T2",
+    "sfomuseum:map_id": "D14",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1477855609, 
+      102527513, 
+      85688637, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1477855605, 
+      1477855607, 
+      554784711, 
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
     ],
-    "wof:country":"US",
-    "wof:created":1522859223,
-    "wof:geomhash":"ba48b791b0aea04851af88adbc11f885",
-    "wof:hierarchy":[
-        {
-            "building_id":1477855605,
-            "campus_id":102527513,
-            "concourse_id":1477855609,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "enclosure_id":1477855625,
-            "locality_id":85922583,
-            "postalcode_id":554784711,
-            "region_id":85688637,
-            "wing_id":1477855607
-        },
-        {
-            "building_id":1477855605,
-            "campus_id":102527513,
-            "concourse_id":1477855609,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "enclosure_id":1477855625,
-            "region_id":85688637,
-            "wing_id":1477855607
-        }
+    "wof:country": "US",
+    "wof:created": 1522859223,
+    "wof:geomhash": "ba48b791b0aea04851af88adbc11f885",
+    "wof:hierarchy": [
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855609,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1477855625,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1477855607
+      }, 
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855609,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1477855625,
+        "region_id": 85688637,
+        "wing_id": 1477855607
+      }
     ],
-    "wof:id":1477855625,
-    "wof:label":"D-14 Kids\u2019 Spot (2019)",
-    "wof:lastmodified":1569431003,
-    "wof:name":"D-14 Kids\u2019 Spot",
-    "wof:parent_id":1477855609,
-    "wof:placetype":"enclosure",
-    "wof:placetype_alt":[
-        "gallery"
+    "wof:id": 1477855625,
+    "wof:label": "D-14 Kids’ Spot (2019)",
+    "wof:lastmodified": 1612561837,
+    "wof:name": "D-14 Kids’ Spot",
+    "wof:parent_id": 1477855609,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
     ],
-    "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1159157069
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1159157069
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38131165504457,
-    37.61744811116623,
-    -122.38112390041351,
+    -122.38131165504457, 
+    37.61744811116623, 
+    -122.38112390041351, 
     37.61763507467127
-],
-  "geometry": {"coordinates":[[[-122.38131165504457,37.61761807800842],[-122.38128483295441,37.61744811116623],[-122.38112390041351,37.61746510786793],[-122.38118827342988,37.61763507467127],[-122.38131165504457,37.61761807800842]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[-122.38131165504457,37.61761807800842],[-122.3812848329544,37.61744811116623],[-122.38112390041351,37.61746510786793],[-122.38118827342988,37.61763507467127],[-122.38131165504457,37.61761807800842]]],"type":"Polygon"}
 }

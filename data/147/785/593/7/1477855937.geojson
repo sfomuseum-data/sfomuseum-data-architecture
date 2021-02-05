@@ -2,99 +2,100 @@
   "id": 1477855937,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2019-07-23",
-    "date:inception_upper":"2019-07-23",
-    "edtf:cessation":"open",
-    "edtf:inception":"2019-07-23",
-    "geom:area":0.0,
-    "geom:area_square_m":1610.179263,
-    "geom:bbox":"-122.388225881,37.6142887818,-122.387660819,37.6147458235",
-    "geom:latitude":37.614512,
-    "geom:longitude":-122.387939,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "name:eng_x_preferred":[
-        "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum"
+    "date:inception_lower": "2019-07-23",
+    "date:inception_upper": "2019-07-23",
+    "edtf:cessation": "..",
+    "edtf:inception": "2019-07-23",
+    "geom:area": 1.6438945893244685e-7,
+    "geom:area_square_m": 1610.179263,
+    "geom:bbox": "-122.388226,37.614289,-122.387661,37.614746",
+    "geom:latitude": 37.61451158575807,
+    "geom:longitude": -122.38793856287857,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "name:eng_x_preferred": [
+      "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum"
     ],
-    "name:eng_x_variant":[
-        "AML",
-        "Aviation Museum and Library"
+    "name:eng_x_variant": [
+      "AML", 
+      "Aviation Museum and Library"
     ],
-    "sfomuseum:gallery_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:map_id":"AML",
-    "sfomuseum:placetype":"museum",
-    "sfomuseum:placetype_alt":"gallery",
-    "sfomuseum:post_security":0,
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        1477855927,
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1477855605,
-        1477855833,
-        554784711,
-        102085387
+    "sfomuseum:gallery_id": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:map_id": "AML",
+    "sfomuseum:placetype": "museum",
+    "sfomuseum:placetype_alt": "gallery",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1477855927, 
+      102527513, 
+      85688637, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1477855605, 
+      1477855833, 
+      554784711, 
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:parent_id",
-        "wof:hierarchy"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:parent_id", 
+      "wof:hierarchy"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"d89fb864db8484ce6fa366827e161d57",
-    "wof:hierarchy":[
-        {
-            "building_id":1477855605,
-            "campus_id":102527513,
-            "concourse_id":1477855927,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "postalcode_id":554784711,
-            "region_id":85688637,
-            "venue_id":1477855937,
-            "wing_id":1477855833
-        },
-        {
-            "building_id":1477855605,
-            "campus_id":102527513,
-            "concourse_id":1477855927,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "region_id":85688637,
-            "venue_id":1477855937,
-            "wing_id":1477855833
-        }
+    "wof:country": "US",
+    "wof:created": 1612561837,
+    "wof:geomhash": "d89fb864db8484ce6fa366827e161d57",
+    "wof:hierarchy": [
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855927,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1477855937,
+        "wing_id": 1477855833
+      }, 
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855927,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1477855937,
+        "wing_id": 1477855833
+      }
     ],
-    "wof:id":1477855937,
-    "wof:label":"San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum (2019)",
-    "wof:lastmodified":1569430998,
-    "wof:name":"San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum",
-    "wof:parent_id":1477855927,
-    "wof:placetype":"venue",
-    "wof:placetype_alt":[
-        "museum"
+    "wof:id": 1477855937,
+    "wof:label": "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum (2019)",
+    "wof:lastmodified": 1612561837,
+    "wof:name": "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum",
+    "wof:parent_id": 1477855927,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "museum"
     ],
-    "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1159157863
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1159157863
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
-    -122.3882258814731,
-    37.61428878175847,
-    -122.38766081928308,
+    -122.3882258814731, 
+    37.61428878175847, 
+    -122.38766081928308, 
     37.61474582346396
-],
-  "geometry": {"coordinates":[[[-122.3882258814731,37.61460455791645],[-122.38776676844371,37.61474582346396],[-122.38766081928308,37.61439972287257],[-122.38811105489729,37.61428878175847],[-122.3882258814731,37.61460455791645]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[-122.3882258814731,37.61460455791645],[-122.38776676844371,37.61474582346396],[-122.38766081928308,37.61439972287257],[-122.3881110548973,37.61428878175847],[-122.3882258814731,37.61460455791645]]],"type":"Polygon"}
 }

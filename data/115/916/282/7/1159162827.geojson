@@ -2,68 +2,68 @@
   "id": 1159162827,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"1980-01-01",
-    "date:inception_upper":"1980-12-31",
-    "edtf:cessation":"open",
-    "edtf:inception":1980,
-    "geom:area":0.0,
-    "geom:area_square_m":2424.225561,
-    "geom:bbox":"-122.386472225,37.6161053595,-122.385833859,37.6166110188",
-    "geom:latitude":37.616357,
-    "geom:longitude":-122.386155,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"concourse",
-    "sfomuseum:post_security":0,
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159160869,
-        85688637
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1980-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": 1980,
+    "geom:area": 2.475047457570636e-7,
+    "geom:area_square_m": 2424.225561,
+    "geom:bbox": "-122.386472,37.616105,-122.385834,37.616611",
+    "geom:latitude": 37.61635747477365,
+    "geom:longitude": -122.38615540108617,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "concourse",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159160869, 
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
     ],
-    "wof:country":"US",
-    "wof:created":1523380208,
-    "wof:geomhash":"c281b9d9eefc83b5710e64b9d646067d",
-    "wof:hierarchy":[
-        {
-            "building_id":-1,
-            "campus_id":102527513,
-            "concourse_id":1159162827,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159160869
-        }
+    "wof:country": "US",
+    "wof:created": 1523380208,
+    "wof:geomhash": "c281b9d9eefc83b5710e64b9d646067d",
+    "wof:hierarchy": [
+      {
+        "building_id": -1,
+        "campus_id": 102527513,
+        "concourse_id": 1159162827,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159160869
+      }
     ],
-    "wof:id":1159162827,
-    "wof:label":"Loan Objects (1980)",
-    "wof:lastmodified":1547232174,
-    "wof:name":"Loan Objects",
-    "wof:parent_id":1159160869,
-    "wof:placetype":"concourse",
-    "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159162827,
+    "wof:label": "Loan Objects (1980)",
+    "wof:lastmodified": 1612561837,
+    "wof:name": "Loan Objects",
+    "wof:parent_id": 1159160869,
+    "wof:placetype": "concourse",
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38647222518921,
-    37.6161053594541,
-    -122.38583385944366,
+    -122.38647222518921, 
+    37.6161053594541, 
+    -122.38583385944366, 
     37.61661101879963
-],
-  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.38646686077119,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[-122.38647222518921,37.61631782178288],[-122.386434674263,37.61623283692423],[-122.38637566566466,37.61617759671399],[-122.38630056381224,37.6161308549656],[-122.38616108894348,37.6161053594541],[-122.38602161407469,37.6161308549656],[-122.38591432571411,37.61618609521055],[-122.38585531711577,37.61626683087935],[-122.38583385944366,37.61636881265146],[-122.38587141036987,37.61646654505181],[-122.38594114780425,37.61654303118856],[-122.38605380058287,37.61660252035167],[-122.38618254661559,37.61661101879963],[-122.3863059282303,37.61657277577607],[-122.3864185810089,37.61650903735973],[-122.3864668607712,37.61641130501523],[-122.38647222518921,37.61631782178288]]],"type":"Polygon"}
 }

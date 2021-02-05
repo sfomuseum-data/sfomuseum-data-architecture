@@ -2,92 +2,92 @@
   "id": 1477930413,
   "type": "Feature",
   "properties": {
-    "date:inception_lower":"2019-10-16",
-    "date:inception_upper":"2019-10-16",
-    "edtf:cessation":"open",
-    "edtf:inception":"2019-10-16",
-    "faa:latitude":37.618524,
-    "faa:longitude":-122.388029,
-    "flysfo:gate_code":"F3A",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.388028585,37.6185242847,-122.388028585,37.6185242847",
-    "geom:latitude":37.618524,
-    "geom:longitude":-122.388029,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"gate",
-    "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        1477855703,
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1477855605,
-        1477855699,
-        554784711,
-        102085387
+    "date:inception_lower": "2019-10-16",
+    "date:inception_upper": "2019-10-16",
+    "edtf:cessation": "..",
+    "edtf:inception": "2019-10-16",
+    "faa:latitude": 37.618524,
+    "faa:longitude": -122.388029,
+    "flysfo:gate_code": "F3A",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.388029,37.618524,-122.388029,37.618524",
+    "geom:latitude": 37.61852428470225,
+    "geom:longitude": -122.38802858470801,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1477855703, 
+      102527513, 
+      85688637, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1477855605, 
+      1477855699, 
+      554784711, 
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
     ],
-    "wof:country":"US",
-    "wof:created":1522881129,
-    "wof:geomhash":"7abc924c82fa639336bd791e9aa77baf",
-    "wof:hierarchy":[
-        {
-            "building_id":1477855605,
-            "campus_id":102527513,
-            "concourse_id":1477855703,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "postalcode_id":554784711,
-            "region_id":85688637,
-            "venue_id":1477930413,
-            "wing_id":1477855699
-        },
-        {
-            "building_id":1477855605,
-            "campus_id":102527513,
-            "concourse_id":1477855703,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "region_id":85688637,
-            "venue_id":1477930413,
-            "wing_id":1477855699
-        }
+    "wof:country": "US",
+    "wof:created": 1522881129,
+    "wof:geomhash": "7abc924c82fa639336bd791e9aa77baf",
+    "wof:hierarchy": [
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855703,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1477930413,
+        "wing_id": 1477855699
+      }, 
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855703,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1477930413,
+        "wing_id": 1477855699
+      }
     ],
-    "wof:id":1477930413,
-    "wof:label":"F3A (2019-10)",
-    "wof:lastmodified":1578700235,
-    "wof:name":"F3A",
-    "wof:parent_id":1477855703,
-    "wof:placetype":"venue",
-    "wof:placetype_alt":[
-        "gate"
+    "wof:id": 1477930413,
+    "wof:label": "F3A (2019-10)",
+    "wof:lastmodified": 1612561837,
+    "wof:name": "F3A",
+    "wof:parent_id": 1477855703,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
     ],
-    "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1477855751
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1477855751
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38802858470801,
-    37.61852428470225,
-    -122.38802858470801,
+    -122.38802858470801, 
+    37.61852428470225, 
+    -122.38802858470801, 
     37.61852428470225
-],
+  ],
   "geometry": {"coordinates":[-122.38802858470801,37.61852428470225],"type":"Point"}
 }
