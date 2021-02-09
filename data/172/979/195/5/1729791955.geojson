@@ -6,7 +6,6 @@
     "date:inception_lower": "2003-02-24",
     "date:inception_upper": "2003-02-24",
     "edtf:cessation": "..",
-    "edtf:deprecated": "2021-02-09",
     "edtf:inception": "2003-02-24",
     "geom:area": 9.160222009722335e-8,
     "geom:area_square_m": 897.22704,
@@ -15,7 +14,7 @@
     "geom:longitude": -122.3856723142418,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfomuseum:placetype": "airtrain",
     "src:geom": "flysfo",
     "wof:belongsto": [
@@ -26,7 +25,8 @@
       85922583, 
       102087579, 
       554784711, 
-      102085387
+      102085387, 
+      1477863281
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -34,6 +34,7 @@
     "wof:geomhash": "be5b8dd0971f510bf252cffe828c46fb",
     "wof:hierarchy": [
       {
+        "arcade_id": 1729791955,
         "building_id": 1477863281,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -42,28 +43,29 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477863281
+        "venue_id": 1729791955
       }, 
       {
+        "arcade_id": 1729791955,
         "building_id": 1477863281,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1477863281
+        "venue_id": 1729791955
       }
     ],
-    "wof:id": 1477863281,
+    "wof:id": 1729791955,
     "wof:lastmodified": 1612908979,
     "wof:name": "Terminal 1 Air Train Station",
     "wof:parent_id": 102527513,
-    "wof:placetype": "venue",
+    "wof:placetype": "arcade",
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [],
-    "wof:supserseded_by": [
-      1729791955
+    "wof:supsersedes": [
+      1477863281
     ],
     "wof:tags": []
   },

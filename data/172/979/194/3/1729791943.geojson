@@ -6,7 +6,6 @@
     "date:inception_lower": "2003-02-24",
     "date:inception_upper": "2003-02-24",
     "edtf:cessation": "..",
-    "edtf:deprecated": "2021-02-09",
     "edtf:inception": "2003-02-24",
     "geom:area": 6.1091378220454e-8,
     "geom:area_square_m": 598.274062,
@@ -15,7 +14,7 @@
     "geom:longitude": -122.40120557053544,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfomuseum:placetype": "airtrain",
     "src:geom": "unknown",
     "wof:belongsto": [
@@ -34,6 +33,7 @@
     "wof:geomhash": "d54a3c3a58473b7ee85e900ab0322d65",
     "wof:hierarchy": [
       {
+        "arcade_id": 1729791943,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -41,27 +41,28 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477855975
+        "venue_id": 1729791943
       }, 
       {
+        "arcade_id": 1729791943,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1477855975
+        "venue_id": 1729791943
       }
     ],
-    "wof:id": 1477855975,
+    "wof:id": 1729791943,
     "wof:lastmodified": 1612908976,
     "wof:name": "Rental Car Center AirTrain Station",
     "wof:parent_id": 102527513,
-    "wof:placetype": "venue",
+    "wof:placetype": "arcade",
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [],
-    "wof:supserseded_by": [
-      1729791943
+    "wof:supsersedes": [
+      1477855975
     ],
     "wof:tags": []
   },
