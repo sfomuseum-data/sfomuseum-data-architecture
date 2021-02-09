@@ -1,0 +1,102 @@
+{
+  "id": 1729792535,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2020-05-01",
+    "date:inception_upper": "2020-05-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2020-~05",
+    "faa:latitude": 37.620345,
+    "faa:longitude": -122.389305,
+    "flysfo:gate_code": "F16",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389387,37.620538,-122.389387,37.620538",
+    "geom:latitude": 37.620537736507416,
+    "geom:longitude": -122.3893869225035,
+    "iso:country": "US",
+    "lbl:latitude": 37.620533,
+    "lbl:longitude": -122.389374,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfo:id": "F16",
+    "sfo:level": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "F16",
+    "sfomuseum:parent_id": "400F",
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "src:geom_alt": [
+      "faa"
+    ],
+    "wof:belongsto": [
+      102527513, 
+      85688637, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      554784711, 
+      102085387, 
+      1729792387, 
+      1729792489, 
+      1729792487
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1612909981,
+    "wof:geomhash": "08536527755576eb59693d5033b2fc24",
+    "wof:hierarchy": [
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792489,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1729792535,
+        "wing_id": 1729792487
+      }, 
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792489,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1729792535,
+        "wing_id": 1729792487
+      }
+    ],
+    "wof:id": 1729792535,
+    "wof:label": "F16 (2020-~05)",
+    "wof:lastmodified": 1612909981,
+    "wof:name": "F16",
+    "wof:parent_id": 1729792489,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1477930445
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.3893869225035, 
+    37.620537736507416, 
+    -122.3893869225035, 
+    37.620537736507416
+  ],
+  "geometry": {"coordinates":[-122.3893869225035,37.620537736507416],"type":"Point"}
+}

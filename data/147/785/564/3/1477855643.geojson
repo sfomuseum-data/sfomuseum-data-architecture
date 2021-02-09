@@ -2,101 +2,67 @@
   "id": 1477855643,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-10-16",
-    "date:cessation_upper":"2019-10-16",
-    "date:inception_lower":"2019-07-23",
-    "date:inception_upper":"2019-07-23",
-    "edtf:cessation":"2019-10-16",
-    "edtf:inception":"2019-07-23",
-    "faa:latitude":37.617821,
-    "faa:longitude":-122.380874,
-    "flysfo:gate_code":"55",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.381052119,37.617559662,-122.381052119,37.617559662",
-    "geom:latitude":37.61756,
-    "geom:longitude":-122.381052,
-    "iso:country":"US",
-    "lbl:latitude":37.61756,
-    "lbl:longitude":-122.381052,
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"gate",
-    "sfomuseum:post_security":1,
-    "src:geom":"flysfo",
-    "src:geom_alt":[
-        "faa"
+    "date:cessation_lower": "2019-10-16",
+    "date:cessation_upper": "2019-10-16",
+    "date:inception_lower": "2019-07-23",
+    "date:inception_upper": "2019-07-23",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2021-01-29",
+    "edtf:inception": "",
+    "faa:latitude": 37.617821,
+    "faa:longitude": -122.380874,
+    "flysfo:gate_code": "55",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.381052,37.617560,-122.381052,37.617560",
+    "geom:latitude": 37.61755966200008,
+    "geom:longitude": -122.38105211899995,
+    "iso:country": "US",
+    "lbl:latitude": 37.61756,
+    "lbl:longitude": -122.381052,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "flysfo",
+    "src:geom_alt": [
+      "faa"
     ],
-    "wof:belongsto":[
-        1477855609,
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1477855605,
-        1477855607,
-        554784711,
-        102085387
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:hierarchy"
+    "wof:country": "US",
+    "wof:created": 1522881144,
+    "wof:geomhash": "0bc840f8ef21e7b2242e3c6de7f76e3d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 1477855643
+      }
     ],
-    "wof:country":"US",
-    "wof:created":1522881144,
-    "wof:geomhash":"0bc840f8ef21e7b2242e3c6de7f76e3d",
-    "wof:hierarchy":[
-        {
-            "building_id":1477855605,
-            "campus_id":102527513,
-            "concourse_id":1477855609,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "postalcode_id":554784711,
-            "region_id":85688637,
-            "venue_id":1477855643,
-            "wing_id":1477855607
-        },
-        {
-            "building_id":1477855605,
-            "campus_id":102527513,
-            "concourse_id":1477855609,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "region_id":85688637,
-            "venue_id":1477855643,
-            "wing_id":1477855607
-        }
+    "wof:id": 1477855643,
+    "wof:label": "D55 (2019)",
+    "wof:lastmodified": 1612909929,
+    "wof:name": "D55",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
     ],
-    "wof:id":1477855643,
-    "wof:label":"D55 (2019)",
-    "wof:lastmodified":1569521115,
-    "wof:name":"D55",
-    "wof:parent_id":1477855609,
-    "wof:placetype":"venue",
-    "wof:placetype_alt":[
-        "gate"
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [
+      1477930357
     ],
-    "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[
-        1477930357
-    ],
-    "wof:supersedes":[
-        1159157793
-    ],
-    "wof:tags":[]
-},
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38105211899995,
-    37.61755966200008,
-    -122.38105211899995,
+    -122.38105211899995, 
+    37.61755966200008, 
+    -122.38105211899995, 
     37.61755966200008
-],
+  ],
   "geometry": {"coordinates":[-122.38105211899995,37.61755966200008],"type":"Point"}
 }

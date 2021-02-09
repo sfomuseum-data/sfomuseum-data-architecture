@@ -2,9 +2,11 @@
   "id": 1477855605,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-05-01",
+    "date:cessation_upper": "2020-05-31",
     "date:inception_lower": "2019-07-23",
     "date:inception_upper": "2019-07-23",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2020-~05",
     "edtf:inception": "2019-07-23",
     "geom:area": 0.000022329371436197144,
     "geom:area_square_m": 218709.389505,
@@ -16,7 +18,7 @@
     "lbl:longitude": -122.389412,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 0,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:building_id": "SFO",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "building",
@@ -64,12 +66,14 @@
     ],
     "wof:id": 1477855605,
     "wof:label": "SFO Terminal Complex (2019)",
-    "wof:lastmodified": 1612561837,
+    "wof:lastmodified": 1612909931,
     "wof:name": "SFO Terminal Complex",
     "wof:parent_id": 102527513,
     "wof:placetype": "building",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729792387
+    ],
     "wof:supersedes": [
       1159157271
     ],

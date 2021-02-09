@@ -2,11 +2,11 @@
   "id": 1477855957,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2008-12-31",
-    "date:cessation_upper": "2018-12-31",
+    "date:cessation_lower": "2020-05-01",
+    "date:cessation_upper": "2020-05-31",
     "date:inception_lower": "2019-07-23",
     "date:inception_upper": "2019-07-23",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2020-~05",
     "edtf:inception": "2019-07-23",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -15,7 +15,7 @@
     "geom:longitude": -122.388951,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "G-03 Video Arts Gallery"
     ],
@@ -80,7 +80,7 @@
     ],
     "wof:id": 1477855957,
     "wof:label": "G-03 Video Arts Gallery (2019)",
-    "wof:lastmodified": 1612561837,
+    "wof:lastmodified": 1612910073,
     "wof:name": "G-03 Video Arts Gallery",
     "wof:parent_id": 1477855927,
     "wof:placetype": "enclosure",
@@ -88,7 +88,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729792793
+    ],
     "wof:supersedes": [
       1159157939
     ],

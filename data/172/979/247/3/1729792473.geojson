@@ -1,0 +1,97 @@
+{
+  "id": 1729792473,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2020-05-01",
+    "date:inception_upper": "2020-05-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2020-~05",
+    "faa:latitude": 37.615179,
+    "faa:longitude": -122.382366,
+    "flysfo:gate_code": "C7",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.382352,37.614928,-122.382352,37.614928",
+    "geom:latitude": 37.61492757992414,
+    "geom:longitude": -122.3823520394826,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfo:id": "C7",
+    "sfo:level": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "C7",
+    "sfomuseum:parent_id": "200C",
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513, 
+      85688637, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      554784711, 
+      102085387, 
+      1729792387, 
+      1729792459, 
+      1729792435
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1612909959,
+    "wof:geomhash": "47fd76b4253fce60039043dc7b32962a",
+    "wof:hierarchy": [
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792459,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1729792473,
+        "wing_id": 1729792435
+      }, 
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792459,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1729792473,
+        "wing_id": 1729792435
+      }
+    ],
+    "wof:id": 1729792473,
+    "wof:label": "C7 (2020-~05)",
+    "wof:lastmodified": 1612909959,
+    "wof:name": "C7",
+    "wof:parent_id": 1729792459,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1477930327
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.3823520394826, 
+    37.61492757992414, 
+    -122.3823520394826, 
+    37.61492757992414
+  ],
+  "geometry": {"coordinates":[-122.3823520394826,37.61492757992414],"type":"Point"}
+}

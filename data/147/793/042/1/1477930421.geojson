@@ -2,9 +2,11 @@
   "id": 1477930421,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-05-01",
+    "date:cessation_upper": "2020-05-31",
     "date:inception_lower": "2019-10-16",
     "date:inception_upper": "2019-10-16",
-    "edtf:cessation": "",
+    "edtf:cessation": "2020-~05",
     "edtf:deprecated": "2020-01-02",
     "edtf:inception": "2019-10-16",
     "faa:latitude": 37.620033,
@@ -75,7 +77,7 @@
     ],
     "wof:id": 1477930421,
     "wof:label": "F5 (2019-10)",
-    "wof:lastmodified": 1612561837,
+    "wof:lastmodified": 1612909966,
     "wof:name": "F5",
     "wof:parent_id": 1477855703,
     "wof:placetype": "venue",
@@ -84,7 +86,8 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
-      1477930417
+      1477930417, 
+      1729792491
     ],
     "wof:supersedes": [
       1477921773

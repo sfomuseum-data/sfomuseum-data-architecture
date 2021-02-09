@@ -1,0 +1,101 @@
+{
+  "id": 1729792769,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2020-05-01",
+    "date:inception_upper": "2020-05-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2020-~05",
+    "geom:area": 5.149763612791257e-8,
+    "geom:area_square_m": 504.394795,
+    "geom:bbox": "-122.382890,37.617318,-122.382508,37.617519",
+    "geom:latitude": 37.6174220145607,
+    "geom:longitude": -122.38271164883223,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "name:eng_x_preferred": [
+      "D-12 Wall Case"
+    ],
+    "name:eng_x_variant": [
+      "D-12", 
+      "D12"
+    ],
+    "sfomuseum:gallery_id": 58,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "T2",
+    "sfomuseum:map_id": "D12",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513, 
+      85688637, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      554784711, 
+      102085387, 
+      1729792387, 
+      1729792391, 
+      1729792389
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1612910065,
+    "wof:geomhash": "7bd638857e87e4c7d2e24e75cbe08e5e",
+    "wof:hierarchy": [
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792391,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1729792769,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1729792389
+      }, 
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792391,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1729792769,
+        "region_id": 85688637,
+        "wing_id": 1729792389
+      }
+    ],
+    "wof:id": 1729792769,
+    "wof:label": "D-12 Wall Case (2020-~05)",
+    "wof:lastmodified": 1612910065,
+    "wof:name": "D-12 Wall Case",
+    "wof:parent_id": 1729792391,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1477855627
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38288955723878, 
+    37.61731843339854, 
+    -122.38250792026518, 
+    37.61751850618887
+  ],
+  "geometry": {"coordinates":[[[-122.38288955723878,37.61749316945996],[-122.38278034720035,37.61751850618887],[-122.38250792026518,37.61746510786793],[-122.38257765769958,37.61735038005604],[-122.38281966281421,37.61731843339854],[-122.38288955723878,37.61749316945996]]],"type":"Polygon"}
+}

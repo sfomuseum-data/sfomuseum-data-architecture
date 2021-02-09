@@ -2,9 +2,11 @@
   "id": 1477930353,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-05-01",
+    "date:cessation_upper": "2020-05-31",
     "date:inception_lower": "2019-10-16",
     "date:inception_upper": "2019-10-16",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2020-~05",
     "edtf:inception": "2019-10-16",
     "faa:latitude": 37.617126,
     "faa:longitude": -122.380517,
@@ -18,7 +20,7 @@
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
@@ -74,7 +76,7 @@
     ],
     "wof:id": 1477930353,
     "wof:label": "D7 (2019-10)",
-    "wof:lastmodified": 1612561837,
+    "wof:lastmodified": 1612909938,
     "wof:name": "D7",
     "wof:parent_id": 1477855609,
     "wof:placetype": "venue",
@@ -82,7 +84,9 @@
       "gate"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729792407
+    ],
     "wof:supersedes": [
       1477855637
     ],

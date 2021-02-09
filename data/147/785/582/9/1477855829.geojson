@@ -3,9 +3,11 @@
   "type": "Feature",
   "properties": {
     "addr:full": "400 Upper Domestic Loop, San Francisco, Ca. 94128",
+    "date:cessation_lower": "2020-05-01",
+    "date:cessation_upper": "2020-05-31",
     "date:inception_lower": "2019-07-23",
     "date:inception_upper": "2019-07-23",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2020-~05",
     "edtf:inception": "2019-07-23",
     "geom:area": 0.0000015472509999991607,
     "geom:area_square_m": 15159.339913,
@@ -16,7 +18,7 @@
     "lbl:latitude": 37.618234,
     "lbl:longitude": -122.386923,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:building_id": "400",
     "sfo:parts": [
       "293E005B-3A4A-4C42-9EBE-0F2B051EC69F", 
@@ -71,7 +73,7 @@
     ],
     "wof:id": 1477855829,
     "wof:label": "Terminal 3 Main Hall (2019)",
-    "wof:lastmodified": 1612561837,
+    "wof:lastmodified": 1612909996,
     "wof:name": "Terminal 3 Main Hall",
     "wof:parent_id": 1477855699,
     "wof:placetype": "concourse",
@@ -79,7 +81,9 @@
       "commonarea"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729792577
+    ],
     "wof:supersedes": [
       1159157309
     ],
