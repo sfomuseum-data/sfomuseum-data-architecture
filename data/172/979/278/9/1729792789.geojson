@@ -21,6 +21,7 @@
       "A-07", 
       "A07"
     ],
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 59,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -77,7 +78,7 @@
     ],
     "wof:id": 1729792789,
     "wof:label": "A-07 International Central Case (2020-~05)",
-    "wof:lastmodified": 1612910072,
+    "wof:lastmodified": 1612997519,
     "wof:name": "A-07 International Central Case",
     "wof:parent_id": 1729792679,
     "wof:placetype": "enclosure",

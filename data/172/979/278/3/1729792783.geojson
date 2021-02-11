@@ -23,6 +23,7 @@
       "A-02", 
       "A02"
     ],
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 17,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1729792783,
     "wof:label": "A-02 International South Cases (2020-~05)",
-    "wof:lastmodified": 1612910070,
+    "wof:lastmodified": 1612997519,
     "wof:name": "A-02 International South Cases",
     "wof:parent_id": 1729792679,
     "wof:placetype": "enclosure",

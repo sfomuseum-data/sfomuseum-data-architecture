@@ -21,6 +21,7 @@
       "F-05", 
       "F05"
     ],
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 37,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -77,7 +78,7 @@
     ],
     "wof:id": 1729792779,
     "wof:label": "F-05 Terminal 3 Hub (2020-~05)",
-    "wof:lastmodified": 1612910069,
+    "wof:lastmodified": 1612997519,
     "wof:name": "F-05 Terminal 3 Hub",
     "wof:parent_id": 1729792489,
     "wof:placetype": "enclosure",

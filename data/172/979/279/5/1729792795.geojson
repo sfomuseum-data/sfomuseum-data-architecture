@@ -21,6 +21,7 @@
       "G-02", 
       "G02"
     ],
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 20,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -78,7 +79,7 @@
     ],
     "wof:id": 1729792795,
     "wof:label": "G-02 International North Cases (2020-~05)",
-    "wof:lastmodified": 1612910074,
+    "wof:lastmodified": 1612997519,
     "wof:name": "G-02 International North Cases",
     "wof:parent_id": 1729792679,
     "wof:placetype": "enclosure",

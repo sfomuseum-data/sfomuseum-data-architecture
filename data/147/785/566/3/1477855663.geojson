@@ -21,6 +21,7 @@
       "C-05", 
       "C05"
     ],
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 40,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "A",
@@ -74,7 +75,7 @@
     ],
     "wof:id": 1477855663,
     "wof:label": "C-05 Terminal One Lower Gallery (2019)",
-    "wof:lastmodified": 1612561837,
+    "wof:lastmodified": 1612997519,
     "wof:name": "C-05 Terminal One Lower Gallery",
     "wof:parent_id": 1477855657,
     "wof:placetype": "enclosure",

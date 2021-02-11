@@ -24,6 +24,7 @@
       "A-01", 
       "A01"
     ],
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 18,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1729792785,
     "wof:label": "A-01 International South Wall (2020-~05)",
-    "wof:lastmodified": 1612910071,
+    "wof:lastmodified": 1612997519,
     "wof:name": "A-01 International South Wall",
     "wof:parent_id": 1729792679,
     "wof:placetype": "enclosure",
