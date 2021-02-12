@@ -8,11 +8,11 @@
     "date:inception_upper": "2019-07-23",
     "edtf:cessation": "..",
     "edtf:inception": "2019-07-23",
-    "geom:area": 0,
+    "geom:area": 2.042976655570678e-9,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
-    "geom:latitude": 37.614512,
-    "geom:longitude": -122.387939,
+    "geom:bbox": "-122.387831,37.614305,-122.387739,37.614345",
+    "geom:latitude": 37.61432579691942,
+    "geom:longitude": -122.38778595038471,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -43,7 +43,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1612561837,
-    "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
+    "wof:geomhash": "11c613826d521658333109b153e01805",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1477855941,
     "wof:label": "AML Aviation Museum Perimeter 08 (2019-07-23)",
-    "wof:lastmodified": 1612997519,
+    "wof:lastmodified": 1613163906,
     "wof:name": "AML Aviation Museum Perimeter 08",
     "wof:parent_id": 1477855937,
     "wof:placetype": "enclosure",
@@ -89,10 +89,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
-    37.614512
+    -122.38783122802734, 
+    37.61430485431349, 
+    -122.38773949669941, 
+    37.61434542778545
   ],
-  "geometry": {"coordinates":[-122.387939,37.614512],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38781887957934,37.61430485431349],[-122.38773949669941,37.61432425901747],[-122.38775008108341,37.61434542778545],[-122.38783122802734,37.614329551209465],[-122.38781887957934,37.61430485431349]]],"type":"Polygon"}
 }

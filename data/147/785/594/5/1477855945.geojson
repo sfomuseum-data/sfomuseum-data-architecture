@@ -8,11 +8,11 @@
     "date:inception_upper": "2019-07-23",
     "edtf:cessation": "..",
     "edtf:inception": "2019-07-23",
-    "geom:area": 0,
+    "geom:area": 1.2681081297116657e-9,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
-    "geom:latitude": 37.614512,
-    "geom:longitude": -122.387939,
+    "geom:bbox": "-122.387988,37.614268,-122.387925,37.614303",
+    "geom:latitude": 37.61428515740258,
+    "geom:longitude": -122.38795590153687,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -43,7 +43,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1612561837,
-    "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
+    "wof:geomhash": "3e31b72de94d6056123ba068df053115",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1477855945,
     "wof:label": "AML Aviation Museum Gallery 04 (2019)",
-    "wof:lastmodified": 1612997519,
+    "wof:lastmodified": 1613163906,
     "wof:name": "AML Aviation Museum Gallery 04",
     "wof:parent_id": 1477855937,
     "wof:placetype": "enclosure",
@@ -89,10 +89,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
-    37.614512
+    -122.3879882297232, 
+    37.61426780896951, 
+    -122.38792472341926, 
+    37.61430309024948
   ],
-  "geometry": {"coordinates":[-122.387939,37.614512],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.3879882297232,37.614288977737495],[-122.38797235314722,37.61426780896951],[-122.38792472341926,37.614280157417504],[-122.38793883593125,37.61430309024948],[-122.3879882297232,37.614288977737495]]],"type":"Polygon"}
 }

@@ -8,11 +8,11 @@
     "date:inception_upper": "2019-07-23",
     "edtf:cessation": "..",
     "edtf:inception": "2019-07-23",
-    "geom:area": 0,
+    "geom:area": 1.1280716488588273e-9,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
-    "geom:latitude": 37.614512,
-    "geom:longitude": -122.387939,
+    "geom:bbox": "-122.387926,37.614317,-122.387847,37.614347",
+    "geom:latitude": 37.61433163483264,
+    "geom:longitude": -122.38788505833887,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -43,7 +43,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1612561837,
-    "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
+    "wof:geomhash": "98e3976160084598b1cfbbb7cb8bc9c1",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1477855939,
     "wof:label": "AML Aviation Museum Ceiling 07 (2019-07-23)",
-    "wof:lastmodified": 1612997519,
+    "wof:lastmodified": 1613163906,
     "wof:name": "AML Aviation Museum Ceiling 07",
     "wof:parent_id": 1477855937,
     "wof:placetype": "enclosure",
@@ -89,10 +89,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
-    37.614512
+    -122.38792648748326, 
+    37.61431720276148, 
+    -122.38784710460332, 
+    37.61434719184945
   ],
-  "geometry": {"coordinates":[-122.387939,37.614512],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38785063273133,37.61434719184945],[-122.38792648748326,37.61432955120946],[-122.38792119529126,37.61431720276148],[-122.38784710460332,37.61433131527346],[-122.38785063273133,37.61434719184945]]],"type":"Polygon"}
 }

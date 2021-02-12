@@ -8,11 +8,11 @@
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "..",
     "edtf:inception": "2020-~05",
-    "geom:area": 0,
+    "geom:area": 1.2671303204692656e-8,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.388951,37.616280,-122.388951,37.616280",
-    "geom:latitude": 37.61628,
-    "geom:longitude": -122.388951,
+    "geom:bbox": "-122.389217,37.616310,-122.389060,37.616440",
+    "geom:latitude": 37.61637514596525,
+    "geom:longitude": -122.38914343976053,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,7 +52,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1612910073,
-    "wof:geomhash": "ad766229632efc7fa10371e51d6ba230",
+    "wof:geomhash": "8a76f69a3170f1a7248736152f638e6f",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -81,7 +81,7 @@
     ],
     "wof:id": 1729792793,
     "wof:label": "G-03 Video Arts Gallery (2020-~05)",
-    "wof:lastmodified": 1612997519,
+    "wof:lastmodified": 1613163906,
     "wof:name": "G-03 Video Arts Gallery",
     "wof:parent_id": 1729792679,
     "wof:placetype": "enclosure",
@@ -96,10 +96,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.388951, 
-    37.61628, 
-    -122.388951, 
-    37.61628
+    -122.38921669554072, 
+    37.61630976029948, 
+    -122.38905977259772, 
+    37.616439891520514
   ],
-  "geometry": {"coordinates":[-122.388951,37.61628],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38918990381875,37.61630976029948],[-122.38905977259772,37.61634803418802],[-122.38910952865281,37.616439891520514],[-122.38921669554072,37.61640927240968],[-122.38918990381875,37.61630976029948]]],"type":"Polygon"}
 }
