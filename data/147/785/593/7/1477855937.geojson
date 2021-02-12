@@ -6,11 +6,11 @@
     "date:inception_upper": "2019-07-23",
     "edtf:cessation": "..",
     "edtf:inception": "2019-07-23",
-    "geom:area": 1.6438945893244685e-7,
+    "geom:area": 1.0995872339090463e-7,
     "geom:area_square_m": 1610.179263,
-    "geom:bbox": "-122.388226,37.614289,-122.387661,37.614746",
-    "geom:latitude": 37.61451158575807,
-    "geom:longitude": -122.38793856287857,
+    "geom:bbox": "-122.388259,37.614280,-122.387666,37.614599",
+    "geom:latitude": 37.61443869345006,
+    "geom:longitude": -122.38796285208475,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -21,7 +21,6 @@
       "AML", 
       "Aviation Museum and Library"
     ],
-    "sfomuseum:gallery_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:map_id": "AML",
     "sfomuseum:placetype": "museum",
@@ -48,7 +47,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1612561837,
-    "wof:geomhash": "d89fb864db8484ce6fa366827e161d57",
+    "wof:geomhash": "4078bca5c48d24436ce58268f63d45a0",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -77,7 +76,7 @@
     ],
     "wof:id": 1477855937,
     "wof:label": "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum (2019)",
-    "wof:lastmodified": 1612561837,
+    "wof:lastmodified": 1613173538,
     "wof:name": "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum",
     "wof:parent_id": 1477855927,
     "wof:placetype": "venue",
@@ -92,10 +91,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.3882258814731, 
-    37.61428878175847, 
-    -122.38766081928308, 
-    37.61474582346396
+    -122.38825857639313, 
+    37.61428028304505, 
+    -122.38766580820082, 
+    37.61459898413271
   ],
-  "geometry": {"coordinates":[[[-122.3882258814731,37.61460455791645],[-122.38776676844371,37.61474582346396],[-122.38766081928308,37.61439972287257],[-122.3881110548973,37.61428878175847],[-122.3882258814731,37.61460455791645]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38819420337676,37.61428028304505],[-122.38766580820082,37.614403514294246],[-122.38773822784424,37.61459898413271],[-122.38825857639313,37.61447150386156],[-122.38819420337676,37.61428028304505]]],"type":"Polygon"}
 }
