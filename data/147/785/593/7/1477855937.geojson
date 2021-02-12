@@ -6,11 +6,11 @@
     "date:inception_upper": "2019-07-23",
     "edtf:cessation": "..",
     "edtf:inception": "2019-07-23",
-    "geom:area": 1.0995872339090463e-7,
+    "geom:area": 5.227539720664788e-8,
     "geom:area_square_m": 1610.179263,
-    "geom:bbox": "-122.388259,37.614280,-122.387666,37.614599",
-    "geom:latitude": 37.61443869345006,
-    "geom:longitude": -122.38796285208475,
+    "geom:bbox": "-122.388091,37.614231,-122.387651,37.614450",
+    "geom:latitude": 37.614343528610256,
+    "geom:longitude": -122.38787615909618,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -47,7 +47,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1612561837,
-    "wof:geomhash": "4078bca5c48d24436ce58268f63d45a0",
+    "wof:geomhash": "8c73d4999634e7ef7bd5f195aa8811e1",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1477855937,
     "wof:label": "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum (2019)",
-    "wof:lastmodified": 1613173538,
+    "wof:lastmodified": 1613173866,
     "wof:name": "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum",
     "wof:parent_id": 1477855927,
     "wof:placetype": "venue",
@@ -91,10 +91,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38825857639313, 
-    37.61428028304505, 
-    -122.38766580820082, 
-    37.61459898413271
+    -122.38809052152848, 
+    37.614231308446904, 
+    -122.38765073861208, 
+    37.61445034429632
   ],
-  "geometry": {"coordinates":[[[-122.38819420337676,37.61428028304505],[-122.38766580820082,37.614403514294246],[-122.38773822784424,37.61459898413271],[-122.38825857639313,37.61447150386156],[-122.38819420337676,37.61428028304505]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38805971961216,37.614231308446904],[-122.38765073861208,37.61433740393647],[-122.38769009661627,37.61445034429632],[-122.38809052152848,37.61435964976492],[-122.38805971961216,37.614231308446904]]],"type":"Polygon"}
 }
