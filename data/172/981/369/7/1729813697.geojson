@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356048938066,
-    "geom:longitude": -122.38616641580988,
+    "geom:area": 1.8391457786684907e-9,
+    "geom:bbox": "-122.387923,37.614284,-122.387835,37.614322",
+    "geom:latitude": 37.61430307930493,
+    "geom:longitude": -122.38787917216264,
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 79,
@@ -29,7 +29,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1613508490,
-    "wof:geomhash": "b8354c80f9a9957a8c9cdff43a0ae7f7",
+    "wof:geomhash": "6cbec3942e7da19d1ef5a4aaac6aa431",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -53,7 +53,7 @@
       }
     ],
     "wof:id": 1729813697,
-    "wof:lastmodified": 1613508490,
+    "wof:lastmodified": 1613510109,
     "wof:name": "B-14 Student Art South",
     "wof:parent_id": -1,
     "wof:placetype": "enclosure",
@@ -62,10 +62,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38616641580988, 
-    37.616356048938066, 
-    -122.38616641580988, 
-    37.616356048938066
+    -122.38792295935527, 
+    37.6142836855455, 
+    -122.38783475615533, 
+    37.61432249495347
   ],
-  "geometry": {"coordinates":[-122.38616641580988,37.616356048938066],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38791590309927,37.6142836855455],[-122.38783475615533,37.61430132618549],[-122.38784357647533,37.61432249495347],[-122.38792295935527,37.61430485431349],[-122.38791590309927,37.6142836855455]]],"type":"Polygon"}
 }

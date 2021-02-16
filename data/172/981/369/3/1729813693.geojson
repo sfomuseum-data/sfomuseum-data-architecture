@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356048938066,
-    "geom:longitude": -122.38616641580988,
+    "geom:area": 3.7091028570224036e-8,
+    "geom:bbox": "-122.384498,37.613072,-122.384245,37.613317",
+    "geom:latitude": 37.613193362839176,
+    "geom:longitude": -122.38437419609423,
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 74,
@@ -29,7 +29,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1613508488,
-    "wof:geomhash": "b8354c80f9a9957a8c9cdff43a0ae7f7",
+    "wof:geomhash": "1fa2dc7055eca519ac41d143c150fa7b",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -53,7 +53,7 @@
       }
     ],
     "wof:id": 1729813693,
-    "wof:lastmodified": 1613508488,
+    "wof:lastmodified": 1613510109,
     "wof:name": "B-08 Central Photo Wall",
     "wof:parent_id": -1,
     "wof:placetype": "enclosure",
@@ -62,10 +62,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38616641580988, 
-    37.616356048938066, 
-    -122.38616641580988, 
-    37.616356048938066
+    -122.38449752508389, 
+    37.613071789329084, 
+    -122.38424491741954, 
+    37.61331674221573
   ],
-  "geometry": {"coordinates":[-122.38616641580988,37.616356048938066],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38443628686223,37.613071789329084],[-122.38424491741954,37.613140682328456],[-122.3843214651966,37.61331674221573],[-122.38449752508389,37.613247849216364],[-122.38443628686223,37.613071789329084]]],"type":"Polygon"}
 }

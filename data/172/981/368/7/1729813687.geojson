@@ -6,10 +6,10 @@
     "date:inception_upper": "2019-07-23",
     "edtf:cessation": "",
     "edtf:inception": "2019-07-23",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356048938066,
-    "geom:longitude": -122.38616641580988,
+    "geom:area": 5.066323946173457e-8,
+    "geom:bbox": "-122.385051,37.612637,-122.384714,37.612921",
+    "geom:latitude": 37.61277678334095,
+    "geom:longitude": -122.38487887446351,
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 71,
@@ -31,7 +31,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1613508485,
-    "wof:geomhash": "b8354c80f9a9957a8c9cdff43a0ae7f7",
+    "wof:geomhash": "ba8fac0c9dad34178b8127a196ec156f",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -55,7 +55,7 @@
       }
     ],
     "wof:id": 1729813687,
-    "wof:lastmodified": 1613508485,
+    "wof:lastmodified": 1613510109,
     "wof:name": "B-12 Mid-Pier Gallery",
     "wof:parent_id": -1,
     "wof:placetype": "enclosure",
@@ -64,10 +64,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38616641580988, 
-    37.616356048938066, 
-    -122.38616641580988, 
-    37.616356048938066
+    -122.38505058277327, 
+    37.612637380694174, 
+    -122.38471377255412, 
+    37.61292060746936
   ],
-  "geometry": {"coordinates":[-122.38616641580988,37.616356048938066],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38505058277327,37.61269096413813],[-122.38485538594172,37.612637380694174],[-122.38471377255412,37.61286319663655],[-122.3848898324414,37.61292060746936],[-122.38505058277327,37.61269096413813]]],"type":"Polygon"}
 }

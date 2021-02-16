@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356048938066,
-    "geom:longitude": -122.38616641580988,
+    "geom:area": 3.0147447392965556e-8,
+    "geom:bbox": "-122.383640,37.617267,-122.383395,37.617473",
+    "geom:latitude": 37.61736514510817,
+    "geom:longitude": -122.38352392514021,
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 80,
@@ -29,7 +29,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1613508492,
-    "wof:geomhash": "b8354c80f9a9957a8c9cdff43a0ae7f7",
+    "wof:geomhash": "e4f838681a7dc6fbbccff897fd00b25d",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -53,7 +53,7 @@
       }
     ],
     "wof:id": 1729813699,
-    "wof:lastmodified": 1613508492,
+    "wof:lastmodified": 1613510109,
     "wof:name": "D-15 Sky Terrace Platform",
     "wof:parent_id": -1,
     "wof:placetype": "enclosure",
@@ -62,10 +62,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38616641580988, 
-    37.616356048938066, 
-    -122.38616641580988, 
-    37.616356048938066
+    -122.38364018998064, 
+    37.61726660751291, 
+    -122.38339523709399, 
+    37.61747328651102
   ],
-  "geometry": {"coordinates":[-122.38616641580988,37.616356048938066],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.3835942613144,37.61726660751291],[-122.38339523709399,37.61732019095687],[-122.38347943964878,37.61747328651102],[-122.38364018998064,37.61740439351165],[-122.3835942613144,37.61726660751291]]],"type":"Polygon"}
 }

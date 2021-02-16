@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356048938066,
-    "geom:longitude": -122.38616641580988,
+    "geom:area": 1.599660473903134e-8,
+    "geom:bbox": "-122.385340,37.612613,-122.385079,37.612758",
+    "geom:latitude": 37.61268608760544,
+    "geom:longitude": -122.38520847541493,
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 77,
@@ -29,7 +29,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1613508490,
-    "wof:geomhash": "b8354c80f9a9957a8c9cdff43a0ae7f7",
+    "wof:geomhash": "76216a146dc422c9a6098aebf4df553d",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -53,7 +53,7 @@
       }
     ],
     "wof:id": 1729813695,
-    "wof:lastmodified": 1613508490,
+    "wof:lastmodified": 1613510109,
     "wof:name": "B-11 Alley Gallery",
     "wof:parent_id": -1,
     "wof:placetype": "enclosure",
@@ -62,10 +62,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38616641580988, 
-    37.616356048938066, 
-    -122.38616641580988, 
-    37.616356048938066
+    -122.38533955063174, 
+    37.61261250266662, 
+    -122.38507928818967, 
+    37.612757943443064
   ],
-  "geometry": {"coordinates":[-122.38616641580988,37.616356048938066],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38533955063174,37.612704359999114],[-122.38511756207822,37.61261250266662],[-122.38507928818967,37.61267374088828],[-122.38530893152091,37.612757943443064],[-122.38533955063174,37.612704359999114]]],"type":"Polygon"}
 }
