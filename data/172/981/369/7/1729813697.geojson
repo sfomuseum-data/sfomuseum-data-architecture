@@ -4,10 +4,10 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
-    "geom:area": 1.8391457786684907e-9,
-    "geom:bbox": "-122.387923,37.614284,-122.387835,37.614322",
-    "geom:latitude": 37.61430307930493,
-    "geom:longitude": -122.38787917216264,
+    "geom:area": 8.484362948490964e-9,
+    "geom:bbox": "-122.385136,37.611701,-122.384998,37.611853",
+    "geom:latitude": 37.61177834154026,
+    "geom:longitude": -122.3850680914518,
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 79,
@@ -26,18 +26,17 @@
       554784711, 
       85688637, 
       102085387, 
-      1729792697, 
-      1729813675, 
-      1729792579
+      1729792437, 
+      1729792435
     ],
     "wof:country": "US",
     "wof:created": 1613508490,
-    "wof:geomhash": "6cbec3942e7da19d1ef5a4aaac6aa431",
+    "wof:geomhash": "42704c8d8efc82f787138b6a3269d9b6",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1729792697,
+        "concourse_id": 1729792437,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -45,36 +44,34 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1729813675,
-        "wing_id": 1729792579
+        "wing_id": 1729792435
       }, 
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1729792697,
+        "concourse_id": 1729792437,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "enclosure_id": 1729813697,
         "region_id": 85688637,
-        "venue_id": 1729813675,
-        "wing_id": 1729792579
+        "wing_id": 1729792435
       }
     ],
     "wof:id": 1729813697,
-    "wof:lastmodified": 1613511143,
+    "wof:lastmodified": 1613520156,
     "wof:name": "B-14 Student Art South",
-    "wof:parent_id": 1729813675,
+    "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38792295935527, 
-    37.6142836855455, 
-    -122.38783475615533, 
-    37.61432249495347
+    -122.38513638694464, 
+    37.61170089577752, 
+    -122.38499774046356, 
+    37.61185313505086
   ],
-  "geometry": {"coordinates":[[[-122.38791590309927,37.6142836855455],[-122.38783475615533,37.61430132618549],[-122.38784357647533,37.61432249495347],[-122.38792295935527,37.61430485431349],[-122.38791590309927,37.6142836855455]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38509017145094,37.61170089577752],[-122.38499774046356,37.61183138658323],[-122.3850521116326,37.61185313505086],[-122.38513638694464,37.61172264424514],[-122.38509017145094,37.61170089577752]]],"type":"Polygon"}
 }
