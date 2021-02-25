@@ -2,8 +2,10 @@
   "id": 1729813697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2020-05-01",
+    "date:inception_upper": "2020-05-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2020-~05",
     "geom:area": 8.484362948490964e-9,
     "geom:bbox": "-122.385136,37.611701,-122.384998,37.611853",
     "geom:latitude": 37.61177834154026,
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1729813697,
-    "wof:lastmodified": 1613520156,
+    "wof:lastmodified": 1614288201,
     "wof:name": "B-14 Student Art South",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",

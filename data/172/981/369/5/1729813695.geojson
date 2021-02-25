@@ -2,8 +2,10 @@
   "id": 1729813695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2021-01-01",
+    "date:inception_upper": "2021-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021~",
     "geom:area": 1.599660473903134e-8,
     "geom:bbox": "-122.385340,37.612613,-122.385079,37.612758",
     "geom:latitude": 37.61268608760544,
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1729813695,
-    "wof:lastmodified": 1613520075,
+    "wof:lastmodified": 1614288100,
     "wof:name": "B-11 Alley Gallery",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",
