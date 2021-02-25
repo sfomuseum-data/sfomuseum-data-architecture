@@ -2,10 +2,10 @@
   "id": 1477855661,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2020-05-01",
-    "date:inception_upper": "2020-05-31",
+    "date:inception_lower": "2019-07-23",
+    "date:inception_upper": "2019-07-23",
     "edtf:cessation": "..",
-    "edtf:inception": "2020-~05",
+    "edtf:inception": "2019-07-23",
     "geom:area": 5.735546703879926e-8,
     "geom:area_square_m": 561.784265,
     "geom:bbox": "-122.384291,37.615300,-122.383952,37.615616",
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1729813677,
     "wof:label": "C-04 Entrance Lobby C Meet and Greet (2019)",
-    "wof:lastmodified": 1613520074,
+    "wof:lastmodified": 1614286767,
     "wof:name": "C-04 Entrance Lobby C Meet and Greet",
     "wof:parent_id": 1729792483,
     "wof:placetype": "enclosure",
@@ -89,7 +89,7 @@
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [
-      1477855661
+      1159157073
     ],
     "wof:tags": []
   },

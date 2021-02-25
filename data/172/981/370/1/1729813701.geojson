@@ -2,8 +2,10 @@
   "id": 1729813701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2020-01-01",
+    "date:inception_upper": "2020-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2020~",
     "geom:area": 2.5284010787603822e-8,
     "geom:bbox": "-122.383717,37.617450,-122.383456,37.617657",
     "geom:latitude": 37.61755664937602,
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1729813701,
-    "wof:lastmodified": 1613520075,
+    "wof:lastmodified": 1614286917,
     "wof:name": "D-16 Sky Terrace Wall",
     "wof:parent_id": 1729792433,
     "wof:placetype": "enclosure",

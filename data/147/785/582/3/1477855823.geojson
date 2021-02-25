@@ -5,6 +5,7 @@
     "date:inception_lower": "2002-04-07",
     "date:inception_upper": "2002-04-07",
     "edtf:cessation": "",
+    "edtf:deprecated": "2021-02-25",
     "edtf:inception": "2002-04-07",
     "geom:area": 7.982961589159585e-8,
     "geom:area_square_m": 781.898465,
@@ -76,7 +77,7 @@
     ],
     "wof:id": 1477855823,
     "wof:label": "F-09 Terminal 3 Connector Arrival Level (2019)",
-    "wof:lastmodified": 1613508478,
+    "wof:lastmodified": 1614286026,
     "wof:name": "F-09 Terminal 3 Connector Arrival Level",
     "wof:parent_id": 1477855699,
     "wof:placetype": "enclosure",
@@ -85,11 +86,9 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
-      1729813681
+      1360516179
     ],
-    "wof:supersedes": [
-      1159157049
-    ],
+    "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [

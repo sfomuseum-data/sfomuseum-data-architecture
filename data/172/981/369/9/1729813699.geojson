@@ -2,8 +2,10 @@
   "id": 1729813699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2020-01-01",
+    "date:inception_upper": "2020-12-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2020~",
     "geom:area": 3.0147447392965556e-8,
     "geom:bbox": "-122.383640,37.617267,-122.383395,37.617473",
     "geom:latitude": 37.61736514510817,
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1729813699,
-    "wof:lastmodified": 1613520075,
+    "wof:lastmodified": 1614286890,
     "wof:name": "D-15 Sky Terrace Platform",
     "wof:parent_id": 1729792433,
     "wof:placetype": "enclosure",
