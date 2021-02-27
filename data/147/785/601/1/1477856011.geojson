@@ -6,6 +6,7 @@
     "date:inception_lower": "1981-01-01",
     "date:inception_upper": "1981-12-31",
     "edtf:cessation": "..",
+    "edtf:deprecated": "2021-02-26",
     "edtf:inception": "1981~",
     "geom:area": 0.0000068683118195845516,
     "geom:area_square_m": 66287.417694,
@@ -57,12 +58,14 @@
       }
     ],
     "wof:id": 1477856011,
-    "wof:lastmodified": 1613786439,
+    "wof:lastmodified": 1614388539,
     "wof:name": "Central Parking Garage",
     "wof:parent_id": 102527513,
     "wof:placetype": "building",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1360665043
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },

@@ -28,6 +28,9 @@
       102085387
     ],
     "wof:breaches": [],
+    "wof:concordances": {
+      "flysfo:uuid": "ede31db8-98a4-4746-a0e4-a1639b7bcf7e"
+    },
     "wof:country": "US",
     "wof:created": 1568751864,
     "wof:geomhash": "47809cace3f984d82a21ff83c43dbe17",
@@ -52,7 +55,7 @@
       }
     ],
     "wof:id": 1477855991,
-    "wof:lastmodified": 1612910174,
+    "wof:lastmodified": 1614388539,
     "wof:name": "Garage G",
     "wof:parent_id": 1477855657,
     "wof:placetype": "building",
