@@ -30,7 +30,7 @@
     "sfomuseum:location": "T3",
     "sfomuseum:map_id": "F12",
     "sfomuseum:placetype": "gallery",
-    "sfomuseum:post_security": 1,
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513, 
@@ -81,7 +81,7 @@
     ],
     "wof:id": 1729813679,
     "wof:label": "F-12 Student Art (2019)",
-    "wof:lastmodified": 1613520075,
+    "wof:lastmodified": 1615245344,
     "wof:name": "F-12 Student Art",
     "wof:parent_id": 1729792577,
     "wof:placetype": "enclosure",
