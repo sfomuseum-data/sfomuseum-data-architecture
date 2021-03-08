@@ -16,6 +16,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfomuseum:placetype": "airtrain",
+    "sfomuseum:post_security": 0,
     "src:geom": "unknown",
     "wof:belongsto": [
       102527513, 
@@ -54,7 +55,7 @@
       }
     ],
     "wof:id": 1729791943,
-    "wof:lastmodified": 1612908976,
+    "wof:lastmodified": 1615234792,
     "wof:name": "Rental Car Center AirTrain Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "arcade",
