@@ -21,7 +21,7 @@
     "sfomuseum:placetype_alt": [
       "departures"
     ],
-    "sfomuseum:post_security": 1,
+    "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:belongsto": [
       1729792387, 
@@ -63,7 +63,7 @@
     ],
     "wof:id": 1729792689,
     "wof:label": "Terminal Three Departures (Post-Security) (2020-~05)",
-    "wof:lastmodified": 1612910036,
+    "wof:lastmodified": 1615234588,
     "wof:name": "Terminal Three Departures (Post-Security)",
     "wof:parent_id": 1729792487,
     "wof:placetype": "concourse",

@@ -2,74 +2,75 @@
   "id": 1159396287,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1963-01-01",
-    "date:cessation_upper":"1963-12-31",
-    "date:inception_lower":"1954-01-01",
-    "date:inception_upper":"1954-12-31",
-    "edtf:cessation":"1963~",
-    "edtf:inception":"1954~",
-    "geom:area":0.000001,
-    "geom:area_square_m":8380.708492,
-    "geom:bbox":"-122.385145521,37.6180948131,-122.383811084,37.619651734",
-    "geom:latitude":37.618876,
-    "geom:longitude":-122.384482,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":0,
-    "sfomuseum:boardingarea_id":"PIERB",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:placetype":"boardingarea",
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396329,
-        1159396131,
-        85688637
+    "date:cessation_lower": "1963-01-01",
+    "date:cessation_upper": "1963-12-31",
+    "date:inception_lower": "1954-01-01",
+    "date:inception_upper": "1954-12-31",
+    "edtf:cessation": "1963~",
+    "edtf:inception": "1954~",
+    "geom:area": 8.556693005659569e-7,
+    "geom:area_square_m": 8380.708492,
+    "geom:bbox": "-122.385146,37.618095,-122.383811,37.619652",
+    "geom:latitude": 37.618875702703626,
+    "geom:longitude": -122.38448182169705,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 0,
+    "sfomuseum:boardingarea_id": "PIERB",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:placetype": "boardingarea",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159396329, 
+      1159396131, 
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1530907283,
-    "wof:geomhash":"ae49921658006f49de80e4242e0cd368",
-    "wof:hierarchy":[
-        {
-            "building_id":1159396329,
-            "campus_id":102527513,
-            "concourse_id":1159396287,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396131
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1530907283,
+    "wof:geomhash": "ae49921658006f49de80e4242e0cd368",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396329,
+        "campus_id": 102527513,
+        "concourse_id": 1159396287,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396131
+      }
     ],
-    "wof:id":1159396287,
-    "wof:label":"Pier B (1954~ - 1963~)",
-    "wof:lastmodified":1547232160,
-    "wof:name":"Pier B",
-    "wof:parent_id":1159396131,
-    "wof:placetype":"concourse",
-    "wof:placetype_alt":[
-        "boardingarea"
+    "wof:id": 1159396287,
+    "wof:label": "Pier B (1954~ - 1963~)",
+    "wof:lastmodified": 1615234562,
+    "wof:name": "Pier B",
+    "wof:parent_id": 1159396131,
+    "wof:placetype": "concourse",
+    "wof:placetype_alt": [
+      "boardingarea"
     ],
-    "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[
-        1159396255
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [
+      1159396255
     ],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38514552055376,
-    37.61809481310821,
-    -122.38381108377355,
+    -122.38514552055376, 
+    37.61809481310821, 
+    -122.38381108377355, 
     37.61965173402951
-],
+  ],
   "geometry": {"coordinates":[[[-122.38514552055376,37.61829478642753],[-122.38433403872797,37.61965173402951],[-122.38381108377355,37.61942319722031],[-122.38465863145828,37.61809481310821],[-122.38514552055376,37.61829478642753]]],"type":"Polygon"}
 }

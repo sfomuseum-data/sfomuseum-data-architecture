@@ -25,7 +25,7 @@
     ],
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "commonarea",
-    "sfomuseum:post_security": -1,
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513, 
@@ -72,7 +72,7 @@
     ],
     "wof:id": 1477855667,
     "wof:label": "Terminal 1 Main Hall (2019)",
-    "wof:lastmodified": 1612909963,
+    "wof:lastmodified": 1615234588,
     "wof:name": "Terminal 1 Main Hall",
     "wof:parent_id": 1477855657,
     "wof:placetype": "concourse",
