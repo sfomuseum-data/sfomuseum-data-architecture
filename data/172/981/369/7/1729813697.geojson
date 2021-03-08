@@ -17,6 +17,7 @@
     "sfomuseum:location": "",
     "sfomuseum:map_id": "B14",
     "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1729792387, 
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1729813697,
-    "wof:lastmodified": 1614288201,
+    "wof:lastmodified": 1615244917,
     "wof:name": "B-14 Student Art South",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",

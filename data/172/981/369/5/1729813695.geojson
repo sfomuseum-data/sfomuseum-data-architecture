@@ -17,6 +17,7 @@
     "sfomuseum:location": "D",
     "sfomuseum:map_id": "B11",
     "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1729792387, 
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1729813695,
-    "wof:lastmodified": 1614288100,
+    "wof:lastmodified": 1615244889,
     "wof:name": "B-11 Alley Gallery",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",

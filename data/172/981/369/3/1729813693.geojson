@@ -17,6 +17,7 @@
     "sfomuseum:location": "D",
     "sfomuseum:map_id": "B08",
     "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1729792387, 
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1729813693,
-    "wof:lastmodified": 1614288002,
+    "wof:lastmodified": 1615245038,
     "wof:name": "B-08 Central Photo Wall",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",
