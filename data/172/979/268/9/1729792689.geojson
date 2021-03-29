@@ -21,7 +21,7 @@
     "sfomuseum:placetype_alt": [
       "departures"
     ],
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:belongsto": [
       1729792387, 

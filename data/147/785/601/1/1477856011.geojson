@@ -15,7 +15,7 @@
     "geom:longitude": -122.38612873477939,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 0,
     "sfo:max_level": 8,
     "sfo:min_level": 1,
@@ -58,7 +58,7 @@
       }
     ],
     "wof:id": 1477856011,
-    "wof:lastmodified": 1614388539,
+    "wof:lastmodified": 1615330823,
     "wof:name": "Central Parking Garage",
     "wof:parent_id": 102527513,
     "wof:placetype": "building",
