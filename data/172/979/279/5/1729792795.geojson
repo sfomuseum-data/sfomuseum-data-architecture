@@ -18,10 +18,10 @@
       "G-02 International North Cases"
     ],
     "name:eng_x_variant": [
-      "G-02", 
+      "G-02",
       "G02"
     ],
-    "sfo:level": 2,
+    "sfo:level": 3,
     "sfomuseum:gallery_id": 20,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -31,19 +31,19 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
       1729791965
     ],
     "wof:breaches": [],
     "wof:controlled": [
-      "wof:parent_id", 
+      "wof:parent_id",
       "wof:hierarchy"
     ],
     "wof:country": "US",
@@ -61,7 +61,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1729791965
-      }, 
+      },
       {
         "arcade_id": 1729791965,
         "campus_id": 102527513,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1729792795,
     "wof:label": "G-02 International North Cases (2020-~05)",
-    "wof:lastmodified": 1613520075,
+    "wof:lastmodified": 1617145974,
     "wof:name": "G-02 International North Cases",
     "wof:parent_id": 1729791965,
     "wof:placetype": "enclosure",
@@ -90,9 +90,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39008352342279, 
-    37.61643255118801, 
-    -122.38937719568526, 
+    -122.39008352342279,
+    37.61643255118801,
+    -122.38937719568526,
     37.6167588575159
   ],
   "geometry": {"coordinates":[[[-122.39008352342279,37.61658933885889],[-122.3894195753495,37.6167588575159],[-122.38937719568526,37.61658933885889],[-122.39003419876099,37.61643255118801],[-122.39008352342279,37.61658933885889]]],"type":"Polygon"}

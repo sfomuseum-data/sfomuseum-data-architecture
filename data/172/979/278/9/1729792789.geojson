@@ -2,9 +2,11 @@
   "id": 1729792789,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-03-01",
+    "date:cessation_upper": "2021-03-31",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-03",
     "edtf:inception": "2020-~05",
     "geom:area": 6.665251974619054e-9,
     "geom:area_square_m": 87.445228,
@@ -13,15 +15,15 @@
     "geom:longitude": -122.38919653795942,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "A-07 International Central Case"
     ],
     "name:eng_x_variant": [
-      "A-07", 
+      "A-07",
       "A07"
     ],
-    "sfo:level": 2,
+    "sfo:level": 3,
     "sfomuseum:gallery_id": 59,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -31,16 +33,16 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792679, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792679,
       1729792579
     ],
     "wof:breaches": [],
@@ -63,7 +65,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -78,7 +80,7 @@
     ],
     "wof:id": 1729792789,
     "wof:label": "A-07 International Central Case (2020-~05)",
-    "wof:lastmodified": 1613520075,
+    "wof:lastmodified": 1617145974,
     "wof:name": "A-07 International Central Case",
     "wof:parent_id": 1729792679,
     "wof:placetype": "enclosure",
@@ -93,9 +95,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38924731465156, 
-    37.615605520750364, 
-    -122.38914780254136, 
+    -122.38924731465156,
+    37.615605520750364,
+    -122.38914780254136,
     37.61570886024942
   ],
   "geometry": {"coordinates":[[[-122.38924731465156,37.61568589591629],[-122.38917076687447,37.61570886024942],[-122.38914780254136,37.61562465769463],[-122.38922052292958,37.615605520750364],[-122.38924731465156,37.61568589591629]]],"type":"Polygon"}
