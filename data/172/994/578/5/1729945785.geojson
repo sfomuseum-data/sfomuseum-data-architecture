@@ -6,7 +6,6 @@
     "date:inception_lower": "2003-06-22",
     "date:inception_upper": "2003-06-22",
     "edtf:cessation": "..",
-    "edtf:deprecated": "2021-04-01",
     "edtf:inception": "2003-06-22",
     "geom:area": 6.649970476778486e-7,
     "geom:area_square_m": 3133.951263,
@@ -15,7 +14,7 @@
     "geom:longitude": -122.39178253631275,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfomuseum:placetype": "bart",
     "src:geom": "flysfo",
     "wof:belongsto": [
@@ -37,6 +36,7 @@
     "wof:geomhash": "fdbd79160f5d858972cc97b33178681a",
     "wof:hierarchy": [
       {
+        "arcade_id": 1729945785,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -44,27 +44,26 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477856001
       },
       {
+        "arcade_id": 1729945785,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1477856001
       }
     ],
-    "wof:id": 1477856001,
+    "wof:id": 1729945785,
     "wof:lastmodified": 1617303290,
     "wof:name": "SFO Bart Station",
     "wof:parent_id": 102527513,
-    "wof:placetype": "venue",
+    "wof:placetype": "arcade",
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [],
-    "wof:supserseded_by": [
-      1729945785
+    "wof:supsersedes": [
+      1477856001
     ],
     "wof:tags": []
   },
