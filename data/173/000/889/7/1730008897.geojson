@@ -48,10 +48,11 @@
       }
     ],
     "wof:id": 1730008897,
-    "wof:lastmodified": 1619051802,
+    "wof:lastmodified": 1619052394,
     "wof:name": "Taxiway C",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
+    "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
