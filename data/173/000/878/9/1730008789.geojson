@@ -8,6 +8,7 @@
     "geom:bbox": "-122.367377,37.624426,-122.366544,37.625196",
     "geom:latitude": 37.62483023978412,
     "geom:longitude": -122.3669856108995,
+    "mz:is_current": 1,
     "sfo:id": "INTERSECTION L/E",
     "sfo:level": 0,
     "sfomuseum:name": "Taxiway INTERSECTION L/E",
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1730008789,
-    "wof:lastmodified": 1619052394,
+    "wof:lastmodified": 1619054603,
     "wof:name": "Taxiway INTERSECTION L/E",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

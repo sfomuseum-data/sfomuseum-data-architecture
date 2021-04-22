@@ -8,6 +8,7 @@
     "geom:bbox": "-122.393367,37.620109,-122.391897,37.621160",
     "geom:latitude": 37.62061983070076,
     "geom:longitude": -122.39263057820905,
+    "mz:is_current": 1,
     "sfo:id": "B5",
     "sfo:level": 0,
     "sfomuseum:name": "Taxiway B5",
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1730008923,
-    "wof:lastmodified": 1619052394,
+    "wof:lastmodified": 1619054604,
     "wof:name": "Taxiway B5",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

@@ -8,6 +8,7 @@
     "geom:bbox": "-122.383251,37.607767,-122.370315,37.626613",
     "geom:latitude": 37.61704800656121,
     "geom:longitude": -122.3768779462046,
+    "mz:is_current": 1,
     "sfo:id": "RUNWAY 01L/19R",
     "sfo:level": 0,
     "sfomuseum:name": "RUNWAY 01L/19R",
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1730008751,
-    "wof:lastmodified": 1619052394,
+    "wof:lastmodified": 1619054586,
     "wof:name": "RUNWAY 01L/19R",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

@@ -8,6 +8,7 @@
     "geom:bbox": "-122.380746,37.605793,-122.379700,37.606585",
     "geom:latitude": 37.60617851351019,
     "geom:longitude": -122.3802276146405,
+    "mz:is_current": 1,
     "sfo:id": "L2",
     "sfo:level": 0,
     "sfomuseum:name": "Taxiway L2",
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1730008913,
-    "wof:lastmodified": 1619052394,
+    "wof:lastmodified": 1619054604,
     "wof:name": "Taxiway L2",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
