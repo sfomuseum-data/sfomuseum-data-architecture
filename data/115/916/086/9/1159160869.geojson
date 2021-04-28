@@ -46,7 +46,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "custom_id": 1159160869,
+        "liminal_id": 1159160869,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637
@@ -56,16 +56,17 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
-        "custom_id": 1159160869,
+        "liminal_id": 1159160869,
         "region_id": 85688637
       }
     ],
     "wof:id": 1159160869,
     "wof:label": "Null Terminal (1980)",
-    "wof:lastmodified": 1619120908,
+    "wof:lastmodified": 1619635948,
     "wof:name": "Null Terminal",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "liminal",
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [

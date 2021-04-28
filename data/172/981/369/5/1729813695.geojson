@@ -62,10 +62,11 @@
       }
     ],
     "wof:id": 1729813695,
-    "wof:lastmodified": 1617731073,
+    "wof:lastmodified": 1619635948,
     "wof:name": "B-11 Alley Gallery",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",
+    "wof:placetype_alt": "gallery",
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

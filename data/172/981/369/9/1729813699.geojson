@@ -61,10 +61,11 @@
       }
     ],
     "wof:id": 1729813699,
-    "wof:lastmodified": 1618348398,
+    "wof:lastmodified": 1619635948,
     "wof:name": "D-15 Sky Terrace Platform",
     "wof:parent_id": 1729792433,
     "wof:placetype": "enclosure",
+    "wof:placetype_alt": "gallery",
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

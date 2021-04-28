@@ -19,14 +19,14 @@
     "sfomuseum:post_security": 1,
     "src:geom": "flysfo",
     "wof:belongsto": [
-      1159396217, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      1159157317, 
+      1159396217,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      1159157317,
       85688637
     ],
     "wof:breaches": [],
@@ -49,19 +49,20 @@
       }
     ],
     "wof:id": 1376996231,
-    "wof:lastmodified": 1612561837,
+    "wof:lastmodified": 1619635948,
     "wof:name": "B28",
     "wof:parent_id": 1159396217,
     "wof:placetype": "venue",
+    "wof:placetype_alt": "gate",
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.385688717, 
-    37.61222281100004, 
-    -122.385688717, 
+    -122.385688717,
+    37.61222281100004,
+    -122.385688717,
     37.61222281100004
   ],
   "geometry": {"coordinates":[-122.385688717,37.61222281100004],"type":"Point"}

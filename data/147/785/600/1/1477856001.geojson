@@ -56,10 +56,11 @@
       }
     ],
     "wof:id": 1477856001,
-    "wof:lastmodified": 1617303290,
+    "wof:lastmodified": 1619635948,
     "wof:name": "SFO Bart Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
+    "wof:placetype_alt": "bart",
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [],
