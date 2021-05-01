@@ -8,11 +8,11 @@
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "..",
     "edtf:inception": "2020-~05",
-    "geom:area": 1.0315650000015428e-7,
+    "geom:area": 6.7412737748096755e-9,
     "geom:area_square_m": 1010.407949,
-    "geom:bbox": "-122.389363,37.614376,-122.388678,37.614689",
-    "geom:latitude": 37.61453294852966,
-    "geom:longitude": -122.38902001837015,
+    "geom:bbox": "-122.389146,37.614562,-122.388783,37.614667",
+    "geom:latitude": 37.61461511483282,
+    "geom:longitude": -122.38895941114417,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -50,7 +50,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1612910070,
-    "wof:geomhash": "c18f6e69233e3b253ce924cdc11c0492",
+    "wof:geomhash": "650803202c246e9f37ce19cab7b2a03a",
     "wof:hierarchy": [
       {
         "arcade_id": 1729791961,
@@ -77,7 +77,7 @@
     ],
     "wof:id": 1729792783,
     "wof:label": "A-02 International South Cases (2020-~05)",
-    "wof:lastmodified": 1617145974,
+    "wof:lastmodified": 1619827864,
     "wof:name": "A-02 International South Cases",
     "wof:parent_id": 1729791961,
     "wof:placetype": "enclosure",
@@ -92,10 +92,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389363,
-    37.614376,
-    -122.388678,
-    37.614689
+    -122.389146412,
+    37.614562439999986,
+    -122.38878327700002,
+    37.614666691000025
   ],
-  "geometry": {"coordinates":[[[-122.389363,37.614527],[-122.388727,37.614689],[-122.388678,37.614541],[-122.389305,37.614376],[-122.389363,37.614527]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.389146412,37.61457799200002],[-122.38914004399999,37.614562439999986],[-122.38878327700002,37.61464776499997],[-122.388790702,37.614666691000025],[-122.389146412,37.61457799200002]]],"type":"Polygon"}
 }

@@ -7,11 +7,11 @@
     "edtf:cessation": "",
     "edtf:deprecated": "2021-02-25",
     "edtf:inception": "2002-04-07",
-    "geom:area": 7.982961589159585e-8,
+    "geom:area": 3.7480498349999886e-8,
     "geom:area_square_m": 781.898465,
-    "geom:bbox": "-122.388888,37.616756,-122.388176,37.617046",
-    "geom:latitude": 37.61690119253437,
-    "geom:longitude": -122.38853215754116,
+    "geom:bbox": "-122.388824,37.616790,-122.388228,37.616992",
+    "geom:latitude": 37.616890501152405,
+    "geom:longitude": -122.38852108759927,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -19,7 +19,7 @@
       "F-09 Terminal 3 Connector Arrival Level"
     ],
     "name:eng_x_variant": [
-      "F-09", 
+      "F-09",
       "F09"
     ],
     "sfo:level": 2,
@@ -32,25 +32,25 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855699, 
-      554784711, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1477855605,
+      1477855699,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
     "wof:controlled": [
-      "wof:parent_id", 
+      "wof:parent_id",
       "wof:hierarchy"
     ],
     "wof:country": "US",
     "wof:created": 1522859216,
-    "wof:geomhash": "aed5f57a3ca3645f504255a77c6cbfe1",
+    "wof:geomhash": "192f132a13a9df9985342b103638b1f8",
     "wof:hierarchy": [
       {
         "building_id": 1477855605,
@@ -63,7 +63,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1477855699
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -77,7 +77,7 @@
     ],
     "wof:id": 1477855823,
     "wof:label": "F-09 Terminal 3 Connector Arrival Level (2019)",
-    "wof:lastmodified": 1614286026,
+    "wof:lastmodified": 1619827864,
     "wof:name": "F-09 Terminal 3 Connector Arrival Level",
     "wof:parent_id": 1477855699,
     "wof:placetype": "enclosure",
@@ -92,10 +92,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.3888884122538, 
-    37.61675620515132, 
-    -122.38817590282852, 
-    37.61704617991742
+    -122.38882439600002,
+    37.61679041999997,
+    -122.388228142,
+    37.616991524000014
   ],
-  "geometry": {"coordinates":[[[-122.3888884122538,37.61686391006444],[-122.3882173277951,37.61704617991742],[-122.38817590282852,37.6169384750043],[-122.38884698728722,37.61675620515132],[-122.3888884122538,37.61686391006444]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38882439600002,37.61684687100001],[-122.38880322699998,37.61679041999997],[-122.388228142,37.61692801700002],[-122.38824931099998,37.616991524000014],[-122.38882439600002,37.61684687100001]]],"type":"Polygon"}
 }
