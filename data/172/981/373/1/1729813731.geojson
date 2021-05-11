@@ -74,7 +74,7 @@
     ],
     "wof:id": 1729813731,
     "wof:label": "AML Aviation Museum Ceiling 07 (2020-~05)",
-    "wof:lastmodified": 1620765235,
+    "wof:lastmodified": 1620765898,
     "wof:name": "AML Aviation Museum Ceiling 07",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",
@@ -82,12 +82,11 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729813729
+    ],
     "wof:supersedes": [
       1477855939
-    ],
-    "wof:supserseded_by": [
-      1729813729
     ],
     "wof:tags": []
   },
