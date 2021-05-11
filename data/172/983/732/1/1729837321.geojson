@@ -8,11 +8,11 @@
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "..",
     "edtf:inception": "2020-~05",
-    "geom:area": 5.735546703879926e-8,
+    "geom:area": 5.7355375901178056e-8,
     "geom:area_square_m": 561.784265,
     "geom:bbox": "-122.384291,37.615300,-122.383952,37.615616",
-    "geom:latitude": 37.6154571162206,
-    "geom:longitude": -122.38411942369108,
+    "geom:latitude": 37.61545711615287,
+    "geom:longitude": -122.3841194237983,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -20,7 +20,7 @@
       "C-04 Entrance Lobby C Meet and Greet"
     ],
     "name:eng_x_variant": [
-      "C-04", 
+      "C-04",
       "C04"
     ],
     "sfo:level": 2,
@@ -33,26 +33,26 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792483, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792483,
       1729792435
     ],
     "wof:breaches": [],
     "wof:controlled": [
-      "wof:parent_id", 
+      "wof:parent_id",
       "wof:hierarchy"
     ],
     "wof:country": "US",
     "wof:created": 1522859223,
-    "wof:geomhash": "7fac406eb19484266c4ff9c8f70f6a10",
+    "wof:geomhash": "d74820c38d626b8dbacc98a1134c022c",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -66,7 +66,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792435
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -81,7 +81,7 @@
     ],
     "wof:id": 1729837321,
     "wof:label": "C-04 Entrance Lobby C Meet and Greet (2020-~05)",
-    "wof:lastmodified": 1614291295,
+    "wof:lastmodified": 1620775543,
     "wof:name": "C-04 Entrance Lobby C Meet and Greet",
     "wof:parent_id": 1729792483,
     "wof:placetype": "enclosure",
@@ -96,10 +96,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38429078898636, 
-    37.61529954566394, 
-    -122.38395197884988, 
-    37.61561625948718
+    -122.38429078899998,
+    37.61529954600002,
+    -122.38395197900002,
+    37.61561625899998
   ],
-  "geometry": {"coordinates":[[[-122.38413979751249,37.61561625948718],[-122.38395197884988,37.61553523967193],[-122.38409192216712,37.61529954566394],[-122.38429078898636,37.61538056547919],[-122.38413979751249,37.61561625948718]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38413979799998,37.61561625899998],[-122.38429078899998,37.61538056500001],[-122.38409192199998,37.61529954600002],[-122.38395197900002,37.615535239999986],[-122.38413979799998,37.61561625899998]]],"type":"Polygon"}
 }
