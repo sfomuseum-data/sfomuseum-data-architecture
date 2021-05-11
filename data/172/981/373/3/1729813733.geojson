@@ -74,7 +74,7 @@
     ],
     "wof:id": 1729813733,
     "wof:label": "AML Aviation Museum Perimeter 08 (2020-~05)",
-    "wof:lastmodified": 1617145974,
+    "wof:lastmodified": 1620765235,
     "wof:name": "AML Aviation Museum Perimeter 08",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",
@@ -84,9 +84,6 @@
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [
-      1360541695
-    ],
-    "wof:supsersedes": [
       1477855941
     ],
     "wof:tags": []

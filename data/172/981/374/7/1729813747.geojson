@@ -26,17 +26,17 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792697, 
-      1729813675, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792697,
+      1729813675,
       1729792579
     ],
     "wof:breaches": [],
@@ -57,7 +57,7 @@
         "region_id": 85688637,
         "venue_id": 1729813675,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1729813747,
     "wof:label": "AML Aviation Museum Gallery 03 (2020-~05)",
-    "wof:lastmodified": 1613518689,
+    "wof:lastmodified": 1620765235,
     "wof:name": "AML Aviation Museum Gallery 03",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",
@@ -83,17 +83,14 @@
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [
-      1360541649
-    ],
-    "wof:supsersedes": [
       1477855951
     ],
     "wof:tags": []
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
+    -122.387939,
+    37.614512,
+    -122.387939,
     37.614512
   ],
   "geometry": {"coordinates":[-122.387939,37.614512],"type":"Point"}

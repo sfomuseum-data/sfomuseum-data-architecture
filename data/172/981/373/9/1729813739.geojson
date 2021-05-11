@@ -74,7 +74,7 @@
     ],
     "wof:id": 1729813739,
     "wof:label": "AML Aviation Museum Gallery 02 (2020-~05)",
-    "wof:lastmodified": 1617145974,
+    "wof:lastmodified": 1620765235,
     "wof:name": "AML Aviation Museum Gallery 02",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",
@@ -84,9 +84,6 @@
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [
-      1360541659
-    ],
-    "wof:supsersedes": [
       1477855947
     ],
     "wof:tags": []
