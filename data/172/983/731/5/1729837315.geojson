@@ -2,15 +2,17 @@
   "id": 1729813687,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "geom:area": 5.066304348379938e-8,
     "geom:bbox": "-122.385051,37.612637,-122.384714,37.612921",
     "geom:latitude": 37.61277678323716,
     "geom:longitude": -122.38487887460676,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 71,
     "sfomuseum:level": "D",
@@ -63,13 +65,15 @@
     ],
     "wof:id": 1729837315,
     "wof:label": "B-12 Mid-Pier Gallery (2020-~05)",
-    "wof:lastmodified": 1620775543,
+    "wof:lastmodified": 1622750285,
     "wof:name": "B-12 Mid-Pier Gallery",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": "gallery",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745882473
+    ],
     "wof:supersedes": [
       1729813687
     ]

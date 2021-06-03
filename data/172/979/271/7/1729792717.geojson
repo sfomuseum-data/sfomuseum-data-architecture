@@ -2,16 +2,18 @@
   "id": 1729792717,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "geom:area": 0,
     "geom:bbox": "-122.387997,37.617417,-122.387997,37.617417",
     "geom:latitude": 37.617416665886275,
     "geom:longitude": -122.38799736031757,
     "iso:country": "US",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "400SF3",
     "sfo:level": 2,
     "sfomuseum:is_sfo": 1,
@@ -21,16 +23,16 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792577, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792487, 
+      1729792387,
+      102527513,
+      1729792577,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1729792487,
       102085387
     ],
     "wof:concordances": {
@@ -51,7 +53,7 @@
         "region_id": 85688637,
         "venue_id": 1729792717,
         "wing_id": 1729792487
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -66,7 +68,7 @@
     ],
     "wof:id": 1729792717,
     "wof:label": "Security Checkpoint F3 (2020-~05)",
-    "wof:lastmodified": 1614387670,
+    "wof:lastmodified": 1622750230,
     "wof:name": "Security Checkpoint F3",
     "wof:parent_id": 1729792577,
     "wof:placetype": "venue",
@@ -74,13 +76,15 @@
       "checkpoint"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745882329
+    ],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38799736031757, 
-    37.617416665886275, 
-    -122.38799736031757, 
+    -122.38799736031757,
+    37.617416665886275,
+    -122.38799736031757,
     37.617416665886275
   ],
   "geometry": {"coordinates":[-122.38799736031757,37.617416665886275],"type":"Point"}

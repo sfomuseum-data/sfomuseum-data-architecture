@@ -1,0 +1,104 @@
+{
+  "id": 1745882479,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-10-10",
+    "date:cessation_upper": "2020-10-10",
+    "date:inception_lower": "2021-05-25",
+    "date:inception_upper": "2021-05-25",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-05-25",
+    "geom:area": 1.3069960688223677e-7,
+    "geom:area_square_m": 2124.986942,
+    "geom:bbox": "-122.387449,37.618585,-122.386937,37.619622",
+    "geom:latitude": 37.61910271972509,
+    "geom:longitude": -122.38719319835137,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "name:eng_x_preferred": [
+      "F-02 North Connector"
+    ],
+    "name:eng_x_variant": [
+      "F-02",
+      "F02"
+    ],
+    "sfo:level": 2,
+    "sfomuseum:gallery_id": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "T3",
+    "sfomuseum:map_id": "F02",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1745882083,
+      1745882237,
+      1745882233
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1622750288,
+    "wof:geomhash": "573e5533ef46ecab559352a24be46938",
+    "wof:hierarchy": [
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882237,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1745882479,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1745882233
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882237,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1745882479,
+        "region_id": 85688637,
+        "wing_id": 1745882233
+      }
+    ],
+    "wof:id": 1745882479,
+    "wof:label": "F-02 North Connector (2021-05-25)",
+    "wof:lastmodified": 1622750288,
+    "wof:name": "F-02 North Connector",
+    "wof:parent_id": 1745882237,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1729792771
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.387449447,
+    37.618585024000026,
+    -122.38693734200001,
+    37.61962176200001
+  ],
+  "geometry": {"coordinates":[[[-122.387449447,37.61959414500001],[-122.387056309,37.618585024000026],[-122.38693734200001,37.61861476500002],[-122.38733150299998,37.61962176200001],[-122.387449447,37.61959414500001]]],"type":"Polygon"}
+}

@@ -2,9 +2,11 @@
   "id": 1729813695,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2021-01-01",
     "date:inception_upper": "2021-12-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2021~",
     "geom:area": 1.599654634986349e-8,
     "geom:bbox": "-122.385340,37.612613,-122.385079,37.612758",
@@ -62,13 +64,15 @@
       }
     ],
     "wof:id": 1729813695,
-    "wof:lastmodified": 1619827864,
+    "wof:lastmodified": 1622750282,
     "wof:name": "B-11 Alley Gallery",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": "gallery",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745882463
+    ],
     "wof:supersedes": []
   },
   "bbox": [

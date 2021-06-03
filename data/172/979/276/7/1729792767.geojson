@@ -2,9 +2,11 @@
   "id": 1729792767,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "geom:area": 2.177484769209929e-9,
     "geom:area_square_m": 244.245562,
@@ -13,7 +15,7 @@
     "geom:longitude": -122.38107161991636,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "D-14 Wall Case"
     ],
@@ -78,7 +80,7 @@
     ],
     "wof:id": 1729792767,
     "wof:label": "D-14 Kids’ Spot (2020-~05)",
-    "wof:lastmodified": 1620775543,
+    "wof:lastmodified": 1622750279,
     "wof:name": "D-14 Kids’ Spot",
     "wof:parent_id": 1729792391,
     "wof:placetype": "enclosure",
@@ -86,7 +88,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745882455
+    ],
     "wof:supersedes": [
       1477855625
     ],

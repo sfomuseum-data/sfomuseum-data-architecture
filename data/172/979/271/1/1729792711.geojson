@@ -2,16 +2,18 @@
   "id": 1729792711,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "geom:area": 0,
     "geom:bbox": "-122.388666,37.614449,-122.388666,37.614449",
     "geom:latitude": 37.61444926640632,
     "geom:longitude": -122.3886660659811,
     "iso:country": "US",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "100SA",
     "sfo:level": 2,
     "sfomuseum:is_sfo": 1,
@@ -21,16 +23,16 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792679, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792579, 
+      1729792387,
+      102527513,
+      1729792679,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1729792579,
       102085387
     ],
     "wof:concordances": {
@@ -51,7 +53,7 @@
         "region_id": 85688637,
         "venue_id": 1729792711,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -66,7 +68,7 @@
     ],
     "wof:id": 1729792711,
     "wof:label": "Security Checkpoint A (2020-~05)",
-    "wof:lastmodified": 1614387604,
+    "wof:lastmodified": 1622750274,
     "wof:name": "Security Checkpoint A",
     "wof:parent_id": 1729792679,
     "wof:placetype": "venue",
@@ -74,13 +76,15 @@
       "checkpoint"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745882441
+    ],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.3886660659811, 
-    37.61444926640632, 
-    -122.3886660659811, 
+    -122.3886660659811,
+    37.61444926640632,
+    -122.3886660659811,
     37.61444926640632
   ],
   "geometry": {"coordinates":[-122.3886660659811,37.61444926640632],"type":"Point"}

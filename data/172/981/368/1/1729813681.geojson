@@ -2,9 +2,11 @@
   "id": 1477855823,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "geom:area": 3.7479986048440296e-8,
     "geom:area_square_m": 781.898465,
@@ -13,12 +15,12 @@
     "geom:longitude": -122.38852108758547,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "F-09 Terminal 3 Connector Arrival Level"
     ],
     "name:eng_x_variant": [
-      "F-09", 
+      "F-09",
       "F09"
     ],
     "sfo:level": 2,
@@ -31,21 +33,21 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792577, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792577,
       1729792487
     ],
     "wof:breaches": [],
     "wof:controlled": [
-      "wof:parent_id", 
+      "wof:parent_id",
       "wof:hierarchy"
     ],
     "wof:country": "US",
@@ -64,7 +66,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1729792487
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -79,7 +81,7 @@
     ],
     "wof:id": 1729813681,
     "wof:label": "F-09 Terminal 3 Connector Arrival Level (2019)",
-    "wof:lastmodified": 1613520074,
+    "wof:lastmodified": 1622750292,
     "wof:name": "F-09 Terminal 3 Connector Arrival Level",
     "wof:parent_id": 1729792577,
     "wof:placetype": "enclosure",
@@ -87,16 +89,18 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745882493
+    ],
     "wof:supersedes": [
       1477855823
     ],
     "wof:tags": []
   },
   "bbox": [
-    -122.3888243960585, 
-    37.61679042048741, 
-    -122.388228142427, 
+    -122.3888243960585,
+    37.61679042048741,
+    -122.388228142427,
     37.61699152378324
   ],
   "geometry": {"coordinates":[[[-122.3888243960585,37.61684687053536],[-122.38824931119498,37.61699152378324],[-122.388228142427,37.616928017479296],[-122.38880322729051,37.61679042048741],[-122.3888243960585,37.61684687053536]]],"type":"Polygon"}

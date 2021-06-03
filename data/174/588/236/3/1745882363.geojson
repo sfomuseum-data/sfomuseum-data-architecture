@@ -1,0 +1,106 @@
+{
+  "id": 1745882363,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2019-10-16",
+    "date:cessation_upper": "2019-10-16",
+    "date:inception_lower": "2021-05-25",
+    "date:inception_upper": "2021-05-25",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-05-25",
+    "faa:latitude": 37.613507,
+    "faa:longitude": -122.388489,
+    "flysfo:gate_code": "A3",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.388956,37.613800,-122.388956,37.613800",
+    "geom:latitude": 37.61380026829521,
+    "geom:longitude": -122.38895594053265,
+    "iso:country": "US",
+    "lbl:latitude": 37.613318,
+    "lbl:longitude": -122.388735,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfo:id": "A3",
+    "sfo:level": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "A3",
+    "sfomuseum:parent_id": "100A",
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "src:geom_alt": [
+      "faa"
+    ],
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1745882083,
+      1745882337,
+      1745882335
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1622750242,
+    "wof:geomhash": "2ea031bb24f39c1775d772d32fa09b1c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882337,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1745882363,
+        "wing_id": 1745882335
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882337,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1745882363,
+        "wing_id": 1745882335
+      }
+    ],
+    "wof:id": 1745882363,
+    "wof:label": "A3 (2021-05-25)",
+    "wof:lastmodified": 1622750242,
+    "wof:name": "A3",
+    "wof:parent_id": 1745882337,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [
+      1477930287
+    ],
+    "wof:supersedes": [
+      1729792605
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38895594053265,
+    37.61380026829521,
+    -122.38895594053265,
+    37.61380026829521
+  ],
+  "geometry": {"coordinates":[-122.38895594053265,37.61380026829521],"type":"Point"}
+}

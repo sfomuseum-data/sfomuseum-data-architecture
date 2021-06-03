@@ -1,0 +1,86 @@
+{
+  "id": 1745882183,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2021-05-25",
+    "date:inception_upper": "2021-05-25",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-05-25",
+    "geom:area": 0,
+    "geom:bbox": "-122.385845,37.613810,-122.385845,37.613810",
+    "geom:latitude": 37.6138099397358,
+    "geom:longitude": -122.38584530943658,
+    "iso:country": "US",
+    "mz:is_current": 1,
+    "sfo:id": "B4",
+    "sfo:level": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "B4",
+    "sfomuseum:parent_id": "200B",
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1745882083,
+      1745882139,
+      1745882137
+    ],
+    "wof:created": 1622750178,
+    "wof:geomhash": "af05f68e7f4930868d3c20efbe17841a",
+    "wof:hierarchy": [
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882139,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1745882183,
+        "wing_id": 1745882137
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882139,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1745882183,
+        "wing_id": 1745882137
+      }
+    ],
+    "wof:id": 1745882183,
+    "wof:label": "B4 (2021-05-25)",
+    "wof:lastmodified": 1622750178,
+    "wof:name": "B4",
+    "wof:parent_id": 1745882139,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1729792749
+    ]
+  },
+  "bbox": [
+    -122.38584530943658,
+    37.6138099397358,
+    -122.38584530943658,
+    37.6138099397358
+  ],
+  "geometry": {"coordinates":[-122.38584530943658,37.6138099397358],"type":"Point"}
+}

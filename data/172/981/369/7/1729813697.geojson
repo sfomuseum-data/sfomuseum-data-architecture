@@ -2,15 +2,17 @@
   "id": 1729813697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "geom:area": 8.484415393978433e-9,
     "geom:bbox": "-122.385136,37.611701,-122.384998,37.611853",
     "geom:latitude": 37.61177834167635,
     "geom:longitude": -122.38506809129578,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 79,
     "sfomuseum:level": "",
@@ -62,13 +64,15 @@
       }
     ],
     "wof:id": 1729813697,
-    "wof:lastmodified": 1620775543,
+    "wof:lastmodified": 1622750284,
     "wof:name": "B-14 Student Art South",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": "gallery",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745882471
+    ],
     "wof:supersedes": []
   },
   "bbox": [

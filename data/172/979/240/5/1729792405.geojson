@@ -2,9 +2,11 @@
   "id": 1729792405,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "faa:latitude": 37.61681,
     "faa:longitude": -122.380678,
@@ -21,7 +23,7 @@
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "D6",
     "sfo:level": 2,
     "sfomuseum:is_sfo": 1,
@@ -34,16 +36,16 @@
       "faa"
     ],
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792391, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792391,
       1729792389
     ],
     "wof:breaches": [],
@@ -66,7 +68,7 @@
         "region_id": 85688637,
         "venue_id": 1729792405,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -81,7 +83,7 @@
     ],
     "wof:id": 1729792405,
     "wof:label": "D6 (2020-~05)",
-    "wof:lastmodified": 1612909937,
+    "wof:lastmodified": 1622750156,
     "wof:name": "D6",
     "wof:parent_id": 1729792391,
     "wof:placetype": "venue",
@@ -89,16 +91,18 @@
       "gate"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745882101
+    ],
     "wof:supersedes": [
       1477930351
     ],
     "wof:tags": []
   },
   "bbox": [
-    -122.3809923929587, 
-    37.61684911806235, 
-    -122.3809923929587, 
+    -122.3809923929587,
+    37.61684911806235,
+    -122.3809923929587,
     37.61684911806235
   ],
   "geometry": {"coordinates":[-122.3809923929587,37.61684911806235],"type":"Point"}

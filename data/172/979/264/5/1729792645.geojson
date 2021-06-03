@@ -2,9 +2,11 @@
   "id": 1729792645,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "geom:area": 2.9240407045358035e-8,
     "geom:area_square_m": 525.252963,
@@ -13,7 +15,7 @@
     "geom:longitude": -122.3933478720484,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "100OBG",
     "sfo:level": 3,
     "sfomuseum:boardingarea_id": "G",
@@ -71,13 +73,15 @@
     ],
     "wof:id": 1729792645,
     "wof:label": "Boarding Area G Observation Deck (2020-~05)",
-    "wof:lastmodified": 1619635948,
+    "wof:lastmodified": 1622750259,
     "wof:name": "Boarding Area G Observation Deck",
     "wof:parent_id": 1729792643,
     "wof:placetype": "arcade",
     "wof:placetype_alt": "observationdeck",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745882403
+    ],
     "wof:supersedes": [
       1477855925
     ],

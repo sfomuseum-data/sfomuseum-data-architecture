@@ -2,11 +2,11 @@
   "id": 1729792783,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2020-01-13",
-    "date:cessation_upper": "2020-01-13",
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "geom:area": 1.0413332300950252e-8,
     "geom:area_square_m": 1010.407949,
@@ -15,7 +15,7 @@
     "geom:longitude": -122.38899932815504,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "A-02 International South Cases"
     ],
@@ -81,7 +81,7 @@
     ],
     "wof:id": 1729792783,
     "wof:label": "A-02 International South Cases (2020-~05)",
-    "wof:lastmodified": 1620861033,
+    "wof:lastmodified": 1622750298,
     "wof:name": "A-02 International South Cases",
     "wof:parent_id": 1729792679,
     "wof:placetype": "enclosure",
@@ -89,7 +89,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745882509
+    ],
     "wof:supersedes": [
       1477855959
     ],

@@ -4,6 +4,7 @@
   "properties": {
     "date:inception_lower": "1980-01-01",
     "date:inception_upper": "1980-12-31",
+    "edtf:deprecated": "2021-06-03",
     "edtf:cessation": "..",
     "edtf:inception": "1980",
     "geom:area": 0.0000035075038730271646,
@@ -68,10 +69,10 @@
     "wof:placetype": "custom",
     "wof:placetype_alt": "liminal",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
-    "wof:supersedes": [
-      1159160869
+    "wof:superseded_by": [
+       1729828959    			 
     ],
+    "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [

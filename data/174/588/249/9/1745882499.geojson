@@ -1,0 +1,104 @@
+{
+  "id": 1745882499,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-03-01",
+    "date:cessation_upper": "2021-03-31",
+    "date:inception_lower": "2021-05-25",
+    "date:inception_upper": "2021-05-25",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-05-25",
+    "geom:area": 1.3385954882250916e-9,
+    "geom:area_square_m": 87.445228,
+    "geom:bbox": "-122.389115,37.615612,-122.389063,37.615654",
+    "geom:latitude": 37.61563285411976,
+    "geom:longitude": -122.38908930707562,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "name:eng_x_preferred": [
+      "A-07 International Central Case"
+    ],
+    "name:eng_x_variant": [
+      "A-07",
+      "A07"
+    ],
+    "sfo:level": 3,
+    "sfomuseum:gallery_id": 59,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "IT",
+    "sfomuseum:map_id": "A07",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1745882083,
+      1745882437,
+      1745882335
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1622750295,
+    "wof:geomhash": "97b9f23340c5b57c44156087011116ce",
+    "wof:hierarchy": [
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882437,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1745882499,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1745882335
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882437,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1745882499,
+        "region_id": 85688637,
+        "wing_id": 1745882335
+      }
+    ],
+    "wof:id": 1745882499,
+    "wof:label": "A-07 International Central Case (2021-05-25)",
+    "wof:lastmodified": 1622750295,
+    "wof:name": "A-07 International Central Case",
+    "wof:parent_id": 1745882437,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1729792789
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38911454599997,
+    37.61561189499997,
+    -122.38906331300001,
+    37.615653619
+  ],
+  "geometry": {"coordinates":[[[-122.38911454599997,37.615644997000004],[-122.389101165,37.61561189499997],[-122.38906331300001,37.615621471],[-122.38907823099998,37.615653619],[-122.38911454599997,37.615644997000004]]],"type":"Polygon"}
+}

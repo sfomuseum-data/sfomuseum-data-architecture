@@ -1,0 +1,102 @@
+{
+  "id": 1745882207,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2021-05-25",
+    "date:inception_upper": "2021-05-25",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-05-25",
+    "faa:latitude": 37.614409,
+    "faa:longitude": -122.382659,
+    "flysfo:gate_code": "C6",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.382720,37.614764,-122.382720,37.614764",
+    "geom:latitude": 37.614764120090406,
+    "geom:longitude": -122.3827197493976,
+    "iso:country": "US",
+    "lbl:latitude": 37.614759,
+    "lbl:longitude": -122.382707,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfo:id": "C6",
+    "sfo:level": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "C6",
+    "sfomuseum:parent_id": "200C",
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "src:geom_alt": [
+      "faa"
+    ],
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1745882083,
+      1745882195,
+      1745882137
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1622750186,
+    "wof:geomhash": "9655de5788c589016022deb2849a2771",
+    "wof:hierarchy": [
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882195,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1745882207,
+        "wing_id": 1745882137
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882195,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1745882207,
+        "wing_id": 1745882137
+      }
+    ],
+    "wof:id": 1745882207,
+    "wof:label": "C6 (2021-05-25)",
+    "wof:lastmodified": 1622750186,
+    "wof:name": "C6",
+    "wof:parent_id": 1745882195,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1729792471
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.3827197493976,
+    37.614764120090406,
+    -122.3827197493976,
+    37.614764120090406
+  ],
+  "geometry": {"coordinates":[-122.3827197493976,37.614764120090406],"type":"Point"}
+}

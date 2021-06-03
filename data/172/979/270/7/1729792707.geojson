@@ -2,16 +2,18 @@
   "id": 1729792707,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "geom:area": 0,
     "geom:bbox": "-122.388788,37.614197,-122.388788,37.614197",
     "geom:latitude": 37.614196855494335,
     "geom:longitude": -122.38878767893839,
     "iso:country": "US",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "100PA",
     "sfo:level": 2,
     "sfomuseum:is_sfo": 1,
@@ -21,16 +23,16 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792697, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792579, 
+      1729792387,
+      102527513,
+      1729792697,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1729792579,
       102085387
     ],
     "wof:created": 1612910042,
@@ -48,7 +50,7 @@
         "region_id": 85688637,
         "venue_id": 1729792707,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -63,7 +65,7 @@
     ],
     "wof:id": 1729792707,
     "wof:label": "Customs and Passport Control A (2020-~05)",
-    "wof:lastmodified": 1614387604,
+    "wof:lastmodified": 1622750277,
     "wof:name": "Customs and Passport Control A",
     "wof:parent_id": 1729792697,
     "wof:placetype": "venue",
@@ -71,13 +73,15 @@
       "checkpoint"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745882449
+    ],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38878767893839, 
-    37.614196855494335, 
-    -122.38878767893839, 
+    -122.38878767893839,
+    37.614196855494335,
+    -122.38878767893839,
     37.614196855494335
   ],
   "geometry": {"coordinates":[-122.38878767893839,37.614196855494335],"type":"Point"}

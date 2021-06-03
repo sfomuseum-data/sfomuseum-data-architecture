@@ -2,11 +2,11 @@
   "id": 1729792771,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2020-10-10",
-    "date:cessation_upper": "2020-10-10",
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "2020-10-10",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "geom:area": 1.3069960688223677e-7,
     "geom:area_square_m": 2124.986942,
@@ -80,7 +80,7 @@
     ],
     "wof:id": 1729792771,
     "wof:label": "F-02 North Connector (2020-~05)",
-    "wof:lastmodified": 1619827864,
+    "wof:lastmodified": 1622750288,
     "wof:name": "F-02 North Connector",
     "wof:parent_id": 1729792489,
     "wof:placetype": "enclosure",
@@ -88,7 +88,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745882479
+    ],
     "wof:supersedes": [
       1477855725
     ],
