@@ -4,7 +4,7 @@
   "properties": {
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "",
+    "edtf:cessation": "..",
     "edtf:inception": "2021-05-25",
     "geom:area": 1.7694380968277374e-8,
     "geom:bbox": "-122.386241,37.613972,-122.385898,37.614056",
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1745885813,
-    "wof:lastmodified": 1622836192,
+    "wof:lastmodified": 1622836338,
     "wof:name": "1F Kids’ Spot/Tree Town",
     "wof:parent_id": 1745882227,
     "wof:placetype": "enclosure",
