@@ -2,88 +2,89 @@
   "id": 1360521569,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-01-01",
-    "date:cessation_upper":"2011-12-31",
-    "date:inception_lower":"2006-01-01",
-    "date:inception_upper":"2006-12-31",
-    "edtf:cessation":"2011~",
-    "edtf:inception":"2006~",
-    "geom:area":0.0,
-    "geom:area_square_m":1610.179263,
-    "geom:bbox":"-122.388225881,37.6142887818,-122.387660819,37.6147458235",
-    "geom:latitude":37.614512,
-    "geom:longitude":-122.387939,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "name:eng_x_preferred":[
-        "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum"
+    "date:cessation_lower": "2011-01-01",
+    "date:cessation_upper": "2011-12-31",
+    "date:inception_lower": "2006-01-01",
+    "date:inception_upper": "2006-12-31",
+    "edtf:cessation": "2011~",
+    "edtf:inception": "2006~",
+    "geom:area": 6.861641813092418e-8,
+    "geom:area_square_m": 1610.179263,
+    "geom:bbox": "-122.388329,37.614394,-122.387858,37.614639",
+    "geom:latitude": 37.61452070705672,
+    "geom:longitude": -122.38809097865412,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "name:eng_x_preferred": [
+      "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum"
     ],
-    "name:eng_x_variant":[
-        "AML",
-        "Aviation Museum and Library"
+    "name:eng_x_variant": [
+      "AML",
+      "Aviation Museum and Library"
     ],
-    "sfomuseum:gallery_id":-1,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:map_id":"AML",
-    "sfomuseum:placetype":"museum",
-    "sfomuseum:placetype_alt":"gallery",
-    "sfomuseum:post_security":0,
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396337,
-        1159396147,
-        85688637
+    "sfomuseum:gallery_id": -1,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:map_id": "AML",
+    "sfomuseum:placetype": "museum",
+    "sfomuseum:placetype_alt": "gallery",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159396337,
+      1159396147,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:parent_id",
-        "wof:hierarchy"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:parent_id",
+      "wof:hierarchy"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"d89fb864db8484ce6fa366827e161d57",
-    "wof:hierarchy":[
-        {
-            "building_id":1159396337,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":1360521569,
-            "wing_id":1159396147
-        }
+    "wof:country": "US",
+    "wof:created": 1622830269,
+    "wof:geomhash": "55627d83300b0fc0f1751a9cfed6ab60",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 1360521569,
+        "wing_id": 1159396147
+      }
     ],
-    "wof:id":1360521569,
-    "wof:label":"San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum (2006~ - 2011~)",
-    "wof:lastmodified":1547232155,
-    "wof:name":"San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum",
-    "wof:parent_id":1159396147,
-    "wof:placetype":"venue",
-    "wof:placetype_alt":[
-        "museum"
+    "wof:id": 1360521569,
+    "wof:label": "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum (2006~ - 2011~)",
+    "wof:lastmodified": 1622830269,
+    "wof:name": "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum",
+    "wof:parent_id": 1159396147,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "museum"
     ],
-    "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[
-        1360521565
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [
+      1360521565
     ],
-    "wof:supersedes":[
-        1360521571
+    "wof:supersedes": [
+      1360521571
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
-    -122.3882258814731,
-    37.61428878175847,
-    -122.38766081928308,
-    37.61474582346396
-],
-  "geometry": {"coordinates":[[[-122.3882258814731,37.61460455791645],[-122.38776676844371,37.61474582346396],[-122.38766081928308,37.61439972287257],[-122.38811105489729,37.61428878175847],[-122.3882258814731,37.61460455791645]]],"type":"Polygon"}
+    -122.38832876999999,
+    37.61439394299998,
+    -122.38785801900002,
+    37.61463910200001
+  ],
+  "geometry": {"coordinates":[[[-122.387936862,37.61463910200001],[-122.38832876999999,37.614545925000016],[-122.38826825000001,37.61439394299998],[-122.38823512699997,37.61440216400001],[-122.38823489100002,37.614401977],[-122.38820002300002,37.61441047699998],[-122.38820007999999,37.614410862],[-122.38804211000001,37.614450068999986],[-122.38804189899997,37.61444958499999],[-122.38801457400001,37.614455561],[-122.388014967,37.61445680600002],[-122.38786944700001,37.614492923],[-122.38788108900002,37.61452044399999],[-122.38785801900002,37.614526204000015],[-122.38789982200001,37.61463830500003],[-122.38793184399998,37.61462972800001],[-122.387936862,37.61463910200001]]],"type":"Polygon"}
 }
