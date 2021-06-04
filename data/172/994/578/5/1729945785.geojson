@@ -15,6 +15,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
+    "sfo:level": 3,
     "sfomuseum:placetype": "bart",
     "src:geom": "flysfo",
     "wof:belongsto": [
@@ -57,7 +58,7 @@
       }
     ],
     "wof:id": 1729945785,
-    "wof:lastmodified": 1620765235,
+    "wof:lastmodified": 1622842839,
     "wof:name": "SFO Bart Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "arcade",
