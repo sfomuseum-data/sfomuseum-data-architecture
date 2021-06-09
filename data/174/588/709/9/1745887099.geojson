@@ -17,6 +17,7 @@
     "sfomuseum:location": "2",
     "sfomuseum:map_id": "1C",
     "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1745882083,
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1745887099,
-    "wof:lastmodified": 1622853791,
+    "wof:lastmodified": 1623271456,
     "wof:name": "1C Kids’ Spot",
     "wof:parent_id": 1745882139,
     "wof:placetype": "enclosure",
