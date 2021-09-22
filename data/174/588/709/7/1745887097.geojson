@@ -14,7 +14,7 @@
     "sfo:level": 3,
     "sfomuseum:gallery_id": 85,
     "sfomuseum:level": "3",
-    "sfomuseum:location": "3",
+    "sfomuseum:location": "IT",
     "sfomuseum:map_id": "4D",
     "sfomuseum:placetype": "gallery",
     "src:geom": "sfomuseum",
@@ -61,7 +61,7 @@
       }
     ],
     "wof:id": 1745887097,
-    "wof:lastmodified": 1623271317,
+    "wof:lastmodified": 1632269667,
     "wof:name": "4D International South Cases",
     "wof:parent_id": 1745882437,
     "wof:placetype": "enclosure",

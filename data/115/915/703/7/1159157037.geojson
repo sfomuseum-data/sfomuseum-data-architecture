@@ -2,92 +2,93 @@
   "id": 1159157037,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-07-23",
-    "date:cessation_upper":"2019-07-23",
-    "date:inception_lower":"2017-01-01",
-    "date:inception_upper":"2017-12-31",
-    "edtf:cessation":"2019-07-23",
-    "edtf:inception":"2017~",
-    "geom:area":0.0,
-    "geom:area_square_m":1128.729477,
-    "geom:bbox":"-122.390083523,37.6164325512,-122.389377196,37.6167588575",
-    "geom:latitude":37.616594,
-    "geom:longitude":-122.389725,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "name:eng_x_preferred":[
-        "G-02 International North Cases"
+    "date:cessation_lower": "2019-07-23",
+    "date:cessation_upper": "2019-07-23",
+    "date:inception_lower": "2017-01-01",
+    "date:inception_upper": "2017-12-31",
+    "edtf:cessation": "2019-07-23",
+    "edtf:inception": "2017~",
+    "geom:area": 1.1523960515878322e-7,
+    "geom:area_square_m": 1128.729477,
+    "geom:bbox": "-122.390084,37.616433,-122.389377,37.616759",
+    "geom:latitude": 37.61659358252093,
+    "geom:longitude": -122.38972520542025,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "name:eng_x_preferred": [
+      "G-02 International North Cases"
     ],
-    "name:eng_x_variant":[
-        "G-02",
-        "G02"
+    "name:eng_x_variant": [
+      "G-02",
+      "G02"
     ],
-    "sfomuseum:gallery_id":20,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:level":"D",
-    "sfomuseum:location":"IT",
-    "sfomuseum:map_id":"G02",
-    "sfomuseum:placetype":"gallery",
-    "sfomuseum:post_security":0,
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        1159157335,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159157271,
-        1159157333,
-        85688637
+    "sfo:level": 3,
+    "sfomuseum:gallery_id": 20,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "IT",
+    "sfomuseum:map_id": "",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1159157335,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      1159157333,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:controlled":[
-        "wof:parent_id",
-        "wof:hierarchy"
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:parent_id",
+      "wof:hierarchy"
     ],
-    "wof:country":"US",
-    "wof:created":1522859214,
-    "wof:geomhash":"da69d686407acbe846d0db0c09e2521a",
-    "wof:hierarchy":[
-        {
-            "building_id":1159157271,
-            "campus_id":102527513,
-            "concourse_id":1159157335,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "enclosure_id":1159157037,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159157333
-        }
+    "wof:country": "US",
+    "wof:created": 1522859214,
+    "wof:geomhash": "da69d686407acbe846d0db0c09e2521a",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": 1159157335,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1159157037,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159157333
+      }
     ],
-    "wof:id":1159157037,
-    "wof:label":"G-02 International North Cases (2017~)",
-    "wof:lastmodified":1568744475,
-    "wof:name":"G-02 International North Cases",
-    "wof:parent_id":1159157335,
-    "wof:placetype":"enclosure",
-    "wof:placetype_alt":[
-        "gallery"
+    "wof:id": 1159157037,
+    "wof:label": "G-02 International North Cases (2017~)",
+    "wof:lastmodified": 1632269667,
+    "wof:name": "G-02 International North Cases",
+    "wof:parent_id": 1159157335,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
     ],
-    "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[
-        1477855961
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [
+      1477855961
     ],
-    "wof:supersedes":[
-        1360516281
+    "wof:supersedes": [
+      1360516281
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     -122.39008352342279,
     37.61643255118801,
     -122.38937719568526,
     37.6167588575159
-],
-  "geometry": {"coordinates":[[[-122.39008352342279,37.61658933885889],[-122.38941957534951,37.6167588575159],[-122.38937719568526,37.61658933885889],[-122.39003419876099,37.61643255118801],[-122.39008352342279,37.61658933885889]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[-122.39008352342279,37.61658933885889],[-122.3894195753495,37.6167588575159],[-122.38937719568526,37.61658933885889],[-122.39003419876099,37.61643255118801],[-122.39008352342279,37.61658933885889]]],"type":"Polygon"}
 }

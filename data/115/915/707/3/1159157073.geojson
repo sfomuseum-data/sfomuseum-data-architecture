@@ -20,30 +20,31 @@
       "C-04 Entrance Lobby C Meet and Greet"
     ],
     "name:eng_x_variant": [
-      "C-04", 
+      "C-04",
       "C04"
     ],
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 63,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
     "sfomuseum:location": "T1",
-    "sfomuseum:map_id": "C04",
+    "sfomuseum:map_id": "1K",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      1159157317, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      1159157317,
       85688637
     ],
     "wof:breaches": [],
     "wof:controlled": [
-      "wof:parent_id", 
+      "wof:parent_id",
       "wof:hierarchy"
     ],
     "wof:country": "US",
@@ -65,8 +66,8 @@
     ],
     "wof:id": 1159157073,
     "wof:label": "C-04 Entrance Lobby C Meet and Greet (2017~)",
-    "wof:lastmodified": 1614286726,
-    "wof:name": "C-04 Entrance Lobby C Meet and Greet",
+    "wof:lastmodified": 1632269667,
+    "wof:name": "1K Entrance Lobby C Meet and Greet",
     "wof:parent_id": 1159157317,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": [
@@ -82,9 +83,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38429078898636, 
-    37.61529954566394, 
-    -122.38395197884988, 
+    -122.38429078898636,
+    37.61529954566394,
+    -122.38395197884988,
     37.61561625948718
   ],
   "geometry": {"coordinates":[[[-122.38413979751249,37.61561625948718],[-122.38395197884988,37.61553523967193],[-122.38409192216712,37.61529954566394],[-122.38429078898636,37.61538056547919],[-122.38413979751249,37.61561625948718]]],"type":"Polygon"}
