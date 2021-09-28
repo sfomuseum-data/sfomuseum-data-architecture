@@ -2,87 +2,89 @@
   "id": 1360516223,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-01-01",
-    "date:cessation_upper":"2011-12-31",
-    "date:inception_lower":"2006-01-01",
-    "date:inception_upper":"2006-12-31",
-    "edtf:cessation":"2011~",
-    "edtf:inception":"2006~",
-    "geom:area":0.0,
-    "geom:area_square_m":88.966289,
-    "geom:bbox":"-122.385682981,37.6125128753,-122.385524921,37.612645442",
-    "geom:latitude":37.61258,
-    "geom:longitude":-122.385605,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "name:eng_x_preferred":[
-        "B-03 Gate 36"
+    "date:cessation_lower": "2011-01-01",
+    "date:cessation_upper": "2011-12-31",
+    "date:inception_lower": "2006-01-01",
+    "date:inception_upper": "2006-12-31",
+    "edtf:cessation": "2011~",
+    "edtf:inception": "2006~",
+    "geom:area": 9.082677833368541e-9,
+    "geom:area_square_m": 88.966289,
+    "geom:bbox": "-122.385683,37.612513,-122.385525,37.612645",
+    "geom:latitude": 37.612579621116986,
+    "geom:longitude": -122.38560462151302,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "name:eng_x_preferred": [
+      "B-03 Gate 36"
     ],
-    "name:eng_x_variant":[
-        "B-03",
-        "B03"
+    "name:eng_x_variant": [
+      "B-03",
+      "B03"
     ],
-    "sfomuseum:gallery_id":16,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:level":"D",
-    "sfomuseum:location":"T1",
-    "sfomuseum:map_id":"B03",
-    "sfomuseum:placetype":"gallery",
-    "sfomuseum:post_security":1,
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        1159396297,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396337,
-        1159396139,
-        85688637
+    "sfo:level": 2,
+    "sfomuseum:gallery_id": 16,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "T1",
+    "sfomuseum:map_id": "",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1159396297,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159396337,
+      1159396139,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:geomhash":"8ccc14cb70374f2c6b2942ac0adf0725",
-    "wof:hierarchy":[
-        {
-            "building_id":1159396337,
-            "campus_id":102527513,
-            "concourse_id":1159396297,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "enclosure_id":1360516223,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396139
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1632788359,
+    "wof:geomhash": "8ccc14cb70374f2c6b2942ac0adf0725",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "concourse_id": 1159396297,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516223,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396139
+      }
     ],
-    "wof:id":1360516223,
-    "wof:label":"B-03 Gate 36 (2006~ - 2011~)",
-    "wof:lastmodified":1547232158,
-    "wof:name":"B-03 Gate 36",
-    "wof:parent_id":1159396297,
-    "wof:placetype":"enclosure",
-    "wof:placetype_alt":[
-        "gallery"
+    "wof:id": 1360516223,
+    "wof:label": "B-03 Gate 36 (2006~ - 2011~)",
+    "wof:lastmodified": 1632788359,
+    "wof:name": "B-03 Gate 36",
+    "wof:parent_id": 1159396297,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
     ],
-    "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[
-        1360516219
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [
+      1360516219
     ],
-    "wof:supersedes":[
-        1360516225
+    "wof:supersedes": [
+      1360516225
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     -122.38568298094306,
     37.61251287533349,
     -122.385524920667,
     37.61264544201664
-],
+  ],
   "geometry": {"coordinates":[[[-122.38568298094306,37.61256386251932],[-122.38556316105637,37.61264544201664],[-122.385524920667,37.6125970041901],[-122.38564728991298,37.61251287533349],[-122.38568298094306,37.61256386251932]]],"type":"Polygon"}
 }
