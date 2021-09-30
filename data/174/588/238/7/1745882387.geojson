@@ -78,7 +78,7 @@
     ],
     "wof:id": 1745882387,
     "wof:label": "A10 (2021-05-25)",
-    "wof:lastmodified": 1622750252,
+    "wof:lastmodified": 1633020411,
     "wof:name": "A10",
     "wof:parent_id": 1745882337,
     "wof:placetype": "venue",
@@ -88,7 +88,8 @@
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [
-      1729792631
+      1729792631,
+      1745882351
     ],
     "wof:tags": []
   },
