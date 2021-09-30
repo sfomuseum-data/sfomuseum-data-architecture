@@ -7,6 +7,7 @@
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "2021-05-25",
+    "edtf:deprecated": "2021-09-30",
     "edtf:inception": "2020-~05",
     "faa:latitude": 37.613726,
     "faa:longitude": -122.389399,
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1729792583,
     "wof:label": "A2 (2020-~05)",
-    "wof:lastmodified": 1622750234,
+    "wof:lastmodified": 1633038156,
     "wof:name": "A2",
     "wof:parent_id": 1729792581,
     "wof:placetype": "venue",
@@ -90,7 +91,8 @@
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
       1477930287,
-      1745882339
+      1745882339,
+      1729792613
     ],
     "wof:supersedes": [
       1477855867
