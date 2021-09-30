@@ -6,7 +6,7 @@
     "date:cessation_upper": "2020-05-31",
     "date:inception_lower": "2019-07-23",
     "date:inception_upper": "2019-07-23",
-    "edtf:cessation": "2020-~05",
+    "edtf:cessation": "2019-10-16",
     "edtf:inception": "2019-07-23",
     "faa:latitude": 37.613507,
     "faa:longitude": -122.388489,
@@ -85,8 +85,7 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
-      1477930287, 
-      1729792605
+      1477930287    			 
     ],
     "wof:supersedes": [
       1159157717

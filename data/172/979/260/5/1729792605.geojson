@@ -89,11 +89,10 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
-      1477930287,
       1745882363
     ],
     "wof:supersedes": [
-      1477855849
+    1477930287
     ],
     "wof:tags": []
   },
