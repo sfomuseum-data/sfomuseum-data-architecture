@@ -182,6 +182,7 @@
     ],
     "oa:elevation_ft": "13",
     "oa:type": "large_airport",
+    "sfo:level": 0,
     "sfomuseum:airport_id": 121,
     "sfomuseum:count_objects_public": 3594,
     "sfomuseum:is_sfo": 1,
