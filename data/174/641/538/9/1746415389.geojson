@@ -1,0 +1,72 @@
+{
+  "id": 1746415389,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2021-05-25",
+    "date:inception_upper": "2021-05-25",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-05-25",
+    "geom:area": 0,
+    "geom:bbox": "-122.388816,37.612985,-122.388816,37.612985",
+    "geom:latitude": 37.61298469497198,
+    "geom:longitude": -122.38881644491168,
+    "iso:country": "US",
+    "mz:is_current": 1,
+    "sfo:id": "A6S",
+    "sfo:level": 0,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "A6S",
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1633044857,
+    "wof:geomhash": "ed5894506edb1e556076d217ef2e9dcf",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1746415389
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1746415389
+      }
+    ],
+    "wof:id": 1746415389,
+    "wof:label": "A6S (2021-05-25)",
+    "wof:lastmodified": 1633044857,
+    "wof:name": "A6S",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "gate",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38881644491168,
+    37.61298469497198,
+    -122.38881644491168,
+    37.61298469497198
+  ],
+  "geometry": {"coordinates":[-122.38881644491168,37.61298469497198],"type":"Point"}
+}
