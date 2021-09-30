@@ -7,6 +7,7 @@
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "2021-05-25",
+    "edtf:deprecated": "2021-09-30",
     "edtf:inception": "2020-~05",
     "faa:latitude": 37.613165,
     "faa:longitude": -122.389612,
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1729792585,
     "wof:label": "A4 (2020-~05)",
-    "wof:lastmodified": 1622750235,
+    "wof:lastmodified": 1633021426,
     "wof:name": "A4",
     "wof:parent_id": 1729792581,
     "wof:placetype": "venue",
@@ -89,6 +90,7 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
+      1729792617,
       1477930291,
       1745882341
     ],
