@@ -7,6 +7,7 @@
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
     "edtf:cessation": "..",
+    "edtf:deprecated": "2021-09-30",
     "edtf:inception": "2021-05-25",
     "faa:latitude": 37.612563,
     "faa:longitude": -122.389938,
@@ -20,7 +21,7 @@
     "lbl:latitude": 37.612893,
     "lbl:longitude": -122.389652,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "A6",
     "sfo:level": 2,
     "sfomuseum:is_sfo": 1,
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1745882349,
     "wof:label": "A6 (2021-05-25)",
-    "wof:lastmodified": 1622750238,
+    "wof:lastmodified": 1633037604,
     "wof:name": "A6",
     "wof:parent_id": 1745882337,
     "wof:placetype": "venue",
@@ -89,6 +90,7 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
+      1745882377,
       1477930301
     ],
     "wof:supersedes": [
