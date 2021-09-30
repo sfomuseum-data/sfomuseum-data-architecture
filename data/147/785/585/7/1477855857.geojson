@@ -2,11 +2,12 @@
   "id": 1477855857,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2020-05-01",
-    "date:cessation_upper": "2020-05-31",
+    "date:cessation_lower": "2019-10-16",
+    "date:cessation_upper": "2019-10-16",
     "date:inception_lower": "2019-07-23",
     "date:inception_upper": "2019-07-23",
     "edtf:cessation": "2019-10-16",
+    "edtf:deprecated": "2021-09-30",
     "edtf:inception": "2019-07-23",
     "faa:latitude": 37.61292,
     "faa:longitude": -122.38885,
@@ -76,7 +77,7 @@
     ],
     "wof:id": 1477855857,
     "wof:label": "A5 (2019)",
-    "wof:lastmodified": 1633037466,
+    "wof:lastmodified": 1633039984,
     "wof:name": "A5",
     "wof:parent_id": 1477855835,
     "wof:placetype": "venue",
@@ -85,6 +86,7 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
+      1477855861,
       1477855879,
       1477930295,
       1729792587
