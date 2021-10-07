@@ -54,11 +54,12 @@
     ],
     "wof:id": 1746415383,
     "wof:label": "G104 (2021-05-25)",
-    "wof:lastmodified": 1633044855,
+    "wof:lastmodified": 1633634510,
     "wof:name": "G104",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
     "wof:placetype_alt": "gate",
+    "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },

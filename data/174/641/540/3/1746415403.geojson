@@ -54,11 +54,12 @@
     ],
     "wof:id": 1746415403,
     "wof:label": "B20S (2021-05-25)",
-    "wof:lastmodified": 1633044861,
+    "wof:lastmodified": 1633634510,
     "wof:name": "B20S",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
     "wof:placetype_alt": "gate",
+    "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },

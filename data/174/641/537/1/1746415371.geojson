@@ -54,11 +54,12 @@
     ],
     "wof:id": 1746415371,
     "wof:label": "A7T (2021-05-25)",
-    "wof:lastmodified": 1633044851,
+    "wof:lastmodified": 1633634510,
     "wof:name": "A7T",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
     "wof:placetype_alt": "gate",
+    "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },

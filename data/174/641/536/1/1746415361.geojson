@@ -54,11 +54,12 @@
     ],
     "wof:id": 1746415361,
     "wof:label": "A13V (2021-05-25)",
-    "wof:lastmodified": 1633044848,
+    "wof:lastmodified": 1633634510,
     "wof:name": "A13V",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
     "wof:placetype_alt": "gate",
+    "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },

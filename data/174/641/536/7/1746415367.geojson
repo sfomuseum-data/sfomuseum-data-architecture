@@ -54,11 +54,12 @@
     ],
     "wof:id": 1746415367,
     "wof:label": "G11R (2021-05-25)",
-    "wof:lastmodified": 1633044850,
+    "wof:lastmodified": 1633634510,
     "wof:name": "G11R",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
     "wof:placetype_alt": "gate",
+    "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },

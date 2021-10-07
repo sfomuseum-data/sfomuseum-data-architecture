@@ -54,11 +54,12 @@
     ],
     "wof:id": 1746415363,
     "wof:label": "E10V (2021-05-25)",
-    "wof:lastmodified": 1633044849,
+    "wof:lastmodified": 1633634510,
     "wof:name": "E10V",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
     "wof:placetype_alt": "gate",
+    "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
