@@ -8,6 +8,7 @@
     "geom:bbox": "-122.390446,37.622333,-122.389090,37.623563",
     "geom:latitude": 37.62286927873117,
     "geom:longitude": -122.38984085360458,
+    "iso:country": "US",
     "mz:is_current": 1,
     "sfo:id": "B1",
     "sfo:level": 0,
@@ -49,7 +50,7 @@
       }
     ],
     "wof:id": 1730008865,
-    "wof:lastmodified": 1619635948,
+    "wof:lastmodified": 1643748802,
     "wof:name": "Taxiway B1",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

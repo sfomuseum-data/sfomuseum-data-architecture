@@ -37,6 +37,7 @@
       1729792579,
       102085387
     ],
+    "wof:country": "US",
     "wof:created": 1612910038,
     "wof:geomhash": "b88b7ebc518c94f71ed85eddfc60e2ef",
     "wof:hierarchy": [
@@ -65,7 +66,7 @@
     ],
     "wof:id": 1729792693,
     "wof:label": "International Terminal Arrivals (2020-~05)",
-    "wof:lastmodified": 1622750275,
+    "wof:lastmodified": 1643748801,
     "wof:name": "International Terminal Arrivals",
     "wof:parent_id": 1729792579,
     "wof:placetype": "concourse",

@@ -33,6 +33,7 @@
       1745882447,
       1745882335
     ],
+    "wof:country": "US",
     "wof:created": 1622750277,
     "wof:geomhash": "2a6619944fc9e59aba664be6eae63cdd",
     "wof:hierarchy": [
@@ -63,7 +64,7 @@
     ],
     "wof:id": 1745882449,
     "wof:label": "Customs and Passport Control A (2021-05-25)",
-    "wof:lastmodified": 1622750277,
+    "wof:lastmodified": 1643748802,
     "wof:name": "Customs and Passport Control A",
     "wof:parent_id": 1745882447,
     "wof:placetype": "venue",

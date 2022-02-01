@@ -35,6 +35,7 @@
       1729792435,
       102085387
     ],
+    "wof:country": "US",
     "wof:created": 1612910062,
     "wof:geomhash": "38b10839379b9d44b15f714571a93418",
     "wof:hierarchy": [
@@ -65,7 +66,7 @@
     ],
     "wof:id": 1729792763,
     "wof:label": "B27 (2020-~05)",
-    "wof:lastmodified": 1622750182,
+    "wof:lastmodified": 1643748802,
     "wof:name": "B27",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",

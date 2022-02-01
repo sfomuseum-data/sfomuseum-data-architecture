@@ -33,6 +33,7 @@
       1745882139,
       1745882137
     ],
+    "wof:country": "US",
     "wof:created": 1622750173,
     "wof:geomhash": "a75174bc64140085317ff34e8d203433",
     "wof:hierarchy": [
@@ -63,7 +64,7 @@
     ],
     "wof:id": 1745882165,
     "wof:label": "B25 (2021-05-25)",
-    "wof:lastmodified": 1622750173,
+    "wof:lastmodified": 1643748802,
     "wof:name": "B25",
     "wof:parent_id": 1745882139,
     "wof:placetype": "venue",

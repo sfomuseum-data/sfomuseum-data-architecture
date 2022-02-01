@@ -33,6 +33,7 @@
       1745882139,
       1745882137
     ],
+    "wof:country": "US",
     "wof:created": 1622750179,
     "wof:geomhash": "75651f4375281d842eca37aa04b0ccf7",
     "wof:hierarchy": [
@@ -63,7 +64,7 @@
     ],
     "wof:id": 1745882185,
     "wof:label": "B23 (2021-05-25)",
-    "wof:lastmodified": 1622750179,
+    "wof:lastmodified": 1643748802,
     "wof:name": "B23",
     "wof:parent_id": 1745882139,
     "wof:placetype": "venue",

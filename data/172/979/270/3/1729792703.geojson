@@ -21,21 +21,22 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:belongsto": [
-      1729792387, 
-      102527513, 
-      1729792483, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      554784711, 
-      85688637, 
-      1729792435, 
+      1729792387,
+      102527513,
+      1729792483,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1729792435,
       102085387
     ],
     "wof:concordances": {
       "flysfo:uuid": "1bdaec90-7a42-11e7-bb31-be2e44b06b34"
     },
+    "wof:country": "US",
     "wof:created": 1612910041,
     "wof:geomhash": "013acedf54631c051d192011b1a7b427",
     "wof:hierarchy": [
@@ -51,7 +52,7 @@
         "region_id": 85688637,
         "venue_id": 1729792703,
         "wing_id": 1729792435
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1729792703,
     "wof:label": "Security Checkpoint B (2020-~05)",
-    "wof:lastmodified": 1614387604,
+    "wof:lastmodified": 1643748802,
     "wof:name": "Security Checkpoint B",
     "wof:parent_id": 1729792483,
     "wof:placetype": "venue",
@@ -78,9 +79,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38583841470614, 
-    37.61425277675698, 
-    -122.38583841470614, 
+    -122.38583841470614,
+    37.61425277675698,
+    -122.38583841470614,
     37.61425277675698
   ],
   "geometry": {"coordinates":[-122.38583841470614,37.61425277675698],"type":"Point"}

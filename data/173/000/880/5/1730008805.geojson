@@ -8,6 +8,7 @@
     "geom:bbox": "-122.382636,37.607256,-122.381751,37.608157",
     "geom:latitude": 37.607665950586565,
     "geom:longitude": -122.38214910966602,
+    "iso:country": "US",
     "mz:is_current": 1,
     "sfo:id": "A2",
     "sfo:level": 0,
@@ -49,7 +50,7 @@
       }
     ],
     "wof:id": 1730008805,
-    "wof:lastmodified": 1619635948,
+    "wof:lastmodified": 1643748802,
     "wof:name": "Taxiway A2",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

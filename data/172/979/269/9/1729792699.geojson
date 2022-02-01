@@ -37,6 +37,7 @@
       1729792487,
       102085387
     ],
+    "wof:country": "US",
     "wof:created": 1612910040,
     "wof:geomhash": "6d45dfca1d8b3a60641fb88632e5dce3",
     "wof:hierarchy": [
@@ -65,7 +66,7 @@
     ],
     "wof:id": 1729792699,
     "wof:label": "Terminal Three Arrivals (2020-~05)",
-    "wof:lastmodified": 1622750231,
+    "wof:lastmodified": 1643748801,
     "wof:name": "Terminal Three Arrivals",
     "wof:parent_id": 1729792487,
     "wof:placetype": "concourse",

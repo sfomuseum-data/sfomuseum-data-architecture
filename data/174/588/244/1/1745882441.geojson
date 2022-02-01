@@ -36,6 +36,7 @@
     "wof:concordances": {
       "flysfo:uuid": "d3a0442e-7a42-11e7-bb31-be2e44b06b34"
     },
+    "wof:country": "US",
     "wof:created": 1622750274,
     "wof:geomhash": "df9668ce5b317383de32be4b121c7752",
     "wof:hierarchy": [
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1745882441,
     "wof:label": "Security Checkpoint A (2021-05-25)",
-    "wof:lastmodified": 1622750274,
+    "wof:lastmodified": 1643748802,
     "wof:name": "Security Checkpoint A",
     "wof:parent_id": 1745882437,
     "wof:placetype": "venue",

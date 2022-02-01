@@ -36,6 +36,7 @@
     "wof:concordances": {
       "flysfo:uuid": "9e379b48-7a42-11e7-bb31-be2e44b06b34"
     },
+    "wof:country": "US",
     "wof:created": 1622750230,
     "wof:geomhash": "848d378d2a66d14f0dc9673570e600a1",
     "wof:hierarchy": [
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1745882329,
     "wof:label": "Security Checkpoint F3 (2021-05-25)",
-    "wof:lastmodified": 1622750230,
+    "wof:lastmodified": 1643748802,
     "wof:name": "Security Checkpoint F3",
     "wof:parent_id": 1745882323,
     "wof:placetype": "venue",

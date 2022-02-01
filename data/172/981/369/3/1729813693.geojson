@@ -12,6 +12,7 @@
     "geom:bbox": "-122.384498,37.613072,-122.384245,37.613317",
     "geom:latitude": 37.61319336254112,
     "geom:longitude": -122.38437419592968,
+    "iso:country": "US",
     "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 74,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1729813693,
-    "wof:lastmodified": 1622750284,
+    "wof:lastmodified": 1643748802,
     "wof:name": "B-08 Central Photo Wall",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",

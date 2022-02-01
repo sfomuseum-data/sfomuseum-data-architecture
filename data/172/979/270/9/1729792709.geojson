@@ -38,6 +38,7 @@
     "wof:concordances": {
       "flysfo:uuid": "2c252d86-7a42-11e7-bb31-be2e44b06b34"
     },
+    "wof:country": "US",
     "wof:created": 1612910043,
     "wof:geomhash": "c529ffeb2faa3e9c654221544966f661",
     "wof:hierarchy": [
@@ -68,7 +69,7 @@
     ],
     "wof:id": 1729792709,
     "wof:label": "Security Checkpoint C (2020-~05)",
-    "wof:lastmodified": 1622750191,
+    "wof:lastmodified": 1643748801,
     "wof:name": "Security Checkpoint C",
     "wof:parent_id": 1729792459,
     "wof:placetype": "venue",

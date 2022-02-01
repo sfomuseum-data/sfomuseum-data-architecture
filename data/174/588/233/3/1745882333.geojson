@@ -35,6 +35,7 @@
       1745882083,
       1745882233
     ],
+    "wof:country": "US",
     "wof:created": 1622750232,
     "wof:geomhash": "f74a4e8fb23d567208a0e5424f28dd77",
     "wof:hierarchy": [
@@ -63,7 +64,7 @@
     ],
     "wof:id": 1745882333,
     "wof:label": "Terminal Three Departures (Post-Security) (2021-05-25)",
-    "wof:lastmodified": 1622750232,
+    "wof:lastmodified": 1643748802,
     "wof:name": "Terminal Three Departures (Post-Security)",
     "wof:parent_id": 1745882233,
     "wof:placetype": "concourse",

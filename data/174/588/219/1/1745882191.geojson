@@ -33,6 +33,7 @@
       1745882139,
       1745882137
     ],
+    "wof:country": "US",
     "wof:created": 1622750181,
     "wof:geomhash": "0960d4e7977c1e2a32ecc5f6804a2e91",
     "wof:hierarchy": [
@@ -63,7 +64,7 @@
     ],
     "wof:id": 1745882191,
     "wof:label": "B15 (2021-05-25)",
-    "wof:lastmodified": 1622750181,
+    "wof:lastmodified": 1643748802,
     "wof:name": "B15",
     "wof:parent_id": 1745882139,
     "wof:placetype": "venue",

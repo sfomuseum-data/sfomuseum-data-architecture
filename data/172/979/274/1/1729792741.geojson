@@ -35,6 +35,7 @@
       1729792435,
       102085387
     ],
+    "wof:country": "US",
     "wof:created": 1612910055,
     "wof:geomhash": "e6c0f5b750f099886a85a684454a6df1",
     "wof:hierarchy": [
@@ -65,7 +66,7 @@
     ],
     "wof:id": 1729792741,
     "wof:label": "B21 (2020-~05)",
-    "wof:lastmodified": 1622750176,
+    "wof:lastmodified": 1643748801,
     "wof:name": "B21",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",

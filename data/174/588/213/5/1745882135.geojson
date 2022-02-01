@@ -35,6 +35,7 @@
       1745882083,
       1745882085
     ],
+    "wof:country": "US",
     "wof:created": 1622750165,
     "wof:geomhash": "cae0155063f0fc145687002a9dade449",
     "wof:hierarchy": [
@@ -63,7 +64,7 @@
     ],
     "wof:id": 1745882135,
     "wof:label": "Terminal Two Departures (Post-Security) (2021-05-25)",
-    "wof:lastmodified": 1622750165,
+    "wof:lastmodified": 1643748802,
     "wof:name": "Terminal Two Departures (Post-Security)",
     "wof:parent_id": 1745882085,
     "wof:placetype": "concourse",

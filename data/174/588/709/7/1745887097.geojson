@@ -10,6 +10,7 @@
     "geom:bbox": "-122.389203,37.614538,-122.388760,37.614675",
     "geom:latitude": 37.61460330113117,
     "geom:longitude": -122.38899932815504,
+    "iso:country": "US",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 85,
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1745887097,
-    "wof:lastmodified": 1632269667,
+    "wof:lastmodified": 1643748802,
     "wof:name": "4D International South Cases",
     "wof:parent_id": 1745882437,
     "wof:placetype": "enclosure",

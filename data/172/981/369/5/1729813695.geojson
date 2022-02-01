@@ -12,6 +12,7 @@
     "geom:bbox": "-122.385340,37.612613,-122.385079,37.612758",
     "geom:latitude": 37.61268608757595,
     "geom:longitude": -122.38520847545882,
+    "iso:country": "US",
     "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 77,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1729813695,
-    "wof:lastmodified": 1632788359,
+    "wof:lastmodified": 1643748802,
     "wof:name": "1D Alley Gallery",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",

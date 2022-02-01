@@ -33,6 +33,7 @@
       1745882139,
       1745882137
     ],
+    "wof:country": "US",
     "wof:created": 1622750177,
     "wof:geomhash": "41f5a8b806171c9fe50f1257f12488ed",
     "wof:hierarchy": [
@@ -63,7 +64,7 @@
     ],
     "wof:id": 1745882177,
     "wof:label": "B19 (2021-05-25)",
-    "wof:lastmodified": 1622750177,
+    "wof:lastmodified": 1643748802,
     "wof:name": "B19",
     "wof:parent_id": 1745882139,
     "wof:placetype": "venue",

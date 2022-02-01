@@ -8,6 +8,7 @@
     "geom:bbox": "-122.392683,37.624972,-122.389222,37.630967",
     "geom:latitude": 37.62763245298022,
     "geom:longitude": -122.39079789524598,
+    "iso:country": "US",
     "mz:is_current": 1,
     "sfo:id": "U",
     "sfo:level": 0,
@@ -49,7 +50,7 @@
       }
     ],
     "wof:id": 1730008815,
-    "wof:lastmodified": 1619635948,
+    "wof:lastmodified": 1643748802,
     "wof:name": "Taxiway U",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

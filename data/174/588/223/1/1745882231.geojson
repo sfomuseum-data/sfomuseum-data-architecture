@@ -33,6 +33,7 @@
       1745882227,
       1745882137
     ],
+    "wof:country": "US",
     "wof:created": 1622750195,
     "wof:geomhash": "627108d527c5aec3ce4da15e4feb7347",
     "wof:hierarchy": [
@@ -63,7 +64,7 @@
     ],
     "wof:id": 1745882231,
     "wof:label": "B2 (2021-05-25)",
-    "wof:lastmodified": 1622750195,
+    "wof:lastmodified": 1643748802,
     "wof:name": "B2",
     "wof:parent_id": 1745882227,
     "wof:placetype": "venue",

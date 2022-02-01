@@ -37,6 +37,7 @@
       1729792579,
       102085387
     ],
+    "wof:country": "US",
     "wof:created": 1612910034,
     "wof:geomhash": "7583a81515268ab649682f54ecb28209",
     "wof:hierarchy": [
@@ -65,7 +66,7 @@
     ],
     "wof:id": 1729792681,
     "wof:label": "International Terminal Connector (2020-~05)",
-    "wof:lastmodified": 1622750275,
+    "wof:lastmodified": 1643748801,
     "wof:name": "International Terminal Connector",
     "wof:parent_id": 1729792579,
     "wof:placetype": "concourse",

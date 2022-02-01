@@ -37,6 +37,7 @@
       1729792435,
       102085387
     ],
+    "wof:country": "US",
     "wof:created": 1612910037,
     "wof:geomhash": "099e823da7800f06d9b4309e32ee54b6",
     "wof:hierarchy": [
@@ -65,7 +66,7 @@
     ],
     "wof:id": 1729792691,
     "wof:label": "Terminal One Departures (Post-Security) (2020-~05)",
-    "wof:lastmodified": 1622750193,
+    "wof:lastmodified": 1643748801,
     "wof:name": "Terminal One Departures (Post-Security)",
     "wof:parent_id": 1729792435,
     "wof:placetype": "concourse",

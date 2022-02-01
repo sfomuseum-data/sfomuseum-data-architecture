@@ -33,6 +33,7 @@
       1745882139,
       1745882137
     ],
+    "wof:country": "US",
     "wof:created": 1622750177,
     "wof:geomhash": "f370c8c8766500c0e3eef21bab14fbfc",
     "wof:hierarchy": [
@@ -63,7 +64,7 @@
     ],
     "wof:id": 1745882179,
     "wof:label": "B20 (2021-05-25)",
-    "wof:lastmodified": 1622750177,
+    "wof:lastmodified": 1643748802,
     "wof:name": "B20",
     "wof:parent_id": 1745882139,
     "wof:placetype": "venue",

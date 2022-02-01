@@ -33,6 +33,7 @@
       1745882139,
       1745882137
     ],
+    "wof:country": "US",
     "wof:created": 1622750178,
     "wof:geomhash": "af05f68e7f4930868d3c20efbe17841a",
     "wof:hierarchy": [
@@ -63,7 +64,7 @@
     ],
     "wof:id": 1745882183,
     "wof:label": "B4 (2021-05-25)",
-    "wof:lastmodified": 1622750178,
+    "wof:lastmodified": 1643748802,
     "wof:name": "B4",
     "wof:parent_id": 1745882139,
     "wof:placetype": "venue",

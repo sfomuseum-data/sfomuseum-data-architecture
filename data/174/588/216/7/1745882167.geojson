@@ -33,6 +33,7 @@
       1745882139,
       1745882137
     ],
+    "wof:country": "US",
     "wof:created": 1622750174,
     "wof:geomhash": "0c3420723f3c3d734fe3074009d384cc",
     "wof:hierarchy": [
@@ -63,7 +64,7 @@
     ],
     "wof:id": 1745882167,
     "wof:label": "B11 (2021-05-25)",
-    "wof:lastmodified": 1622750174,
+    "wof:lastmodified": 1643748802,
     "wof:name": "B11",
     "wof:parent_id": 1745882139,
     "wof:placetype": "venue",

@@ -10,6 +10,7 @@
     "geom:bbox": "-122.387838,37.614338,-122.387755,37.614375",
     "geom:latitude": 37.61435718833335,
     "geom:longitude": -122.38779703838323,
+    "iso:country": "US",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 41,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1729813685,
-    "wof:lastmodified": 1622832897,
+    "wof:lastmodified": 1643748802,
     "wof:name": "AML Aviation Museum Gallery 04b Special Collections Room",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",

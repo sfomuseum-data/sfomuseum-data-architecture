@@ -10,6 +10,7 @@
     "geom:bbox": "-122.385108,37.613128,-122.384934,37.613564",
     "geom:latitude": 37.6133449408613,
     "geom:longitude": -122.38502042073,
+    "iso:country": "US",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 93,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1745887101,
-    "wof:lastmodified": 1632269667,
+    "wof:lastmodified": 1643748802,
     "wof:name": "HM04 Harvey Milk Temporary Wall 2",
     "wof:parent_id": 1745882139,
     "wof:placetype": "enclosure",

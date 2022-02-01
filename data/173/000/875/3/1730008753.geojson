@@ -8,6 +8,7 @@
     "geom:bbox": "-122.381364,37.606199,-122.366818,37.627475",
     "geom:latitude": 37.61673857004443,
     "geom:longitude": -122.37415663928886,
+    "iso:country": "US",
     "mz:is_current": 1,
     "sfo:id": "RUNWAY 01R/19L",
     "sfo:level": 0,
@@ -49,7 +50,7 @@
       }
     ],
     "wof:id": 1730008753,
-    "wof:lastmodified": 1619635948,
+    "wof:lastmodified": 1643748802,
     "wof:name": "RUNWAY 01R/19L",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

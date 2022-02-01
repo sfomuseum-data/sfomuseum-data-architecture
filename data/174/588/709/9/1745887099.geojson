@@ -10,6 +10,7 @@
     "geom:bbox": "-122.386241,37.613972,-122.385898,37.614056",
     "geom:latitude": 37.61401952024091,
     "geom:longitude": -122.3860612175642,
+    "iso:country": "US",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 92,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1745887099,
-    "wof:lastmodified": 1632269667,
+    "wof:lastmodified": 1643748802,
     "wof:name": "1C Kids’ Spot",
     "wof:parent_id": 1745882139,
     "wof:placetype": "enclosure",

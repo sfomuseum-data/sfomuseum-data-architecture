@@ -10,6 +10,7 @@
     "geom:bbox": "-122.385839,37.610995,-122.385739,37.611086",
     "geom:latitude": 37.61104384990927,
     "geom:longitude": -122.38579821824523,
+    "iso:country": "US",
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 91,
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1745885813,
-    "wof:lastmodified": 1632269667,
+    "wof:lastmodified": 1643748802,
     "wof:name": "1F Kids’ Spot/Tree Town",
     "wof:parent_id": 1745882227,
     "wof:placetype": "enclosure",

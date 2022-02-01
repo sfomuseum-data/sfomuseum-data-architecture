@@ -2,12 +2,15 @@
   "id": 1730051431,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "2020-05-05",
+    "date:inception_upper": "2020-05-05",
     "edtf:cessation": "..",
     "edtf:inception": "2020-05-05",
     "geom:area": 1.4561694998635158e-7,
     "geom:bbox": "-122.400794,37.634604,-122.400028,37.635485",
     "geom:latitude": 37.63507959312958,
     "geom:longitude": -122.40037860819993,
+    "iso:country": "US",
     "mps:latitude": -122.400354777267,
     "mps:longitude": 37.63505523373515,
     "mz:is_current": 1,
@@ -39,22 +42,22 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "venue_id": 1730051431,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "venue_id": 1730051431
       },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
-        "venue_id": 1730051431,
-        "region_id": 85688637
+        "region_id": 85688637,
+        "venue_id": 1730051431
       }
     ],
     "wof:id": 1730051431,
-    "wof:lastmodified": 1620334565,
+    "wof:lastmodified": 1643748802,
     "wof:name": "Long Term Parking AirTrain Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

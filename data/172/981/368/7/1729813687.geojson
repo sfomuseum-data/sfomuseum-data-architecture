@@ -12,6 +12,7 @@
     "geom:bbox": "-122.385051,37.612637,-122.384714,37.612921",
     "geom:latitude": 37.61277678323716,
     "geom:longitude": -122.38487887460676,
+    "iso:country": "US",
     "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 71,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1729813687,
-    "wof:lastmodified": 1632269667,
+    "wof:lastmodified": 1643748802,
     "wof:name": "1E Mid-Pier Gallery",
     "wof:parent_id": 1477855659,
     "wof:placetype": "enclosure",
