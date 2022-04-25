@@ -2,9 +2,11 @@
   "id": 1745882303,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-11-09",
+    "date:cessation_upper": "2021-11-09",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-11-09",
     "edtf:inception": "2021-05-25",
     "faa:latitude": 37.618515,
     "faa:longitude": -122.384132,
@@ -18,7 +20,7 @@
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "E5",
     "sfo:level": 2,
     "sfomuseum:is_sfo": 1,
@@ -78,7 +80,7 @@
     ],
     "wof:id": 1745882303,
     "wof:label": "E5 (2021-05-25)",
-    "wof:lastmodified": 1622750221,
+    "wof:lastmodified": 1650930871,
     "wof:name": "E5",
     "wof:parent_id": 1745882299,
     "wof:placetype": "venue",
@@ -86,7 +88,9 @@
       "gate"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1763588339
+    ],
     "wof:supersedes": [
       1729792555
     ],

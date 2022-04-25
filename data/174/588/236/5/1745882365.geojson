@@ -2,11 +2,11 @@
   "id": 1745882365,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-10-16",
-    "date:cessation_upper": "2019-10-16",
+    "date:cessation_lower": "2021-11-09",
+    "date:cessation_upper": "2021-11-09",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-11-09",
     "edtf:deprecated": "2021-09-30",
     "edtf:inception": "2021-05-25",
     "faa:latitude": 37.6142,
@@ -81,7 +81,7 @@
     ],
     "wof:id": 1745882365,
     "wof:label": "A1 (2021-05-25)",
-    "wof:lastmodified": 1633038728,
+    "wof:lastmodified": 1650930888,
     "wof:name": "A1",
     "wof:parent_id": 1745882337,
     "wof:placetype": "venue",
@@ -90,10 +90,10 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
-      1745882367
+      1745882367,
+      1763588389
     ],
-    "wof:supersedes": [
-    ],
+    "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [

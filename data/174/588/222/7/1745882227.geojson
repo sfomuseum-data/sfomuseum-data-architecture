@@ -2,16 +2,18 @@
   "id": 1745882227,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-11-09",
+    "date:cessation_upper": "2021-11-09",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-11-09",
     "edtf:inception": "2021-05-25",
     "geom:area": 0.0000011751858742817032,
     "geom:bbox": "-122.387572,37.613771,-122.382325,37.615640",
     "geom:latitude": 37.61429397811166,
     "geom:longitude": -122.38554550878263,
     "iso:country": "US",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "200CAP",
     "sfo:level": 2,
     "sfomuseum:is_sfo": 1,
@@ -64,7 +66,7 @@
     ],
     "wof:id": 1745882227,
     "wof:label": "Terminal One Departures (Post-Security) (2021-05-25)",
-    "wof:lastmodified": 1643748802,
+    "wof:lastmodified": 1650930845,
     "wof:name": "Terminal One Departures (Post-Security)",
     "wof:parent_id": 1745882137,
     "wof:placetype": "concourse",
@@ -72,7 +74,9 @@
       "commonarea"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1763588265
+    ],
     "wof:supersedes": [
       1729792691
     ]

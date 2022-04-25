@@ -1,0 +1,102 @@
+{
+  "id": 1763588489,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2021-11-09",
+    "date:inception_upper": "2021-11-09",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-11-09",
+    "geom:area": 2.177484769209929e-9,
+    "geom:area_square_m": 244.245562,
+    "geom:bbox": "-122.381095,37.617165,-122.381048,37.617245",
+    "geom:latitude": 37.61720690422479,
+    "geom:longitude": -122.38107161991636,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "name:eng_x_preferred": [
+      "D-14 Wall Case"
+    ],
+    "name:eng_x_variant": [
+      "D-14",
+      "D14"
+    ],
+    "sfo:level": 2,
+    "sfomuseum:gallery_id": 67,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "T2",
+    "sfomuseum:map_id": "2B",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1763588121,
+      1763588125,
+      1763588123
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1650930921,
+    "wof:geomhash": "425ee5c5d649dd1129edec36e3585390",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588125,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1763588489,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1763588123
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588125,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1763588489,
+        "region_id": 85688637,
+        "wing_id": 1763588123
+      }
+    ],
+    "wof:id": 1763588489,
+    "wof:label": "2B Kids’ Spot (2021-11-09)",
+    "wof:lastmodified": 1650930921,
+    "wof:name": "2B Kids’ Spot",
+    "wof:parent_id": 1763588125,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745882455
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38109508600002,
+    37.617164812,
+    -122.381048244,
+    37.617245302000015
+  ],
+  "geometry": {"coordinates":[[[-122.38109508600002,37.617245302000015],[-122.38107819499999,37.617164812],[-122.381048244,37.617184940000016],[-122.381060101,37.617234467],[-122.38109508600002,37.617245302000015]]],"type":"Polygon"}
+}

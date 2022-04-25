@@ -2,16 +2,18 @@
   "id": 1745882183,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-11-09",
+    "date:cessation_upper": "2021-11-09",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-11-09",
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:bbox": "-122.385845,37.613810,-122.385845,37.613810",
     "geom:latitude": 37.6138099397358,
     "geom:longitude": -122.38584530943658,
     "iso:country": "US",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "B4",
     "sfo:level": 2,
     "sfomuseum:is_sfo": 1,
@@ -64,7 +66,7 @@
     ],
     "wof:id": 1745882183,
     "wof:label": "B4 (2021-05-25)",
-    "wof:lastmodified": 1643748802,
+    "wof:lastmodified": 1650930827,
     "wof:name": "B4",
     "wof:parent_id": 1745882139,
     "wof:placetype": "venue",
@@ -72,7 +74,9 @@
       "gate"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1763588215
+    ],
     "wof:supersedes": [
       1729792749
     ]

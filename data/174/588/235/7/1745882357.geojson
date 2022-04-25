@@ -2,11 +2,11 @@
   "id": 1745882357,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-10-16",
-    "date:cessation_upper": "2019-10-16",
+    "date:cessation_lower": "2021-11-09",
+    "date:cessation_upper": "2021-11-09",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-11-09",
     "edtf:deprecated": "2021-09-30",
     "edtf:inception": "2021-05-25",
     "faa:latitude": 37.611406,
@@ -81,7 +81,7 @@
     ],
     "wof:id": 1745882357,
     "wof:label": "A12 (2021-05-25)",
-    "wof:lastmodified": 1633040140,
+    "wof:lastmodified": 1650930891,
     "wof:name": "A12",
     "wof:parent_id": 1745882337,
     "wof:placetype": "venue",
@@ -91,7 +91,8 @@
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
       1745882389,
-      1477930315
+      1477930315,
+      1763588397
     ],
     "wof:supersedes": [
       1729792601

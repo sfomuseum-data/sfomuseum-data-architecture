@@ -1,0 +1,105 @@
+{
+  "id": 1763588549,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2008-12-31",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2021-11-09",
+    "date:inception_upper": "2021-11-09",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-11-09",
+    "geom:area": 1.1099805985643597e-8,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389131,37.615951,-122.388991,37.616080",
+    "geom:latitude": 37.61601515922952,
+    "geom:longitude": -122.38906143130441,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "name:eng_x_preferred": [
+      "G-03 Video Arts Gallery"
+    ],
+    "name:eng_x_variant": [
+      "G-03",
+      "G03"
+    ],
+    "sfo:level": 3,
+    "sfomuseum:gallery_id": 70,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "IT",
+    "sfomuseum:map_id": "4E",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1763588121,
+      1763588469,
+      1763588369
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:parent_id",
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1650930942,
+    "wof:geomhash": "c1b960bec9f257b46a5cf696df7e6c73",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1763588549,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1763588369
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1763588549,
+        "region_id": 85688637,
+        "wing_id": 1763588369
+      }
+    ],
+    "wof:id": 1763588549,
+    "wof:label": "4E Video Arts Gallery (2021-11-09)",
+    "wof:lastmodified": 1650930942,
+    "wof:name": "4E Video Arts Gallery",
+    "wof:parent_id": 1763588469,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745882507
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38913086500003,
+    37.615950698000006,
+    -122.38899137700002,
+    37.61607976900001
+  ],
+  "geometry": {"coordinates":[[[-122.38908798,37.615950698000006],[-122.38899137700002,37.615975161999984],[-122.38903576799999,37.61607976900001],[-122.38913086500003,37.61605552200001],[-122.38908798,37.615950698000006]]],"type":"Polygon"}
+}

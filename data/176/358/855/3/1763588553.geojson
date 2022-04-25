@@ -1,0 +1,83 @@
+{
+  "id": 1763588553,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2021-11-09",
+    "date:inception_upper": "2021-11-09",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-11-09",
+    "geom:area": 2.0727251627559272e-9,
+    "geom:bbox": "-122.389733,37.616529,-122.389573,37.616580",
+    "geom:latitude": 37.6165546529427,
+    "geom:longitude": -122.38965212381375,
+    "iso:country": "US",
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:gallery_id": 86,
+    "sfomuseum:location": "IT",
+    "sfomuseum:map_id": "4A",
+    "sfomuseum:placetype": "gallery",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1763588121,
+      1763588469,
+      1763588369
+    ],
+    "wof:country": "US",
+    "wof:created": 1650930943,
+    "wof:geomhash": "23f6888d9a12416a9f0de19fe1945573",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1763588553,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1763588369
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1763588553,
+        "region_id": 85688637,
+        "wing_id": 1763588369
+      }
+    ],
+    "wof:id": 1763588553,
+    "wof:label": "4A International North Cases (2021-11-09)",
+    "wof:lastmodified": 1650930943,
+    "wof:name": "4A International North Cases",
+    "wof:parent_id": 1763588469,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": "gallery",
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1746403233
+    ]
+  },
+  "bbox": [
+    -122.38973276600001,
+    37.616528931000005,
+    -122.389572504,
+    37.61658045299998
+  ],
+  "geometry": {"coordinates":[[[-122.389726731,37.616528931000005],[-122.389572504,37.61656823599998],[-122.389577869,37.61658045299998],[-122.38973276600001,37.61654061600001],[-122.389726731,37.616528931000005]]],"type":"Polygon"}
+}

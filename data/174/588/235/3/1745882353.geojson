@@ -2,11 +2,11 @@
   "id": 1745882353,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-10-16",
-    "date:cessation_upper": "2019-10-16",
+    "date:cessation_lower": "2021-11-09",
+    "date:cessation_upper": "2021-11-09",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-11-09",
     "edtf:deprecated": "2021-09-30",
     "edtf:inception": "2021-05-25",
     "faa:latitude": 37.611716,
@@ -81,7 +81,7 @@
     ],
     "wof:id": 1745882353,
     "wof:label": "A9 (2021-05-25)",
-    "wof:lastmodified": 1633021846,
+    "wof:lastmodified": 1650930885,
     "wof:name": "A9",
     "wof:parent_id": 1745882337,
     "wof:placetype": "venue",
@@ -91,7 +91,8 @@
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
       1745882385,
-      1477930305
+      1477930305,
+      1763588379
     ],
     "wof:supersedes": [
       1729792597

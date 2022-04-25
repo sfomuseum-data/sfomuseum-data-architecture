@@ -1,0 +1,92 @@
+{
+  "id": 1763588185,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2021-11-09",
+    "date:inception_upper": "2021-11-09",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-11-09",
+    "flysfo:gate_code": "B12",
+    "geom:area": 0,
+    "geom:bbox": "-122.384677,37.612344,-122.384677,37.612344",
+    "geom:latitude": 37.61234392338043,
+    "geom:longitude": -122.38467699029823,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfo:id": "B12",
+    "sfo:level": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "B12",
+    "sfomuseum:parent_id": "200B",
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1763588121,
+      1763588177,
+      1763588175
+    ],
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1650930817,
+    "wof:geomhash": "2de477df821fd1d9722b46fe436e2226",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588177,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1763588185,
+        "wing_id": 1763588175
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588177,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1763588185,
+        "wing_id": 1763588175
+      }
+    ],
+    "wof:id": 1763588185,
+    "wof:label": "B12 (2021-11-09)",
+    "wof:lastmodified": 1650930817,
+    "wof:name": "B12",
+    "wof:parent_id": 1763588177,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745882151
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38467699029823,
+    37.61234392338043,
+    -122.38467699029823,
+    37.61234392338043
+  ],
+  "geometry": {"coordinates":[-122.38467699029823,37.61234392338043],"type":"Point"}
+}

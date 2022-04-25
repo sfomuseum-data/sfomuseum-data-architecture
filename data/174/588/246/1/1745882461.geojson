@@ -2,16 +2,18 @@
   "id": 1745882461,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-11-09",
+    "date:cessation_upper": "2021-11-09",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-11-09",
     "edtf:inception": "2021-05-25",
     "geom:area": 1.377640720796761e-9,
     "geom:bbox": "-122.383549,37.617339,-122.383498,37.617442",
     "geom:latitude": 37.61739068236336,
     "geom:longitude": -122.383523691015,
     "iso:country": "US",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 81,
     "sfomuseum:level": "",
@@ -63,13 +65,15 @@
     ],
     "wof:id": 1745882461,
     "wof:label": "D-16 Sky Terrace Wall (2021-05-25)",
-    "wof:lastmodified": 1643748802,
+    "wof:lastmodified": 1650930923,
     "wof:name": "2D Sky Terrace Wall",
     "wof:parent_id": 1745882129,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": "gallery",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1763588495
+    ],
     "wof:supersedes": [
       1729813701
     ]

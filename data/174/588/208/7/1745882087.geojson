@@ -3,9 +3,11 @@
   "type": "Feature",
   "properties": {
     "addr:full": "300 Upper Domestic Loop, San Francisco, Ca. 94128",
+    "date:cessation_lower": "2021-11-09",
+    "date:cessation_upper": "2021-11-09",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-11-09",
     "edtf:inception": "2021-05-25",
     "geom:area": 0.0000017548177093684416,
     "geom:area_square_m": 17038.720217,
@@ -15,7 +17,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:building_id": "300D",
     "sfo:id": "300D",
     "sfo:level": 2,
@@ -72,7 +74,7 @@
     ],
     "wof:id": 1745882087,
     "wof:label": "Boarding Area D (2021-05-25)",
-    "wof:lastmodified": 1622750152,
+    "wof:lastmodified": 1650930794,
     "wof:name": "Boarding Area D",
     "wof:parent_id": 1745882085,
     "wof:placetype": "concourse",
@@ -80,7 +82,9 @@
       "boardingarea"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1763588125
+    ],
     "wof:supersedes": [
       1729792391
     ],

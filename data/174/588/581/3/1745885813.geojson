@@ -2,16 +2,18 @@
   "id": 1745885813,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-11-09",
+    "date:cessation_upper": "2021-11-09",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-11-09",
     "edtf:inception": "2021-05-25",
     "geom:area": 5.938959507827552e-9,
     "geom:bbox": "-122.385839,37.610995,-122.385739,37.611086",
     "geom:latitude": 37.61104384990927,
     "geom:longitude": -122.38579821824523,
     "iso:country": "US",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 91,
     "sfomuseum:level": "2",
@@ -62,12 +64,14 @@
       }
     ],
     "wof:id": 1745885813,
-    "wof:lastmodified": 1643748802,
+    "wof:lastmodified": 1650930930,
     "wof:name": "1F Kids’ Spot/Tree Town",
     "wof:parent_id": 1745882227,
     "wof:placetype": "enclosure",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1763588517
+    ],
     "wof:supersedes": []
   },
   "bbox": [

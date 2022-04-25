@@ -2,9 +2,11 @@
   "id": 1745882475,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-11-09",
+    "date:cessation_upper": "2021-11-09",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-11-09",
     "edtf:inception": "2021-05-25",
     "geom:area": 1.68183607005121e-8,
     "geom:area_square_m": 467.367672,
@@ -13,7 +15,7 @@
     "geom:longitude": -122.38437920019275,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "C-05 Terminal One Lower Gallery"
     ],
@@ -78,7 +80,7 @@
     ],
     "wof:id": 1745882475,
     "wof:label": "C-05 Terminal One Lower Gallery (2021-05-25)",
-    "wof:lastmodified": 1632788359,
+    "wof:lastmodified": 1650930929,
     "wof:name": "1J Terminal One Lower Gallery",
     "wof:parent_id": 1745882223,
     "wof:placetype": "enclosure",
@@ -86,7 +88,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1763588513
+    ],
     "wof:supersedes": [
       1729837319
     ],
