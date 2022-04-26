@@ -1,72 +1,67 @@
 {
-  "id": 1477863281,
+  "id": 1763588563,
   "type": "Feature",
   "properties": {
-    "addr:full": "279 Upper Domestic Loop, San Francisco, Ca. 94128",
-    "date:inception_lower": "2003-02-24",
-    "date:inception_upper": "2003-02-24",
     "edtf:cessation": "..",
-    "edtf:deprecated": "2021-02-09",
-    "edtf:inception": "2003-02-24",
+    "edtf:inception": "",
     "geom:area": 1.1687334602949664e-7,
-    "geom:area_square_m": 897.22704,
     "geom:bbox": "-122.386110,37.614711,-122.385274,37.615330",
     "geom:latitude": 37.61510374814895,
     "geom:longitude": -122.38565404465155,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mps:latitude": -122.38565458175344,
+    "mps:longitude": 37.615120682301836,
+    "mz:is_current": 1,
+    "sfo:id": "279",
+    "sfo:level": 4,
+    "sfo:parent_id": "200",
+    "sfomuseum:key": "279",
+    "sfomuseum:name": "Terminal One AirTrain Station",
     "sfomuseum:placetype": "airtrain",
-    "sfomuseum:post_security": 0,
-    "src:geom": "flysfo",
+    "src:geom": "sfomuseum",
+    "wof:alt_placetype": [
+      "airtrain"
+    ],
     "wof:belongsto": [
       102527513,
-      85688637,
       102191575,
       85633793,
-      85922583,
       102087579,
+      85922583,
       554784711,
+      85688637,
       102085387
     ],
-    "wof:breaches": [],
     "wof:country": "US",
-    "wof:created": 1568840559,
+    "wof:created": 1650931147,
     "wof:geomhash": "ee5887d2edbf47b8beafc0b6c0ae145c",
     "wof:hierarchy": [
       {
-        "building_id": 1477863281,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1763588563,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
-        "region_id": 85688637,
-        "venue_id": 1477863281
+        "region_id": 85688637
       },
       {
-        "building_id": 1477863281,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
-        "region_id": 85688637,
-        "venue_id": 1477863281
+        "custom_id": 1763588563,
+        "region_id": 85688637
       }
     ],
-    "wof:id": 1477863281,
-    "wof:lastmodified": 1650931154,
-    "wof:name": "Terminal 1 Air Train Station",
+    "wof:id": 1763588563,
+    "wof:lastmodified": 1650931147,
+    "wof:name": "Terminal One AirTrain Station",
     "wof:parent_id": 102527513,
-    "wof:placetype": "venue",
-    "wof:placetype_alt": "airtrain",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [
-      1729791955
-    ],
-    "wof:supersedes": [],
-    "wof:tags": []
+    "wof:superseded_by": [],
+    "wof:supersedes": []
   },
   "bbox": [
     -122.38611045756414,

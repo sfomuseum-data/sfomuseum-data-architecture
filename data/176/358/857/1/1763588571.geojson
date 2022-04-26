@@ -1,40 +1,37 @@
 {
-  "id": 1477855977,
+  "id": 1763588571,
   "type": "Feature",
   "properties": {
-    "addr:full": "677 North Mcdonnell Road, San Francisco, Ca. 94128",
-    "date:inception_lower": "2003-02-24",
-    "date:inception_upper": "2003-02-24",
     "edtf:cessation": "..",
-    "edtf:deprecated": "2021-02-09",
-    "edtf:inception": "2003-02-24",
+    "edtf:inception": "",
     "geom:area": 5.7157695599446805e-8,
-    "geom:area_square_m": 551.939224,
     "geom:bbox": "-122.399686,37.621161,-122.399394,37.622006",
     "geom:latitude": 37.62158967132814,
     "geom:longitude": -122.39954586432356,
-    "iso:country": "US",
-    "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mps:latitude": -122.39954365148792,
+    "mps:longitude": 37.62158969280652,
+    "mz:is_current": 1,
+    "sfo:id": "677A",
+    "sfo:level": 4,
+    "sfomuseum:key": "677A",
+    "sfomuseum:name": "Westfield Road AirTrain Station (Inbound)",
     "sfomuseum:placetype": "airtrain",
-    "sfomuseum:post_security": 0,
-    "src:geom": "flysfo",
+    "src:geom": "sfomuseum",
+    "wof:alt_placetype": [
+      "airtrain"
+    ],
     "wof:belongsto": [
       102527513,
-      85688637,
       102191575,
       85633793,
-      85922583,
       102087579,
+      85922583,
       554784711,
+      85688637,
       102085387
     ],
-    "wof:breaches": [],
-    "wof:concordances": {
-      "wd:id": "Q1826452"
-    },
     "wof:country": "US",
-    "wof:created": 1568751861,
+    "wof:created": 1650931150,
     "wof:geomhash": "4b807ac300e18176f8f18063b22d02fc",
     "wof:hierarchy": [
       {
@@ -42,32 +39,28 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1763588571,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
-        "region_id": 85688637,
-        "venue_id": 1477855977
+        "region_id": 85688637
       },
       {
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
-        "region_id": 85688637,
-        "venue_id": 1477855977
+        "custom_id": 1763588571,
+        "region_id": 85688637
       }
     ],
-    "wof:id": 1477855977,
-    "wof:lastmodified": 1650931154,
-    "wof:name": "West Field Road AirTrain Station (Inbound)",
+    "wof:id": 1763588571,
+    "wof:lastmodified": 1650931150,
+    "wof:name": "Westfield Road AirTrain Station (Inbound)",
     "wof:parent_id": 102527513,
-    "wof:placetype": "venue",
-    "wof:placetype_alt": "airtrain",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [
-      1729791953
-    ],
-    "wof:supersedes": [],
-    "wof:tags": []
+    "wof:superseded_by": [],
+    "wof:supersedes": []
   },
   "bbox": [
     -122.39968594771618,
