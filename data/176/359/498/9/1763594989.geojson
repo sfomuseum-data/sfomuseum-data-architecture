@@ -1,0 +1,77 @@
+{
+  "id": 1763594989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 1.7836411674797994e-9,
+    "geom:bbox": "-122.384902,37.617744,-122.384779,37.617800",
+    "geom:latitude": 37.617771523303894,
+    "geom:longitude": -122.3848441799595,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:gallery_id": 90,
+    "sfomuseum:location": "T2",
+    "sfomuseum:map_id": "2F",
+    "sfomuseum:placetype": "gallery",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1763588121,
+      102527513,
+      1763588165,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1763588123,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1651002175,
+    "wof:geomhash": "7b892dae7cf1ddbb76cfa9b3732816dd",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588165,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1763594989,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1763588123
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588165,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1763594989,
+        "region_id": 85688637,
+        "wing_id": 1763588123
+      }
+    ],
+    "wof:id": 1763594989,
+    "wof:lastmodified": 1651002175,
+    "wof:name": "2F Pre-Security Connector/Zuber",
+    "wof:parent_id": 1763588165,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": "gallery",
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38490204599998,
+    37.617744440000024,
+    -122.38477866400001,
+    37.61779967899997
+  ],
+  "geometry": {"coordinates":[[[-122.38489399899998,37.61779967899997],[-122.38490204599998,37.61778480700002],[-122.38479207500001,37.617744440000024],[-122.38477866400001,37.617752938000024],[-122.38489399899998,37.61779967899997]]],"type":"Polygon"}
+}
