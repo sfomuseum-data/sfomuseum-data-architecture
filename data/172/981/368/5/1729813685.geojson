@@ -2,9 +2,11 @@
   "id": 1729813685,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "geom:area": 1.5357189973283578e-9,
     "geom:bbox": "-122.387838,37.614338,-122.387755,37.614375",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1729813685,
-    "wof:lastmodified": 1651085629,
+    "wof:lastmodified": 1651085970,
     "wof:name": "AML Aviation Museum Gallery 04b Special Collections Room",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",
