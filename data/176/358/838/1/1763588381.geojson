@@ -81,7 +81,7 @@
     ],
     "wof:id": 1763588381,
     "wof:label": "A6 (2021-11-09)",
-    "wof:lastmodified": 1652139365,
+    "wof:lastmodified": 1652141030,
     "wof:name": "A6",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -93,7 +93,6 @@
       1763588411
     ],
     "wof:supersedes": [
-      1745882349
     ],
     "wof:tags": []
   },
