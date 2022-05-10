@@ -78,7 +78,7 @@
     ],
     "wof:id": 1763588409,
     "wof:label": "A5 (2021-11-09)",
-    "wof:lastmodified": 1650930896,
+    "wof:lastmodified": 1652141096,
     "wof:name": "A5",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -88,6 +88,7 @@
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [
+      1763588395,
       1745882375
     ],
     "wof:tags": []
