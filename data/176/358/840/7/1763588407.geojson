@@ -68,7 +68,7 @@
     ],
     "wof:id": 1763588407,
     "wof:label": "A4 (2021-11-09)",
-    "wof:lastmodified": 1650930894,
+    "wof:lastmodified": 1652213484,
     "wof:name": "A4",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -78,6 +78,7 @@
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [
+      1763588377,
       1745882373
     ],
     "wof:tags": []
