@@ -7,7 +7,7 @@
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
-    "edtf:deprecated": "2021-09-30",
+    "edtf:deprecated": "2022-05-09",
     "edtf:inception": "2021-11-09",
     "faa:latitude": 37.612014,
     "faa:longitude": -122.390393,
@@ -21,7 +21,7 @@
     "lbl:latitude": 37.61227,
     "lbl:longitude": -122.390079,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "A8",
     "sfo:level": 2,
     "sfomuseum:is_sfo": 1,
@@ -81,7 +81,7 @@
     ],
     "wof:id": 1763588391,
     "wof:label": "A8 (2021-11-09)",
-    "wof:lastmodified": 1650930888,
+    "wof:lastmodified": 1652140894,
     "wof:name": "A8",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -90,11 +90,9 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
-      1745882381,
-      1477930303
+      1763588413
     ],
     "wof:supersedes": [
-      1745882355
     ],
     "wof:tags": []
   },
