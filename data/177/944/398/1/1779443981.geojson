@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2021-11-09",
     "date:cessation_upper": "2021-11-09",
-    "date:inception_lower": "2021-09-01",
-    "date:inception_upper": "2021-09-30",
-    "edtf:cessation": "2021-11-09",
-    "edtf:inception": "2021-09",
+    "date:inception_lower": "2021-11-09",
+    "date:inception_upper": "2021-11-09",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-11-09",
     "geom:area": 2.9240407045358035e-8,
     "geom:area_square_m": 525.252963,
     "geom:bbox": "-122.393471,37.618493,-122.393198,37.618823",
@@ -26,7 +26,6 @@
     "sfomuseum:post_security": -1,
     "src:geom": "sfo",
     "wof:belongsto": [
-      1745882083,
       102527513,
       102191575,
       85633793,
@@ -34,8 +33,9 @@
       85922583,
       554784711,
       85688637,
-      1745882085,
-      102085387
+      102085387,
+      1763588121,
+      1763588123
     ],
     "wof:breaches": [],
     "wof:controlled": [],
@@ -44,8 +44,8 @@
     "wof:geomhash": "b1f3461d6236ee50657eb5ebd47a1f38",
     "wof:hierarchy": [
       {
-        "arcade_id": 1779443961,
-        "building_id": 1745882083,
+        "arcade_id": 1779443981,
+        "building_id": 1763588121,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -53,31 +53,31 @@
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "wing_id": 1745882085
+        "wing_id": 1763588123
       },
       {
-        "arcade_id": 1779443961,
-        "building_id": 1745882083,
+        "arcade_id": 1779443981,
+        "building_id": 1763588121,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "wing_id": 1745882085
+        "wing_id": 1763588123
       }
     ],
-    "wof:id": 1779443961,
-    "wof:label": "SkyTerrace Observation Deck (2021-05-25)",
+    "wof:id": 1779443981,
+    "wof:label": "SkyTerrace Observation Deck (2021-11-09)",
     "wof:lastmodified": 1652389987,
     "wof:name": "SkyTerrace Observation Deck",
-    "wof:parent_id": 1745882085,
+    "wof:parent_id": 1763588123,
     "wof:placetype": "arcade",
     "wof:placetype_alt": "observationdeck",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [
-      1779443981
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1779443961
     ],
-    "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
