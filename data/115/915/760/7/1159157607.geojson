@@ -7,7 +7,6 @@
     "date:inception_lower": "2017-01-01",
     "date:inception_upper": "2017-12-31",
     "edtf:cessation": "2019-07-23",
-    "edtf:deprecated": "2021-09-30",
     "edtf:inception": "2017~",
     "faa:latitude": 37.611406,
     "faa:longitude": -122.390192,
@@ -63,7 +62,7 @@
       }
     ],
     "wof:id": 1159157607,
-    "wof:lastmodified": 1633040193,
+    "wof:lastmodified": 1653089717,
     "wof:name": "A12",
     "wof:parent_id": 1159157339,
     "wof:placetype": "venue",
@@ -72,8 +71,7 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
-      1477855869,
-      1159157823
+      1477855869
     ],
     "wof:supersedes": [],
     "wof:tags": []
