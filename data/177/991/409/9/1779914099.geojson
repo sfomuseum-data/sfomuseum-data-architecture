@@ -2,14 +2,17 @@
   "id": 6,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "2000-01-01",
+    "date:inception_upper": "2000-12-31",
     "edtf:cessation": "",
-    "edtf:inception": "",
+    "edtf:inception": "2000",
     "geom:area": 0.00000588549358294135,
     "geom:bbox": "-122.401465,37.613189,-122.384358,37.635248",
     "geom:latitude": 37.62023988999956,
     "geom:longitude": -122.39469781491596,
+    "mz:is_current": 1,
     "sfomuseum:placetype": "rail",
-    "src:geom": "unknown",
+    "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -44,7 +47,7 @@
       }
     ],
     "wof:id": 1779914099,
-    "wof:lastmodified": 1658175515,
+    "wof:lastmodified": 1658175830,
     "wof:name": "AirTrain Rail",
     "wof:parent_id": 102527513,
     "wof:placetype": "other",
