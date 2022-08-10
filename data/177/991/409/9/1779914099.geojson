@@ -35,6 +35,7 @@
         "locality_id": 85922583,
         "other_id": 1779914099,
         "postalcode_id": 554784711,
+        "rail_id": 1779914099,
         "region_id": 85688637
       },
       {
@@ -43,14 +44,15 @@
         "country_id": 85633793,
         "county_id": 102085387,
         "other_id": 1779914099,
+        "rail_id": 1779914099,
         "region_id": 85688637
       }
     ],
     "wof:id": 1779914099,
-    "wof:lastmodified": 1658175830,
+    "wof:lastmodified": 1660162346,
     "wof:name": "AirTrain Rail",
     "wof:parent_id": 102527513,
-    "wof:placetype": "other",
+    "wof:placetype": "custom",
     "wof:placetype_alt": "rail",
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
