@@ -14,6 +14,7 @@
     "geom:latitude": 37.61545711615287,
     "geom:longitude": -122.3841194237983,
     "iso:country": "US",
+    "millsfield:waypoint_id": 1796889607,
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "name:eng_x_preferred": [
@@ -81,7 +82,7 @@
     ],
     "wof:id": 1745882477,
     "wof:label": "C-04 Entrance Lobby C Meet and Greet (2021-05-25)",
-    "wof:lastmodified": 1650930930,
+    "wof:lastmodified": 1672253713,
     "wof:name": "1K Entrance Lobby C Meet and Greet",
     "wof:parent_id": 1745882223,
     "wof:placetype": "enclosure",

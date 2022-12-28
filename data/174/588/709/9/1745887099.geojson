@@ -13,6 +13,7 @@
     "geom:latitude": 37.61401952024091,
     "geom:longitude": -122.3860612175642,
     "iso:country": "US",
+    "millsfield:waypoint_id": 1796889475,
     "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 92,
@@ -65,7 +66,7 @@
       }
     ],
     "wof:id": 1745887099,
-    "wof:lastmodified": 1651002173,
+    "wof:lastmodified": 1672253653,
     "wof:name": "1C Kids’ Spot",
     "wof:parent_id": 1763588265,
     "wof:placetype": "enclosure",
