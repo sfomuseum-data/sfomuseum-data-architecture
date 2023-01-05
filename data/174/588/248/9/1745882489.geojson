@@ -14,7 +14,6 @@
     "geom:latitude": 37.61885149637373,
     "geom:longitude": -122.38429054806446,
     "iso:country": "US",
-    "millsfield:waypoint_id": 1796889503,
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "name:eng_x_preferred": [
@@ -81,7 +80,7 @@
     ],
     "wof:id": 1745882489,
     "wof:label": "E-06 Kid’s Spot Boarding Area E (2021-05-25)",
-    "wof:lastmodified": 1672253928,
+    "wof:lastmodified": 1672878184,
     "wof:name": "E-06 Kid’s Spot Boarding Area E",
     "wof:parent_id": 1745882299,
     "wof:placetype": "enclosure",
