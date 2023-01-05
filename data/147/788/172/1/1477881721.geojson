@@ -14,6 +14,7 @@
     "geom:latitude": 37.613076,
     "geom:longitude": -122.384144,
     "iso:country": "US",
+    "millsfield:waypoint_id": 0,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
@@ -22,16 +23,16 @@
     "sfomuseum:post_security": 1,
     "src:geom": "flysfo",
     "wof:belongsto": [
-      1477855659, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855657, 
-      554784711, 
+      1477855659,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1477855605,
+      1477855657,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
@@ -51,7 +52,7 @@
         "region_id": 85688637,
         "venue_id": 1477881721,
         "wing_id": 1477855657
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1477881721,
     "wof:label": "B7 (2019)",
-    "wof:lastmodified": 1612909949,
+    "wof:lastmodified": 1672877841,
     "wof:name": "B7",
     "wof:parent_id": 1477855659,
     "wof:placetype": "venue",
@@ -81,9 +82,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384144, 
-    37.613076, 
-    -122.384144, 
+    -122.384144,
+    37.613076,
+    -122.384144,
     37.613076
   ],
   "geometry": {"coordinates":[-122.384144,37.613076],"type":"Point"}

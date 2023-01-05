@@ -2,10 +2,6 @@
   "id": 1477855871,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-10-16",
-    "date:cessation_upper": "2019-10-16",
-    "date:inception_lower": "2019-07-23",
-    "date:inception_upper": "2019-07-23",
     "edtf:cessation": "",
     "edtf:deprecated": "2021-01-29",
     "edtf:inception": "",
@@ -18,6 +14,7 @@
     "geom:latitude": 37.61111634301599,
     "geom:longitude": -122.38989651447646,
     "iso:country": "US",
+    "millsfield:waypoint_id": 0,
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "sfomuseum:is_sfo": 1,
@@ -39,7 +36,7 @@
     ],
     "wof:id": 1477855871,
     "wof:label": "A11B (2019)",
-    "wof:lastmodified": 1612909928,
+    "wof:lastmodified": 1672877840,
     "wof:name": "A11B",
     "wof:parent_id": -1,
     "wof:placetype": "venue",
@@ -54,9 +51,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38989651447646, 
-    37.61111634301599, 
-    -122.38989651447646, 
+    -122.38989651447646,
+    37.61111634301599,
+    -122.38989651447646,
     37.61111634301599
   ],
   "geometry": {"coordinates":[-122.38989651447646,37.61111634301599],"type":"Point"}

@@ -2,10 +2,6 @@
   "id": 1477855765,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2019-10-16",
-    "date:cessation_upper": "2019-10-16",
-    "date:inception_lower": "2019-07-23",
-    "date:inception_upper": "2019-07-23",
     "edtf:cessation": "",
     "edtf:deprecated": "2021-01-29",
     "edtf:inception": "",
@@ -20,6 +16,7 @@
     "iso:country": "US",
     "lbl:latitude": 37.620731,
     "lbl:longitude": -122.387053,
+    "millsfield:waypoint_id": 0,
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "sfomuseum:is_sfo": 1,
@@ -44,7 +41,7 @@
     ],
     "wof:id": 1477855765,
     "wof:label": "F79 (2019)",
-    "wof:lastmodified": 1612909928,
+    "wof:lastmodified": 1672877841,
     "wof:name": "F79",
     "wof:parent_id": -1,
     "wof:placetype": "venue",
@@ -59,9 +56,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38705345599999, 
-    37.62073063500003, 
-    -122.38705345599999, 
+    -122.38705345599999,
+    37.62073063500003,
+    -122.38705345599999,
     37.62073063500003
   ],
   "geometry": {"coordinates":[-122.38705345599999,37.62073063500003],"type":"Point"}
