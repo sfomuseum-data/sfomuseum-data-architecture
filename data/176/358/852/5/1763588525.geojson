@@ -12,6 +12,9 @@
     "geom:latitude": 37.619977782395054,
     "geom:longitude": -122.38747765549817,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "F",
+    "millsfield:waypoint_id": 1796889517,
+    "millsfield:waypoint_kind": "T3",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "name:eng_x_preferred": [
@@ -78,7 +81,7 @@
     ],
     "wof:id": 1763588525,
     "wof:label": "F-05 Terminal 3 Hub (2021-11-09)",
-    "wof:lastmodified": 1650930934,
+    "wof:lastmodified": 1672880994,
     "wof:name": "F-05 Terminal 3 Hub",
     "wof:parent_id": 1763588271,
     "wof:placetype": "enclosure",

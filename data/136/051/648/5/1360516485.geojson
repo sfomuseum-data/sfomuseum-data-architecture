@@ -14,6 +14,8 @@
     "geom:latitude": 37.61903,
     "geom:longitude": -122.386898,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "name:eng_x_preferred": [
@@ -65,7 +67,7 @@
     ],
     "wof:id": 1360516485,
     "wof:label": "F-01 Gate 68 Children’s Art Gallery (2000~ - 2002-01-15)",
-    "wof:lastmodified": 1632269666,
+    "wof:lastmodified": 1672881041,
     "wof:name": "F-01 Gate 68 Children’s Art Gallery",
     "wof:parent_id": 1159396123,
     "wof:placetype": "enclosure",

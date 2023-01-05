@@ -15,13 +15,15 @@
     "geom:latitude": 37.61908725586695,
     "geom:longitude": -122.38719725366178,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "name:eng_x_preferred": [
       "F-02 North Connector"
     ],
     "name:eng_x_variant": [
-      "F-02", 
+      "F-02",
       "F02"
     ],
     "sfomuseum:gallery_id": 2,
@@ -33,14 +35,14 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396207, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159396331, 
-      1159396145, 
+      1159396207,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159396331,
+      1159396145,
       85688637
     ],
     "wof:breaches": [],
@@ -64,7 +66,7 @@
     ],
     "wof:id": 1360516135,
     "wof:label": "F-02 North Connector (1981~)",
-    "wof:lastmodified": 1614287845,
+    "wof:lastmodified": 1672881041,
     "wof:name": "F-02 North Connector",
     "wof:parent_id": 1159396207,
     "wof:placetype": "enclosure",
@@ -79,9 +81,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38748861037539, 
-    37.61854158582849, 
-    -122.38690848665146, 
+    -122.38748861037539,
+    37.61854158582849,
+    -122.38690848665146,
     37.6196249494093
   ],
   "geometry": {"coordinates":[[[-122.38748861037539,37.61955505498473],[-122.38729989542905,37.6196249494093],[-122.38690848665146,37.61862545913797],[-122.38709021215534,37.61854158582849],[-122.38748861037539,37.61955505498473]]],"type":"Polygon"}

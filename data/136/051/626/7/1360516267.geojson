@@ -2,86 +2,89 @@
   "id": 1360516267,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"1988-01-01",
-    "date:cessation_upper":"1988-12-31",
-    "date:inception_lower":"1983-01-01",
-    "date:inception_upper":"1983-12-31",
-    "edtf:cessation":"1988~",
-    "edtf:inception":"1983~",
-    "geom:area":0.0,
-    "geom:area_square_m":83.495225,
-    "geom:bbox":"-122.384912127,37.6177334315,-122.384716423,37.6178417679",
-    "geom:latitude":37.617787,
-    "geom:longitude":-122.384814,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "name:eng_x_preferred":[
-        "D-01 Central North Connector"
+    "date:cessation_lower": "1988-01-01",
+    "date:cessation_upper": "1988-12-31",
+    "date:inception_lower": "1983-01-01",
+    "date:inception_upper": "1983-12-31",
+    "edtf:cessation": "1988~",
+    "edtf:inception": "1983~",
+    "geom:area": 8.524727370855516e-9,
+    "geom:area_square_m": 83.495225,
+    "geom:bbox": "-122.384912,37.617733,-122.384716,37.617842",
+    "geom:latitude": 37.61778741781103,
+    "geom:longitude": -122.38481416647545,
+    "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "name:eng_x_preferred": [
+      "D-01 Central North Connector"
     ],
-    "name:eng_x_variant":[
-        "D-01",
-        "Kadish Gallery",
-        "D01"
+    "name:eng_x_variant": [
+      "D-01",
+      "Kadish Gallery",
+      "D01"
     ],
-    "sfomuseum:gallery_id":6,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:level":"D",
-    "sfomuseum:location":"T2",
-    "sfomuseum:map_id":"D01",
-    "sfomuseum:placetype":"gallery",
-    "sfomuseum:post_security":0,
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159554801,
-        1159554827,
-        85688637
+    "sfomuseum:gallery_id": 6,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "T2",
+    "sfomuseum:map_id": "D01",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159554801,
+      1159554827,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:geomhash":"2c086a566237c9e804fdd8147ec8fbd0",
-    "wof:hierarchy":[
-        {
-            "building_id":1159554801,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "enclosure_id":1360516267,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159554827
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1672880995,
+    "wof:geomhash": "2c086a566237c9e804fdd8147ec8fbd0",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159554801,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516267,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159554827
+      }
     ],
-    "wof:id":1360516267,
-    "wof:label":"D-01 Central North Connector (1983~ - 1988~)",
-    "wof:lastmodified":1547232157,
-    "wof:name":"D-01 Central North Connector",
-    "wof:parent_id":1159554827,
-    "wof:placetype":"enclosure",
-    "wof:placetype_alt":[
-        "gallery"
+    "wof:id": 1360516267,
+    "wof:label": "D-01 Central North Connector (1983~ - 1988~)",
+    "wof:lastmodified": 1672881041,
+    "wof:name": "D-01 Central North Connector",
+    "wof:parent_id": 1159554827,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
     ],
-    "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[
-        1360516265
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [
+      1360516265
     ],
-    "wof:supersedes":[
-        1360516269
+    "wof:supersedes": [
+      1360516269
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     -122.38491212714973,
     37.61773343154442,
     -122.38471642276095,
     37.61784176790249
-],
-  "geometry": {"coordinates":[[[-122.3848841693799,37.61784176790249],[-122.38471642276095,37.61777187347793],[-122.38473564372769,37.61773343154442],[-122.38491212714973,37.61779983124775],[-122.3848841693799,37.61784176790249]]],"type":"Polygon"}
+  ],
+  "geometry": {"coordinates":[[[-122.3848841693799,37.61784176790249],[-122.38471642276095,37.61777187347793],[-122.3847356437277,37.61773343154442],[-122.38491212714973,37.61779983124775],[-122.3848841693799,37.61784176790249]]],"type":"Polygon"}
 }

@@ -14,13 +14,15 @@
     "geom:latitude": 37.61659358252093,
     "geom:longitude": -122.38972520542025,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "name:eng_x_preferred": [
       "G-02 International North Cases"
     ],
     "name:eng_x_variant": [
-      "G-02", 
+      "G-02",
       "G02"
     ],
     "sfomuseum:gallery_id": 20,
@@ -32,21 +34,21 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855927, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855833, 
-      554784711, 
+      1477855927,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1477855605,
+      1477855833,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
     "wof:controlled": [
-      "wof:parent_id", 
+      "wof:parent_id",
       "wof:hierarchy"
     ],
     "wof:country": "US",
@@ -65,7 +67,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1477855833
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -80,7 +82,7 @@
     ],
     "wof:id": 1477855961,
     "wof:label": "G-02 International North Cases (2019)",
-    "wof:lastmodified": 1612910074,
+    "wof:lastmodified": 1672881041,
     "wof:name": "G-02 International North Cases",
     "wof:parent_id": 1477855927,
     "wof:placetype": "enclosure",
@@ -97,9 +99,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39008352342279, 
-    37.61643255118801, 
-    -122.38937719568526, 
+    -122.39008352342279,
+    37.61643255118801,
+    -122.38937719568526,
     37.6167588575159
   ],
   "geometry": {"coordinates":[[[-122.39008352342279,37.61658933885889],[-122.3894195753495,37.6167588575159],[-122.38937719568526,37.61658933885889],[-122.39003419876099,37.61643255118801],[-122.39008352342279,37.61658933885889]]],"type":"Polygon"}

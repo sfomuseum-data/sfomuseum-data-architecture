@@ -12,6 +12,9 @@
     "geom:latitude": 37.617861880855685,
     "geom:longitude": -122.38158217598608,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "D",
+    "millsfield:waypoint_id": 1796889489,
+    "millsfield:waypoint_kind": "T2",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "name:eng_x_preferred": [
@@ -78,7 +81,7 @@
     ],
     "wof:id": 1763588485,
     "wof:label": "D-13 Kids’ Spot (2021-11-09)",
-    "wof:lastmodified": 1650930920,
+    "wof:lastmodified": 1672880994,
     "wof:name": "D-13 Kids’ Spot",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",

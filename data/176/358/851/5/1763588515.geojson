@@ -2,8 +2,6 @@
   "id": 1763588515,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2020-05-01",
-    "date:cessation_upper": "2020-05-31",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
@@ -14,6 +12,8 @@
     "geom:latitude": 37.61545711615287,
     "geom:longitude": -122.3841194237983,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "name:eng_x_preferred": [
@@ -81,7 +81,7 @@
     ],
     "wof:id": 1763588515,
     "wof:label": "1K Entrance Lobby C Meet and Greet (2021-11-09)",
-    "wof:lastmodified": 1650930929,
+    "wof:lastmodified": 1672881041,
     "wof:name": "1K Entrance Lobby C Meet and Greet",
     "wof:parent_id": 1763588261,
     "wof:placetype": "enclosure",

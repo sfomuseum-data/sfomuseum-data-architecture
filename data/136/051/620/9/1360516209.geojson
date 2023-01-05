@@ -2,85 +2,88 @@
   "id": 1360516209,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2014-01-01",
-    "date:cessation_upper":"2014-12-31",
-    "date:inception_lower":"2011-01-01",
-    "date:inception_upper":"2011-12-31",
-    "edtf:cessation":"2014~",
-    "edtf:inception":"2011~",
-    "geom:area":0.0,
-    "geom:area_square_m":561.784265,
-    "geom:bbox":"-122.384290789,37.6152995457,-122.383951979,37.6156162595",
-    "geom:latitude":37.615457,
-    "geom:longitude":-122.384119,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "name:eng_x_preferred":[
-        "C-04 Entrance Lobby C Meet and Greet"
+    "date:cessation_lower": "2014-01-01",
+    "date:cessation_upper": "2014-12-31",
+    "date:inception_lower": "2011-01-01",
+    "date:inception_upper": "2011-12-31",
+    "edtf:cessation": "2014~",
+    "edtf:inception": "2011~",
+    "geom:area": 5.735546703879926e-8,
+    "geom:area_square_m": 561.784265,
+    "geom:bbox": "-122.384291,37.615300,-122.383952,37.615616",
+    "geom:latitude": 37.6154571162206,
+    "geom:longitude": -122.38411942369108,
+    "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "name:eng_x_preferred": [
+      "C-04 Entrance Lobby C Meet and Greet"
     ],
-    "name:eng_x_variant":[
-        "C-04",
-        "C04"
+    "name:eng_x_variant": [
+      "C-04",
+      "C04"
     ],
-    "sfomuseum:gallery_id":63,
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:level":"D",
-    "sfomuseum:location":"T1",
-    "sfomuseum:map_id":"C04",
-    "sfomuseum:placetype":"gallery",
-    "sfomuseum:post_security":0,
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396333,
-        1159396163,
-        85688637
+    "sfomuseum:gallery_id": 63,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "T1",
+    "sfomuseum:map_id": "C04",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159396333,
+      1159396163,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:geomhash":"7fac406eb19484266c4ff9c8f70f6a10",
-    "wof:hierarchy":[
-        {
-            "building_id":1159396333,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "enclosure_id":1360516209,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396163
-        }
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1672880995,
+    "wof:geomhash": "7fac406eb19484266c4ff9c8f70f6a10",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396333,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1360516209,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396163
+      }
     ],
-    "wof:id":1360516209,
-    "wof:label":"C-04 Entrance Lobby C Meet and Greet (2011~ - 2014~)",
-    "wof:lastmodified":1547232157,
-    "wof:name":"C-04 Entrance Lobby C Meet and Greet",
-    "wof:parent_id":1159396163,
-    "wof:placetype":"enclosure",
-    "wof:placetype_alt":[
-        "gallery"
+    "wof:id": 1360516209,
+    "wof:label": "C-04 Entrance Lobby C Meet and Greet (2011~ - 2014~)",
+    "wof:lastmodified": 1672881041,
+    "wof:name": "C-04 Entrance Lobby C Meet and Greet",
+    "wof:parent_id": 1159396163,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
     ],
-    "wof:repo":"sfomuseum-data-architecture",
-    "wof:superseded_by":[
-        1360516207
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [
+      1360516207
     ],
-    "wof:supersedes":[
-        1360516211
+    "wof:supersedes": [
+      1360516211
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     -122.38429078898636,
     37.61529954566394,
     -122.38395197884988,
     37.61561625948718
-],
+  ],
   "geometry": {"coordinates":[[[-122.38413979751249,37.61561625948718],[-122.38395197884988,37.61553523967193],[-122.38409192216712,37.61529954566394],[-122.38429078898636,37.61538056547919],[-122.38413979751249,37.61561625948718]]],"type":"Polygon"}
 }

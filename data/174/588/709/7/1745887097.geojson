@@ -13,6 +13,8 @@
     "geom:latitude": 37.61460330113117,
     "geom:longitude": -122.38899932815504,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 85,
@@ -64,7 +66,7 @@
       }
     ],
     "wof:id": 1745887097,
-    "wof:lastmodified": 1651002173,
+    "wof:lastmodified": 1672881041,
     "wof:name": "4D International South Cases",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",

@@ -11,6 +11,8 @@
     "geom:latitude": 37.6165546529427,
     "geom:longitude": -122.38965212381375,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 86,
@@ -61,7 +63,7 @@
       }
     ],
     "wof:id": 1746403233,
-    "wof:lastmodified": 1650930943,
+    "wof:lastmodified": 1672881041,
     "wof:name": "4A International North Cases",
     "wof:parent_id": 1745882437,
     "wof:placetype": "enclosure",

@@ -14,6 +14,8 @@
     "geom:latitude": 37.62086428382005,
     "geom:longitude": -122.39008706282495,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "name:eng_x_preferred": [
@@ -64,7 +66,7 @@
     ],
     "wof:id": 1360392583,
     "wof:label": "F-04 Gate 87a (2014~ - 2017~)",
-    "wof:lastmodified": 1632788359,
+    "wof:lastmodified": 1672881041,
     "wof:name": "3F Gate 87a",
     "wof:parent_id": 1159396315,
     "wof:placetype": "enclosure",

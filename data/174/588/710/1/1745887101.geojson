@@ -13,7 +13,8 @@
     "geom:latitude": 37.6133449408613,
     "geom:longitude": -122.38502042073,
     "iso:country": "US",
-    "millsfield:waypoint_id": 1796889475,
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 93,
@@ -66,7 +67,7 @@
       }
     ],
     "wof:id": 1745887101,
-    "wof:lastmodified": 1672267264,
+    "wof:lastmodified": 1672881041,
     "wof:name": "HM04 Harvey Milk Temporary Wall 2",
     "wof:parent_id": 1745882139,
     "wof:placetype": "enclosure",

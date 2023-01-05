@@ -14,6 +14,8 @@
     "geom:latitude": 37.617227,
     "geom:longitude": -122.38274,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "name:eng_x_preferred": [
@@ -62,7 +64,7 @@
     ],
     "wof:id": 1360516471,
     "wof:label": "D-04 Central Gallery (1988~ - 2000~)",
-    "wof:lastmodified": 1633475548,
+    "wof:lastmodified": 1672881041,
     "wof:name": "D-04 Central Gallery",
     "wof:parent_id": 1159554829,
     "wof:placetype": "enclosure",

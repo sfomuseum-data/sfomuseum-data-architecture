@@ -12,6 +12,9 @@
     "geom:latitude": 37.616890501288616,
     "geom:longitude": -122.38852108758547,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "F",
+    "millsfield:waypoint_id": 1796889517,
+    "millsfield:waypoint_kind": "T3",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "name:eng_x_preferred": [
@@ -79,7 +82,7 @@
     ],
     "wof:id": 1763588531,
     "wof:label": "F-09 Terminal 3 Connector Arrival Level (2021-11-09)",
-    "wof:lastmodified": 1650930936,
+    "wof:lastmodified": 1672880994,
     "wof:name": "F-09 Terminal 3 Connector Arrival Level",
     "wof:parent_id": 1763588359,
     "wof:placetype": "enclosure",

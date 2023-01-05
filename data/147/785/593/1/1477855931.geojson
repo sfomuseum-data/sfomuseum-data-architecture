@@ -14,13 +14,15 @@
     "geom:latitude": 37.61602910736223,
     "geom:longitude": -122.3891310124426,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "name:eng_x_preferred": [
       "G-01 International North Wall"
     ],
     "name:eng_x_variant": [
-      "G-01", 
+      "G-01",
       "G01"
     ],
     "sfomuseum:gallery_id": 19,
@@ -32,16 +34,16 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855927, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855833, 
-      554784711, 
+      1477855927,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1477855605,
+      1477855833,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
@@ -64,7 +66,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1477855833
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -79,7 +81,7 @@
     ],
     "wof:id": 1477855931,
     "wof:label": "G-01 International North Wall (2019)",
-    "wof:lastmodified": 1612910071,
+    "wof:lastmodified": 1672881041,
     "wof:name": "G-01 International North Wall",
     "wof:parent_id": 1477855927,
     "wof:placetype": "enclosure",
@@ -96,9 +98,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38927830980201, 
-    37.61574493516543, 
-    -122.38898871946266, 
+    -122.38927830980201,
+    37.61574493516543,
+    -122.38898871946266,
     37.61630680776388
   ],
   "geometry": {"coordinates":[[[-122.38927830980201,37.61626442809963],[-122.38912998097713,37.61630680776388],[-122.38898871946266,37.61577988237772],[-122.38912151886933,37.61574493516543],[-122.38927830980201,37.61626442809963]]],"type":"Polygon"}

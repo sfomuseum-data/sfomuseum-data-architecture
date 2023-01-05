@@ -17,13 +17,15 @@
     "geom:latitude": 37.61542448763906,
     "geom:longitude": -122.38894152323134,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "name:eng_x_preferred": [
       "A-01 International South Wall"
     ],
     "name:eng_x_variant": [
-      "A-01", 
+      "A-01",
       "A01"
     ],
     "sfomuseum:gallery_id": 18,
@@ -35,16 +37,16 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855927, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855833, 
-      554784711, 
+      1477855927,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1477855605,
+      1477855833,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
@@ -67,7 +69,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1477855833
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -82,7 +84,7 @@
     ],
     "wof:id": 1477855929,
     "wof:label": "A-01 International South Wall (2019)",
-    "wof:lastmodified": 1612910071,
+    "wof:lastmodified": 1672881041,
     "wof:name": "A-01 International South Wall",
     "wof:parent_id": 1477855927,
     "wof:placetype": "enclosure",
@@ -99,9 +101,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38909356109951, 
-    37.61515782199906, 
-    -122.38879094366311, 
+    -122.38909356109951,
+    37.61515782199906,
+    -122.38879094366311,
     37.61568901962578
   ],
   "geometry": {"coordinates":[[[-122.38909356109951,37.61565407241349],[-122.38895377225037,37.61568901962578],[-122.38879094366311,37.6151908099386],[-122.38892581448054,37.61515782199906],[-122.38909356109951,37.61565407241349]]],"type":"Polygon"}

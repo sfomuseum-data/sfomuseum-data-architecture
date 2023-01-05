@@ -14,13 +14,15 @@
     "geom:latitude": 37.61628,
     "geom:longitude": -122.388951,
     "iso:country": "US",
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "name:eng_x_preferred": [
       "G-03 Video Arts Gallery"
     ],
     "name:eng_x_variant": [
-      "G-03", 
+      "G-03",
       "G03"
     ],
     "sfomuseum:gallery_id": 70,
@@ -32,21 +34,21 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855927, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855833, 
-      554784711, 
+      1477855927,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1477855605,
+      1477855833,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
     "wof:controlled": [
-      "wof:parent_id", 
+      "wof:parent_id",
       "wof:hierarchy"
     ],
     "wof:country": "US",
@@ -65,7 +67,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1477855833
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -80,7 +82,7 @@
     ],
     "wof:id": 1477855957,
     "wof:label": "G-03 Video Arts Gallery (2019)",
-    "wof:lastmodified": 1612910073,
+    "wof:lastmodified": 1672881041,
     "wof:name": "G-03 Video Arts Gallery",
     "wof:parent_id": 1477855927,
     "wof:placetype": "enclosure",
@@ -97,9 +99,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.388951, 
-    37.61628, 
-    -122.388951, 
+    -122.388951,
+    37.61628,
+    -122.388951,
     37.61628
   ],
   "geometry": {"coordinates":[-122.388951,37.61628],"type":"Point"}

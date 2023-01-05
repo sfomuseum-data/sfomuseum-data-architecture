@@ -13,7 +13,8 @@
     "geom:latitude": 37.61104384990927,
     "geom:longitude": -122.38579821824523,
     "iso:country": "US",
-    "millsfield:waypoint_id": 1796889469,
+    "millsfield:waypoint_detail": "",
+    "millsfield:waypoint_kind": "",
     "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 91,
@@ -65,7 +66,7 @@
       }
     ],
     "wof:id": 1745885813,
-    "wof:lastmodified": 1672253498,
+    "wof:lastmodified": 1672881041,
     "wof:name": "1F Kids’ Spot/Tree Town",
     "wof:parent_id": 1745882227,
     "wof:placetype": "enclosure",
