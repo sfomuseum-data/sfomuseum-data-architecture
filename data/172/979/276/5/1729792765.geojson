@@ -33,8 +33,6 @@
     "sfomuseum:map_id": "D13",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
-    "sfomuseum:site": "D13",
-    "sfomuseum:site_alt": "2C",
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -84,7 +82,7 @@
     ],
     "wof:id": 1729792765,
     "wof:label": "D-13 Kids’ Spot (2020-~05)",
-    "wof:lastmodified": 1673031468,
+    "wof:lastmodified": 1673035006,
     "wof:name": "2C Kids’ Spot",
     "wof:parent_id": 1729792391,
     "wof:placetype": "enclosure",

@@ -25,8 +25,6 @@
     "sfomuseum:map_id": "K03",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
-    "sfomuseum:site": "K03",
-    "sfomuseum:site_alt": "AML 03",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -76,7 +74,7 @@
     ],
     "wof:id": 1729813747,
     "wof:label": "AML Aviation Museum Gallery 03 (2020-~05)",
-    "wof:lastmodified": 1673031468,
+    "wof:lastmodified": 1673035006,
     "wof:name": "AML 03 AML North Interior",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",

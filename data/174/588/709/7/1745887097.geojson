@@ -22,8 +22,6 @@
     "sfomuseum:location": "IT",
     "sfomuseum:map_id": "A08",
     "sfomuseum:placetype": "gallery",
-    "sfomuseum:site": "A08",
-    "sfomuseum:site_alt": "4D",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -68,7 +66,7 @@
       }
     ],
     "wof:id": 1745887097,
-    "wof:lastmodified": 1673031799,
+    "wof:lastmodified": 1673035006,
     "wof:name": "4D International South Cases",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",

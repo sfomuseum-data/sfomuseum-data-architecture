@@ -33,8 +33,6 @@
     "sfomuseum:map_id": "G05",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
-    "sfomuseum:site": "G05",
-    "sfomuseum:site_alt": "4E",
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -85,7 +83,7 @@
     ],
     "wof:id": 1745882507,
     "wof:label": "G-03 Video Arts Gallery (2021-05-25)",
-    "wof:lastmodified": 1673031468,
+    "wof:lastmodified": 1673035006,
     "wof:name": "4E Video Arts Gallery",
     "wof:parent_id": 1745882437,
     "wof:placetype": "enclosure",

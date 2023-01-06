@@ -27,8 +27,6 @@
     "sfomuseum:map_id": "K08",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
-    "sfomuseum:site": "K08",
-    "sfomuseum:site_alt": "AML 08",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -78,7 +76,7 @@
     ],
     "wof:id": 1729813733,
     "wof:label": "AML Aviation Museum Perimeter 08 (2020-~05)",
-    "wof:lastmodified": 1673031468,
+    "wof:lastmodified": 1673035006,
     "wof:name": "AML 08 AML Perimeter",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",

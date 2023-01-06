@@ -22,8 +22,6 @@
     "sfomuseum:location": "T2",
     "sfomuseum:map_id": "D15",
     "sfomuseum:placetype": "gallery",
-    "sfomuseum:site": "D15",
-    "sfomuseum:site_alt": "2D",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1729792387,
@@ -68,7 +66,7 @@
       }
     ],
     "wof:id": 1729813699,
-    "wof:lastmodified": 1673031468,
+    "wof:lastmodified": 1673035006,
     "wof:name": "2D Sky Terrace Platform",
     "wof:parent_id": 1729792433,
     "wof:placetype": "enclosure",

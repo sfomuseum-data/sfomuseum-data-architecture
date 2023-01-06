@@ -22,8 +22,6 @@
     "sfomuseum:location": "AML",
     "sfomuseum:map_id": "K04B",
     "sfomuseum:placetype": "gallery",
-    "sfomuseum:site": "K04B",
-    "sfomuseum:site_alt": "AML 04B",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1729792387,
@@ -71,7 +69,7 @@
       }
     ],
     "wof:id": 1729813685,
-    "wof:lastmodified": 1673031468,
+    "wof:lastmodified": 1673035006,
     "wof:name": "AML 04B AML Special Collections Room",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",
