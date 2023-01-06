@@ -22,6 +22,7 @@
     "sfomuseum:map_id": "1F",
     "sfomuseum:map_id_alt": "B17",
     "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -67,7 +68,7 @@
     ],
     "wof:id": 1763588517,
     "wof:label": "1F Kids’ Spot/Tree Town (2021-11-09)",
-    "wof:lastmodified": 1673034672,
+    "wof:lastmodified": 1673042557,
     "wof:name": "1F Kids’ Spot/Tree Town",
     "wof:parent_id": 1763588265,
     "wof:placetype": "enclosure",
