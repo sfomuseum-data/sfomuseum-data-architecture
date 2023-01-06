@@ -12,10 +12,9 @@
     "sfo:level": 3,
     "sfomuseum:gallery_id": 82,
     "sfomuseum:location": "AML",
-    "sfomuseum:map_id": "K09",
+    "sfomuseum:map_id": "AML 09",
+    "sfomuseum:map_id_alt": "K09",
     "sfomuseum:placetype": "gallery",
-    "sfomuseum:site": "K09",
-    "sfomuseum:site_alt": "AML 09",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -54,7 +53,7 @@
       }
     ],
     "wof:id": 1796989589,
-    "wof:lastmodified": 1673031468,
+    "wof:lastmodified": 1673034672,
     "wof:name": "AML 09 AML New Corner Gallery",
     "wof:parent_id": 1729828959,
     "wof:placetype": "enclosure",

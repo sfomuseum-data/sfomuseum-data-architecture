@@ -15,10 +15,9 @@
     "sfo:level": 2,
     "sfomuseum:gallery_id": 84,
     "sfomuseum:location": "T1",
-    "sfomuseum:map_id": "B16",
+    "sfomuseum:map_id": "HM03",
+    "sfomuseum:map_id_alt": "B16",
     "sfomuseum:placetype": "gallery",
-    "sfomuseum:site": "B16",
-    "sfomuseum:site_alt": "HM03",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1763588121,
@@ -63,7 +62,7 @@
       }
     ],
     "wof:id": 1763594987,
-    "wof:lastmodified": 1673031468,
+    "wof:lastmodified": 1673034672,
     "wof:name": "HM03 Sterile Connector",
     "wof:parent_id": 1763588265,
     "wof:placetype": "enclosure",

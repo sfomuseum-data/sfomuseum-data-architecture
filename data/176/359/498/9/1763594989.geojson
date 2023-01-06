@@ -15,10 +15,9 @@
     "sfo:level": 2,
     "sfomuseum:gallery_id": 90,
     "sfomuseum:location": "T2",
-    "sfomuseum:map_id": "D18",
+    "sfomuseum:map_id": "2F",
+    "sfomuseum:map_id_alt": "D18",
     "sfomuseum:placetype": "gallery",
-    "sfomuseum:site": "D18",
-    "sfomuseum:site_alt": "2F",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1763588121,
@@ -63,7 +62,7 @@
       }
     ],
     "wof:id": 1763594989,
-    "wof:lastmodified": 1673031468,
+    "wof:lastmodified": 1673034672,
     "wof:name": "2F Pre-Security Connector/Zuber",
     "wof:parent_id": 1763588165,
     "wof:placetype": "enclosure",
