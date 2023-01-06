@@ -6,11 +6,11 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 3.748049834803198e-8,
+    "geom:area": 3.966443186305822e-8,
     "geom:area_square_m": 781.898465,
-    "geom:bbox": "-122.388824,37.616790,-122.388228,37.616992",
-    "geom:latitude": 37.616890501152405,
-    "geom:longitude": -122.38852108759927,
+    "geom:bbox": "-122.388783,37.616634,-122.388199,37.616828",
+    "geom:latitude": 37.61673294830795,
+    "geom:longitude": -122.38850671875329,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "ARR",
     "millsfield:wayfinding_kind": "T3",
@@ -52,7 +52,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650930938,
-    "wof:geomhash": "7cd8f22ee8e7d8e0bf0078ca78eb2416",
+    "wof:geomhash": "215cadb8367e8199d4b20f87c870d09e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -81,7 +81,7 @@
     ],
     "wof:id": 1763588537,
     "wof:label": "3L Terminal 3 Connector Arrival Level (2021-11-09)",
-    "wof:lastmodified": 1673027688,
+    "wof:lastmodified": 1673027726,
     "wof:name": "3L Terminal 3 Connector Arrival Level",
     "wof:parent_id": 1763588359,
     "wof:placetype": "enclosure",
@@ -97,10 +97,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38882439600002,
-    37.61679041999997,
-    -122.388228142,
-    37.616991524000014
+    -122.38878287565927,
+    37.616633782235766,
+    -122.38819869383374,
+    37.61682833677749
   ],
-  "geometry": {"coordinates":[[[-122.38882439600002,37.616846871],[-122.38880322699998,37.61679041999997],[-122.388228142,37.61692801700002],[-122.38824931099998,37.616991524000014],[-122.38882439600002,37.616846871]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38878287565927,37.616712784328485],[-122.38877626476187,37.616633782235766],[-122.3882011797619,37.616771379235814],[-122.38819869383374,37.61682833677749],[-122.38878287565927,37.616712784328485]]],"type":"Polygon"}
 }
