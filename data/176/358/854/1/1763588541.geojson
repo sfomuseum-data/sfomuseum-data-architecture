@@ -5,6 +5,7 @@
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
+    "edtf:deprecated": "2023-01-06",
     "edtf:inception": "2021-11-09",
     "geom:area": 9.970241976721347e-10,
     "geom:area_square_m": 87.445228,
@@ -15,7 +16,7 @@
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "A-07 International Central Case"
     ],
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1763588541,
     "wof:label": "A-07 International Central Case (2021-11-09)",
-    "wof:lastmodified": 1672973177,
+    "wof:lastmodified": 1673025701,
     "wof:name": "A-07 International Central Case",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",
