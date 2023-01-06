@@ -5,17 +5,18 @@
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
+    "edtf:deprecated": "2023-01-06",
     "edtf:inception": "2021-11-09",
-    "geom:area": 1.3385954882250916e-9,
+    "geom:area": 9.970241976721347e-10,
     "geom:area_square_m": 87.445228,
-    "geom:bbox": "-122.389115,37.615612,-122.389063,37.615654",
-    "geom:latitude": 37.61563285411976,
-    "geom:longitude": -122.38908930707562,
+    "geom:bbox": "-122.389079,37.615620,-122.389038,37.615659",
+    "geom:latitude": 37.615639183988954,
+    "geom:longitude": -122.38905887153885,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "A-07 International Central Case"
     ],
@@ -51,7 +52,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650930939,
-    "wof:geomhash": "97b9f23340c5b57c44156087011116ce",
+    "wof:geomhash": "48534553b5f476b2e945eafe2598dae2",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1763588541,
     "wof:label": "A-07 International Central Case (2021-11-09)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1673025701,
     "wof:name": "A-07 International Central Case",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",
@@ -95,10 +96,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38911454599997,
-    37.61561189499997,
-    -122.38906331300001,
-    37.615653619
+    -122.38907912426576,
+    37.615619919050545,
+    -122.38903798577971,
+    37.615658684162405
   ],
-  "geometry": {"coordinates":[[[-122.38911454599997,37.615644997000004],[-122.389101165,37.61561189499997],[-122.38906331300001,37.615621471],[-122.38907823099998,37.615653619],[-122.38911454599997,37.615644997000004]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38907912426576,37.61565077291509],[-122.38906804851952,37.615619919050545],[-122.38903798577971,37.61562783029787],[-122.38905064377542,37.615658684162405],[-122.38907912426576,37.61565077291509]]],"type":"Polygon"}
 }

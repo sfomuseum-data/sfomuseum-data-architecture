@@ -5,18 +5,19 @@
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
+    "edtf:deprecated": "2023-01-06",
     "edtf:inception": "2021-11-09",
-    "geom:area": 3.7479986048440296e-8,
+    "geom:area": 2.1284664409482965e-8,
     "geom:area_square_m": 781.898465,
-    "geom:bbox": "-122.388824,37.616790,-122.388228,37.616992",
-    "geom:latitude": 37.616890501288616,
-    "geom:longitude": -122.38852108758547,
+    "geom:bbox": "-122.388791,37.616826,-122.388272,37.616988",
+    "geom:latitude": 37.616906655659605,
+    "geom:longitude": -122.38853122810366,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "F",
     "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": 1796889517,
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "F-09 Terminal 3 Connector Arrival Level"
     ],
@@ -53,7 +54,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650930936,
-    "wof:geomhash": "de50222a2c146f281ff0f3dcfaaebff8",
+    "wof:geomhash": "bc39761938a2a16dfe45eaf408f921da",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -82,7 +83,7 @@
     ],
     "wof:id": 1763588531,
     "wof:label": "F-09 Terminal 3 Connector Arrival Level (2021-11-09)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1673027726,
     "wof:name": "F-09 Terminal 3 Connector Arrival Level",
     "wof:parent_id": 1763588359,
     "wof:placetype": "enclosure",
@@ -90,17 +91,19 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1763588537
+    ],
     "wof:supersedes": [
       1745882493
     ],
     "wof:tags": []
   },
   "bbox": [
-    -122.3888243960585,
-    37.61679042048741,
-    -122.388228142427,
-    37.61699152378324
+    -122.38879057915588,
+    37.6168257689453,
+    -122.38827187705145,
+    37.61698754237391
   ],
-  "geometry": {"coordinates":[[[-122.3888243960585,37.61684687053536],[-122.38824931119498,37.61699152378324],[-122.388228142427,37.616928017479296],[-122.38880322729051,37.61679042048741],[-122.3888243960585,37.61684687053536]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38879057915588,37.6168642864283],[-122.38877517216268,37.6168257689453],[-122.38827187705145,37.61694902489091],[-122.38828728404465,37.61698754237391],[-122.38879057915588,37.6168642864283]]],"type":"Polygon"}
 }

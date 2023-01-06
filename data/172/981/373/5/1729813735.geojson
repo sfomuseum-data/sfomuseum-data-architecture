@@ -6,11 +6,11 @@
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "..",
     "edtf:inception": "2020-~05",
-    "geom:area": 2.013409317910148e-9,
+    "geom:area": 2.2335057084105516e-9,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.388043,37.614252,-122.387986,37.614308",
-    "geom:latitude": 37.61427924119855,
-    "geom:longitude": -122.38801717827252,
+    "geom:bbox": "-122.388233,37.614394,-122.388149,37.614440",
+    "geom:latitude": 37.61441704389456,
+    "geom:longitude": -122.38819101441787,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "ITB",
@@ -22,7 +22,8 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
     "sfomuseum:location": "AML",
-    "sfomuseum:map_id": "K06",
+    "sfomuseum:map_id": "AML 06",
+    "sfomuseum:map_id_alt": "K06",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
@@ -43,7 +44,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1612561837,
-    "wof:geomhash": "7547b84409b3aa5ba7b37178dc668253",
+    "wof:geomhash": "6b57465d5163b1683ad22634b0d8cc88",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -74,8 +75,8 @@
     ],
     "wof:id": 1729813735,
     "wof:label": "AML Aviation Museum Gallery 06a-e (2020-~05)",
-    "wof:lastmodified": 1672882086,
-    "wof:name": "AML Aviation Museum Gallery 06a-e",
+    "wof:lastmodified": 1673034672,
+    "wof:name": "AML 06 AML Photography",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": [
@@ -89,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38804291600002,
-    37.614251932,
-    -122.38798646599997,
-    37.61430838199999
+    -122.38823300400382,
+    37.61439396176513,
+    -122.38814938891841,
+    37.61444009422605
   ],
-  "geometry": {"coordinates":[[[-122.38804291600002,37.614296034000006],[-122.38803409500002,37.614251932],[-122.38798646599997,37.614264280999976],[-122.38800763400002,37.61430838199999],[-122.38804291600002,37.614296034000006]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38823300400382,37.61442183346027],[-122.38822243198153,37.61439396176513],[-122.38814938891841,37.61441222253091],[-122.38815899984776,37.61444009422605],[-122.38823300400382,37.61442183346027]]],"type":"Polygon"}
 }

@@ -6,10 +6,10 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 3.7144999997962045e-8,
-    "geom:bbox": "-122.384498,37.613072,-122.384245,37.613317",
-    "geom:latitude": 37.61319367662763,
-    "geom:longitude": -122.38437421981425,
+    "geom:area": 5.515418390655688e-9,
+    "geom:bbox": "-122.386299,37.614211,-122.386231,37.614327",
+    "geom:latitude": 37.61427281931546,
+    "geom:longitude": -122.3862685852928,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -21,6 +21,7 @@
     "sfomuseum:level": "D",
     "sfomuseum:location": "T1",
     "sfomuseum:map_id": "HM01",
+    "sfomuseum:map_id_alt": "B08",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
@@ -40,7 +41,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1650930925,
-    "wof:geomhash": "a581618a87fb4a0f8b1f6b1e67a75eee",
+    "wof:geomhash": "6679b64508a4cfb9c8e81baadb6cdcd5",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +70,7 @@
     ],
     "wof:id": 1763588499,
     "wof:label": "HM01 Central Photo Wall (2021-11-09)",
-    "wof:lastmodified": 1672882085,
+    "wof:lastmodified": 1673034672,
     "wof:name": "HM01 Central Photo Wall",
     "wof:parent_id": 1763588177,
     "wof:placetype": "enclosure",
@@ -82,10 +83,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384498,
-    37.613072,
-    -122.384245,
-    37.613317
+    -122.38629851888403,
+    37.61421083112502,
+    -122.38623096843632,
+    37.6143274101235
   ],
-  "geometry": {"coordinates":[[[-122.384436,37.613072],[-122.384245,37.613141],[-122.384321,37.613317],[-122.384498,37.613248],[-122.384436,37.613072]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38629851888403,37.61423610806675],[-122.38625014404728,37.61421083112502],[-122.38624186366982,37.6142626924365],[-122.38623096843632,37.614308452417205],[-122.38629633983734,37.6143274101235],[-122.38629851888403,37.61423610806675]]],"type":"Polygon"}
 }

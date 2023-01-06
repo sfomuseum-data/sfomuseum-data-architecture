@@ -21,7 +21,7 @@
     "sfomuseum:gallery_id": 41,
     "sfomuseum:level": "D",
     "sfomuseum:location": "D",
-    "sfomuseum:map_id": "AML 04B",
+    "sfomuseum:map_id": "K04B",
     "sfomuseum:placetype": "gallery",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +64,7 @@
       }
     ],
     "wof:id": 1763595185,
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1673035006,
     "wof:name": "AML Aviation Museum Gallery 04b Special Collections Room",
     "wof:parent_id": 1745882335,
     "wof:placetype": "enclosure",

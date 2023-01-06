@@ -6,10 +6,10 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 1.5357189973283578e-9,
-    "geom:bbox": "-122.387838,37.614338,-122.387755,37.614375",
-    "geom:latitude": 37.61435718833335,
-    "geom:longitude": -122.38779703838323,
+    "geom:area": 3.4545556859437517e-9,
+    "geom:bbox": "-122.388232,37.614540,-122.388046,37.614602",
+    "geom:latitude": 37.61457100582541,
+    "geom:longitude": -122.38814133127784,
     "id": 1763595187,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "PRE",
@@ -20,6 +20,7 @@
     "sfomuseum:level": "D",
     "sfomuseum:location": "D",
     "sfomuseum:map_id": "AML 04B",
+    "sfomuseum:map_id_alt": "K04B",
     "sfomuseum:placetype": "gallery",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -36,7 +37,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1613508484,
-    "wof:geomhash": "89fbe60fca50c2e8968eafd51a5d6152",
+    "wof:geomhash": "6fbf6029d5ac8fb542c8c2635dd02cec",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 1763595187,
-    "wof:lastmodified": 1672882085,
+    "wof:lastmodified": 1673034672,
     "wof:name": "AML Aviation Museum Gallery 04b Special Collections Room",
     "wof:parent_id": 1763588369,
     "wof:placetype": "enclosure",
@@ -74,10 +75,10 @@
     ]
   },
   "bbox": [
-    -122.387838284,
-    37.61433837200002,
-    -122.387755373,
-    37.61437541700002
+    -122.38823207568204,
+    37.61454004789137,
+    -122.3880462583835,
+    37.61460155783926
   ],
-  "geometry": {"coordinates":[[[-122.3878277,37.61433837200002],[-122.387755373,37.61435777600002],[-122.387764194,37.61437541700002],[-122.387838284,37.61435777600002],[-122.3878277,37.61433837200002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38822627635328,37.61454004789137],[-122.3880462583835,37.614585218233856],[-122.38805327962483,37.61460155783926],[-122.38823207568204,37.61455908767625],[-122.38822627635328,37.61454004789137]]],"type":"Polygon"}
 }

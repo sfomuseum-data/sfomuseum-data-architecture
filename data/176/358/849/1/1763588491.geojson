@@ -6,10 +6,10 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 8.641568836745977e-10,
-    "geom:bbox": "-122.383430,37.617322,-122.383378,37.617359",
-    "geom:latitude": 37.617337537490705,
-    "geom:longitude": -122.38340108065063,
+    "geom:area": 8.393312351883016e-10,
+    "geom:bbox": "-122.383417,37.617317,-122.383366,37.617354",
+    "geom:latitude": 37.617332580454836,
+    "geom:longitude": -122.3833879255378,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "T2",
@@ -19,6 +19,7 @@
     "sfomuseum:level": "",
     "sfomuseum:location": "T2",
     "sfomuseum:map_id": "2D",
+    "sfomuseum:map_id_alt": "D16",
     "sfomuseum:placetype": "gallery",
     "src:geom": "sfo",
     "wof:belongsto": [
@@ -36,7 +37,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650930922,
-    "wof:geomhash": "4d7a9a2e4503d1ffab54e7214ca73a9d",
+    "wof:geomhash": "879a071f0d0d21ecf16b388c8534db6d",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -65,7 +66,7 @@
     ],
     "wof:id": 1763588491,
     "wof:label": "2D Sky Terrace Platform (2021-11-09)",
-    "wof:lastmodified": 1672882085,
+    "wof:lastmodified": 1673034672,
     "wof:name": "2D Sky Terrace Platform",
     "wof:parent_id": 1763588165,
     "wof:placetype": "enclosure",
@@ -77,10 +78,10 @@
     ]
   },
   "bbox": [
-    -122.38342981300002,
-    37.617321688000004,
-    -122.38337845000001,
-    37.61735941699999
+    -122.38341656547763,
+    37.617317019966436,
+    -122.38336552113547,
+    37.61735402711449
   ],
-  "geometry": {"coordinates":[[[-122.38338880999999,37.61735941699999],[-122.38342981300002,37.617326933000015],[-122.38342339100001,37.617321688000004],[-122.38337845000001,37.61733299299999],[-122.38338880999999,37.61735941699999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38337550314016,37.61735402711449],[-122.38341656547763,37.61732212440065],[-122.3834103267247,37.617317019966436],[-122.38336552113547,37.617328164647795],[-122.38337550314016,37.61735402711449]]],"type":"Polygon"}
 }

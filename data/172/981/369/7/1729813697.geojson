@@ -20,7 +20,7 @@
     "sfomuseum:gallery_id": 79,
     "sfomuseum:level": "",
     "sfomuseum:location": "T1",
-    "sfomuseum:map_id": "1A",
+    "sfomuseum:map_id": "B14",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
@@ -67,7 +67,7 @@
       }
     ],
     "wof:id": 1729813697,
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1673035006,
     "wof:name": "1A Student Art South",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",

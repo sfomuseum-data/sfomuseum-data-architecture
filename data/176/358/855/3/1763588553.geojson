@@ -6,10 +6,10 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 2.0727251627559272e-9,
-    "geom:bbox": "-122.389733,37.616529,-122.389573,37.616580",
-    "geom:latitude": 37.6165546529427,
-    "geom:longitude": -122.38965212381375,
+    "geom:area": 3.75117798796291e-9,
+    "geom:bbox": "-122.389877,37.616485,-122.389561,37.616572",
+    "geom:latitude": 37.616528705005116,
+    "geom:longitude": -122.38971793359582,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "ITB",
@@ -19,6 +19,7 @@
     "sfomuseum:gallery_id": 86,
     "sfomuseum:location": "IT",
     "sfomuseum:map_id": "4A",
+    "sfomuseum:map_id_alt": "G06",
     "sfomuseum:placetype": "gallery",
     "src:geom": "sfo",
     "wof:belongsto": [
@@ -36,7 +37,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650930943,
-    "wof:geomhash": "23f6888d9a12416a9f0de19fe1945573",
+    "wof:geomhash": "f099cc3e32d2e100b55176490603880f",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -65,7 +66,7 @@
     ],
     "wof:id": 1763588553,
     "wof:label": "4A International North Cases (2021-11-09)",
-    "wof:lastmodified": 1672882085,
+    "wof:lastmodified": 1673034672,
     "wof:name": "4A International North Cases",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",
@@ -77,10 +78,10 @@
     ]
   },
   "bbox": [
-    -122.38973276600001,
-    37.616528931000005,
-    -122.389572504,
-    37.61658045299998
+    -122.38987668987176,
+    37.61648459041347,
+    -122.38956087927171,
+    37.61657204565656
   ],
-  "geometry": {"coordinates":[[[-122.389726731,37.616528931000005],[-122.389572504,37.61656823599998],[-122.389577869,37.61658045299998],[-122.38973276600001,37.61654061600001],[-122.389726731,37.616528931000005]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38987365323138,37.61648459041347],[-122.38956087927171,37.616561113751175],[-122.38956695255249,37.61657204565656],[-122.38987668987176,37.61649552231886],[-122.38987365323138,37.61648459041347]]],"type":"Polygon"}
 }

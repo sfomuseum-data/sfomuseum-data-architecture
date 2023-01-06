@@ -2,11 +2,11 @@
   "id": 1745882383,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2021-11-09",
-    "date:cessation_upper": "2021-11-09",
+    "date:cessation_lower": "2021-03-15",
+    "date:cessation_upper": "2021-03-15",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "2021-11-09",
+    "edtf:cessation": "2021-03-15",
     "edtf:inception": "2021-05-25",
     "flysfo:gate_code": "A7",
     "geom:area": 0,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1745882383,
     "wof:label": "A7 (2021-05-25)",
-    "wof:lastmodified": 1672878184,
+    "wof:lastmodified": 1672969952,
     "wof:name": "A7",
     "wof:parent_id": 1745882337,
     "wof:placetype": "venue",
@@ -78,9 +78,7 @@
       "gate"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [
-      1763588415
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
       1729792625
     ],
