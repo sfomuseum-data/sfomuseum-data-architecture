@@ -6,10 +6,10 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 3.7144999997962045e-8,
-    "geom:bbox": "-122.384498,37.613072,-122.384245,37.613317",
-    "geom:latitude": 37.61319367662763,
-    "geom:longitude": -122.38437421981425,
+    "geom:area": 5.886825771043399e-9,
+    "geom:bbox": "-122.384474,37.613115,-122.384368,37.613200",
+    "geom:latitude": 37.613156154550374,
+    "geom:longitude": -122.38441874345284,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -40,7 +40,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1650930925,
-    "wof:geomhash": "a581618a87fb4a0f8b1f6b1e67a75eee",
+    "wof:geomhash": "e4a6abeff5aeb27bcfe5d4726f819abe",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763588499,
     "wof:label": "HM01 Central Photo Wall (2021-11-09)",
-    "wof:lastmodified": 1672971117,
+    "wof:lastmodified": 1672971703,
     "wof:name": "HM01 Central Photo Wall",
     "wof:parent_id": 1763588177,
     "wof:placetype": "enclosure",
@@ -82,10 +82,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384498,
-    37.613072,
-    -122.384245,
-    37.613317
+    -122.38447359394608,
+    37.613114558417955,
+    -122.38436817947628,
+    37.613199893941136
   ],
-  "geometry": {"coordinates":[[[-122.384436,37.613072],[-122.384245,37.613141],[-122.384321,37.613317],[-122.384498,37.613248],[-122.384436,37.613072]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38444347552614,37.613114558417955],[-122.38436817947628,37.6131271077596],[-122.38439076829124,37.613199893941136],[-122.38447359394608,37.6131798149945],[-122.38444347552614,37.613114558417955]]],"type":"Polygon"}
 }
