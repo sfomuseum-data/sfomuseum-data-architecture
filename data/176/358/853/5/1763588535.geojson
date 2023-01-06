@@ -6,11 +6,11 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 3.2768547368538257e-8,
+    "geom:area": 3.748049834803198e-8,
     "geom:area_square_m": 781.898465,
-    "geom:bbox": "-122.388824,37.616794,-122.388232,37.616988",
-    "geom:latitude": 37.61689110703526,
-    "geom:longitude": -122.38853385581962,
+    "geom:bbox": "-122.388824,37.616790,-122.388228,37.616992",
+    "geom:latitude": 37.616890501152405,
+    "geom:longitude": -122.38852108759927,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "ARR",
     "millsfield:wayfinding_kind": "T3",
@@ -53,7 +53,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650930937,
-    "wof:geomhash": "b879862db293d11bdb9be1123efa49d3",
+    "wof:geomhash": "7cd8f22ee8e7d8e0bf0078ca78eb2416",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1763588535,
     "wof:label": "3K Aviation Photographs (2021-11-09)",
-    "wof:lastmodified": 1672971703,
+    "wof:lastmodified": 1672973177,
     "wof:name": "3K Aviation Photographs",
     "wof:parent_id": 1763588359,
     "wof:placetype": "enclosure",
@@ -98,9 +98,9 @@
   },
   "bbox": [
     -122.38882439600002,
-    37.616793949,
-    -122.38823167100003,
-    37.61698799599998
+    37.61679041999997,
+    -122.388228142,
+    37.616991524000014
   ],
-  "geometry": {"coordinates":[[[-122.38882439600002,37.616850398999986],[-122.38880675500002,37.616793949],[-122.38823167100003,37.616938602],[-122.388245783,37.61698799599998],[-122.38882439600002,37.616850398999986]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38882439600002,37.616846871],[-122.38880322699998,37.61679041999997],[-122.388228142,37.61692801700002],[-122.38824931099998,37.616991524000014],[-122.38882439600002,37.616846871]]],"type":"Polygon"}
 }

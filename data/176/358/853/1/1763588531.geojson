@@ -6,11 +6,11 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 3.7479986048440296e-8,
+    "geom:area": 3.7480498349999886e-8,
     "geom:area_square_m": 781.898465,
     "geom:bbox": "-122.388824,37.616790,-122.388228,37.616992",
-    "geom:latitude": 37.616890501288616,
-    "geom:longitude": -122.38852108758547,
+    "geom:latitude": 37.616890501152405,
+    "geom:longitude": -122.38852108759927,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "F",
     "millsfield:wayfinding_kind": "T3",
@@ -53,7 +53,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650930936,
-    "wof:geomhash": "de50222a2c146f281ff0f3dcfaaebff8",
+    "wof:geomhash": "192f132a13a9df9985342b103638b1f8",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1763588531,
     "wof:label": "F-09 Terminal 3 Connector Arrival Level (2021-11-09)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1672973177,
     "wof:name": "F-09 Terminal 3 Connector Arrival Level",
     "wof:parent_id": 1763588359,
     "wof:placetype": "enclosure",
@@ -97,10 +97,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.3888243960585,
-    37.61679042048741,
-    -122.388228142427,
-    37.61699152378324
+    -122.38882439600002,
+    37.61679041999997,
+    -122.388228142,
+    37.616991524000014
   ],
-  "geometry": {"coordinates":[[[-122.3888243960585,37.61684687053536],[-122.38824931119498,37.61699152378324],[-122.388228142427,37.616928017479296],[-122.38880322729051,37.61679042048741],[-122.3888243960585,37.61684687053536]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.38882439600002,37.61684687100001],[-122.38880322699998,37.61679041999997],[-122.388228142,37.61692801700002],[-122.38824931099998,37.616991524000014],[-122.38882439600002,37.61684687100001]]],"type":"Polygon"}
 }
