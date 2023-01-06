@@ -20,9 +20,11 @@
     "sfomuseum:gallery_id": 71,
     "sfomuseum:level": "D",
     "sfomuseum:location": "T1",
-    "sfomuseum:map_id": "1E",
+    "sfomuseum:map_id": "B12",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
+    "sfomuseum:site": "B12",
+    "sfomuseum:site_alt": "1E",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -67,7 +69,7 @@
       }
     ],
     "wof:id": 1729813687,
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1673031468,
     "wof:name": "1E Mid-Pier Gallery",
     "wof:parent_id": 1477855659,
     "wof:placetype": "enclosure",
