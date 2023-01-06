@@ -21,7 +21,9 @@
     "sfomuseum:gallery_id": 41,
     "sfomuseum:level": "D",
     "sfomuseum:location": "D",
-    "sfomuseum:map_id": "AML 04B",
+    "sfomuseum:map_id": "K04B",
+    "sfomuseum:site": "K04B",
+    "sfomuseum:site_alt": "AML 04B",
     "sfomuseum:placetype": "gallery",
     "src:geom": "sfomuseum",
     "wof:belongsto": [

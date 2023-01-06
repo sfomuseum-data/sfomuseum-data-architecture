@@ -32,6 +32,8 @@
     "sfomuseum:map_id": "D12",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
+    "sfomuseum:site": "D12",
+    "sfomuseum:site_alt": "2A",
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -81,7 +83,7 @@
     ],
     "wof:id": 1763588487,
     "wof:label": "D-12 Wall Case (2021-11-09)",
-    "wof:lastmodified": 1672971703,
+    "wof:lastmodified": 1673032647,
     "wof:name": "D-12 Wall Case",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",

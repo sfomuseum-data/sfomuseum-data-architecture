@@ -31,6 +31,8 @@
     "sfomuseum:map_id": "E06",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
+    "sfomuseum:site": "E06",
+    "sfomuseum:site_alt": "3B",
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -80,7 +82,7 @@
     ],
     "wof:id": 1763588527,
     "wof:label": "E-06 Kid’s Spot Boarding Area E (2021-11-09)",
-    "wof:lastmodified": 1672971703,
+    "wof:lastmodified": 1673032462,
     "wof:name": "E-06 Kid’s Spot Boarding Area E",
     "wof:parent_id": 1763588335,
     "wof:placetype": "enclosure",

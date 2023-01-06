@@ -23,6 +23,8 @@
     "sfomuseum:map_id": "B08",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
+    "sfomuseum:site": "B08",
+    "sfomuseum:site_alt": "HM01",
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -69,7 +71,7 @@
     ],
     "wof:id": 1763588499,
     "wof:label": "HM01 Central Photo Wall (2021-11-09)",
-    "wof:lastmodified": 1673030333,
+    "wof:lastmodified": 1673033111,
     "wof:name": "HM01 Central Photo Wall",
     "wof:parent_id": 1763588177,
     "wof:placetype": "enclosure",

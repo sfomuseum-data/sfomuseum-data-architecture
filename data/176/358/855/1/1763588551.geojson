@@ -18,8 +18,10 @@
     "sfo:level": 3,
     "sfomuseum:gallery_id": 85,
     "sfomuseum:level": "3",
+    "sfomuseum:map_id": "A08",    
     "sfomuseum:location": "IT",
-    "sfomuseum:map_id": "4D",
+    "sfomuseum:site": "A08",
+    "sfomuseum:site_alt": "4D",
     "sfomuseum:placetype": "gallery",
     "src:geom": "sfo",
     "wof:belongsto": [

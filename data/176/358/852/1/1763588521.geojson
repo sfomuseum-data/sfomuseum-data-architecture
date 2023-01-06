@@ -32,6 +32,8 @@
     "sfomuseum:map_id": "F04",
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
+    "sfomuseum:site": "F04",
+    "sfomuseum:site_alt": "3F",
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -81,7 +83,7 @@
     ],
     "wof:id": 1763588521,
     "wof:label": "F-04 Gate 87a (2021-11-09)",
-    "wof:lastmodified": 1672971703,
+    "wof:lastmodified": 1673032228,
     "wof:name": "F-04 Gate 87a",
     "wof:parent_id": 1763588271,
     "wof:placetype": "enclosure",
