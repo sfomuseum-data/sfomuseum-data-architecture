@@ -6,9 +6,23 @@ AS_FEATURECOLLECTION=$(shell which wof-as-featurecollection)
 # https://github.com/whosonfirst/go-whosonfirst-exportify#wof-merge-featurecollection
 MERGE_FEATURECOLLECTION=$(shell which wof-merge-featurecollection)
 
-# Dump current galleries to a GeoJSON FeatureCollection
+galleries-level0:
+	@make current-galleries LEVEL=0
+
+galleries-level1:
+	@make current-galleries LEVEL=1
+
+galleries-level2:
+	@make current-galleries LEVEL=2
+
+galleries-level3:
+	@make current-galleries LEVEL=3
+
+galleries-level4:
+	@make current-galleries LEVEL=4
+
 current-galleries:
-	$(AS_FEATURECOLLECTION) -iterator-uri 'repo://?include=properties.sfomuseum:placetype=gallery&include=properties.mz:is_current=1' $(CWD) > work/galleries.geojson
+	$(AS_FEATURECOLLECTION) -iterator-uri 'repo://?include=properties.sfomuseum:placetype=gallery&include=properties.mz:is_current=1&include=properties.sfo:level=$(LEVEL)' $(CWD) > work/galleries-level$(LEVEL).geojson
 
 update-galleries-geoms:
 	$(MERGE_FEATURECOLLECTION) -reader-uri repo://$(CWD) -writer-uri repo://$(CWD) -path geometry work/galleries.geojson
