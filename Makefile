@@ -24,5 +24,8 @@ galleries-level4:
 current-galleries:
 	$(AS_FEATURECOLLECTION) -iterator-uri 'repo://?include=properties.sfomuseum:placetype=gallery&include=properties.mz:is_current=1&include=properties.sfo:level=$(LEVEL)' $(CWD) > work/galleries-level$(LEVEL).geojson
 
+current-gates:
+	$(AS_FEATURECOLLECTION) -iterator-uri 'repo://?include=properties.sfomuseum:placetype=gate&include=properties.mz:is_current=1' $(CWD) > work/gates.geojson
+
 update-galleries-geoms:
 	$(MERGE_FEATURECOLLECTION) -reader-uri repo://$(CWD) -writer-uri repo://$(CWD) -path geometry work/galleries.geojson
