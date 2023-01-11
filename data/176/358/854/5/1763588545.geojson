@@ -14,7 +14,7 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "ITB",
-    "millsfield:waypoint_id": 1796889545,
+    "millsfield:waypoint_id": 1796935611,
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "name:eng_x_preferred": [
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1763588545,
     "wof:label": "G-01 International North Wall (2021-11-09)",
-    "wof:lastmodified": 1673035159,
+    "wof:lastmodified": 1673403460,
     "wof:name": "G-01 International North Wall",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",
