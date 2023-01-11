@@ -15,8 +15,8 @@
     "geom:latitude": 37.61550857237398,
     "geom:longitude": -122.38890259474638,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "ITB",
-    "millsfield:wayfinding_kind": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
+    "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
       1796935611
     ],
@@ -87,7 +87,7 @@
     ],
     "wof:id": 1763588543,
     "wof:label": "A-01 International South Wall (2021-11-09)",
-    "wof:lastmodified": 1673474928,
+    "wof:lastmodified": 1673478247,
     "wof:name": "A-01 International South Wall",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",

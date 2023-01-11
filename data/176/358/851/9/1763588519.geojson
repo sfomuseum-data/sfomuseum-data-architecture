@@ -12,8 +12,8 @@
     "geom:latitude": 37.619102719725085,
     "geom:longitude": -122.38719319835137,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "",
-    "millsfield:wayfinding_kind": "",
+    "millsfield:wayfinding_detail": "F",
+    "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": [
       1796889511
     ],
@@ -84,7 +84,7 @@
     ],
     "wof:id": 1763588519,
     "wof:label": "F-02 North Connector (2021-11-09)",
-    "wof:lastmodified": 1673474928,
+    "wof:lastmodified": 1673478247,
     "wof:name": "3C North Connector",
     "wof:parent_id": 1763588271,
     "wof:placetype": "enclosure",

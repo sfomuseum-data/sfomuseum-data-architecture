@@ -8,6 +8,8 @@
     "geom:bbox": "-122.388300,37.614477,-122.388235,37.614532",
     "geom:latitude": 37.61450455828342,
     "geom:longitude": -122.38826746081209,
+    "millsfield:wayfinding_detail": "AML",
+    "millsfield:wayfinding_kind": "ITB",
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 82,
@@ -53,7 +55,7 @@
       }
     ],
     "wof:id": 1796989589,
-    "wof:lastmodified": 1673034672,
+    "wof:lastmodified": 1673478247,
     "wof:name": "AML 09 AML New Corner Gallery",
     "wof:parent_id": 1729828959,
     "wof:placetype": "enclosure",

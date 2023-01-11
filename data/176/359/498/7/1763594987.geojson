@@ -9,7 +9,7 @@
     "geom:latitude": 37.614105592105886,
     "geom:longitude": -122.38511066563744,
     "millsfield:wayfinding_detail": "B",
-    "millsfield:wayfinding_kind": "B16",
+    "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
       1796889475
     ],
@@ -65,7 +65,7 @@
       }
     ],
     "wof:id": 1763594987,
-    "wof:lastmodified": 1673474928,
+    "wof:lastmodified": 1673478247,
     "wof:name": "HM03 Sterile Connector",
     "wof:parent_id": 1763588265,
     "wof:placetype": "enclosure",

@@ -11,7 +11,7 @@
     "geom:latitude": 37.614635906352255,
     "geom:longitude": -122.3871579788049,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
       1797018161
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1763588503,
     "wof:label": "1A Student Art South (2021-11-09)",
-    "wof:lastmodified": 1673476769,
+    "wof:lastmodified": 1673478247,
     "wof:name": "1A Student Art South",
     "wof:parent_id": 1763588177,
     "wof:placetype": "enclosure",

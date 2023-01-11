@@ -12,7 +12,7 @@
     "geom:latitude": 37.617923793113434,
     "geom:longitude": -122.3849209067321,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": [
       1796935373
@@ -84,7 +84,7 @@
     ],
     "wof:id": 1763595139,
     "wof:label": "E-05 E Plaza Meet and Greet (2019-07-23 - 2019-10-17)",
-    "wof:lastmodified": 1673474928,
+    "wof:lastmodified": 1673478247,
     "wof:name": "3A E Plaza Meet and Greet",
     "wof:parent_id": 1763588365,
     "wof:placetype": "enclosure",

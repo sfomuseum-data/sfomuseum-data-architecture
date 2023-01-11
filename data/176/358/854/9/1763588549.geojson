@@ -12,7 +12,7 @@
     "geom:latitude": 37.616016744082586,
     "geom:longitude": -122.38901058368137,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
       1796889641,
@@ -86,7 +86,7 @@
     ],
     "wof:id": 1763588549,
     "wof:label": "4E Video Arts Gallery (2021-11-09)",
-    "wof:lastmodified": 1673476475,
+    "wof:lastmodified": 1673478247,
     "wof:name": "4E Video Arts Gallery",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",

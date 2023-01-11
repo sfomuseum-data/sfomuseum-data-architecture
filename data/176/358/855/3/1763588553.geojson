@@ -11,7 +11,7 @@
     "geom:latitude": 37.616528705005116,
     "geom:longitude": -122.38971793359582,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
       1796889641,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763588553,
     "wof:label": "4A International North Cases (2021-11-09)",
-    "wof:lastmodified": 1673476596,
+    "wof:lastmodified": 1673478247,
     "wof:name": "4A International North Cases",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",

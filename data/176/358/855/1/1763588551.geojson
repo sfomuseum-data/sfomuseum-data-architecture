@@ -11,7 +11,7 @@
     "geom:latitude": 37.614601366959555,
     "geom:longitude": -122.38897295514269,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
       1796889637,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1763588551,
     "wof:label": "4D International South Cases (2021-11-09)",
-    "wof:lastmodified": 1673476608,
+    "wof:lastmodified": 1673478247,
     "wof:name": "4D International South Cases",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",
