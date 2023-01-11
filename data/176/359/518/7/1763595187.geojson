@@ -14,6 +14,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
+    "millsfield:waypoint_id": [
+      1796935607
+    ],
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 41,
@@ -63,7 +66,7 @@
       }
     ],
     "wof:id": 1763595187,
-    "wof:lastmodified": 1673478247,
+    "wof:lastmodified": 1673479444,
     "wof:name": "AML Aviation Museum Gallery 04b Special Collections Room",
     "wof:parent_id": 1763588369,
     "wof:placetype": "enclosure",
