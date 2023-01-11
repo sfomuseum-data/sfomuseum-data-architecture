@@ -14,7 +14,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
-    "millsfield:waypoint_id": 1796935495,
+    "millsfield:waypoint_id": [
+      1796935495
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -71,7 +73,7 @@
     ],
     "wof:id": 1763588181,
     "wof:label": "B7 (2021-11-09)",
-    "wof:lastmodified": 1672877841,
+    "wof:lastmodified": 1673474929,
     "wof:name": "B7",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

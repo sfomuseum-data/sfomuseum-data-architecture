@@ -19,7 +19,9 @@
     "lbl:longitude": -122.385434,
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
-    "millsfield:waypoint_id": 1796935375,
+    "millsfield:waypoint_id": [
+      1796935375
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfo:id": "E3",
@@ -81,7 +83,7 @@
     ],
     "wof:id": 1763588281,
     "wof:label": "E3 (2021-11-09)",
-    "wof:lastmodified": 1672877841,
+    "wof:lastmodified": 1673474929,
     "wof:name": "E3",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",

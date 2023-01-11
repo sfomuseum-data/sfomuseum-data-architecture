@@ -14,7 +14,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
-    "millsfield:waypoint_id": 1796935529,
+    "millsfield:waypoint_id": [
+      1796935529
+    ],
     "mz:is_current": 1,
     "sfo:id": "B27",
     "sfo:level": 2,
@@ -68,7 +70,7 @@
     ],
     "wof:id": 1763588217,
     "wof:label": "B27 (2021-11-09)",
-    "wof:lastmodified": 1672877841,
+    "wof:lastmodified": 1673474928,
     "wof:name": "B27",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

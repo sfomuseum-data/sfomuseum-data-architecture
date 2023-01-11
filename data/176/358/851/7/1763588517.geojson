@@ -13,7 +13,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
-    "millsfield:waypoint_id": 1796889469,
+    "millsfield:waypoint_id": [
+      1796889469
+    ],
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 91,
@@ -68,7 +70,7 @@
     ],
     "wof:id": 1763588517,
     "wof:label": "1F Kids’ Spot/Tree Town (2021-11-09)",
-    "wof:lastmodified": 1673042557,
+    "wof:lastmodified": 1673474928,
     "wof:name": "1F Kids’ Spot/Tree Town",
     "wof:parent_id": 1763588265,
     "wof:placetype": "enclosure",

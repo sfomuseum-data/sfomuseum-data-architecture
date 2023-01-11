@@ -13,7 +13,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
-    "millsfield:waypoint_id": 1796889475,
+    "millsfield:waypoint_id": [
+      1796889475
+    ],
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 92,
@@ -68,7 +70,7 @@
     ],
     "wof:id": 1763588507,
     "wof:label": "1C Kids’ Spot (2021-11-09)",
-    "wof:lastmodified": 1673034672,
+    "wof:lastmodified": 1673474928,
     "wof:name": "1C Kids’ Spot",
     "wof:parent_id": 1763588177,
     "wof:placetype": "enclosure",

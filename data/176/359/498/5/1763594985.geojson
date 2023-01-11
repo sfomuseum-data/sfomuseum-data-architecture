@@ -10,7 +10,9 @@
     "geom:longitude": -122.38346599781815,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
-    "millsfield:waypoint_id": 1796889579,
+    "millsfield:waypoint_id": [
+      1796889579
+    ],
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 83,
@@ -62,7 +64,7 @@
       }
     ],
     "wof:id": 1763594985,
-    "wof:lastmodified": 1673052834,
+    "wof:lastmodified": 1673474929,
     "wof:name": "2E Kadish Gallery",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",

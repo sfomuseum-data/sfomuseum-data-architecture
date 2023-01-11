@@ -14,7 +14,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
-    "millsfield:waypoint_id": 1796889475,
+    "millsfield:waypoint_id": [
+      1796889475
+    ],
     "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 72,
@@ -68,7 +70,7 @@
     ],
     "wof:id": 1763588497,
     "wof:label": "HM02 Harvey Milk Temporary Wall Gallery (2021-11-09)",
-    "wof:lastmodified": 1672971124,
+    "wof:lastmodified": 1673474928,
     "wof:name": "HM02 Harvey Milk Temporary Wall Gallery",
     "wof:parent_id": 1763588177,
     "wof:placetype": "enclosure",

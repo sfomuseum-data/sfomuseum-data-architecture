@@ -19,7 +19,9 @@
     "lbl:longitude": -122.381021,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
-    "millsfield:waypoint_id": 1796935597,
+    "millsfield:waypoint_id": [
+      1796935597
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfo:id": "D5",
@@ -81,7 +83,7 @@
     ],
     "wof:id": 1763588137,
     "wof:label": "D5 (2021-11-09)",
-    "wof:lastmodified": 1672877841,
+    "wof:lastmodified": 1673474928,
     "wof:name": "D5",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

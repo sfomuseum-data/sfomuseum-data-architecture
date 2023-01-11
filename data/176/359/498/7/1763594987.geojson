@@ -10,7 +10,9 @@
     "geom:longitude": -122.38511066563744,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "B16",
-    "millsfield:waypoint_id": 1796889475,
+    "millsfield:waypoint_id": [
+      1796889475
+    ],
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 84,
@@ -63,7 +65,7 @@
       }
     ],
     "wof:id": 1763594987,
-    "wof:lastmodified": 1673042486,
+    "wof:lastmodified": 1673474928,
     "wof:name": "HM03 Sterile Connector",
     "wof:parent_id": 1763588265,
     "wof:placetype": "enclosure",

@@ -13,7 +13,10 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "ITB",
-    "millsfield:waypoint_id": 1796889641,
+    "millsfield:waypoint_id": [
+      1796889641,
+      1796889639
+    ],
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 86,
@@ -66,7 +69,7 @@
     ],
     "wof:id": 1763588553,
     "wof:label": "4A International North Cases (2021-11-09)",
-    "wof:lastmodified": 1673034672,
+    "wof:lastmodified": 1673476596,
     "wof:name": "4A International North Cases",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",

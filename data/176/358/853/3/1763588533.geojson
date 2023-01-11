@@ -16,7 +16,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "",
-    "millsfield:waypoint_id": 1796889511,
+    "millsfield:waypoint_id": [
+      1796889511
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "name:eng_x_preferred": [
@@ -83,7 +85,7 @@
     ],
     "wof:id": 1763588533,
     "wof:label": "3J Photographs (2021-11-09)",
-    "wof:lastmodified": 1673027688,
+    "wof:lastmodified": 1673474928,
     "wof:name": "3J Photographs",
     "wof:parent_id": 1763588359,
     "wof:placetype": "enclosure",

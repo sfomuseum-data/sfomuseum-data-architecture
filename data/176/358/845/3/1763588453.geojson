@@ -19,7 +19,9 @@
     "lbl:longitude": -122.392935,
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
-    "millsfield:waypoint_id": 1796935453,
+    "millsfield:waypoint_id": [
+      1796935453
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfo:id": "G10",
@@ -81,7 +83,7 @@
     ],
     "wof:id": 1763588453,
     "wof:label": "G10 (2021-11-09)",
-    "wof:lastmodified": 1672877841,
+    "wof:lastmodified": 1673474928,
     "wof:name": "G10",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

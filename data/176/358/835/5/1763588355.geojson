@@ -19,7 +19,9 @@
     "lbl:longitude": -122.384262,
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
-    "millsfield:waypoint_id": 1796935353,
+    "millsfield:waypoint_id": [
+      1796935353
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfo:id": "E12",
@@ -81,7 +83,7 @@
     ],
     "wof:id": 1763588355,
     "wof:label": "E12 (2021-11-09)",
-    "wof:lastmodified": 1672877841,
+    "wof:lastmodified": 1673474928,
     "wof:name": "E12",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",

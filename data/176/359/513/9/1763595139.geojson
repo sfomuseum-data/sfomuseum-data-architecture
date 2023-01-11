@@ -14,7 +14,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "T3",
-    "millsfield:waypoint_id": 1796935373,
+    "millsfield:waypoint_id": [
+      1796935373
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "name:eng_x_preferred": [
@@ -82,7 +84,7 @@
     ],
     "wof:id": 1763595139,
     "wof:label": "E-05 E Plaza Meet and Greet (2019-07-23 - 2019-10-17)",
-    "wof:lastmodified": 1673034672,
+    "wof:lastmodified": 1673474928,
     "wof:name": "3A E Plaza Meet and Greet",
     "wof:parent_id": 1763588365,
     "wof:placetype": "enclosure",

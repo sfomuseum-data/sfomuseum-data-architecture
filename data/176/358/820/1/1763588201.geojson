@@ -14,7 +14,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
-    "millsfield:waypoint_id": 1796935523,
+    "millsfield:waypoint_id": [
+      1796935523
+    ],
     "mz:is_current": 1,
     "sfo:id": "B25",
     "sfo:level": 2,
@@ -68,7 +70,7 @@
     ],
     "wof:id": 1763588201,
     "wof:label": "B25 (2021-11-09)",
-    "wof:lastmodified": 1672877841,
+    "wof:lastmodified": 1673474929,
     "wof:name": "B25",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

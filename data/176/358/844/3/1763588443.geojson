@@ -19,7 +19,9 @@
     "lbl:longitude": -122.391079,
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
-    "millsfield:waypoint_id": 1796935443,
+    "millsfield:waypoint_id": [
+      1796935443
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfo:id": "G3",
@@ -81,7 +83,7 @@
     ],
     "wof:id": 1763588443,
     "wof:label": "G3 (2021-11-09)",
-    "wof:lastmodified": 1672877841,
+    "wof:lastmodified": 1673474928,
     "wof:name": "G3",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

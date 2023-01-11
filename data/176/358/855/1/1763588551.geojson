@@ -13,7 +13,10 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "ITB",
-    "millsfield:waypoint_id": 1796889635,
+    "millsfield:waypoint_id": [
+      1796889637,
+      1796889635
+    ],
     "mz:is_current": 1,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 85,
@@ -67,7 +70,7 @@
     ],
     "wof:id": 1763588551,
     "wof:label": "4D International South Cases (2021-11-09)",
-    "wof:lastmodified": 1673034672,
+    "wof:lastmodified": 1673476608,
     "wof:name": "4D International South Cases",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",

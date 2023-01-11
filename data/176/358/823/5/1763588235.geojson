@@ -19,7 +19,9 @@
     "lbl:longitude": -122.383607,
     "millsfield:wayfinding_detail": "C",
     "millsfield:wayfinding_kind": "T1",
-    "millsfield:waypoint_id": 1796935539,
+    "millsfield:waypoint_id": [
+      1796935539
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfo:id": "C2",
@@ -81,7 +83,7 @@
     ],
     "wof:id": 1763588235,
     "wof:label": "C2 (2021-11-09)",
-    "wof:lastmodified": 1672877841,
+    "wof:lastmodified": 1673474928,
     "wof:name": "C2",
     "wof:parent_id": 1763588233,
     "wof:placetype": "venue",

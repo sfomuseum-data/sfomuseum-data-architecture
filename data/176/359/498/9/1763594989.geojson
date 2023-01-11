@@ -10,7 +10,9 @@
     "geom:longitude": -122.38483628191317,
     "millsfield:wayfinding_detail": "PRE",
     "millsfield:wayfinding_kind": "T2",
-    "millsfield:waypoint_id": 1796889593,
+    "millsfield:waypoint_id": [
+      1796889593
+    ],
     "mz:is_current": 1,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 90,
@@ -62,7 +64,7 @@
       }
     ],
     "wof:id": 1763594989,
-    "wof:lastmodified": 1673034672,
+    "wof:lastmodified": 1673474928,
     "wof:name": "2F Pre-Security Connector/Zuber",
     "wof:parent_id": 1763588165,
     "wof:placetype": "enclosure",
