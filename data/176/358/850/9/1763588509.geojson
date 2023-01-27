@@ -6,10 +6,10 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 6.85503692626771e-9,
-    "geom:bbox": "-122.385108,37.613128,-122.384934,37.613564",
-    "geom:latitude": 37.6133449408613,
-    "geom:longitude": -122.38502042073,
+    "geom:area": 6.774999996847367e-9,
+    "geom:bbox": "-122.384802,37.613098,-122.384628,37.613535",
+    "geom:latitude": 37.61331589805658,
+    "geom:longitude": -122.38471468752768,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -41,7 +41,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650930928,
-    "wof:geomhash": "c0b05e2bc63a58a284761c1d47d2df69",
+    "wof:geomhash": "0c35de9ca5fedb7dec79222517a50e7e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1763588509,
     "wof:label": "HM04 Harvey Milk Temporary Wall 2 (2021-11-09)",
-    "wof:lastmodified": 1673478247,
+    "wof:lastmodified": 1674858563,
     "wof:name": "HM04 Harvey Milk Temporary Wall 2",
     "wof:parent_id": 1763588177,
     "wof:placetype": "enclosure",
@@ -81,10 +81,10 @@
     ]
   },
   "bbox": [
-    -122.38510799851854,
-    37.613127526767144,
-    -122.38493393766383,
-    37.61356445503508
+    -122.384802,
+    37.613098,
+    -122.384628,
+    37.613535
   ],
-  "geometry": {"coordinates":[[[-122.38510799851854,37.61356090277274],[-122.3849481467132,37.613127526767144],[-122.38493393766383,37.61313285516066],[-122.38509378946917,37.61356445503508],[-122.38510799851854,37.61356090277274]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.384802,37.613531],[-122.384642,37.613098],[-122.384628,37.613103],[-122.384788,37.613535],[-122.384802,37.613531]]],"type":"Polygon"}
 }
