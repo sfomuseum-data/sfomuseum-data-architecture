@@ -6,10 +6,10 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 5.515418390655688e-9,
-    "geom:bbox": "-122.386299,37.614211,-122.386231,37.614327",
-    "geom:latitude": 37.61427281931546,
-    "geom:longitude": -122.3862685852928,
+    "geom:area": 5.640000003175417e-10,
+    "geom:bbox": "-122.386313,37.614237,-122.386302,37.614336",
+    "geom:latitude": 37.614287042553194,
+    "geom:longitude": -122.38630763829786,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -25,7 +25,7 @@
     "sfomuseum:map_id": "HM01",
     "sfomuseum:map_id_alt": "B08",
     "sfomuseum:placetype": "gallery",
-    "sfomuseum:post_security": 1,
+    "sfomuseum:post_security": 0,
     "src:geom": "sfo",
     "wof:belongsto": [
       102527513,
@@ -37,18 +37,18 @@
       85688637,
       102085387,
       1763588121,
-      1763588177,
-      1763588175
+      1763588175,
+      1763588261
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1650930925,
-    "wof:geomhash": "6679b64508a4cfb9c8e81baadb6cdcd5",
+    "wof:geomhash": "df4972f93aee23ce0c752b232e28db2f",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1763588177,
+        "concourse_id": 1763588261,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -61,7 +61,7 @@
       {
         "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1763588177,
+        "concourse_id": 1763588261,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
@@ -72,9 +72,9 @@
     ],
     "wof:id": 1763588499,
     "wof:label": "HM01 Central Photo Wall (2021-11-09)",
-    "wof:lastmodified": 1673478247,
+    "wof:lastmodified": 1676419019,
     "wof:name": "HM01 Central Photo Wall",
-    "wof:parent_id": 1763588177,
+    "wof:parent_id": 1763588261,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": "gallery",
     "wof:repo": "sfomuseum-data-architecture",
@@ -85,10 +85,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38629851888403,
-    37.61421083112502,
-    -122.38623096843632,
-    37.6143274101235
+    -122.386313,
+    37.614237,
+    -122.386302,
+    37.614336
   ],
-  "geometry": {"coordinates":[[[-122.38629851888403,37.61423610806675],[-122.38625014404728,37.61421083112502],[-122.38624186366982,37.6142626924365],[-122.38623096843632,37.614308452417205],[-122.38629633983734,37.6143274101235],[-122.38629851888403,37.61423610806675]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.386313,37.61424],[-122.386307,37.614237],[-122.386305,37.614288],[-122.386302,37.614336],[-122.386308,37.614336],[-122.386313,37.61424]]],"type":"Polygon"}
 }
