@@ -20,7 +20,7 @@
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
-      1796935575
+      1796889487
     ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -83,7 +83,7 @@
     ],
     "wof:id": 1763588163,
     "wof:label": "D18 (2021-11-09)",
-    "wof:lastmodified": 1673474928,
+    "wof:lastmodified": 1675898441,
     "wof:name": "D18",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
