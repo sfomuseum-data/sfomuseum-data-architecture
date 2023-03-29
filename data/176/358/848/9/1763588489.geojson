@@ -6,11 +6,11 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 3.6711954790629227e-10,
+    "geom:area": 3.354999998726346e-10,
     "geom:area_square_m": 244.245562,
-    "geom:bbox": "-122.381053,37.617169,-122.381035,37.617203",
-    "geom:latitude": 37.61718576214964,
-    "geom:longitude": -122.3810445172408,
+    "geom:bbox": "-122.381066,37.617174,-122.381049,37.617208",
+    "geom:latitude": 37.61719081023349,
+    "geom:longitude": -122.38105748733234,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
@@ -55,7 +55,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1650930921,
-    "wof:geomhash": "68b705d8696d9db26efc524605d20db1",
+    "wof:geomhash": "d2811d794e9434e1c1f7ccebb8da95a0",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -84,7 +84,7 @@
     ],
     "wof:id": 1763588489,
     "wof:label": "2B Kids’ Spot (2021-11-09)",
-    "wof:lastmodified": 1673478247,
+    "wof:lastmodified": 1680125726,
     "wof:name": "2B Kids’ Spot",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",
@@ -99,10 +99,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38105337487671,
-    37.61716901798868,
-    -122.38103525624494,
-    37.61720312364849
+    -122.381066,
+    37.617174,
+    -122.381049,
+    37.617208
   ],
-  "geometry": {"coordinates":[[[-122.38105337487671,37.617201524945685],[-122.38104671361504,37.61716901798868],[-122.38103525624494,37.61717035024102],[-122.3810429833085,37.61720312364849],[-122.38105337487671,37.617201524945685]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-122.381066,37.617206],[-122.381059,37.617174],[-122.381049,37.617175],[-122.381056,37.617208],[-122.381066,37.617206]]],"type":"Polygon"}
 }
