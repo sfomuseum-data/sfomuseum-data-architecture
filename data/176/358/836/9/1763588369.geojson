@@ -19,7 +19,8 @@
     "mz:is_current": 1,
     "name:eng_x_preferred": [
       "International Terminal Building",
-      "ITB"
+      "ITB",
+      "ITM"
     ],
     "sfo:id": "100",
     "sfo:parts": [
@@ -79,7 +80,7 @@
     ],
     "wof:id": 1763588369,
     "wof:label": "International Terminal (2021-11-09)",
-    "wof:lastmodified": 1650930881,
+    "wof:lastmodified": 1680136917,
     "wof:name": "International Terminal",
     "wof:parent_id": 1763588121,
     "wof:placetype": "wing",
