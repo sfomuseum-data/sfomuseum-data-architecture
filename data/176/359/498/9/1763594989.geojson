@@ -2,18 +2,15 @@
   "id": 1763594989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2022-01-01",
+    "date:cessation_upper": "2022-12-31",
+    "edtf:cessation": "2022~",
     "edtf:inception": "",
     "geom:area": 7.02516011495716e-10,
     "geom:bbox": "-122.384898,37.617748,-122.384775,37.617804",
     "geom:latitude": 37.61777614067629,
     "geom:longitude": -122.38483628191317,
-    "millsfield:wayfinding_detail": "DEP",
-    "millsfield:wayfinding_kind": "T2",
-    "millsfield:waypoint_id": [
-      1796889593
-    ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 90,
     "sfomuseum:location": "T2",
@@ -64,7 +61,7 @@
       }
     ],
     "wof:id": 1763594989,
-    "wof:lastmodified": 1673478247,
+    "wof:lastmodified": 1682468572,
     "wof:name": "2F Pre-Security Connector/Zuber",
     "wof:parent_id": 1763588165,
     "wof:placetype": "enclosure",
