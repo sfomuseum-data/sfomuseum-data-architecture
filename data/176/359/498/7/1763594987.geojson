@@ -2,8 +2,10 @@
   "id": 1763594987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2021-11-09",
+    "date:inception_upper": "2021-11-09",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-11-09",
     "geom:area": 1.1063017792309426e-8,
     "geom:bbox": "-122.385315,37.614052,-122.384898,37.614160",
     "geom:latitude": 37.614105592105886,
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1763594987,
-    "wof:lastmodified": 1673478247,
+    "wof:lastmodified": 1682965614,
     "wof:name": "HM03 Sterile Connector",
     "wof:parent_id": 1763588265,
     "wof:placetype": "enclosure",
