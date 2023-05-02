@@ -68,16 +68,16 @@
       }
     ],
     "wof:id": 1763594987,
-    "wof:lastmodified": 1682970829,
+    "wof:lastmodified": 1683065856,
     "wof:name": "HM03 Sterile Connector",
     "wof:parent_id": 1745882227,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": "gallery",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [
-      1763594987
-    ],
-    "wof:supersedes": []
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1863467025
+    ]
   },
   "bbox": [
     -122.385315106,
