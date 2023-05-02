@@ -2,11 +2,11 @@
   "id": 1729837317,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2021-05-25",
-    "date:cessation_upper": "2021-05-25",
+    "date:cessation_lower": "2021-04-29",
+    "date:cessation_upper": "2021-04-29",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "2021-05-25",
+    "edtf:cessation": "2021-04-29",
     "edtf:inception": "2020-~05",
     "geom:area": 6.85503692626771e-9,
     "geom:bbox": "-122.385108,37.613128,-122.384934,37.613564",
@@ -68,15 +68,13 @@
     ],
     "wof:id": 1729837317,
     "wof:label": "B-15 Harvey Milk Temporary Wall Gallery (2020-~05)",
-    "wof:lastmodified": 1683065733,
+    "wof:lastmodified": 1683066667,
     "wof:name": "HM02 Harvey Milk Temporary Wall Gallery",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": "gallery",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [
-      1745887101
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
       1729813691
     ]

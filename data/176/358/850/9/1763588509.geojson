@@ -70,14 +70,15 @@
     ],
     "wof:id": 1763588509,
     "wof:label": "HM04 Harvey Milk Temporary Wall 2 (2021-11-09)",
-    "wof:lastmodified": 1674858563,
+    "wof:lastmodified": 1683066667,
     "wof:name": "HM04 Harvey Milk Temporary Wall 2",
     "wof:parent_id": 1763588177,
     "wof:placetype": "enclosure",
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [
-      1745887101
+      1745887101,
+      1763588497
     ]
   },
   "bbox": [
