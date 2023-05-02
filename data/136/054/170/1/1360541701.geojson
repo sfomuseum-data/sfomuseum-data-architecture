@@ -7,6 +7,7 @@
     "date:inception_lower": "2014-01-01",
     "date:inception_upper": "2014-12-31",
     "edtf:cessation": "2017~",
+    "edtf:deprecated": "2023-05-02",
     "edtf:inception": "2014~",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -57,17 +58,16 @@
     ],
     "wof:id": 1360541701,
     "wof:label": "AML Aviation Museum Gallery 04b Special Collections Room (2017~ - 2017-06-23)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1683067014,
     "wof:name": "AML Aviation Museum Gallery 04b Special Collections Room",
     "wof:parent_id": 1159396153,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": "gallery",
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
-    "wof:supersedes": [
-      1360541703,
-      1360541699
+    "wof:superseded_by": [
+      1360541703
     ],
+    "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [

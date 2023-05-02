@@ -57,7 +57,7 @@
     ],
     "wof:id": 1360541703,
     "wof:label": "AML Aviation Museum Gallery 04b Special Collections Room (2017~ - 2017-06-23)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1683067028,
     "wof:name": "AML Aviation Museum Gallery 04b Special Collections Room",
     "wof:parent_id": 1159396153,
     "wof:placetype": "enclosure",
@@ -67,7 +67,8 @@
       1763601211
     ],
     "wof:supersedes": [
-      1360541699
+      1360541699,
+      1360541701
     ],
     "wof:tags": []
   },
