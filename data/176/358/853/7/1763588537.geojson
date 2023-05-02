@@ -85,7 +85,7 @@
     ],
     "wof:id": 1763588537,
     "wof:label": "3L Terminal 3 Connector Arrival Level (2021-11-09)",
-    "wof:lastmodified": 1676417277,
+    "wof:lastmodified": 1683067824,
     "wof:name": "3L Terminal 3 Connector Arrival Level",
     "wof:parent_id": 1763588365,
     "wof:placetype": "enclosure",
@@ -95,8 +95,7 @@
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [
-      1745882491,
-      1763588531
+      1745882491
     ],
     "wof:tags": []
   },
