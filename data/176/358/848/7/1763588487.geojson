@@ -20,11 +20,12 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "name:eng_x_preferred": [
-      "D-12 Wall Case"
+      "2A Boomerang Gallery"
     ],
     "name:eng_x_variant": [
       "D-12",
-      "D12"
+      "D12",
+      "2A"
     ],
     "sfo:level": 2,
     "sfomuseum:gallery_id": 58,
@@ -83,9 +84,9 @@
       }
     ],
     "wof:id": 1763588487,
-    "wof:label": "D-12 Wall Case (2021-11-09)",
-    "wof:lastmodified": 1673478247,
-    "wof:name": "D-12 Wall Case",
+    "wof:label": "2A Boomerang Gallery (2021-11-09)",
+    "wof:lastmodified": 1683145766,
+    "wof:name": "2A Boomerang Gallery",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": [

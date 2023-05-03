@@ -20,11 +20,12 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "name:eng_x_preferred": [
-      "D-13 Wall Case"
+      "2C Kids’ Spot"
     ],
     "name:eng_x_variant": [
       "D-13",
-      "D13"
+      "D13",
+      "2C"
     ],
     "sfo:level": 2,
     "sfomuseum:gallery_id": 66,
@@ -83,9 +84,9 @@
       }
     ],
     "wof:id": 1763588485,
-    "wof:label": "D-13 Kids’ Spot (2021-11-09)",
-    "wof:lastmodified": 1673478247,
-    "wof:name": "D-13 Kids’ Spot",
+    "wof:label": "2C Kids’ Spot (2021-11-09)",
+    "wof:lastmodified": 1683146033,
+    "wof:name": "2C Kids’ Spot",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": [
