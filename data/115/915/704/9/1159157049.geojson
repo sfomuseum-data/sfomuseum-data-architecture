@@ -4,10 +4,10 @@
   "properties": {
     "date:cessation_lower": "2021-05-25",
     "date:cessation_upper": "2021-05-25",
-    "date:inception_lower": "2017-01-01",
-    "date:inception_upper": "2017-12-31",
+    "date:inception_lower": "2020-05-01",
+    "date:inception_upper": "2020-05-31",
     "edtf:cessation": "2021-05-25",
-    "edtf:inception": "2017~",
+    "edtf:inception": "2020-05~",
     "geom:area": 3.7480498349999886e-8,
     "geom:area_square_m": 781.898465,
     "geom:bbox": "-122.388824,37.616790,-122.388228,37.616992",
@@ -83,7 +83,7 @@
     ],
     "wof:id": 1159157049,
     "wof:label": "F-09 Terminal 3 Connector Arrival Level (2017~)",
-    "wof:lastmodified": 1683067702,
+    "wof:lastmodified": 1683072155,
     "wof:name": "3L Terminal 3 Connector Arrival Level",
     "wof:parent_id": 1729792577,
     "wof:placetype": "enclosure",
@@ -95,7 +95,7 @@
       1745882491
     ],
     "wof:supersedes": [
-      1360516173
+      1863481157
     ],
     "wof:tags": []
   },

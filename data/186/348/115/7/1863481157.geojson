@@ -2,12 +2,12 @@
   "id": 1360516173,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2017-01-01",
-    "date:cessation_upper": "2017-12-31",
-    "date:inception_lower": "2014-01-01",
-    "date:inception_upper": "2014-12-31",
-    "edtf:cessation": "2017~",
-    "edtf:inception": "2014~",
+    "date:cessation_lower": "2020-05-01",
+    "date:cessation_upper": "2020-05-31",
+    "date:inception_lower": "2019-07-23",
+    "date:inception_upper": "2019-07-23",
+    "edtf:cessation": "2020-~05",
+    "edtf:inception": "2019-07-23",
     "geom:area": 7.982961589159585e-8,
     "geom:area_square_m": 781.898465,
     "geom:bbox": "-122.388888,37.616756,-122.388176,37.617046",
@@ -39,9 +39,11 @@
       85633793,
       85922583,
       102087579,
-      1159396321,
-      1159396157,
-      85688637
+      85688637,
+      1477855605,
+      554784711,
+      1477855699,
+      102085387
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -49,33 +51,43 @@
     "wof:geomhash": "aed5f57a3ca3645f504255a77c6cbfe1",
     "wof:hierarchy": [
       {
-        "building_id": 1159396321,
+        "building_id": 1477855605,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1360516173,
+        "enclosure_id": 1863481157,
         "locality_id": 85922583,
-        "neighbourhood_id": -1,
+        "postalcode_id": 554784711,
         "region_id": 85688637,
-        "wing_id": 1159396157
+        "wing_id": 1477855699
+      },
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1863481157,
+        "region_id": 85688637,
+        "wing_id": 1477855699
       }
     ],
-    "wof:id": 1360516173,
-    "wof:label": "F-09 Terminal 3 Connector Arrival Level (2014~ - 2017~)",
-    "wof:lastmodified": 1683071743,
+    "wof:id": 1863481157,
+    "wof:label": "F-09 Terminal 3 Connector Arrival Level (2019-07-23)",
+    "wof:lastmodified": 1683072082,
     "wof:name": "F-09 Terminal 3 Connector Arrival Level",
-    "wof:parent_id": 1159396157,
+    "wof:parent_id": 1477855699,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": [
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
-      1863481145
+      1159157049
     ],
     "wof:supersedes": [
-      1360516175
+      1863481145
     ],
     "wof:tags": []
   },
