@@ -20,11 +20,12 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "name:eng_x_preferred": [
-      "G-01 International North Wall"
+      "4B International North Wall"
     ],
     "name:eng_x_variant": [
       "G-01",
-      "G01"
+      "G01",
+      "4B"
     ],
     "sfo:level": 3,
     "sfomuseum:gallery_id": 19,
@@ -84,8 +85,8 @@
     ],
     "wof:id": 1763588545,
     "wof:label": "G-01 International North Wall (2021-11-09)",
-    "wof:lastmodified": 1673478247,
-    "wof:name": "G-01 International North Wall",
+    "wof:lastmodified": 1683142737,
+    "wof:name": "4B International North Wall",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": [
