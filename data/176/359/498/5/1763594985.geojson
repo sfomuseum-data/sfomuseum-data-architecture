@@ -20,6 +20,7 @@
     "sfomuseum:map_id": "2E",
     "sfomuseum:map_id_alt": "D17",
     "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       1763588121,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1763594985,
-    "wof:lastmodified": 1673478247,
+    "wof:lastmodified": 1686952601,
     "wof:name": "2E Kadish Gallery",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",
