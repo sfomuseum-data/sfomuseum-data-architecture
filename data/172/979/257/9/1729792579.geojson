@@ -8,7 +8,7 @@
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
-    "geom:area": 0.000007640700497798542,
+    "geom:area": 0.000007640700497798533,
     "geom:area_square_m": 76115.234853,
     "geom:bbox": "-122.393473,37.611477,-122.387299,37.618829",
     "geom:latitude": 37.61558213562721,
@@ -24,6 +24,7 @@
       "ITB"
     ],
     "sfo:id": "100",
+    "sfo:level": -1,
     "sfo:parts": [
       "375584B9-84EA-4D36-8042-8AB27D90A6E6",
       "A12A8981-4F33-4CB5-A58E-0449015ACDEA",
@@ -81,7 +82,7 @@
     ],
     "wof:id": 1729792579,
     "wof:label": "International Terminal (2020-~05)",
-    "wof:lastmodified": 1622750233,
+    "wof:lastmodified": 1693347363,
     "wof:name": "International Terminal",
     "wof:parent_id": 1729792387,
     "wof:placetype": "wing",

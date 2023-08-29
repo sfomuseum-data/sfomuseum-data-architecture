@@ -6,7 +6,7 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 0.0000054852248768375975,
+    "geom:area": 0.00000548522487683759,
     "geom:area_square_m": 50989.485898,
     "geom:bbox": "-122.390329,37.616746,-122.383851,37.621206",
     "geom:latitude": 37.61889013137361,
@@ -24,6 +24,7 @@
       "T3"
     ],
     "sfo:id": "400",
+    "sfo:level": -1,
     "sfo:parts": [
       "293E005B-3A4A-4C42-9EBE-0F2B051EC69F",
       "4F08C361-B1F4-47F6-A168-78661E0A246D",
@@ -83,7 +84,7 @@
     ],
     "wof:id": 1763588269,
     "wof:label": "Terminal 3 (2021-11-09)",
-    "wof:lastmodified": 1680295644,
+    "wof:lastmodified": 1693347363,
     "wof:name": "Terminal 3",
     "wof:parent_id": 1763588121,
     "wof:placetype": "wing",

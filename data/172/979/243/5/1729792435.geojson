@@ -8,7 +8,7 @@
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
-    "geom:area": 0.000005868587843301841,
+    "geom:area": 0.000005868587843301838,
     "geom:area_square_m": 58993.843176,
     "geom:bbox": "-122.387572,37.610449,-122.382137,37.615777",
     "geom:latitude": 37.61377621780834,
@@ -23,6 +23,7 @@
       "T1"
     ],
     "sfo:id": "200",
+    "sfo:level": -1,
     "sfo:parts": [
       "519835B5-915F-4F6F-B21C-F198877FB0C5",
       "D16DCB30-6FA5-40BC-AACF-4E88BE836818"
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1729792435,
     "wof:label": "Terminal 1 (2020-~05)",
-    "wof:lastmodified": 1622750165,
+    "wof:lastmodified": 1693347363,
     "wof:name": "Terminal 1",
     "wof:parent_id": 1729792387,
     "wof:placetype": "wing",

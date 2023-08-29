@@ -10,11 +10,12 @@
     "geom:area": 0.0000019201843294182603,
     "geom:area_square_m": 18733.923869,
     "geom:bbox": "-122.402425,37.634735,-122.400746,37.636676",
-    "geom:latitude": 37.63566659137614,
-    "geom:longitude": -122.40167575876991,
+    "geom:latitude": 37.635666591376136,
+    "geom:longitude": -122.4016757587699,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
+    "sfo:level": -1,
     "sfomuseum:placetype": "garage",
     "src:geom": "flysfo",
     "wof:belongsto": [
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1477855987,
-    "wof:lastmodified": 1650931137,
+    "wof:lastmodified": 1693347363,
     "wof:name": "Long-Term Parking Garage 2",
     "wof:parent_id": 102527513,
     "wof:placetype": "building",

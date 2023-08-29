@@ -25,6 +25,7 @@
       "C-03",
       "C03"
     ],
+    "sfo:level": -1,
     "sfomuseum:gallery_id": 13,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -62,7 +63,7 @@
     ],
     "wof:id": 1360516447,
     "wof:label": "C-03 Entrance Lobby C (2011~ - 2014~)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1693347363,
     "wof:name": "C-03 Entrance Lobby C",
     "wof:parent_id": 1159396163,
     "wof:placetype": "enclosure",

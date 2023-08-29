@@ -25,6 +25,7 @@
       "D-05",
       "D05"
     ],
+    "sfo:level": -1,
     "sfomuseum:gallery_id": 10,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -62,7 +63,7 @@
     ],
     "wof:id": 1360521559,
     "wof:label": "D-05 Central South Connector (2006~ - 2011~)",
-    "wof:lastmodified": 1672882085,
+    "wof:lastmodified": 1693347363,
     "wof:name": "D-05 Central South Connector",
     "wof:parent_id": 1360521545,
     "wof:placetype": "enclosure",

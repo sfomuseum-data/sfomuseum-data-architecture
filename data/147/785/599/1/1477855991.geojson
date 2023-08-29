@@ -7,7 +7,7 @@
     "date:inception_upper": "2000-12-31",
     "edtf:cessation": "..",
     "edtf:inception": "2000",
-    "geom:area": 7.821064767633134e-7,
+    "geom:area": 7.821064767633136e-7,
     "geom:area_square_m": 5230.619799,
     "geom:bbox": "-122.393378,37.615147,-122.390468,37.616578",
     "geom:latitude": 37.61580043267874,
@@ -15,6 +15,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
+    "sfo:level": -1,
     "sfomuseum:placetype": "garage",
     "src:geom": "flysfo",
     "wof:belongsto": [
@@ -55,7 +56,7 @@
       }
     ],
     "wof:id": 1477855991,
-    "wof:lastmodified": 1650931137,
+    "wof:lastmodified": 1693347363,
     "wof:name": "Garage G",
     "wof:parent_id": 1477855657,
     "wof:placetype": "building",

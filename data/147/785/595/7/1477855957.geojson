@@ -25,6 +25,7 @@
       "G-03",
       "G03"
     ],
+    "sfo:level": -1,
     "sfomuseum:gallery_id": 70,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -82,7 +83,7 @@
     ],
     "wof:id": 1477855957,
     "wof:label": "G-03 Video Arts Gallery (2019)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1693347363,
     "wof:name": "G-03 Video Arts Gallery",
     "wof:parent_id": 1477855927,
     "wof:placetype": "enclosure",

@@ -6,11 +6,11 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 0.00000656728161301391,
+    "geom:area": 0.000006567281613013896,
     "geom:area_square_m": 58993.843176,
     "geom:bbox": "-122.388324,37.610449,-122.382137,37.616030",
-    "geom:latitude": 37.613820223782525,
-    "geom:longitude": -122.38521650070163,
+    "geom:latitude": 37.61382022378252,
+    "geom:longitude": -122.38521650070166,
     "iso:country": "US",
     "lbl:latitude": 37.614605,
     "lbl:longitude": -122.385356,
@@ -24,6 +24,7 @@
       "T1"
     ],
     "sfo:id": "200",
+    "sfo:level": -1,
     "sfo:parts": [
       "519835B5-915F-4F6F-B21C-F198877FB0C5",
       "D16DCB30-6FA5-40BC-AACF-4E88BE836818"
@@ -81,7 +82,7 @@
     ],
     "wof:id": 1763588175,
     "wof:label": "Terminal 1 (2021-11-09)",
-    "wof:lastmodified": 1680295524,
+    "wof:lastmodified": 1693347363,
     "wof:name": "Terminal 1",
     "wof:parent_id": 1763588121,
     "wof:placetype": "wing",

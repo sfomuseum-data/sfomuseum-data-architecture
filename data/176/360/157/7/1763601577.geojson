@@ -11,6 +11,7 @@
     "geom:latitude": 37.623648312451905,
     "geom:longitude": -122.39647600716454,
     "iso:country": "US",
+    "sfo:level": -1,
     "sfomuseum:placetype_alt": "building",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -46,7 +47,7 @@
       }
     ],
     "wof:id": 1763601577,
-    "wof:lastmodified": 1660162303,
+    "wof:lastmodified": 1693347363,
     "wof:name": "US Postal Service Center 94128",
     "wof:parent_id": 102527513,
     "wof:placetype": "building",

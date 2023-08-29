@@ -25,6 +25,7 @@
       "C-01",
       "C01"
     ],
+    "sfo:level": -1,
     "sfomuseum:gallery_id": 11,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -63,7 +64,7 @@
     ],
     "wof:id": 1360516463,
     "wof:label": "C-01 Aquarium (2006~ - 2011~)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1693347363,
     "wof:name": "C-01 Aquarium",
     "wof:parent_id": 1159396139,
     "wof:placetype": "enclosure",
