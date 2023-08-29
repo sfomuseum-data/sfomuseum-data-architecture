@@ -25,6 +25,7 @@
       "F-09",
       "F09"
     ],
+    "sfo:level": 1,
     "sfomuseum:gallery_id": 51,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "A",
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1863481157,
     "wof:label": "F-09 Terminal 3 Connector Arrival Level (2019-07-23)",
-    "wof:lastmodified": 1683072082,
+    "wof:lastmodified": 1693347192,
     "wof:name": "F-09 Terminal 3 Connector Arrival Level",
     "wof:parent_id": 1477855699,
     "wof:placetype": "enclosure",

@@ -26,6 +26,7 @@
       "D-09",
       "D09"
     ],
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 43,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:location": "",
@@ -67,7 +68,7 @@
     ],
     "wof:id": 1159157905,
     "wof:label": "D-09 Central South (2001-12-10 - 2002-09-25)",
-    "wof:lastmodified": 1672882085,
+    "wof:lastmodified": 1693347163,
     "wof:name": "D-09 Central South",
     "wof:parent_id": 1360521543,
     "wof:placetype": "enclosure",
