@@ -25,7 +25,7 @@
       "D-12",
       "D12"
     ],
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 58,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1477855627,
     "wof:label": "D-12 Wall Case (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1693418722,
     "wof:name": "D-12 Wall Case",
     "wof:parent_id": 1477855609,
     "wof:placetype": "enclosure",

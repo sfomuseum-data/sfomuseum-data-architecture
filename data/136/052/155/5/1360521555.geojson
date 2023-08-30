@@ -26,7 +26,7 @@
       "Kadish Gallery",
       "D01"
     ],
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 6,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1360521555,
     "wof:label": "D-01 Central North Connector (2006~ - 2011~)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1693418722,
     "wof:name": "D-01 Central North Connector",
     "wof:parent_id": 1360521545,
     "wof:placetype": "enclosure",

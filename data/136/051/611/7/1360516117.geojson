@@ -25,7 +25,7 @@
       "E-06",
       "E06"
     ],
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 65,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1360516117,
     "wof:label": "E-06 Kid’s Spot Boarding Area E (2014~ - 2017~)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1693418722,
     "wof:name": "E-06 Kid’s Spot Boarding Area E",
     "wof:parent_id": 1159157315,
     "wof:placetype": "enclosure",

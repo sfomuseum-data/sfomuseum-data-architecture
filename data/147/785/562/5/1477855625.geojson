@@ -25,7 +25,7 @@
       "D-14",
       "D14"
     ],
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 67,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1477855625,
     "wof:label": "D-14 Kids’ Spot (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1693418722,
     "wof:name": "D-14 Kids’ Spot",
     "wof:parent_id": 1477855609,
     "wof:placetype": "enclosure",

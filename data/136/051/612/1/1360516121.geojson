@@ -25,7 +25,7 @@
       "F-02",
       "F02"
     ],
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 2,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1360516121,
     "wof:label": "F-02 North Connector (2011~ - 2014~)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1693418722,
     "wof:name": "F-02 North Connector",
     "wof:parent_id": 1159396295,
     "wof:placetype": "enclosure",

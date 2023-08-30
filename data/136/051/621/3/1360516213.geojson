@@ -25,7 +25,7 @@
       "C-04",
       "C04"
     ],
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 63,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1360516213,
     "wof:label": "C-04 Entrance Lobby C Meet and Greet (2000~ - 2006~)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1693418722,
     "wof:name": "C-04 Entrance Lobby C Meet and Greet",
     "wof:parent_id": 1159396115,
     "wof:placetype": "enclosure",

@@ -25,7 +25,7 @@
       "A-05",
       "A05"
     ],
-    "sfo:level": -1,
+    "sfo:level": 3,
     "sfomuseum:gallery_id": 39,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "A",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1360516441,
     "wof:label": "A-05 Terminal One Lower Gallery (2014~ - 2016-08-19)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1693418722,
     "wof:name": "A-05 Terminal One Lower Gallery",
     "wof:parent_id": 1159396151,
     "wof:placetype": "enclosure",

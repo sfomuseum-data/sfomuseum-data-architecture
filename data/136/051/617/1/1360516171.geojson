@@ -25,7 +25,7 @@
       "F-11",
       "F11"
     ],
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:gallery_id": 60,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1360516171,
     "wof:label": "F-11 Photographs (1991~ - 2000~)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1693418722,
     "wof:name": "F-11 Photographs",
     "wof:parent_id": 1159554821,
     "wof:placetype": "enclosure",
