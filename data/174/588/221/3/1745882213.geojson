@@ -38,7 +38,7 @@
       102085387,
       1745882083,
       1745882195,
-      1745882137
+      1745882085
     ],
     "wof:breaches": [],
     "wof:controlled": [
@@ -59,7 +59,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1745882213,
-        "wing_id": 1745882137
+        "wing_id": 1745882085
       },
       {
         "building_id": 1745882083,
@@ -70,12 +70,12 @@
         "county_id": 102085387,
         "region_id": 85688637,
         "venue_id": 1745882213,
-        "wing_id": 1745882137
+        "wing_id": 1745882085
       }
     ],
     "wof:id": 1745882213,
     "wof:label": "C9 (2021-05-25)",
-    "wof:lastmodified": 1672878184,
+    "wof:lastmodified": 1696967765,
     "wof:name": "C9",
     "wof:parent_id": 1745882195,
     "wof:placetype": "venue",
