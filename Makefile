@@ -21,6 +21,9 @@ galleries-level3:
 galleries-level4:
 	@make current-galleries LEVEL=4
 
+terminals:
+	$(AS_FEATURECOLLECTION) -iterator-uri 'repo://?include=properties.sfomuseum:placetype=terminal&include=properties.mz:is_current=1' $(CWD) > work/terminals.geojson
+
 current-galleries:
 	$(AS_FEATURECOLLECTION) -iterator-uri 'repo://?include=properties.sfomuseum:placetype=gallery&include=properties.mz:is_current=1&include=properties.sfo:level=$(LEVEL)' $(CWD) > work/galleries-level$(LEVEL).geojson
 
