@@ -15,6 +15,9 @@
     "iso:country": "US",
     "lbl:latitude": 37.614554,
     "lbl:longitude": -122.38541,
+    "millsfield:waypoint_id": [
+      1796889629
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfo:building_id": "200",
@@ -77,7 +80,7 @@
     ],
     "wof:id": 1763588261,
     "wof:label": "Terminal 1 Main Hall (2021-11-09)",
-    "wof:lastmodified": 1697136790,
+    "wof:lastmodified": 1703617805,
     "wof:name": "Terminal 1 Main Hall",
     "wof:parent_id": 1763588175,
     "wof:placetype": "concourse",
