@@ -15,6 +15,8 @@
     "iso:country": "US",
     "lbl:latitude": 37.617044,
     "lbl:longitude": -122.383533,
+    "millsfield:wayfinding_detail": "DEP",
+    "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
       1796889599
     ],
@@ -80,7 +82,7 @@
     ],
     "wof:id": 1763588165,
     "wof:label": "Terminal 2 Main Hall (2021-11-09)",
-    "wof:lastmodified": 1703617846,
+    "wof:lastmodified": 1703621203,
     "wof:name": "Terminal 2 Main Hall",
     "wof:parent_id": 1763588123,
     "wof:placetype": "concourse",

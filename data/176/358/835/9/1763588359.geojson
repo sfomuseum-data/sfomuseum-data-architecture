@@ -15,6 +15,8 @@
     "iso:country": "US",
     "lbl:latitude": 37.618234,
     "lbl:longitude": -122.386923,
+    "millsfield:wayfinding_detail": "DEP",
+    "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": [
       1796889587
     ],
@@ -81,7 +83,7 @@
     ],
     "wof:id": 1763588359,
     "wof:label": "Terminal 3 Main Hall (2021-11-09)",
-    "wof:lastmodified": 1703617910,
+    "wof:lastmodified": 1703621254,
     "wof:name": "Terminal 3 Main Hall",
     "wof:parent_id": 1763588269,
     "wof:placetype": "concourse",
