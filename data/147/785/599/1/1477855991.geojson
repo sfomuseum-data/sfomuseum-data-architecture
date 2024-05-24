@@ -56,11 +56,13 @@
       }
     ],
     "wof:id": 1477855991,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1716579711,
     "wof:name": "Garage G",
     "wof:parent_id": 1477855657,
     "wof:placetype": "building",
-    "wof:placetype_alt": "garage",
+    "wof:placetype_alt": [
+      "garage"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [],

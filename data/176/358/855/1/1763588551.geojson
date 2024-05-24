@@ -6,7 +6,7 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 3.78748985467761e-9,
+    "geom:area": 3.7874898546776105e-9,
     "geom:bbox": "-122.389128,37.614557,-122.388812,37.614646",
     "geom:latitude": 37.614601366959555,
     "geom:longitude": -122.38897295514269,
@@ -71,10 +71,13 @@
     ],
     "wof:id": 1763588551,
     "wof:label": "4D International South Cases (2021-11-09)",
-    "wof:lastmodified": 1681339678,
+    "wof:lastmodified": 1716581988,
     "wof:name": "4D International South Cases",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [

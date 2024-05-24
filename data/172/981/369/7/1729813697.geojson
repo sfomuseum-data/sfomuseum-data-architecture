@@ -67,11 +67,13 @@
       }
     ],
     "wof:id": 1729813697,
-    "wof:lastmodified": 1673035006,
+    "wof:lastmodified": 1716579711,
     "wof:name": "1A Student Art South",
     "wof:parent_id": 1729792437,
     "wof:placetype": "enclosure",
-    "wof:placetype_alt": "gallery",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
       1745882471

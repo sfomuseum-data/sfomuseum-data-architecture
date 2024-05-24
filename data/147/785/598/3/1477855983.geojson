@@ -56,11 +56,13 @@
       }
     ],
     "wof:id": 1477855983,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1716579711,
     "wof:name": "Long-Term Parking Garage 1",
     "wof:parent_id": 102527513,
     "wof:placetype": "building",
-    "wof:placetype_alt": "garage",
+    "wof:placetype_alt": [
+      "garage"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [],

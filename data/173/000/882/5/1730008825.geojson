@@ -6,7 +6,7 @@
     "edtf:inception": "",
     "geom:area": 0.0000012246069584824608,
     "geom:bbox": "-122.369103,37.614755,-122.366363,37.618443",
-    "geom:latitude": 37.61673260307896,
+    "geom:latitude": 37.61673260307895,
     "geom:longitude": -122.36772380126361,
     "iso:country": "US",
     "mz:is_current": 1,
@@ -35,6 +35,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1730008825,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
@@ -45,16 +46,19 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1730008825,
         "region_id": 85688637,
         "taxiway_id": 1730008825
       }
     ],
     "wof:id": 1730008825,
-    "wof:lastmodified": 1643748802,
+    "wof:lastmodified": 1716579711,
     "wof:name": "Taxiway P",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "taxiway",
+    "wof:placetype_alt": [
+      "taxiway"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

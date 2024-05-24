@@ -53,10 +53,13 @@
       }
     ],
     "wof:id": 1477863277,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1716581988,
     "wof:name": "Rental Car Center",
     "wof:parent_id": 102527513,
     "wof:placetype": "building",
+    "wof:placetype_alt": [
+      "building"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [],

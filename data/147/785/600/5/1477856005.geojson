@@ -53,11 +53,13 @@
       }
     ],
     "wof:id": 1477856005,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1716579711,
     "wof:name": "Grand Hyatt Hotel",
     "wof:parent_id": 1477855657,
     "wof:placetype": "building",
-    "wof:placetype_alt": "hotel",
+    "wof:placetype_alt": [
+      "hotel"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [],

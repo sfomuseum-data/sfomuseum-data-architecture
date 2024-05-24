@@ -68,11 +68,13 @@
     ],
     "wof:id": 1745882473,
     "wof:label": "B-12 Mid-Pier Gallery (2021-05-25)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1716579711,
     "wof:name": "1E Mid-Pier Gallery",
     "wof:parent_id": 1745882139,
     "wof:placetype": "enclosure",
-    "wof:placetype_alt": "gallery",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
       1763588505

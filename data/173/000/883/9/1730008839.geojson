@@ -4,7 +4,7 @@
   "properties": {
     "edtf:cessation": "..",
     "edtf:inception": "",
-    "geom:area": 4.1864421355436594e-7,
+    "geom:area": 4.186442135543659e-7,
     "geom:bbox": "-122.382526,37.606565,-122.381659,37.607333",
     "geom:latitude": 37.60695016715422,
     "geom:longitude": -122.38208459050416,
@@ -35,6 +35,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1730008839,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
@@ -45,16 +46,19 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1730008839,
         "region_id": 85688637,
         "taxiway_id": 1730008839
       }
     ],
     "wof:id": 1730008839,
-    "wof:lastmodified": 1643748802,
+    "wof:lastmodified": 1716579711,
     "wof:name": "Taxiway INTERSECTION A/A1/A2",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "taxiway",
+    "wof:placetype_alt": [
+      "taxiway"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

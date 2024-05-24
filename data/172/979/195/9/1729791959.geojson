@@ -56,11 +56,13 @@
       }
     ],
     "wof:id": 1729791959,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1716579711,
     "wof:name": "Terminal 2 Air Train Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "arcade",
-    "wof:placetype_alt": "airtrain",
+    "wof:placetype_alt": [
+      "airtrain"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [

@@ -57,11 +57,13 @@
       }
     ],
     "wof:id": 1477863281,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1716579711,
     "wof:name": "Terminal 1 Air Train Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "airtrain",
+    "wof:placetype_alt": [
+      "airtrain"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
       1729791955

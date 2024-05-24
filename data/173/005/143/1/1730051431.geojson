@@ -57,10 +57,13 @@
       }
     ],
     "wof:id": 1730051431,
-    "wof:lastmodified": 1650931137,
+    "wof:lastmodified": 1716581989,
     "wof:name": "Long Term Parking AirTrain Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "airtrain"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

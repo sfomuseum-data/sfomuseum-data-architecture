@@ -8,7 +8,7 @@
     "date:inception_upper": "2021-05-25",
     "edtf:cessation": "2021-11-09",
     "edtf:inception": "2021-05-25",
-    "geom:area": 6.85503692626771e-9,
+    "geom:area": 6.8550369262677095e-9,
     "geom:bbox": "-122.385108,37.613128,-122.384934,37.613564",
     "geom:latitude": 37.6133449408613,
     "geom:longitude": -122.38502042073,
@@ -67,10 +67,13 @@
       }
     ],
     "wof:id": 1745887101,
-    "wof:lastmodified": 1683066667,
+    "wof:lastmodified": 1716581989,
     "wof:name": "HM04 Harvey Milk Temporary Wall 2",
     "wof:parent_id": 1745882139,
     "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
       1763588509

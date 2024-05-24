@@ -72,11 +72,13 @@
     ],
     "wof:id": 1763588499,
     "wof:label": "HM01 Central Photo Wall (2021-11-09)",
-    "wof:lastmodified": 1676419019,
+    "wof:lastmodified": 1716579711,
     "wof:name": "HM01 Central Photo Wall",
     "wof:parent_id": 1763588261,
     "wof:placetype": "enclosure",
-    "wof:placetype_alt": "gallery",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [

@@ -16,7 +16,7 @@
     "sfomuseum:location": "T1",
     "sfomuseum:map_id": "HM03",
     "sfomuseum:map_id_alt": "B16",
-    "sfomuseum:placetype": "gallery",
+    "sfomuseum:placetype": [ "gallery" ],
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -64,7 +64,7 @@
     "wof:name": "HM03 Sterile Connector",
     "wof:parent_id": 1745882227,
     "wof:placetype": "enclosure",
-    "wof:placetype_alt": "gallery",
+    "wof:placetype_alt": [ "gallery" ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
     			 1763594987

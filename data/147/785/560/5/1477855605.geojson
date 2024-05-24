@@ -67,10 +67,13 @@
     ],
     "wof:id": 1477855605,
     "wof:label": "SFO Terminal Complex (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1716581988,
     "wof:name": "SFO Terminal Complex",
     "wof:parent_id": 102527513,
     "wof:placetype": "building",
+    "wof:placetype_alt": [
+      "building"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
       1729792387

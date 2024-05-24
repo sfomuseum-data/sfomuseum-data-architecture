@@ -65,11 +65,13 @@
       }
     ],
     "wof:id": 1763594985,
-    "wof:lastmodified": 1686952601,
+    "wof:lastmodified": 1716579711,
     "wof:name": "2E Kadish Gallery",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",
-    "wof:placetype_alt": "gallery",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

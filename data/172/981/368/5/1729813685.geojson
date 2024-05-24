@@ -69,11 +69,13 @@
       }
     ],
     "wof:id": 1729813685,
-    "wof:lastmodified": 1673035006,
+    "wof:lastmodified": 1716579711,
     "wof:name": "AML 04B AML Special Collections Room",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",
-    "wof:placetype_alt": "gallery",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
       1763595185

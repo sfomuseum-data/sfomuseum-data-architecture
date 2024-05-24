@@ -57,11 +57,13 @@
     ],
     "wof:id": 1746415351,
     "wof:label": "C10T (2021-05-25)",
-    "wof:lastmodified": 1672878184,
+    "wof:lastmodified": 1716579711,
     "wof:name": "C10T",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "gate",
+    "wof:placetype_alt": [
+      "gate"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

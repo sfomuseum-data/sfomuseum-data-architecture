@@ -57,11 +57,13 @@
     ],
     "wof:id": 1746415373,
     "wof:label": "B27V (2021-05-25)",
-    "wof:lastmodified": 1672878184,
+    "wof:lastmodified": 1716579711,
     "wof:name": "B27V",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "gate",
+    "wof:placetype_alt": [
+      "gate"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

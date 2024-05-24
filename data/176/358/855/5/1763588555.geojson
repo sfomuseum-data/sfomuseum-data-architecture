@@ -4,7 +4,7 @@
   "properties": {
     "edtf:cessation": "..",
     "edtf:inception": "",
-    "geom:area": 8.87870231784085e-8,
+    "geom:area": 8.878702317840855e-8,
     "geom:bbox": "-122.393836,37.613310,-122.393014,37.613644",
     "geom:latitude": 37.61346834221037,
     "geom:longitude": -122.39339232296015,
@@ -35,6 +35,9 @@
     "wof:geomhash": "92485fbbb66ce5cade8d3a14d0563a6e",
     "wof:hierarchy": [
       {
+        "[\"airtrain\"]_id": 1763588555,
+        "[]_id": 1763588555,
+        "airtrain_id": 1763588555,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -45,6 +48,9 @@
         "region_id": 85688637
       },
       {
+        "[\"airtrain\"]_id": 1763588555,
+        "[]_id": 1763588555,
+        "airtrain_id": 1763588555,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -54,10 +60,13 @@
       }
     ],
     "wof:id": 1763588555,
-    "wof:lastmodified": 1650931144,
+    "wof:lastmodified": 1716581988,
     "wof:name": "Grand Hyatt Hotel AirTrain Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "airtrain"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -57,11 +57,13 @@
     ],
     "wof:id": 1376884709,
     "wof:label": "Boarding Area G Observation Deck (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1716579711,
     "wof:name": "Boarding Area G Observation Deck",
     "wof:parent_id": 1159157337,
     "wof:placetype": "arcade",
-    "wof:placetype_alt": "observationdeck",
+    "wof:placetype_alt": [
+      "observationdeck"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
       1477855925

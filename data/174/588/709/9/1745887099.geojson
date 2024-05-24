@@ -67,10 +67,13 @@
       }
     ],
     "wof:id": 1745887099,
-    "wof:lastmodified": 1673035006,
+    "wof:lastmodified": 1716581989,
     "wof:name": "1C Kids’ Spot",
     "wof:parent_id": 1763588265,
     "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
       1763588507

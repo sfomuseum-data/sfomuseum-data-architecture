@@ -44,10 +44,13 @@
       }
     ],
     "wof:id": 1360715771,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1716581988,
     "wof:name": "SFO Museum Administrative Office",
     "wof:parent_id": 1159157271,
     "wof:placetype": "building",
+    "wof:placetype_alt": [
+      "building"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [],

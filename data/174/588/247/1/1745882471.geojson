@@ -68,11 +68,13 @@
     ],
     "wof:id": 1745882471,
     "wof:label": "B-14 Student Art South (2021-05-25)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1716579711,
     "wof:name": "1A Student Art South",
     "wof:parent_id": 1745882139,
     "wof:placetype": "enclosure",
-    "wof:placetype_alt": "gallery",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
       1763588503

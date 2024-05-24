@@ -56,11 +56,13 @@
       }
     ],
     "wof:id": 1729791947,
-    "wof:lastmodified": 1622842979,
+    "wof:lastmodified": 1716579711,
     "wof:name": "Garage G AirTrain Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "arcade",
-    "wof:placetype_alt": "airtrain",
+    "wof:placetype_alt": [
+      "airtrain"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [

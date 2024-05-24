@@ -57,11 +57,13 @@
     ],
     "wof:id": 1746415375,
     "wof:label": "F15L (2021-05-25)",
-    "wof:lastmodified": 1672878184,
+    "wof:lastmodified": 1716579711,
     "wof:name": "F15L",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "gate",
+    "wof:placetype_alt": [
+      "gate"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

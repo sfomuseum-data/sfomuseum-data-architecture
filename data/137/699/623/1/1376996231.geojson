@@ -50,11 +50,13 @@
       }
     ],
     "wof:id": 1376996231,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1716579711,
     "wof:name": "B28",
     "wof:parent_id": 1159396217,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "gate",
+    "wof:placetype_alt": [
+      "gate"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [],

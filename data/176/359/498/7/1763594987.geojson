@@ -2,27 +2,25 @@
   "id": 1863467025,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2021-11-09",
-    "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "..",
-    "edtf:inception": "2021-11-09",
-    "geom:area": 1.1063017792309426e-8,
+    "date:cessation_lower": "2021-11-09",
+    "date:cessation_upper": "2021-11-09",
+    "date:inception_lower": "2021-10-16",
+    "date:inception_upper": "2021-10-16",
+    "edtf:cessation": "2021-11-09",
+    "edtf:inception": "2021-10-16",
+    "geom:area": 1.1063017792309427e-8,
     "geom:bbox": "-122.385315,37.614052,-122.384898,37.614160",
     "geom:latitude": 37.614105592105886,
     "geom:longitude": -122.38511066563744,
-    "iso:country": "US",
-    "millsfield:wayfinding_detail": "B",
-    "millsfield:wayfinding_kind": "HMT1",
-    "millsfield:waypoint_id": [
-      1796889475
-    ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 84,
     "sfomuseum:location": "T1",
     "sfomuseum:map_id": "HM03",
     "sfomuseum:map_id_alt": "B16",
-    "sfomuseum:placetype": "gallery",
+    "sfomuseum:placetype": [
+      "gallery"
+    ],
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -68,16 +66,18 @@
       }
     ],
     "wof:id": 1763594987,
-    "wof:lastmodified": 1683065856,
+    "wof:lastmodified": 1716582509,
     "wof:name": "HM03 Sterile Connector",
     "wof:parent_id": 1745882227,
     "wof:placetype": "enclosure",
-    "wof:placetype_alt": "gallery",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
-    "wof:supersedes": [
-      1863467025
-    ]
+    "wof:superseded_by": [
+      1763594987
+    ],
+    "wof:supersedes": []
   },
   "bbox": [
     -122.385315106,

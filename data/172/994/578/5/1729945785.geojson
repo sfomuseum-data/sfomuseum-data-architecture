@@ -58,11 +58,13 @@
       }
     ],
     "wof:id": 1729945785,
-    "wof:lastmodified": 1622842839,
+    "wof:lastmodified": 1716579711,
     "wof:name": "SFO Bart Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "arcade",
-    "wof:placetype_alt": "bart",
+    "wof:placetype_alt": [
+      "bart"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [

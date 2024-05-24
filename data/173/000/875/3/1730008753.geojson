@@ -6,7 +6,7 @@
     "edtf:inception": "",
     "geom:area": 0.000013780576891483308,
     "geom:bbox": "-122.383251,37.607767,-122.370315,37.626613",
-    "geom:latitude": 37.61704778512143,
+    "geom:latitude": 37.617047785121436,
     "geom:longitude": -122.37687807973681,
     "iso:country": "US",
     "mz:is_current": 1,
@@ -35,6 +35,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1730008753,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
@@ -45,16 +46,19 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1730008753,
         "region_id": 85688637,
         "runway_id": 1730008753
       }
     ],
     "wof:id": 1730008753,
-    "wof:lastmodified": 1658176223,
+    "wof:lastmodified": 1716579711,
     "wof:name": "RUNWAY 01R/19L",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "runway",
+    "wof:placetype_alt": [
+      "runway"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

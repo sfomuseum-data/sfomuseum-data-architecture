@@ -70,11 +70,13 @@
     ],
     "wof:id": 1763588553,
     "wof:label": "4A International North Cases (2021-11-09)",
-    "wof:lastmodified": 1681344850,
+    "wof:lastmodified": 1716579711,
     "wof:name": "4A International North Cases",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",
-    "wof:placetype_alt": "gallery",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [

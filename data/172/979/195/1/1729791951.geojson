@@ -59,11 +59,13 @@
       }
     ],
     "wof:id": 1729791951,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1716579711,
     "wof:name": "West Field Road AirTrain Station (Outbound)",
     "wof:parent_id": 102527513,
     "wof:placetype": "arcade",
-    "wof:placetype_alt": "airtrain",
+    "wof:placetype_alt": [
+      "airtrain"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [

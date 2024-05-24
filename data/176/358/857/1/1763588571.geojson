@@ -4,7 +4,7 @@
   "properties": {
     "edtf:cessation": "..",
     "edtf:inception": "",
-    "geom:area": 5.7157695599446805e-8,
+    "geom:area": 5.71576955994468e-8,
     "geom:bbox": "-122.399686,37.621161,-122.399394,37.622006",
     "geom:latitude": 37.62158967132814,
     "geom:longitude": -122.39954586432356,
@@ -35,6 +35,9 @@
     "wof:geomhash": "4b807ac300e18176f8f18063b22d02fc",
     "wof:hierarchy": [
       {
+        "[\"airtrain\"]_id": 1763588571,
+        "[]_id": 1763588571,
+        "airtrain_id": 1763588571,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -45,6 +48,9 @@
         "region_id": 85688637
       },
       {
+        "[\"airtrain\"]_id": 1763588571,
+        "[]_id": 1763588571,
+        "airtrain_id": 1763588571,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -54,10 +60,13 @@
       }
     ],
     "wof:id": 1763588571,
-    "wof:lastmodified": 1650931150,
+    "wof:lastmodified": 1716581988,
     "wof:name": "Westfield Road AirTrain Station (Inbound)",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "airtrain"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

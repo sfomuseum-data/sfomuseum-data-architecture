@@ -2,13 +2,11 @@
   "id": 1779443961,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2021-11-09",
-    "date:cessation_upper": "2021-11-09",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 2.9240407045358035e-8,
+    "geom:area": 2.9240407045358032e-8,
     "geom:area_square_m": 525.252963,
     "geom:bbox": "-122.393471,37.618493,-122.393198,37.618823",
     "geom:latitude": 37.61866380024631,
@@ -68,11 +66,13 @@
     ],
     "wof:id": 1779443981,
     "wof:label": "SkyTerrace Observation Deck (2021-11-09)",
-    "wof:lastmodified": 1652389987,
+    "wof:lastmodified": 1716579711,
     "wof:name": "SkyTerrace Observation Deck",
     "wof:parent_id": 1763588123,
     "wof:placetype": "arcade",
-    "wof:placetype_alt": "observationdeck",
+    "wof:placetype_alt": [
+      "observationdeck"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [

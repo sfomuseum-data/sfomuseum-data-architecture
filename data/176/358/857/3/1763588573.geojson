@@ -36,6 +36,9 @@
     "wof:geomhash": "4c6a409b46148a65034ced88993ef1a3",
     "wof:hierarchy": [
       {
+        "[\"airtrain\"]_id": 1763588573,
+        "[]_id": 1763588573,
+        "airtrain_id": 1763588573,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -46,6 +49,9 @@
         "region_id": 85688637
       },
       {
+        "[\"airtrain\"]_id": 1763588573,
+        "[]_id": 1763588573,
+        "airtrain_id": 1763588573,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -55,10 +61,13 @@
       }
     ],
     "wof:id": 1763588573,
-    "wof:lastmodified": 1650931151,
+    "wof:lastmodified": 1716581988,
     "wof:name": "Terminal Three AirTrain Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "airtrain"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []

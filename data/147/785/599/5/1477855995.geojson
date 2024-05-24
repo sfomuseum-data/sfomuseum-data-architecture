@@ -56,11 +56,13 @@
       }
     ],
     "wof:id": 1477855995,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1716579711,
     "wof:name": "Air Traffic Control Tower",
     "wof:parent_id": 1477855605,
     "wof:placetype": "wing",
-    "wof:placetype_alt": "atc",
+    "wof:placetype_alt": [
+      "atc"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [],

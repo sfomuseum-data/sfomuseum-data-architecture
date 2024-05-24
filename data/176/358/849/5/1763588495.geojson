@@ -6,7 +6,7 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 1.281390225888683e-9,
+    "geom:area": 1.2813902258886829e-9,
     "geom:bbox": "-122.383536,37.617335,-122.383488,37.617437",
     "geom:latitude": 37.6173867757363,
     "geom:longitude": -122.3835114813095,
@@ -69,11 +69,13 @@
     ],
     "wof:id": 1763588495,
     "wof:label": "2D Sky Terrace Wall (2021-11-09)",
-    "wof:lastmodified": 1673479405,
+    "wof:lastmodified": 1716579711,
     "wof:name": "2D Sky Terrace Wall",
     "wof:parent_id": 1763588165,
     "wof:placetype": "enclosure",
-    "wof:placetype_alt": "gallery",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [

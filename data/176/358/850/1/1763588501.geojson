@@ -6,7 +6,7 @@
     "date:inception_upper": "2021-11-09",
     "edtf:cessation": "..",
     "edtf:inception": "2021-11-09",
-    "geom:area": 1.5134999999049443e-8,
+    "geom:area": 1.5134999999049447e-8,
     "geom:bbox": "-122.385213,37.613782,-122.385096,37.614007",
     "geom:latitude": 37.613892603964324,
     "geom:longitude": -122.38515721248761,
@@ -71,11 +71,13 @@
     ],
     "wof:id": 1763588501,
     "wof:label": "1D Alley Gallery (2021-11-09)",
-    "wof:lastmodified": 1681324616,
+    "wof:lastmodified": 1716579711,
     "wof:name": "1D Alley Gallery",
     "wof:parent_id": 1763588177,
     "wof:placetype": "enclosure",
-    "wof:placetype_alt": "gallery",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [

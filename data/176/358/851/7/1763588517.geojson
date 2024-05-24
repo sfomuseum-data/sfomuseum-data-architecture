@@ -70,10 +70,13 @@
     ],
     "wof:id": 1763588517,
     "wof:label": "1F Kids’ Spot/Tree Town (2021-11-09)",
-    "wof:lastmodified": 1673478247,
+    "wof:lastmodified": 1716581988,
     "wof:name": "1F Kids’ Spot/Tree Town",
     "wof:parent_id": 1763588265,
     "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [
