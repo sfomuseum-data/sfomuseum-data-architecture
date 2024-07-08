@@ -2,9 +2,11 @@
   "id": 1763588489,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-11-09",
     "geom:area": 3.354999998726346e-10,
     "geom:area_square_m": 244.245562,
@@ -18,7 +20,7 @@
       1796889493
     ],
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "D-14 Wall Case"
     ],
@@ -84,7 +86,7 @@
     ],
     "wof:id": 1763588489,
     "wof:label": "2B Kids’ Spot (2021-11-09)",
-    "wof:lastmodified": 1680126438,
+    "wof:lastmodified": 1720477444,
     "wof:name": "2B Kids’ Spot",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",
@@ -92,7 +94,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914558267
+    ],
     "wof:supersedes": [
       1745882455
     ],

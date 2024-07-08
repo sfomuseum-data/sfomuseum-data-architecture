@@ -2,7 +2,9 @@
   "id": 1763594985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 3.0898077930167806e-8,
     "geom:bbox": "-122.383640,37.617478,-122.383340,37.617711",
@@ -13,7 +15,7 @@
     "millsfield:waypoint_id": [
       1796889579
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 83,
     "sfomuseum:location": "T2",
@@ -65,7 +67,7 @@
       }
     ],
     "wof:id": 1763594985,
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1720477447,
     "wof:name": "2E Kadish Gallery",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",
@@ -73,7 +75,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914558275
+    ],
     "wof:supersedes": []
   },
   "bbox": [

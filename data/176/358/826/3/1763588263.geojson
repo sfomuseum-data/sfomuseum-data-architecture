@@ -2,16 +2,18 @@
   "id": 1763588263,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-11-09",
     "geom:area": 0.0000010176957256456092,
     "geom:bbox": "-122.387526,37.614216,-122.384639,37.614907",
     "geom:latitude": 37.61453722809307,
     "geom:longitude": -122.38619763558945,
     "iso:country": "US",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "200CAA",
     "sfo:level": 1,
     "sfomuseum:is_sfo": 1,
@@ -64,7 +66,7 @@
     ],
     "wof:id": 1763588263,
     "wof:label": "Terminal One Arrivals (2021-11-09)",
-    "wof:lastmodified": 1697137260,
+    "wof:lastmodified": 1720477399,
     "wof:name": "Terminal One Arrivals",
     "wof:parent_id": 1763588175,
     "wof:placetype": "concourse",
@@ -72,7 +74,9 @@
       "commonarea"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914558141
+    ],
     "wof:supersedes": [
       1745882225
     ]
