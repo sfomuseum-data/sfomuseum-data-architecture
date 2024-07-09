@@ -16,6 +16,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
+    "sfo:id": "780",
     "sfo:level": -1,
     "sfomuseum:placetype": "airtrain",
     "sfomuseum:post_security": 0,
@@ -55,7 +56,7 @@
       }
     ],
     "wof:id": 1477855975,
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1720563849,
     "wof:name": "Rental Car Center AirTrain Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
