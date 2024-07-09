@@ -1,0 +1,109 @@
+{
+  "id": 1914564783,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 3.8407502729402645e-9,
+    "geom:area_square_m": 723.824295,
+    "geom:bbox": "-122.388938,37.615426,-122.388863,37.615595",
+    "geom:latitude": 37.61550857237398,
+    "geom:longitude": -122.38890259474638,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "DEP",
+    "millsfield:wayfinding_kind": "ITB",
+    "millsfield:waypoint_id": [
+      1796935611
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "name:eng_x_preferred": [
+      "4C International South Wall"
+    ],
+    "name:eng_x_variant": [
+      "A-01",
+      "A01",
+      "4C"
+    ],
+    "sfo:level": 3,
+    "sfomuseum:gallery_id": 18,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "IT",
+    "sfomuseum:map_id": "4C",
+    "sfomuseum:map_id_alt": "A01",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1914563989,
+      1914564145,
+      1914563993
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1720542622,
+    "wof:geomhash": "2fe5645d80e2d4cf52b974e87cb4644c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564145,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1914564783,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1914563993
+      },
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564145,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1914564783,
+        "region_id": 85688637,
+        "wing_id": 1914563993
+      }
+    ],
+    "wof:id": 1914564783,
+    "wof:label": "4C International South Wall (2024-06-17)",
+    "wof:lastmodified": 1720542622,
+    "wof:name": "4C International South Wall",
+    "wof:parent_id": 1914564145,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1763588543
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38893821616075,
+    37.61542632123926,
+    -122.3888630593112,
+    37.61559515844468
+  ],
+  "geometry": {"coordinates":[[[-122.38893730516864,37.61556403288073],[-122.38888401212986,37.61542632123926],[-122.38887490220871,37.61542814322349],[-122.38887824251313,37.615435431160414],[-122.3888630593112,37.61543877146484],[-122.3889236402869,37.61559515844468],[-122.38893821616075,37.615591666308234],[-122.3889283470795,37.615566158529],[-122.38893730516864,37.61556403288073]]],"type":"Polygon"}
+}

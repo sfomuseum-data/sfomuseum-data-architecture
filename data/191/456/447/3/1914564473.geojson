@@ -1,0 +1,93 @@
+{
+  "id": 1914564473,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:gate_code": "B2",
+    "geom:area": 0,
+    "geom:bbox": "-122.386449,37.614055,-122.386449,37.614055",
+    "geom:latitude": 37.61405534251124,
+    "geom:longitude": -122.38644894943857,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "HMT1",
+    "millsfield:waypoint_id": [
+      1796935481
+    ],
+    "mz:is_current": 1,
+    "sfo:id": "B2",
+    "sfo:level": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "B2",
+    "sfomuseum:parent_id": "200CAP",
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914563989,
+      1914564469,
+      1914564345
+    ],
+    "wof:country": "US",
+    "wof:created": 1720542563,
+    "wof:geomhash": "2acf9f55aa65923955fec7f0791cf691",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914564473,
+        "wing_id": 1914564345
+      },
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914564473,
+        "wing_id": 1914564345
+      }
+    ],
+    "wof:id": 1914564473,
+    "wof:label": "B2 (2024-06-17)",
+    "wof:lastmodified": 1720542563,
+    "wof:name": "B2",
+    "wof:parent_id": 1914564469,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1763588267
+    ]
+  },
+  "bbox": [
+    -122.38644894943857,
+    37.61405534251124,
+    -122.38644894943857,
+    37.61405534251124
+  ],
+  "geometry": {"coordinates":[-122.38644894943857,37.61405534251124],"type":"Point"}
+}
