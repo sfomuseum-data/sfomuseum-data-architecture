@@ -23,7 +23,8 @@
       "AML",
       "Aviation Museum and Library"
     ],
-    "sfo:level": -1,
+    "sfo:id": "",
+    "sfo:level": 3,
     "sfomuseum:gallery_id": -1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:map_id": "AML",
@@ -54,6 +55,7 @@
     "wof:geomhash": "55627d83300b0fc0f1751a9cfed6ab60",
     "wof:hierarchy": [
       {
+        "arcade_id": 1159157863,
         "building_id": 1159157271,
         "campus_id": 102527513,
         "concourse_id": 1159157335,
@@ -70,10 +72,10 @@
     ],
     "wof:id": 1159157863,
     "wof:label": "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum (2017~)",
-    "wof:lastmodified": 1716582459,
+    "wof:lastmodified": 1720732174,
     "wof:name": "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum",
     "wof:parent_id": 1159157335,
-    "wof:placetype": "venue",
+    "wof:placetype": "arcade",
     "wof:placetype_alt": [
       "museum"
     ],
