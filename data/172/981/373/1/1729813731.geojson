@@ -2,9 +2,11 @@
   "id": 1477855939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-11-09",
+    "date:cessation_upper": "2021-11-09",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-11-09",
     "edtf:inception": "2020-~05",
     "geom:area": 1.1280716488588273e-9,
     "geom:area_square_m": 0,
@@ -74,7 +76,7 @@
     ],
     "wof:id": 1729813731,
     "wof:label": "AML Aviation Museum Ceiling 07 (2020-~05)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1720723233,
     "wof:name": "AML Aviation Museum Ceiling 07",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",
@@ -83,7 +85,7 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
-      1729813729
+      1914589527
     ],
     "wof:supersedes": [
       1477855939
