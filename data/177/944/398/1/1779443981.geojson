@@ -33,7 +33,8 @@
       85688637,
       102085387,
       1763588121,
-      1763588123
+      1763588123,
+      1763588165
     ],
     "wof:breaches": [],
     "wof:controlled": [],
@@ -45,6 +46,7 @@
         "arcade_id": 1779443981,
         "building_id": 1763588121,
         "campus_id": 102527513,
+        "concourse_id": 1763588165,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -57,6 +59,7 @@
         "arcade_id": 1779443981,
         "building_id": 1763588121,
         "campus_id": 102527513,
+        "concourse_id": 1763588165,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
@@ -66,9 +69,9 @@
     ],
     "wof:id": 1779443981,
     "wof:label": "SkyTerrace Observation Deck (2021-11-09)",
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1720719450,
     "wof:name": "SkyTerrace Observation Deck",
-    "wof:parent_id": 1763588123,
+    "wof:parent_id": 1763588165,
     "wof:placetype": "arcade",
     "wof:placetype_alt": [
       "observationdeck"
