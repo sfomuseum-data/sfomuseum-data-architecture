@@ -36,13 +36,15 @@
       102085387,
       1763588121,
       1763588165,
-      1763588123
+      1763588123,
+      1779443981
     ],
     "wof:country": "US",
     "wof:created": 1650930923,
     "wof:geomhash": "1bcf5a4f5d84d0a185f9f7375a2344d0",
     "wof:hierarchy": [
       {
+        "arcade_id": 1779443981,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588165,
@@ -56,6 +58,7 @@
         "wing_id": 1763588123
       },
       {
+        "arcade_id": 1779443981,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588165,
@@ -69,9 +72,9 @@
     ],
     "wof:id": 1763588495,
     "wof:label": "2D Sky Terrace Wall (2021-11-09)",
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1720719619,
     "wof:name": "2D Sky Terrace Wall",
-    "wof:parent_id": 1763588165,
+    "wof:parent_id": 1779443981,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": [
       "gallery"
