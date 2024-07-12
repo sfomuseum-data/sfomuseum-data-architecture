@@ -2,11 +2,11 @@
   "id": 1763588515,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2022-09-07",
-    "date:cessation_upper": "2022-09-07",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "2022-09-07",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-11-09",
     "geom:area": 1.8253223460715662e-8,
     "geom:area_square_m": 561.784265,
@@ -83,7 +83,7 @@
     ],
     "wof:id": 1763588515,
     "wof:label": "1K Entrance Lobby C Meet and Greet (2021-11-09)",
-    "wof:lastmodified": 1672971703,
+    "wof:lastmodified": 1720821943,
     "wof:name": "1K Entrance Lobby C Meet and Greet",
     "wof:parent_id": 1763588261,
     "wof:placetype": "enclosure",
@@ -91,7 +91,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914601337
+    ],
     "wof:supersedes": [
       1745882477
     ],

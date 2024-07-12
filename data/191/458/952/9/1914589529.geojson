@@ -2,9 +2,11 @@
   "id": 1477855943,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-11-09",
     "geom:area": 2.2335057084105516e-9,
     "geom:area_square_m": 0,
@@ -19,7 +21,7 @@
     ],
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 42,
     "sfomuseum:is_sfo": 1,
@@ -80,7 +82,7 @@
     ],
     "wof:id": 1914589529,
     "wof:label": "AML 06 AML Photography (2021-11-09)",
-    "wof:lastmodified": 1720723470,
+    "wof:lastmodified": 1720821885,
     "wof:name": "AML 06 AML Photography",
     "wof:parent_id": 1863481173,
     "wof:placetype": "enclosure",
@@ -88,7 +90,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914601189
+    ],
     "wof:supersedes": [
       1729813735
     ],

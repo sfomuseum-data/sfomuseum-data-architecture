@@ -2,11 +2,11 @@
   "id": 1745887099,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2021-11-09",
-    "date:cessation_upper": "2021-11-09",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "2021-11-09",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-05-25",
     "geom:area": 1.7694380968277374e-8,
     "geom:bbox": "-122.386241,37.613972,-122.385898,37.614056",
@@ -67,7 +67,7 @@
       }
     ],
     "wof:id": 1745887099,
-    "wof:lastmodified": 1716581989,
+    "wof:lastmodified": 1720821935,
     "wof:name": "1C Kids’ Spot",
     "wof:parent_id": 1763588265,
     "wof:placetype": "enclosure",
@@ -76,7 +76,8 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
-      1763588507
+      1763588507,
+      1914601315
     ],
     "wof:supersedes": []
   },

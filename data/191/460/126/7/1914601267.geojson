@@ -1,0 +1,93 @@
+{
+  "id": 1914601267,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 6.774999996847364e-9,
+    "geom:bbox": "-122.384802,37.613098,-122.384628,37.613535",
+    "geom:latitude": 37.61331589805658,
+    "geom:longitude": -122.38471468752768,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "HMT1",
+    "millsfield:waypoint_id": [
+      1796889475
+    ],
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:gallery_id": 93,
+    "sfomuseum:level": "2",
+    "sfomuseum:location": "T1",
+    "sfomuseum:map_id": "HM04",
+    "sfomuseum:map_id_alt": "B19",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914600839,
+      1914601199,
+      1914601197
+    ],
+    "wof:country": "US",
+    "wof:created": 1720821918,
+    "wof:geomhash": "0c35de9ca5fedb7dec79222517a50e7e",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1914601267,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1914601197
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1914601267,
+        "region_id": 85688637,
+        "wing_id": 1914601197
+      }
+    ],
+    "wof:id": 1914601267,
+    "wof:label": "HM04 Harvey Milk Temporary Wall 2 (2024-06-17)",
+    "wof:lastmodified": 1720821918,
+    "wof:name": "HM04 Harvey Milk Temporary Wall 2",
+    "wof:parent_id": 1914601199,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1763588509
+    ]
+  },
+  "bbox": [
+    -122.384802,
+    37.613098,
+    -122.384628,
+    37.613535
+  ],
+  "geometry": {"coordinates":[[[-122.384802,37.613531],[-122.384642,37.613098],[-122.384628,37.613103],[-122.384788,37.613535],[-122.384802,37.613531]]],"type":"Polygon"}
+}

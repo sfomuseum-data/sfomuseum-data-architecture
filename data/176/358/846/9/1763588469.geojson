@@ -3,9 +3,11 @@
   "type": "Feature",
   "properties": {
     "addr:full": "100 Upper Domestic Loop, San Francisco, Ca. 94128",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-11-09",
     "geom:area": 0.000003969658837779698,
     "geom:area_square_m": 44550.429896,
@@ -21,7 +23,7 @@
       1796935609
     ],
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:building_id": "100",
     "sfo:id": "100CAD",
     "sfo:level": 3,
@@ -82,7 +84,7 @@
     ],
     "wof:id": 1763588469,
     "wof:label": "International Terminal Main Hall (2021-11-09)",
-    "wof:lastmodified": 1703621653,
+    "wof:lastmodified": 1720821869,
     "wof:name": "International Terminal Main Hall",
     "wof:parent_id": 1763588369,
     "wof:placetype": "concourse",
@@ -90,7 +92,9 @@
       "commonarea"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914601135
+    ],
     "wof:supersedes": [
       1745882437
     ],

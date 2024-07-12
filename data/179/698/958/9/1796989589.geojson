@@ -2,7 +2,9 @@
   "id": 1796989589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "geom:area": 2.3287057865760397e-9,
     "geom:bbox": "-122.388300,37.614477,-122.388235,37.614532",
@@ -13,7 +15,7 @@
     "millsfield:waypoint_id": [
       1796935607
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 82,
     "sfomuseum:location": "AML",
@@ -59,7 +61,7 @@
       }
     ],
     "wof:id": 1796989589,
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1720821881,
     "wof:name": "AML 09 AML New Corner Gallery",
     "wof:parent_id": 1863481173,
     "wof:placetype": "enclosure",
@@ -67,7 +69,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914601177
+    ],
     "wof:supersedes": []
   },
   "bbox": [

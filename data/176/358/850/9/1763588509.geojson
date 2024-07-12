@@ -2,9 +2,11 @@
   "id": 1763588509,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-11-09",
     "geom:area": 6.774999996847364e-9,
     "geom:bbox": "-122.384802,37.613098,-122.384628,37.613535",
@@ -16,7 +18,7 @@
     "millsfield:waypoint_id": [
       1796889475
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 93,
     "sfomuseum:level": "2",
@@ -70,7 +72,7 @@
     ],
     "wof:id": 1763588509,
     "wof:label": "HM04 Harvey Milk Temporary Wall 2 (2021-11-09)",
-    "wof:lastmodified": 1716581988,
+    "wof:lastmodified": 1720821918,
     "wof:name": "HM04 Harvey Milk Temporary Wall 2",
     "wof:parent_id": 1763588177,
     "wof:placetype": "enclosure",
@@ -78,7 +80,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914601267
+    ],
     "wof:supersedes": [
       1745887101,
       1763588497

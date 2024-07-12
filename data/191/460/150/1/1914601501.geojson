@@ -1,0 +1,85 @@
+{
+  "id": 1914601501,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 7.025160114957161e-10,
+    "geom:bbox": "-122.384898,37.617748,-122.384775,37.617804",
+    "geom:latitude": 37.61777614067629,
+    "geom:longitude": -122.38483628191317,
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:gallery_id": 90,
+    "sfomuseum:location": "T2",
+    "sfomuseum:map_id": "2F",
+    "sfomuseum:map_id_alt": "D18",
+    "sfomuseum:placetype": "gallery",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914600839,
+      1914601497,
+      1914601345
+    ],
+    "wof:country": "US",
+    "wof:created": 1720822006,
+    "wof:geomhash": "c97c6aa4801d36e90c9f8d109a9da6c7",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601497,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1914601501,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1914601345
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601497,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1914601501,
+        "region_id": 85688637,
+        "wing_id": 1914601345
+      }
+    ],
+    "wof:id": 1914601501,
+    "wof:label": "2F Pre-Security Connector/Zuber (2024-06-17)",
+    "wof:lastmodified": 1720822006,
+    "wof:name": "2F Pre-Security Connector/Zuber",
+    "wof:parent_id": 1914601497,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1763594989
+    ]
+  },
+  "bbox": [
+    -122.38489766779118,
+    37.61774836413267,
+    -122.38477466909654,
+    37.61780377325337
+  ],
+  "geometry": {"coordinates":[[[-122.3848950406346,37.61780377325337],[-122.38489766779118,37.61779899660503],[-122.3847770574207,37.61774836413267],[-122.38477466909654,37.61775314078101],[-122.3848950406346,37.61780377325337]]],"type":"Polygon"}
+}
