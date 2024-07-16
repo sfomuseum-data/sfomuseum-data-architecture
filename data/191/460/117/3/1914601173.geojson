@@ -8,9 +8,9 @@
     "edtf:inception": "2024-06-17",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
-    "geom:latitude": 37.614512,
-    "geom:longitude": -122.387939,
+    "geom:bbox": "-122.388262,37.614512,-122.388262,37.614512",
+    "geom:latitude": 37.61451235655599,
+    "geom:longitude": -122.38826206280702,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "",
@@ -43,7 +43,7 @@
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1720821880,
-    "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
+    "wof:geomhash": "f0dff6471ad82913d32108c82cb4383f",
     "wof:hierarchy": [
       {
         "arcade_id": 1914601171,
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1914601173,
     "wof:label": "AML 03 AML North Interior (2024-06-17)",
-    "wof:lastmodified": 1720821880,
+    "wof:lastmodified": 1721093948,
     "wof:name": "AML 03 AML North Interior",
     "wof:parent_id": 1914601171,
     "wof:placetype": "enclosure",
@@ -89,10 +89,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387939,
-    37.614512,
-    -122.387939,
-    37.614512
+    -122.38826206280702,
+    37.61451235655599,
+    -122.38826206280702,
+    37.61451235655599
   ],
-  "geometry": {"coordinates":[-122.387939,37.614512],"type":"Point"}
+  "geometry": {"coordinates":[-122.38826206280702,37.61451235655599],"type":"Point"}
 }
