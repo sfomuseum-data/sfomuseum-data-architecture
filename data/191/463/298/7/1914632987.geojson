@@ -1,16 +1,16 @@
 {
-  "id": 1914601189,
+  "id": 1914632987,
   "type": "Feature",
   "properties": {
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
     "edtf:cessation": "..",
     "edtf:inception": "2024-06-17",
-    "geom:area": 1.214999999371546e-10,
+    "geom:area": 1.9199999979077388e-10,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.388006,37.614517,-122.387904,37.614561",
-    "geom:latitude": 37.61453763237311,
-    "geom:longitude": -122.38796480932781,
+    "geom:bbox": "-122.388082,37.614445,-122.387904,37.614604",
+    "geom:latitude": 37.61452941406239,
+    "geom:longitude": -122.38800218749995,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
@@ -20,7 +20,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
-    "sfo:level": 3,
+    "sfo:level": 4,
     "sfomuseum:gallery_id": 42,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "D",
@@ -45,10 +45,10 @@
       1914600999
     ],
     "wof:breaches": [],
-    "wof:coterminous": 1914632987,
+    "wof:coterminous": 1914601189,
     "wof:country": "US",
     "wof:created": 1720821885,
-    "wof:geomhash": "b79fc94b52f3e289fedf14d781ad57a1",
+    "wof:geomhash": "b85165810b6818092597d490c779bb7c",
     "wof:hierarchy": [
       {
         "arcade_id": 1914601171,
@@ -58,7 +58,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1914601189,
+        "enclosure_id": 1914632987,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
@@ -72,14 +72,14 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
-        "enclosure_id": 1914601189,
+        "enclosure_id": 1914632987,
         "region_id": 85688637,
         "wing_id": 1914600999
       }
     ],
-    "wof:id": 1914601189,
+    "wof:id": 1914632987,
     "wof:label": "AML 06 AML Photography (2024-06-17)",
-    "wof:lastmodified": 1721092147,
+    "wof:lastmodified": 1721092146,
     "wof:name": "AML 06 AML Photography",
     "wof:parent_id": 1914601171,
     "wof:placetype": "enclosure",
@@ -88,16 +88,14 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
-    "wof:supersedes": [
-      1914589529
-    ],
+    "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.388006,
-    37.614517,
+    -122.388082,
+    37.614445,
     -122.387904,
-    37.614561
+    37.614604
   ],
-  "geometry": {"coordinates":[[[[-122.388006,37.614539],[-122.387968,37.614548],[-122.387967,37.614547],[-122.388005,37.614538],[-122.388006,37.614539]]],[[[-122.387948,37.614553],[-122.387913,37.614561],[-122.387913,37.614561],[-122.387948,37.614552],[-122.387948,37.614553]]],[[[-122.387997,37.614517],[-122.387961,37.614526],[-122.387961,37.614527],[-122.387997,37.614518],[-122.387997,37.614517]]],[[[-122.387938,37.614532],[-122.387904,37.61454],[-122.387905,37.614541],[-122.387938,37.614532],[-122.387938,37.614532]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[-122.387993,37.614604],[-122.388082,37.614582],[-122.388082,37.614581],[-122.387993,37.614603],[-122.387993,37.614604]]],[[[-122.388029,37.614445],[-122.387951,37.614464],[-122.387951,37.614465],[-122.388029,37.614446],[-122.388029,37.614445]]],[[[-122.387924,37.614534],[-122.387904,37.614539],[-122.387905,37.61454],[-122.387925,37.614535],[-122.387924,37.614534]]]],"type":"MultiPolygon"}
 }
