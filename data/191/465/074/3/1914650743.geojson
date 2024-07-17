@@ -2,16 +2,34 @@
   "id": 1914650743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
     "geom:area": 5.302343666794891e-9,
     "geom:bbox": "-122.384698,37.614044,-122.384558,37.614169",
     "geom:latitude": 37.614113087815774,
     "geom:longitude": -122.38461961187014,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "T1",
+    "millsfield:waypoint_id": [],
     "mz:is_current": 1,
+    "name:eng_x_preferred": [
+      "1G Photo Gallery"
+    ],
+    "name:eng_x_variant": [
+      "1G"
+    ],
     "sfo:level": 2,
+    "sfomuseum:gallery_id": 76,
+    "sfomuseum:level": "B",
+    "sfomuseum:location": "T1",
+    "sfomuseum:map_id": "1G",
+    "sfomuseum:map_id_alt": "B10",
     "sfomuseum:placetype": "gallery",
-    "src:geom": "unknown",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -55,8 +73,8 @@
       }
     ],
     "wof:id": 1914650743,
-    "wof:lastmodified": 1721234928,
-    "wof:name": "other inglenook",
+    "wof:lastmodified": 1721238231,
+    "wof:name": "1G Photo Gallery",
     "wof:parent_id": 1914601309,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": [
