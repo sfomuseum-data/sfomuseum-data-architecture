@@ -2,16 +2,33 @@
   "id": 1914650737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
     "geom:area": 1.3738765637074072e-10,
     "geom:bbox": "-122.384577,37.614799,-122.384445,37.614907",
     "geom:latitude": 37.61484360346892,
     "geom:longitude": -122.38452224765126,
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "T1",
+    "millsfield:waypoint_id": [],
     "mz:is_current": 1,
+    "name:eng_x_preferred": [
+      "1H Student Art North"
+    ],
+    "name:eng_x_variant": [
+      "1H"
+    ],
     "sfo:level": 2,
+    "sfomuseum:gallery_id": 78,
+    "sfomuseum:level": "2",
+    "sfomuseum:location": "T1",
+    "sfomuseum:map_id": "1H",
+    "sfomuseum:map_id_alt": "B13",
     "sfomuseum:placetype": "gallery",
-    "src:geom": "unknown",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -55,8 +72,9 @@
       }
     ],
     "wof:id": 1914650737,
-    "wof:lastmodified": 1721234922,
-    "wof:name": "bathtoom",
+    "wof:label": "1H Student Art North (2024-06-17)",
+    "wof:lastmodified": 1721238403,
+    "wof:name": "1H Student Art North",
     "wof:parent_id": 1914601333,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": [
