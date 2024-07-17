@@ -73,13 +73,14 @@
       }
     ],
     "wof:id": 1914650743,
-    "wof:lastmodified": 1721238231,
+    "wof:lastmodified": 1721244382,
     "wof:name": "1G Photo Gallery",
     "wof:parent_id": 1914601309,
     "wof:placetype": "enclosure",
     "wof:placetype_alt": [
       "gallery"
     ],
+    "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },

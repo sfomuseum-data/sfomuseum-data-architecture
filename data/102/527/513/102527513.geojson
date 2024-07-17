@@ -252,14 +252,14 @@
       }
     ],
     "wof:id": 102527513,
-    "wof:lastmodified": 1716581988,
+    "wof:lastmodified": 1721244382,
     "wof:name": "San Francisco International Airport",
     "wof:parent_id": 85922583,
     "wof:placetype": "campus",
     "wof:placetype_alt": [
       "airport"
     ],
-    "wof:repo": "sfomuseum-data-whosonfirst",
+    "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1360695655
