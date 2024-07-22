@@ -14,7 +14,7 @@
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
-      1796903623
+      1914666475
     ],
     "mz:is_current": 1,
     "sfo:level": 4,
@@ -72,7 +72,7 @@
     ],
     "wof:id": 1914601561,
     "wof:label": "2D Sky Terrace Wall (2024-06-17)",
-    "wof:lastmodified": 1720822028,
+    "wof:lastmodified": 1721681859,
     "wof:name": "2D Sky Terrace Wall",
     "wof:parent_id": 1914601557,
     "wof:placetype": "enclosure",

@@ -14,7 +14,7 @@
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
-      1796889475
+      1914666227
     ],
     "mz:is_current": 1,
     "sfo:level": 2,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1914601267,
     "wof:label": "HM04 Harvey Milk Temporary Wall 2 (2024-06-17)",
-    "wof:lastmodified": 1720821918,
+    "wof:lastmodified": 1721681859,
     "wof:name": "HM04 Harvey Milk Temporary Wall 2",
     "wof:parent_id": 1914601199,
     "wof:placetype": "enclosure",

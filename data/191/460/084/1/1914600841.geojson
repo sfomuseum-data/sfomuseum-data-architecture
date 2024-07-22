@@ -15,7 +15,7 @@
     "lbl:latitude": 37.618362,
     "lbl:longitude": -122.386773,
     "millsfield:waypoint_id": [
-      1796889587
+      1914666333
     ],
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 0,
@@ -84,7 +84,7 @@
     ],
     "wof:id": 1914600841,
     "wof:label": "Terminal 3 (2024-06-17)",
-    "wof:lastmodified": 1720821761,
+    "wof:lastmodified": 1721681859,
     "wof:name": "Terminal 3",
     "wof:parent_id": 1914600839,
     "wof:placetype": "wing",

@@ -15,8 +15,8 @@
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
-      1796889641,
-      1796935611
+      1914666389,
+      1914666739
     ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -86,7 +86,7 @@
     ],
     "wof:id": 1914601141,
     "wof:label": "4E Video Arts Gallery (2024-06-17)",
-    "wof:lastmodified": 1720821872,
+    "wof:lastmodified": 1721681859,
     "wof:name": "4E Video Arts Gallery",
     "wof:parent_id": 1914601135,
     "wof:placetype": "enclosure",

@@ -18,7 +18,7 @@
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
-      1796889599
+      1914666361
     ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1914601497,
     "wof:label": "Terminal 2 Main Hall (2024-06-17)",
-    "wof:lastmodified": 1720822004,
+    "wof:lastmodified": 1721681859,
     "wof:name": "Terminal 2 Main Hall",
     "wof:parent_id": 1914601345,
     "wof:placetype": "concourse",
