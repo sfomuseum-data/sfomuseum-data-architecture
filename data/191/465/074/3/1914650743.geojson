@@ -13,7 +13,10 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "T1",
-    "millsfield:waypoint_id": [],
+    "millsfield:waypoint_id": [
+      1914676359,
+      1914676363
+    ],
     "mz:is_current": 1,
     "name:eng_x_preferred": [
       "1G Photo Gallery"
@@ -73,7 +76,7 @@
       }
     ],
     "wof:id": 1914650743,
-    "wof:lastmodified": 1721244382,
+    "wof:lastmodified": 1721767048,
     "wof:name": "1G Photo Gallery",
     "wof:parent_id": 1914601309,
     "wof:placetype": "enclosure",

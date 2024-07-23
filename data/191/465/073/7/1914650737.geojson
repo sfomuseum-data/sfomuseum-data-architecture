@@ -12,7 +12,9 @@
     "geom:longitude": -122.38452224765126,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "T1",
-    "millsfield:waypoint_id": [],
+    "millsfield:waypoint_id": [
+      1914676381
+    ],
     "mz:is_current": 1,
     "name:eng_x_preferred": [
       "1H Student Art North"
@@ -73,7 +75,7 @@
     ],
     "wof:id": 1914650737,
     "wof:label": "1H Student Art North (2024-06-17)",
-    "wof:lastmodified": 1721244382,
+    "wof:lastmodified": 1721767213,
     "wof:name": "1H Student Art North",
     "wof:parent_id": 1914601333,
     "wof:placetype": "enclosure",
