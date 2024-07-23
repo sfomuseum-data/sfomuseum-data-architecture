@@ -2,13 +2,13 @@
   "id": 1763588523,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2022-05-08",
-    "date:cessation_upper": "2022-05-08",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "2022-05-08",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-11-09",
-    "geom:area": 2.3102458198975368e-10,
+    "geom:area": 2.3102458198975363e-10,
     "geom:area_square_m": 397.817241,
     "geom:bbox": "-122.387423,37.620141,-122.387377,37.620209",
     "geom:latitude": 37.620173005536714,
@@ -85,7 +85,7 @@
     ],
     "wof:id": 1763588523,
     "wof:label": "F-03 Gate 76 (2021-11-09)",
-    "wof:lastmodified": 1673474928,
+    "wof:lastmodified": 1720821783,
     "wof:name": "F-03 Gate 76",
     "wof:parent_id": 1763588271,
     "wof:placetype": "enclosure",
@@ -93,7 +93,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914600903
+    ],
     "wof:supersedes": [
       1745882483
     ],

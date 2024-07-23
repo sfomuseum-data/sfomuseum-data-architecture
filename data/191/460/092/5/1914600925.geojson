@@ -1,0 +1,107 @@
+{
+  "id": 1914600925,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "faa:latitude": 37.619535,
+    "faa:longitude": -122.384702,
+    "flysfo:gate_code": "E10",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.384417,37.619456,-122.384417,37.619456",
+    "geom:latitude": 37.61945618269269,
+    "geom:longitude": -122.38441706660774,
+    "iso:country": "US",
+    "lbl:latitude": 37.619451,
+    "lbl:longitude": -122.384404,
+    "millsfield:wayfinding_detail": "E",
+    "millsfield:wayfinding_kind": "T3",
+    "millsfield:waypoint_id": [
+      1914666385
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfo:id": "E10",
+    "sfo:level": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "E10",
+    "sfomuseum:parent_id": "400E",
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "src:geom_alt": [
+      "faa"
+    ],
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1914600839,
+      1914600917,
+      1914600841
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1720821791,
+    "wof:geomhash": "b0d29c85ab5844875bbd62a9d3d285d1",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600917,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914600925,
+        "wing_id": 1914600841
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600917,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914600925,
+        "wing_id": 1914600841
+      }
+    ],
+    "wof:id": 1914600925,
+    "wof:label": "E10 (2024-06-17)",
+    "wof:lastmodified": 1721681859,
+    "wof:name": "E10",
+    "wof:parent_id": 1914600917,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1763588347
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38441706660774,
+    37.61945618269269,
+    -122.38441706660774,
+    37.61945618269269
+  ],
+  "geometry": {"coordinates":[-122.38441706660774,37.61945618269269],"type":"Point"}
+}

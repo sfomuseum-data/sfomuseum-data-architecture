@@ -2,9 +2,11 @@
   "id": 1914589569,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-11-09",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -17,7 +19,7 @@
     "millsfield:wayfinding_kind": "",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 41,
     "sfomuseum:is_sfo": 1,
@@ -77,7 +79,7 @@
     ],
     "wof:id": 1914589569,
     "wof:label": "AML Aviation Museum Gallery 04b Special Collections Room (2021-11-09)",
-    "wof:lastmodified": 1720725030,
+    "wof:lastmodified": 1720821889,
     "wof:name": "AML Aviation Museum Gallery 04b Special Collections Room",
     "wof:parent_id": 1863481173,
     "wof:placetype": "enclosure",
@@ -85,7 +87,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914601195
+    ],
     "wof:supersedes": [
       1914589567
     ],

@@ -2,9 +2,11 @@
   "id": 1763588549,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-11-09",
     "geom:area": 2.008957990952838e-8,
     "geom:area_square_m": 0,
@@ -19,7 +21,7 @@
       1796935611
     ],
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "G-03 Video Arts Gallery"
     ],
@@ -86,7 +88,7 @@
     ],
     "wof:id": 1763588549,
     "wof:label": "4E Video Arts Gallery (2021-11-09)",
-    "wof:lastmodified": 1673478247,
+    "wof:lastmodified": 1720821872,
     "wof:name": "4E Video Arts Gallery",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",
@@ -94,7 +96,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914601141
+    ],
     "wof:supersedes": [
       1745882507
     ],

@@ -1,0 +1,93 @@
+{
+  "id": 1914601261,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 1.901850000081278e-8,
+    "geom:bbox": "-122.385193,37.612055,-122.384991,37.612225",
+    "geom:latitude": 37.61213224985321,
+    "geom:longitude": -122.38509193828816,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "HMT1",
+    "millsfield:waypoint_id": [
+      1914666221
+    ],
+    "mz:is_current": 1,
+    "sfo:level": 2,
+    "sfomuseum:gallery_id": 71,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "T1",
+    "sfomuseum:map_id": "1E",
+    "sfomuseum:map_id_alt": "B12",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914600839,
+      1914601199,
+      1914601197
+    ],
+    "wof:country": "US",
+    "wof:created": 1720821915,
+    "wof:geomhash": "f670991aedc7ae0363e1c90098dc6bd3",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1914601261,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1914601197
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1914601261,
+        "region_id": 85688637,
+        "wing_id": 1914601197
+      }
+    ],
+    "wof:id": 1914601261,
+    "wof:label": "1E Mid-Pier Gallery (2024-06-17)",
+    "wof:lastmodified": 1721681859,
+    "wof:name": "1E Mid-Pier Gallery",
+    "wof:parent_id": 1914601199,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1763588505
+    ]
+  },
+  "bbox": [
+    -122.385193,
+    37.612055,
+    -122.384991,
+    37.612225
+  ],
+  "geometry": {"coordinates":[[[-122.385193,37.612077],[-122.385133,37.612055],[-122.38513,37.612058],[-122.385072,37.612063],[-122.384991,37.612153],[-122.385001,37.612173],[-122.385047,37.612182],[-122.385036,37.612198],[-122.385102,37.612225],[-122.385193,37.612077]]],"type":"Polygon"}
+}

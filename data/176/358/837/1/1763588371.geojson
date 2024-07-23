@@ -3,18 +3,20 @@
   "type": "Feature",
   "properties": {
     "addr:full": "100A International Loop, San Francisco, Ca. 94128",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-11-09",
     "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-11-09",
-    "geom:area": 0.0000014857249747112237,
+    "geom:area": 0.0000014857249747112224,
     "geom:area_square_m": 14561.55238,
     "geom:bbox": "-122.390497,37.611463,-122.388189,37.614269",
     "geom:latitude": 37.61289407736701,
     "geom:longitude": -122.38934858141738,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:building_id": "100A",
     "sfo:id": "100A",
     "sfo:level": 2,
@@ -73,7 +75,7 @@
     ],
     "wof:id": 1763588371,
     "wof:label": "Boarding Area A (2021-11-09)",
-    "wof:lastmodified": 1650930882,
+    "wof:lastmodified": 1720821819,
     "wof:name": "Boarding Area A",
     "wof:parent_id": 1763588369,
     "wof:placetype": "concourse",
@@ -81,7 +83,9 @@
       "boardingarea"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914601001
+    ],
     "wof:supersedes": [
       1745882337
     ],

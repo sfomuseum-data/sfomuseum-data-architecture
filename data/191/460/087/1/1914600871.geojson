@@ -1,0 +1,107 @@
+{
+  "id": 1914600871,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "faa:latitude": 37.620768,
+    "faa:longitude": -122.390408,
+    "flysfo:gate_code": "F19",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.390285,37.620934,-122.390285,37.620934",
+    "geom:latitude": 37.620933987615764,
+    "geom:longitude": -122.39028495465779,
+    "iso:country": "US",
+    "lbl:latitude": 37.620929,
+    "lbl:longitude": -122.390272,
+    "millsfield:wayfinding_detail": "F",
+    "millsfield:wayfinding_kind": "T3",
+    "millsfield:waypoint_id": [
+      1914666487
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfo:id": "F19",
+    "sfo:level": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "F19",
+    "sfomuseum:parent_id": "400F",
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "src:geom_alt": [
+      "faa"
+    ],
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1914600839,
+      1914600845,
+      1914600841
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1720821772,
+    "wof:geomhash": "144f49f02a5c56a1e104241f4cfd6819",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600845,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914600871,
+        "wing_id": 1914600841
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600845,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914600871,
+        "wing_id": 1914600841
+      }
+    ],
+    "wof:id": 1914600871,
+    "wof:label": "F19 (2024-06-17)",
+    "wof:lastmodified": 1721681859,
+    "wof:name": "F19",
+    "wof:parent_id": 1914600845,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1763588325
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.39028495465779,
+    37.620933987615764,
+    -122.39028495465779,
+    37.620933987615764
+  ],
+  "geometry": {"coordinates":[-122.39028495465779,37.620933987615764],"type":"Point"}
+}
