@@ -4,8 +4,10 @@
   "properties": {
     "date:cessation_lower": "2024-06-17",
     "date:cessation_upper": "2024-06-17",
+    "date:inception_lower": "2021-11-19",
+    "date:inception_upper": "2021-11-19",
     "edtf:cessation": "2024-06-17",
-    "edtf:inception": "",
+    "edtf:inception": "2021-11-19",
     "geom:area": 3.0898077930167806e-8,
     "geom:bbox": "-122.383640,37.617478,-122.383340,37.617711",
     "geom:latitude": 37.617598890046914,
@@ -67,7 +69,7 @@
       }
     ],
     "wof:id": 1763594985,
-    "wof:lastmodified": 1720821964,
+    "wof:lastmodified": 1721943035,
     "wof:name": "2E Kadish Gallery",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",
