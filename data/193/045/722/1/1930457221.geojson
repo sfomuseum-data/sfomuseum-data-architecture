@@ -1,13 +1,11 @@
 {
-  "id": 1763588293,
+  "id": 1930457221,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2024-06-17",
-    "date:cessation_upper": "2024-06-17",
-    "date:inception_lower": "2021-11-09",
-    "date:inception_upper": "2021-11-09",
-    "edtf:cessation": "2024-06-17",
-    "edtf:inception": "2021-11-09",
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
     "faa:latitude": 37.620033,
     "faa:longitude": -122.387002,
     "flysfo:gate_code": "F5",
@@ -22,10 +20,10 @@
     "millsfield:wayfinding_detail": "F",
     "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": [
-      1796935385
+      1914666427
     ],
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfo:id": "F5",
     "sfo:level": 2,
     "sfomuseum:is_sfo": 1,
@@ -46,9 +44,9 @@
       102087579,
       554784711,
       102085387,
-      1763588121,
-      1763588271,
-      1763588269
+      1914600839,
+      1914600845,
+      1914600841
     ],
     "wof:breaches": [],
     "wof:controlled": [
@@ -59,46 +57,43 @@
     "wof:geomhash": "c171ebdb907153f4636aa484d4a7eb9b",
     "wof:hierarchy": [
       {
-        "building_id": 1763588121,
+        "building_id": 1914600839,
         "campus_id": 102527513,
-        "concourse_id": 1763588271,
+        "concourse_id": 1914600845,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1763588293,
-        "wing_id": 1763588269
+        "venue_id": 1930457221,
+        "wing_id": 1914600841
       },
       {
-        "building_id": 1763588121,
+        "building_id": 1914600839,
         "campus_id": 102527513,
-        "concourse_id": 1763588271,
+        "concourse_id": 1914600845,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1763588293,
-        "wing_id": 1763588269
+        "venue_id": 1930457221,
+        "wing_id": 1914600841
       }
     ],
-    "wof:id": 1763588293,
+    "wof:id": 1930457221,
     "wof:label": "F5 (2021-11-09)",
-    "wof:lastmodified": 1721956808,
+    "wof:lastmodified": 1721956827,
     "wof:name": "F5",
-    "wof:parent_id": 1763588271,
+    "wof:parent_id": 1914600845,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "gate"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [
-      1930457221
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
-      1763588273,
-      1745882259
+      1763588293
     ],
     "wof:tags": []
   },
