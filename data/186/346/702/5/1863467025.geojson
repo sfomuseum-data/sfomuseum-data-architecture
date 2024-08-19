@@ -16,7 +16,7 @@
     "sfomuseum:location": "T1",
     "sfomuseum:map_id": "HM03",
     "sfomuseum:map_id_alt": "B16",
-    "sfomuseum:placetype": [ "gallery" ],
+    "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
