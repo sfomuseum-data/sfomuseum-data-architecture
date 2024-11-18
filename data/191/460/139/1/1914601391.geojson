@@ -2,9 +2,11 @@
   "id": 1914601391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 6.98703907630716e-9,
     "geom:area_square_m": 504.394795,
@@ -18,7 +20,7 @@
       1914666213
     ],
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "2A Boomerang Gallery"
     ],
@@ -85,7 +87,7 @@
     ],
     "wof:id": 1914601391,
     "wof:label": "2A Boomerang Gallery (2024-06-17)",
-    "wof:lastmodified": 1721681859,
+    "wof:lastmodified": 1731958779,
     "wof:name": "2A Boomerang Gallery",
     "wof:parent_id": 1914601349,
     "wof:placetype": "enclosure",
@@ -93,7 +95,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304639
+    ],
     "wof:supersedes": [
       1763588487
     ],

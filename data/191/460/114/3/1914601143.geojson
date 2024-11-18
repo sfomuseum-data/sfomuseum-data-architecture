@@ -2,9 +2,11 @@
   "id": 1914601143,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 3.8407502729402645e-9,
     "geom:area_square_m": 723.824295,
@@ -18,7 +20,7 @@
       1914666739
     ],
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "4C International South Wall"
     ],
@@ -85,7 +87,7 @@
     ],
     "wof:id": 1914601143,
     "wof:label": "4C International South Wall (2024-06-17)",
-    "wof:lastmodified": 1721681859,
+    "wof:lastmodified": 1731958671,
     "wof:name": "4C International South Wall",
     "wof:parent_id": 1914601135,
     "wof:placetype": "enclosure",
@@ -93,7 +95,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304211
+    ],
     "wof:supersedes": [
       1763588543
     ],

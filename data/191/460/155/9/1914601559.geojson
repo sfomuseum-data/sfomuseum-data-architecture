@@ -2,9 +2,11 @@
   "id": 1914601559,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 8.393312351883016e-10,
     "geom:bbox": "-122.383417,37.617317,-122.383366,37.617354",
@@ -16,7 +18,7 @@
     "millsfield:waypoint_id": [
       1914666475
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 4,
     "sfomuseum:gallery_id": 80,
     "sfomuseum:level": "",
@@ -72,7 +74,7 @@
     ],
     "wof:id": 1914601559,
     "wof:label": "2D Sky Terrace Platform (2024-06-17)",
-    "wof:lastmodified": 1721681859,
+    "wof:lastmodified": 1731958825,
     "wof:name": "2D Sky Terrace Platform",
     "wof:parent_id": 1914601557,
     "wof:placetype": "enclosure",
@@ -80,7 +82,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304801
+    ],
     "wof:supersedes": [
       1763588491
     ]

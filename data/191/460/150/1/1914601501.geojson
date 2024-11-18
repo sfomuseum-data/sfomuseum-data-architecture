@@ -2,15 +2,17 @@
   "id": 1914601501,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 6.1415000003517635e-9,
     "geom:bbox": "-122.384911,37.617576,-122.384478,37.617765",
     "geom:latitude": 37.61767368273223,
     "geom:longitude": -122.3847034394963,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 90,
     "sfomuseum:location": "T2",
@@ -62,7 +64,7 @@
     ],
     "wof:id": 1914601501,
     "wof:label": "2F Pre-Security Connector/Zuber (2024-06-17)",
-    "wof:lastmodified": 1721256153,
+    "wof:lastmodified": 1731958807,
     "wof:name": "2F Pre-Security Connector/Zuber",
     "wof:parent_id": 1914601497,
     "wof:placetype": "enclosure",
@@ -70,7 +72,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304743
+    ],
     "wof:supersedes": [
       1763594989
     ]

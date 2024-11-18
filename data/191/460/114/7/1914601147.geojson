@@ -2,9 +2,11 @@
   "id": 1914601147,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 3.75117798796291e-9,
     "geom:bbox": "-122.389877,37.616485,-122.389561,37.616572",
@@ -17,7 +19,7 @@
       1914666389,
       1914666411
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 86,
     "sfomuseum:location": "IT",
@@ -70,7 +72,7 @@
     ],
     "wof:id": 1914601147,
     "wof:label": "4A International North Cases (2024-06-17)",
-    "wof:lastmodified": 1721681859,
+    "wof:lastmodified": 1731958672,
     "wof:name": "4A International North Cases",
     "wof:parent_id": 1914601135,
     "wof:placetype": "enclosure",
@@ -78,7 +80,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304217
+    ],
     "wof:supersedes": [
       1763588553
     ]

@@ -2,9 +2,11 @@
   "id": 1914650743,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 5.302343666794891e-9,
     "geom:bbox": "-122.384698,37.614044,-122.384558,37.614169",
@@ -17,7 +19,7 @@
       1914676359,
       1914676363
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "1G Photo Gallery"
     ],
@@ -76,7 +78,7 @@
       }
     ],
     "wof:id": 1914650743,
-    "wof:lastmodified": 1721767048,
+    "wof:lastmodified": 1731958717,
     "wof:name": "1G Photo Gallery",
     "wof:parent_id": 1914601309,
     "wof:placetype": "enclosure",
@@ -84,7 +86,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304393
+    ],
     "wof:supersedes": []
   },
   "bbox": [

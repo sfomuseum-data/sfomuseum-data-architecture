@@ -2,16 +2,18 @@
   "id": 1914601449,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 1.6405963615048705e-7,
     "geom:bbox": "-122.384797,37.615538,-122.382889,37.618081",
     "geom:latitude": 37.617494319181944,
     "geom:longitude": -122.38382560347885,
     "iso:country": "US",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "300CAP",
     "sfo:level": 2,
     "sfomuseum:is_sfo": 1,
@@ -64,7 +66,7 @@
     ],
     "wof:id": 1914601449,
     "wof:label": "Terminal Two Departures (Post-Security) (2024-06-17)",
-    "wof:lastmodified": 1720821985,
+    "wof:lastmodified": 1731958793,
     "wof:name": "Terminal Two Departures (Post-Security)",
     "wof:parent_id": 1914601345,
     "wof:placetype": "concourse",
@@ -72,7 +74,9 @@
       "commonarea"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304691
+    ],
     "wof:supersedes": [
       1763588173
     ]

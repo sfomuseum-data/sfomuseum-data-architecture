@@ -2,9 +2,11 @@
   "id": 1914601243,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "flysfo:gate_code": "B20",
     "geom:area": 0,
@@ -17,7 +19,7 @@
     "millsfield:waypoint_id": [
       1914666587
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "B20",
     "sfo:level": 2,
     "sfomuseum:is_sfo": 1,
@@ -70,7 +72,7 @@
     ],
     "wof:id": 1914601243,
     "wof:label": "B20 (2024-06-17)",
-    "wof:lastmodified": 1721681859,
+    "wof:lastmodified": 1731958689,
     "wof:name": "B20",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",
@@ -78,7 +80,9 @@
       "gate"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304281
+    ],
     "wof:supersedes": [
       1763588229
     ]

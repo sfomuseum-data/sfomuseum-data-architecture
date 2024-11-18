@@ -2,16 +2,18 @@
   "id": 1914601443,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 9.221022098321532e-7,
     "geom:bbox": "-122.384842,37.616036,-122.383304,37.617949",
     "geom:latitude": 37.6170352546817,
     "geom:longitude": -122.38394166934529,
     "iso:country": "US",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "300CAA",
     "sfo:level": 1,
     "sfomuseum:is_sfo": 1,
@@ -64,7 +66,7 @@
     ],
     "wof:id": 1914601443,
     "wof:label": "Terminal Two Arrivals (2024-06-17)",
-    "wof:lastmodified": 1720821982,
+    "wof:lastmodified": 1731958791,
     "wof:name": "Terminal Two Arrivals",
     "wof:parent_id": 1914601345,
     "wof:placetype": "concourse",
@@ -72,7 +74,9 @@
       "commonarea"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304685
+    ],
     "wof:supersedes": [
       1763588171
     ]

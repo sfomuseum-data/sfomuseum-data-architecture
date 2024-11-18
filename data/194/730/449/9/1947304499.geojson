@@ -1,0 +1,107 @@
+{
+  "id": 1947304499,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "geom:area": 2.3102458198975363e-10,
+    "geom:area_square_m": 397.817241,
+    "geom:bbox": "-122.387423,37.620141,-122.387377,37.620209",
+    "geom:latitude": 37.620173005536714,
+    "geom:longitude": -122.38740094564245,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "F",
+    "millsfield:wayfinding_kind": "T3",
+    "millsfield:waypoint_id": [
+      1914666239
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "name:eng_x_preferred": [
+      "F-03 Gate 76"
+    ],
+    "name:eng_x_variant": [
+      "F-03",
+      "F03"
+    ],
+    "sfo:level": 2,
+    "sfomuseum:gallery_id": 3,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "D",
+    "sfomuseum:location": "T3",
+    "sfomuseum:map_id": "F03",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1947304067,
+      1947304451,
+      1947304447
+    ],
+    "wof:breaches": [],
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1731958743,
+    "wof:geomhash": "ad0ee9559195ae37827250021a9acea2",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304451,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1947304499,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1947304447
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304451,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1947304499,
+        "region_id": 85688637,
+        "wing_id": 1947304447
+      }
+    ],
+    "wof:id": 1947304499,
+    "wof:label": "F-03 Gate 76 (2024-11-05)",
+    "wof:lastmodified": 1731958743,
+    "wof:name": "F-03 Gate 76",
+    "wof:parent_id": 1947304451,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914600903
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38742307034985,
+    37.62014103884291,
+    -122.38737666106128,
+    37.62020901985636
+  ],
+  "geometry": {"coordinates":[[[-122.38742307034985,37.620142413932946],[-122.38741986180644,37.62014103884291],[-122.38737666106128,37.620207873948],[-122.38737872369633,37.62020901985636],[-122.38742307034985,37.620142413932946]]],"type":"Polygon"}
+}
