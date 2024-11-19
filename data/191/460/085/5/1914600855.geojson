@@ -85,7 +85,7 @@
     ],
     "wof:id": 1914600855,
     "wof:label": "E1 (2024-06-17)",
-    "wof:lastmodified": 1731958739,
+    "wof:lastmodified": 1732052437,
     "wof:name": "E1",
     "wof:parent_id": 1914600845,
     "wof:placetype": "venue",
@@ -93,9 +93,7 @@
       "gate"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [
-      1947304479
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
       1763588275
     ],

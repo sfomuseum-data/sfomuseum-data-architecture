@@ -7,6 +7,7 @@ AS_FEATURECOLLECTION=$(shell which wof-as-featurecollection)
 MERGE_FEATURECOLLECTION=$(shell which wof-merge-featurecollection)
 
 current:
+	rm -f work/export-*.geojson
 	@make buildings
 	@make terminals
 	@make boardingareas
