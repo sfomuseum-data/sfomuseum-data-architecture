@@ -14,8 +14,8 @@
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "T1",
     "millsfield:waypoint_id": [
-      1914676359,
-      1914676363
+      1947305203,
+      1947305209
     ],
     "mz:is_current": 1,
     "name:eng_x_preferred": [
@@ -77,7 +77,7 @@
     ],
     "wof:id": 1947304393,
     "wof:label": "1G Photo Gallery (2024-11-05)",
-    "wof:lastmodified": 1731958717,
+    "wof:lastmodified": 1731979878,
     "wof:name": "1G Photo Gallery",
     "wof:parent_id": 1947304383,
     "wof:placetype": "enclosure",

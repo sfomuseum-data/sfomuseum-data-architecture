@@ -12,6 +12,7 @@
     "geom:latitude": 37.619102719725085,
     "geom:longitude": -122.38719319835137,
     "iso:country": "US",
+    "millsfield:waypoint_id": [],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "name:eng_x_preferred": [
@@ -79,7 +80,7 @@
     ],
     "wof:id": 1947304497,
     "wof:label": "3C North Connector (2024-11-05)",
-    "wof:lastmodified": 1731958743,
+    "wof:lastmodified": 1731979878,
     "wof:name": "3C North Connector",
     "wof:parent_id": 1947304451,
     "wof:placetype": "enclosure",

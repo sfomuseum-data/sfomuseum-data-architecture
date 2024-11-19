@@ -14,8 +14,8 @@
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
-      1914666407,
-      1914666409
+      1947304949,
+      1947304961
     ],
     "mz:is_current": 1,
     "sfo:level": 3,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1947304221,
     "wof:label": "4D International South Cases (2024-11-05)",
-    "wof:lastmodified": 1731958673,
+    "wof:lastmodified": 1731979878,
     "wof:name": "4D International South Cases",
     "wof:parent_id": 1947304205,
     "wof:placetype": "enclosure",

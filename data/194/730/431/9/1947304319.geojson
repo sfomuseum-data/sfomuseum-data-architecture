@@ -14,8 +14,8 @@
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
-      1914666841,
-      1914666851
+      1947305397,
+      1947305441
     ],
     "mz:is_current": 1,
     "sfo:level": 2,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1947304319,
     "wof:label": "1D Alley Gallery (2024-11-05)",
-    "wof:lastmodified": 1731958699,
+    "wof:lastmodified": 1731979878,
     "wof:name": "1D Alley Gallery",
     "wof:parent_id": 1947304261,
     "wof:placetype": "enclosure",
