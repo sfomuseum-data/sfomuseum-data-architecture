@@ -15,7 +15,7 @@
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
-      1914666617
+      1947305227
     ],
     "mz:is_current": 1,
     "sfo:id": "B25",
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1947304309,
     "wof:label": "B25 (2024-11-05)",
-    "wof:lastmodified": 1731958696,
+    "wof:lastmodified": 1732064811,
     "wof:name": "B25",
     "wof:parent_id": 1947304261,
     "wof:placetype": "venue",

@@ -15,7 +15,7 @@
     "millsfield:wayfinding_detail": "C",
     "millsfield:wayfinding_kind": "T1",
     "millsfield:waypoint_id": [
-      1914676369
+      1947305233
     ],
     "mz:is_current": 1,
     "sfo:id": "C1",
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1947304387,
     "wof:label": "C1 (2024-11-05)",
-    "wof:lastmodified": 1731958715,
+    "wof:lastmodified": 1732064812,
     "wof:name": "C1",
     "wof:parent_id": 1947304383,
     "wof:placetype": "venue",
