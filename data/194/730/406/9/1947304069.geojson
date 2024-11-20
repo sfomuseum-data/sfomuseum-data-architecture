@@ -15,7 +15,7 @@
     "lbl:latitude": 37.615761,
     "lbl:longitude": -122.389154,
     "millsfield:waypoint_id": [
-      1914666717
+      1947305371
     ],
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 0,
@@ -84,7 +84,7 @@
     ],
     "wof:id": 1947304069,
     "wof:label": "International Terminal (2024-11-05)",
-    "wof:lastmodified": 1731958635,
+    "wof:lastmodified": 1732065069,
     "wof:name": "International Terminal",
     "wof:parent_id": 1947304067,
     "wof:placetype": "wing",

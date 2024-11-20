@@ -13,7 +13,7 @@
     "geom:longitude": -122.38300203281219,
     "iso:country": "US",
     "millsfield:waypoint_id": [
-      1914666361
+      1947304923
     ],
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 0,
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1947304591,
     "wof:label": "Terminal 2 (2024-11-05)",
-    "wof:lastmodified": 1731958768,
+    "wof:lastmodified": 1732065069,
     "wof:name": "Terminal 2",
     "wof:parent_id": 1947304067,
     "wof:placetype": "wing",
