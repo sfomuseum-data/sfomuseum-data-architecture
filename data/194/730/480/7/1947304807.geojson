@@ -1,0 +1,83 @@
+{
+  "id": 1947304807,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "geom:area": 0,
+    "geom:bbox": "-122.386850,37.614147,-122.386850,37.614147",
+    "geom:latitude": 37.61414666979974,
+    "geom:longitude": -122.38684966120562,
+    "iso:country": "US",
+    "mz:is_current": 1,
+    "sfo:id": "B1",
+    "sfo:level": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "B1",
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304383,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304259,
+      102085387
+    ],
+    "wof:created": 1731958827,
+    "wof:geomhash": "ab4811fbfc83f3c95846cad49bd35903",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304383,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304807,
+        "wing_id": 1947304259
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304383,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947304807,
+        "wing_id": 1947304259
+      }
+    ],
+    "wof:id": 1947304807,
+    "wof:label": "B1 (2024-11-05)",
+    "wof:lastmodified": 1731958827,
+    "wof:name": "B1",
+    "wof:parent_id": 1947304383,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38684966120562,
+    37.61414666979974,
+    -122.38684966120562,
+    37.61414666979974
+  ],
+  "geometry": {"coordinates":[-122.38684966120562,37.61414666979974],"type":"Point"}
+}

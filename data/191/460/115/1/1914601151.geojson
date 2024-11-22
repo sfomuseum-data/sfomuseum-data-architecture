@@ -2,9 +2,11 @@
   "id": 1914601151,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 3.7874898546776105e-9,
     "geom:bbox": "-122.389128,37.614557,-122.388812,37.614646",
@@ -17,7 +19,7 @@
       1914666407,
       1914666409
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 3,
     "sfomuseum:gallery_id": 85,
     "sfomuseum:level": "3",
@@ -71,7 +73,7 @@
     ],
     "wof:id": 1914601151,
     "wof:label": "4D International South Cases (2024-06-17)",
-    "wof:lastmodified": 1721681859,
+    "wof:lastmodified": 1731958673,
     "wof:name": "4D International South Cases",
     "wof:parent_id": 1914601135,
     "wof:placetype": "enclosure",
@@ -79,7 +81,9 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304221
+    ],
     "wof:supersedes": [
       1763588551
     ]

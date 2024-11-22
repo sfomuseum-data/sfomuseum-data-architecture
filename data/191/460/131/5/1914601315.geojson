@@ -2,9 +2,11 @@
   "id": 1914601315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 1.769438096750237e-8,
     "geom:bbox": "-122.386241,37.613972,-122.385898,37.614056",
@@ -13,7 +15,7 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:level": 2,
     "sfomuseum:gallery_id": 92,
     "sfomuseum:level": "2",
@@ -66,7 +68,7 @@
     ],
     "wof:id": 1914601315,
     "wof:label": "1C Kids’ Spot (2024-06-17)",
-    "wof:lastmodified": 1721088278,
+    "wof:lastmodified": 1731958715,
     "wof:name": "1C Kids’ Spot",
     "wof:parent_id": 1914601309,
     "wof:placetype": "enclosure",
@@ -75,7 +77,8 @@
     ],
     "wof:repo": "sfomuseum-data-architecture",
     "wof:superseded_by": [
-      1763588507
+      1763588507,
+      1947304389
     ],
     "wof:supersedes": [
       1745887099

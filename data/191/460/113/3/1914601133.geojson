@@ -2,16 +2,18 @@
   "id": 1914601133,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 5.238532548222376e-7,
     "geom:bbox": "-122.390332,37.614000,-122.387644,37.617296",
     "geom:latitude": 37.615574458428405,
     "geom:longitude": -122.38888248905394,
     "iso:country": "US",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "100CAP",
     "sfo:level": 3,
     "sfomuseum:is_sfo": 1,
@@ -64,7 +66,7 @@
     ],
     "wof:id": 1914601133,
     "wof:label": "International Terminal Departures (Post-Security) (2024-06-17)",
-    "wof:lastmodified": 1720821869,
+    "wof:lastmodified": 1731958669,
     "wof:name": "International Terminal Departures (Post-Security)",
     "wof:parent_id": 1914600999,
     "wof:placetype": "concourse",
@@ -72,7 +74,9 @@
       "commonarea"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304203
+    ],
     "wof:supersedes": [
       1763588479
     ]

@@ -2,9 +2,11 @@
   "id": 1914601345,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0.0000044052834999994095,
     "geom:area_square_m": 31390.279595,
@@ -17,7 +19,7 @@
     ],
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 0,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "Terminal 2"
     ],
@@ -76,7 +78,7 @@
     ],
     "wof:id": 1914601345,
     "wof:label": "Terminal 2 (2024-06-17)",
-    "wof:lastmodified": 1721681859,
+    "wof:lastmodified": 1731958768,
     "wof:name": "Terminal 2",
     "wof:parent_id": 1914600839,
     "wof:placetype": "wing",
@@ -84,7 +86,9 @@
       "terminal"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304591
+    ],
     "wof:supersedes": [
       1763588123
     ],

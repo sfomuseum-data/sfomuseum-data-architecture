@@ -2,9 +2,11 @@
   "id": 1914600905,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 1.306996068813951e-7,
     "geom:area_square_m": 2124.986942,
@@ -13,7 +15,7 @@
     "geom:longitude": -122.38719319835137,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "name:eng_x_preferred": [
       "F-02 North Connector"
     ],
@@ -79,7 +81,7 @@
     ],
     "wof:id": 1914600905,
     "wof:label": "3C North Connector (2024-06-17)",
-    "wof:lastmodified": 1720821783,
+    "wof:lastmodified": 1731958743,
     "wof:name": "3C North Connector",
     "wof:parent_id": 1914600845,
     "wof:placetype": "enclosure",
@@ -87,7 +89,8 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+    ],
     "wof:supersedes": [
       1763588519
     ],

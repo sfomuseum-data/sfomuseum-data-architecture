@@ -1,0 +1,93 @@
+{
+  "id": 1947304217,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "geom:area": 3.75117798796291e-9,
+    "geom:bbox": "-122.389877,37.616485,-122.389561,37.616572",
+    "geom:latitude": 37.616528705005116,
+    "geom:longitude": -122.38971793359582,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "DEP",
+    "millsfield:wayfinding_kind": "ITB",
+    "millsfield:waypoint_id": [
+      1947304969,
+      1947305005
+    ],
+    "mz:is_current": 1,
+    "sfo:level": 3,
+    "sfomuseum:gallery_id": 86,
+    "sfomuseum:location": "IT",
+    "sfomuseum:map_id": "4A",
+    "sfomuseum:map_id_alt": "G06",
+    "sfomuseum:placetype": "gallery",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304205,
+      1947304069
+    ],
+    "wof:country": "US",
+    "wof:created": 1731958672,
+    "wof:geomhash": "f099cc3e32d2e100b55176490603880f",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1947304217,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1947304217,
+        "region_id": 85688637,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 1947304217,
+    "wof:label": "4A International North Cases (2024-11-05)",
+    "wof:lastmodified": 1731979878,
+    "wof:name": "4A International North Cases",
+    "wof:parent_id": 1947304205,
+    "wof:placetype": "enclosure",
+    "wof:placetype_alt": [
+      "gallery"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914601147
+    ]
+  },
+  "bbox": [
+    -122.38987668987176,
+    37.61648459041347,
+    -122.38956087927171,
+    37.61657204565656
+  ],
+  "geometry": {"coordinates":[[[-122.38987365323138,37.61648459041347],[-122.38956087927171,37.616561113751175],[-122.38956695255249,37.61657204565656],[-122.38987668987176,37.61649552231886],[-122.38987365323138,37.61648459041347]]],"type":"Polygon"}
+}

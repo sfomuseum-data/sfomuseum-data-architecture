@@ -2,16 +2,18 @@
   "id": 1914601129,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 0.0000014559995129837208,
     "geom:bbox": "-122.390493,37.614288,-122.387737,37.617146",
     "geom:latitude": 37.61565402280328,
     "geom:longitude": -122.38934892647391,
     "iso:country": "US",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfo:id": "100CAC",
     "sfo:level": 1,
     "sfomuseum:is_sfo": 1,
@@ -64,7 +66,7 @@
     ],
     "wof:id": 1914601129,
     "wof:label": "International Terminal Connector (2024-06-17)",
-    "wof:lastmodified": 1720821868,
+    "wof:lastmodified": 1731958668,
     "wof:name": "International Terminal Connector",
     "wof:parent_id": 1914600999,
     "wof:placetype": "concourse",
@@ -72,7 +74,9 @@
       "commonarea"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304201
+    ],
     "wof:supersedes": [
       1763588477
     ]

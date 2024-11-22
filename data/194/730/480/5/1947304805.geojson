@@ -1,0 +1,83 @@
+{
+  "id": 1947304805,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "geom:area": 0,
+    "geom:bbox": "-122.389193,37.612627,-122.389193,37.612627",
+    "geom:latitude": 37.612626857516474,
+    "geom:longitude": -122.38919252541936,
+    "iso:country": "US",
+    "mz:is_current": 1,
+    "sfo:id": "A7",
+    "sfo:level": 2,
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:name": "A7",
+    "sfomuseum:placetype": "gate",
+    "sfomuseum:post_security": 1,
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      1947304067,
+      102527513,
+      1947304073,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1947304069,
+      102085387
+    ],
+    "wof:created": 1731958826,
+    "wof:geomhash": "7d18047eb8ca8878edaabfd927ae7730",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304805,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304073,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947304805,
+        "wing_id": 1947304069
+      }
+    ],
+    "wof:id": 1947304805,
+    "wof:label": "A7 (2024-11-05)",
+    "wof:lastmodified": 1731958826,
+    "wof:name": "A7",
+    "wof:parent_id": 1947304073,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "gate"
+    ],
+    "wof:repo": "sfomuseum-data-architecture",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38919252541936,
+    37.612626857516474,
+    -122.38919252541936,
+    37.612626857516474
+  ],
+  "geometry": {"coordinates":[-122.38919252541936,37.612626857516474],"type":"Point"}
+}
