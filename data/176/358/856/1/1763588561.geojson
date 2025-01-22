@@ -18,6 +18,7 @@
     "sfomuseum:name": "Terminal Two AirTrain Station",
     "sfomuseum:placetype": "airtrain",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "airtrain",
     "wof:alt_placetype": [
       "airtrain"
     ],
@@ -61,7 +62,7 @@
       }
     ],
     "wof:id": 1763588561,
-    "wof:lastmodified": 1716581988,
+    "wof:lastmodified": 1737511400,
     "wof:name": "Terminal Two AirTrain Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

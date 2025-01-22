@@ -22,6 +22,7 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "flysfo",
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1477855659,
       102527513,
@@ -67,7 +68,7 @@
     ],
     "wof:id": 1477881723,
     "wof:label": "B8 (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511401,
     "wof:name": "B8",
     "wof:parent_id": 1477855659,
     "wof:placetype": "venue",

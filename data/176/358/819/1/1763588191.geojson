@@ -27,6 +27,7 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -72,7 +73,7 @@
     ],
     "wof:id": 1763588191,
     "wof:label": "B13 (2021-11-09)",
-    "wof:lastmodified": 1720821895,
+    "wof:lastmodified": 1737511400,
     "wof:name": "B13",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

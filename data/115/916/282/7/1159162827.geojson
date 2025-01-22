@@ -19,6 +19,7 @@
     "sfomuseum:placetype": "collection",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "collection",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -53,7 +54,7 @@
     ],
     "wof:id": 1159162827,
     "wof:label": "Loan Objects (1980)",
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1737511400,
     "wof:name": "Loan Objects",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

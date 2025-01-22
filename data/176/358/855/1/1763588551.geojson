@@ -29,6 +29,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1796889637,
       1796889635
@@ -77,7 +78,7 @@
     ],
     "wof:id": 1763588551,
     "wof:label": "4D International South Cases (2021-11-09)",
-    "wof:lastmodified": 1737504350,
+    "wof:lastmodified": 1737511400,
     "wof:name": "4D International South Cases",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",

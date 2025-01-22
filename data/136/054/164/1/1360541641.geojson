@@ -28,6 +28,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       1159157335,
       1159157863,
@@ -62,7 +63,7 @@
     ],
     "wof:id": 1360541641,
     "wof:label": "AML Aviation Museum Gallery 05a-d (2017~)",
-    "wof:lastmodified": 1693418722,
+    "wof:lastmodified": 1737511400,
     "wof:name": "AML Aviation Museum Gallery 05a-d",
     "wof:parent_id": 1159157863,
     "wof:placetype": "enclosure",

@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       1159396315,
       102527513,
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1360516119,
     "wof:label": "F-02 North Connector (2014~ - 2017~)",
-    "wof:lastmodified": 1693418722,
+    "wof:lastmodified": 1737511400,
     "wof:name": "F-02 North Connector",
     "wof:parent_id": 1159396315,
     "wof:placetype": "enclosure",

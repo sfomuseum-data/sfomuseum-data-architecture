@@ -25,6 +25,7 @@
     ],
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:placetype": "commonarea",
     "wof:belongsto": [
       1729792387,
       102527513,
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1729792699,
     "wof:label": "Terminal Three Arrivals (2020-~05)",
-    "wof:lastmodified": 1643748801,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Terminal Three Arrivals",
     "wof:parent_id": 1729792487,
     "wof:placetype": "concourse",

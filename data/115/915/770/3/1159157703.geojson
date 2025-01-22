@@ -29,6 +29,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1159396181,
       102527513,
@@ -63,7 +64,7 @@
       }
     ],
     "wof:id": 1159157703,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511401,
     "wof:name": "D51A",
     "wof:parent_id": 1159396181,
     "wof:placetype": "venue",

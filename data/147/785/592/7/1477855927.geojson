@@ -28,6 +28,7 @@
     "sfomuseum:placetype": "commonarea",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "commonarea",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1477855927,
     "wof:label": "International Terminal Main Hall (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511400,
     "wof:name": "International Terminal Main Hall",
     "wof:parent_id": 1477855833,
     "wof:placetype": "concourse",

@@ -19,6 +19,7 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -62,7 +63,7 @@
     ],
     "wof:id": 1947304811,
     "wof:label": "A3 (2024-11-05)",
-    "wof:lastmodified": 1731958827,
+    "wof:lastmodified": 1737511401,
     "wof:name": "A3",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",

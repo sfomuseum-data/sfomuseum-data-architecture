@@ -17,6 +17,7 @@
     "sfomuseum:name": "Westfield Road AirTrain Station (Inbound)",
     "sfomuseum:placetype": "airtrain",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "airtrain",
     "wof:alt_placetype": [
       "airtrain"
     ],
@@ -60,7 +61,7 @@
       }
     ],
     "wof:id": 1763588571,
-    "wof:lastmodified": 1716581988,
+    "wof:lastmodified": 1737511400,
     "wof:name": "Westfield Road AirTrain Station (Inbound)",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

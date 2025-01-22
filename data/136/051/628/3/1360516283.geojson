@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -64,7 +65,7 @@
     ],
     "wof:id": 1360516283,
     "wof:label": "G-02 International North Cases (2011~ - 2014~)",
-    "wof:lastmodified": 1672882085,
+    "wof:lastmodified": 1737511400,
     "wof:name": "G-02 International North Cases",
     "wof:parent_id": 1159396159,
     "wof:placetype": "enclosure",

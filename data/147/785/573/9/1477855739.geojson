@@ -26,6 +26,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wof:belongsto": [],
     "wof:breaches": [],
     "wof:controlled": [
@@ -41,7 +42,7 @@
     ],
     "wof:id": 1477855739,
     "wof:label": "F85 (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511401,
     "wof:name": "F85",
     "wof:parent_id": -1,
     "wof:placetype": "venue",

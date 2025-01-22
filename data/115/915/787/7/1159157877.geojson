@@ -35,6 +35,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -69,7 +70,7 @@
     ],
     "wof:id": 1159157877,
     "wof:label": "B-02 Gate 26 (1988-07-01 - 1998-10-31)",
-    "wof:lastmodified": 1672882085,
+    "wof:lastmodified": 1737511401,
     "wof:name": "B-02 Gate 26",
     "wof:parent_id": 1159554817,
     "wof:placetype": "enclosure",

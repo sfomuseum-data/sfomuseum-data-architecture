@@ -29,6 +29,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1159157323,
       102527513,
@@ -63,7 +64,7 @@
       }
     ],
     "wof:id": 1159157803,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511401,
     "wof:name": "C43",
     "wof:parent_id": 1159157323,
     "wof:placetype": "venue",

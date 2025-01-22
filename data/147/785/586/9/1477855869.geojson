@@ -30,6 +30,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1477855835,
       102527513,
@@ -78,7 +79,7 @@
     ],
     "wof:id": 1477855869,
     "wof:label": "A12 (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511400,
     "wof:name": "A12",
     "wof:parent_id": 1477855835,
     "wof:placetype": "venue",

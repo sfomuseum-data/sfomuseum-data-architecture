@@ -32,6 +32,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1745882321,
     "wof:label": "E13 (2021-05-25)",
-    "wof:lastmodified": 1672878185,
+    "wof:lastmodified": 1737511401,
     "wof:name": "E13",
     "wof:parent_id": 1745882299,
     "wof:placetype": "venue",

@@ -35,6 +35,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -70,7 +71,7 @@
     ],
     "wof:id": 1159157893,
     "wof:label": "D-06 Kids’ Spot (1997-08-01 - 2000~)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1737511400,
     "wof:name": "D-06 Kids’ Spot",
     "wof:parent_id": 1159554829,
     "wof:placetype": "enclosure",

@@ -35,6 +35,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1914676359,
       1914676363
@@ -82,7 +83,7 @@
       }
     ],
     "wof:id": 1914650743,
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511400,
     "wof:name": "1G Photo Gallery",
     "wof:parent_id": 1914601309,
     "wof:placetype": "enclosure",

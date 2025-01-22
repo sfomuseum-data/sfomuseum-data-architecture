@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -64,7 +65,7 @@
     ],
     "wof:id": 1360516241,
     "wof:label": "C-05 Terminal One Lower Gallery (1988~)",
-    "wof:lastmodified": 1693418722,
+    "wof:lastmodified": 1737511400,
     "wof:name": "C-05 Terminal One Lower Gallery",
     "wof:parent_id": 1159554815,
     "wof:placetype": "enclosure",

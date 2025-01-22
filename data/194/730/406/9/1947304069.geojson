@@ -42,6 +42,7 @@
     "src:geom_alt": [
       "sfogis-ground"
     ],
+    "wfnd:placetype": "terminal",
     "wfnd:waypoint_id": [
       1947305371
     ],
@@ -87,7 +88,7 @@
     ],
     "wof:id": 1947304069,
     "wof:label": "International Terminal (2024-11-05)",
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511401,
     "wof:name": "International Terminal",
     "wof:parent_id": 1947304067,
     "wof:placetype": "wing",

@@ -26,6 +26,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wof:belongsto": [],
     "wof:breaches": [],
     "wof:controlled": [
@@ -41,7 +42,7 @@
     ],
     "wof:id": 1477855893,
     "wof:label": "G101B (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511400,
     "wof:name": "G101B",
     "wof:parent_id": -1,
     "wof:placetype": "venue",

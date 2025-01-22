@@ -30,6 +30,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1947305369
     ],
@@ -81,7 +82,7 @@
     ],
     "wof:id": 1947304247,
     "wof:label": "AML 05 AML Book Show (2024-11-05)",
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511401,
     "wof:name": "AML 05 AML Book Show",
     "wof:parent_id": 1947304235,
     "wof:placetype": "enclosure",

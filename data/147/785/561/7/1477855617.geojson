@@ -26,6 +26,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wof:belongsto": [],
     "wof:breaches": [],
     "wof:controlled": [
@@ -41,7 +42,7 @@
     ],
     "wof:id": 1477855617,
     "wof:label": "D51A (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511401,
     "wof:name": "D51A",
     "wof:parent_id": -1,
     "wof:placetype": "venue",

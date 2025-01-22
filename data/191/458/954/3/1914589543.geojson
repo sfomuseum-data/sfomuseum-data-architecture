@@ -28,6 +28,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -78,7 +79,7 @@
     ],
     "wof:id": 1914589543,
     "wof:label": "AML 08 AML Perimeter (2021-05-25)",
-    "wof:lastmodified": 1720724297,
+    "wof:lastmodified": 1737511400,
     "wof:name": "AML 08 AML Perimeter",
     "wof:parent_id": 1745885811,
     "wof:placetype": "enclosure",

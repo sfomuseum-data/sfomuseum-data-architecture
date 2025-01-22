@@ -35,6 +35,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -70,7 +71,7 @@
     ],
     "wof:id": 1159157917,
     "wof:label": "D-11 Central Wall (Duty Free) (1987-09-01 - 1988~)",
-    "wof:lastmodified": 1672882085,
+    "wof:lastmodified": 1737511401,
     "wof:name": "D-11 Central Wall (Duty Free)",
     "wof:parent_id": 1159554827,
     "wof:placetype": "enclosure",

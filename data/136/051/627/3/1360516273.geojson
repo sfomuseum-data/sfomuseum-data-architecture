@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -64,7 +65,7 @@
     ],
     "wof:id": 1360516273,
     "wof:label": "A-02 International South Cases (2011~ - 2014~)",
-    "wof:lastmodified": 1693418722,
+    "wof:lastmodified": 1737511400,
     "wof:name": "A-02 International South Cases",
     "wof:parent_id": 1159396159,
     "wof:placetype": "enclosure",

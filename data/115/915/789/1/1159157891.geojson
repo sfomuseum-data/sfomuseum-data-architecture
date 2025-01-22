@@ -35,6 +35,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -70,7 +71,7 @@
     ],
     "wof:id": 1159157891,
     "wof:label": "C-01 Aquarium (1995-11-13 - 2000~)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1737511400,
     "wof:name": "C-01 Aquarium",
     "wof:parent_id": 1159554817,
     "wof:placetype": "enclosure",

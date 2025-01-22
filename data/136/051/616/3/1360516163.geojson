@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -64,7 +65,7 @@
     ],
     "wof:id": 1360516163,
     "wof:label": "F-11 Photographs (2011~ - 2014~)",
-    "wof:lastmodified": 1693418722,
+    "wof:lastmodified": 1737511400,
     "wof:name": "F-11 Photographs",
     "wof:parent_id": 1159396141,
     "wof:placetype": "enclosure",

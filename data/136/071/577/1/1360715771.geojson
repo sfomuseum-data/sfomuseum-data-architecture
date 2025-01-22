@@ -19,6 +19,7 @@
     "sfo:level": -1,
     "sfomuseum:placetype": "building",
     "src:geom": "unknown",
+    "wfnd:placetype": "building",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -44,7 +45,7 @@
       }
     ],
     "wof:id": 1360715771,
-    "wof:lastmodified": 1716581988,
+    "wof:lastmodified": 1737511400,
     "wof:name": "SFO Museum Administrative Office",
     "wof:parent_id": 1159157271,
     "wof:placetype": "building",

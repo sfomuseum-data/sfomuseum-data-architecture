@@ -37,6 +37,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       1159157335,
       102527513,
@@ -72,7 +73,7 @@
     ],
     "wof:id": 1159157047,
     "wof:label": "A-01 International South Wall (2017~)",
-    "wof:lastmodified": 1672882085,
+    "wof:lastmodified": 1737511400,
     "wof:name": "4C International South Wall",
     "wof:parent_id": 1159157335,
     "wof:placetype": "enclosure",

@@ -32,6 +32,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1914666719
     ],
@@ -83,7 +84,7 @@
     ],
     "wof:id": 1914601181,
     "wof:label": "AML 02 AML Back Gallery (2024-06-17)",
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511401,
     "wof:name": "AML 02 AML Back Gallery",
     "wof:parent_id": 1914601171,
     "wof:placetype": "enclosure",

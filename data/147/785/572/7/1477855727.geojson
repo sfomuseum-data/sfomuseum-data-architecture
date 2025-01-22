@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       1477855703,
       102527513,
@@ -82,7 +83,7 @@
     ],
     "wof:id": 1477855727,
     "wof:label": "F-04 Gate 87a (2019)",
-    "wof:lastmodified": 1693418722,
+    "wof:lastmodified": 1737511401,
     "wof:name": "F-04 Gate 87a",
     "wof:parent_id": 1477855703,
     "wof:placetype": "enclosure",

@@ -29,6 +29,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:site_2019": "1A",
     "src:geom": "sfo",
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -74,7 +75,7 @@
     ],
     "wof:id": 1914601211,
     "wof:label": "B14 (2024-06-17)",
-    "wof:lastmodified": 1731958687,
+    "wof:lastmodified": 1737511401,
     "wof:name": "B14",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",

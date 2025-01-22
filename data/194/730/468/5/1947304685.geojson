@@ -23,6 +23,7 @@
     ],
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:placetype": "commonarea",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -64,7 +65,7 @@
     ],
     "wof:id": 1947304685,
     "wof:label": "Terminal Two Arrivals (2024-11-05)",
-    "wof:lastmodified": 1731958791,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Terminal Two Arrivals",
     "wof:parent_id": 1947304591,
     "wof:placetype": "concourse",

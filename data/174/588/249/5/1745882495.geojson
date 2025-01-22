@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -83,7 +84,7 @@
     ],
     "wof:id": 1745882495,
     "wof:label": "F-12 Student Art (2021-05-25)",
-    "wof:lastmodified": 1673035006,
+    "wof:lastmodified": 1737511401,
     "wof:name": "3K Aviation Photographs",
     "wof:parent_id": 1745882323,
     "wof:placetype": "enclosure",

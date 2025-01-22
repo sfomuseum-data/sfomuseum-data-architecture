@@ -20,6 +20,7 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gate",
     "wof:belongsto": [],
     "wof:breaches": [],
     "wof:controlled": [
@@ -35,7 +36,7 @@
     ],
     "wof:id": 1477855859,
     "wof:label": "A5B (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511400,
     "wof:name": "A5B",
     "wof:parent_id": -1,
     "wof:placetype": "venue",

@@ -25,6 +25,7 @@
     "sfomuseum:placetype": "observationdeck",
     "sfomuseum:post_security": -1,
     "src:geom": "sfo",
+    "wfnd:placetype": "observationdeck",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1745882403,
     "wof:label": "Boarding Area G Observation Deck (2021-05-25)",
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Boarding Area G Observation Deck",
     "wof:parent_id": 1745882401,
     "wof:placetype": "arcade",

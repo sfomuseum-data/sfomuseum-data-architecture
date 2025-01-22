@@ -29,6 +29,7 @@
     "src:geom_alt": [
       "sfomuseum-reversegeo"
     ],
+    "wfnd:placetype": "building",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -68,7 +69,7 @@
     ],
     "wof:id": 1763588121,
     "wof:label": "SFO Terminal Complex (2021-11-09)",
-    "wof:lastmodified": 1720821760,
+    "wof:lastmodified": 1737511400,
     "wof:name": "SFO Terminal Complex",
     "wof:parent_id": 102527513,
     "wof:placetype": "building",

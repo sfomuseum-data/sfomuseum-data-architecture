@@ -25,6 +25,7 @@
     "sfomuseum:placetype": "observationdeck",
     "sfomuseum:post_security": -1,
     "src:geom": "sfo",
+    "wfnd:placetype": "observationdeck",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -71,7 +72,7 @@
     ],
     "wof:id": 1779443981,
     "wof:label": "SkyTerrace Observation Deck (2021-11-09)",
-    "wof:lastmodified": 1720822026,
+    "wof:lastmodified": 1737511400,
     "wof:name": "SkyTerrace Observation Deck",
     "wof:parent_id": 1763588165,
     "wof:placetype": "arcade",

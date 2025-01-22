@@ -24,6 +24,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       1745882083,
       102527513,
@@ -67,7 +68,7 @@
       }
     ],
     "wof:id": 1745887101,
-    "wof:lastmodified": 1716581989,
+    "wof:lastmodified": 1737511400,
     "wof:name": "HM04 Harvey Milk Temporary Wall 2",
     "wof:parent_id": 1745882139,
     "wof:placetype": "enclosure",

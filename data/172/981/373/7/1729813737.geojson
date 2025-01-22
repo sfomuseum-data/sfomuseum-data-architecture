@@ -30,6 +30,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1796935607
     ],
@@ -81,7 +82,7 @@
     ],
     "wof:id": 1729813737,
     "wof:label": "AML Aviation Museum Gallery 04 (2020-~05)",
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511401,
     "wof:name": "AML 04 AML South Interior",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",

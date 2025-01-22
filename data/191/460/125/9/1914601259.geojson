@@ -28,6 +28,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1914666785
     ],
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1914601259,
     "wof:label": "1A Student Art South (2024-06-17)",
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511401,
     "wof:name": "1A Student Art South",
     "wof:parent_id": 1914601199,
     "wof:placetype": "enclosure",

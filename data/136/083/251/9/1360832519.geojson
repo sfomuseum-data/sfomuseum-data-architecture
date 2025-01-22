@@ -24,6 +24,7 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "flysfo",
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1159157323,
       102527513,
@@ -55,7 +56,7 @@
       }
     ],
     "wof:id": 1360832519,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511400,
     "wof:name": "C45",
     "wof:parent_id": 1159157323,
     "wof:placetype": "venue",

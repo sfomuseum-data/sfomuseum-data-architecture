@@ -38,6 +38,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1914666375
     ],
@@ -90,7 +91,7 @@
     ],
     "wof:id": 1914600991,
     "wof:label": "3K Aviation Photographs (2024-06-17)",
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511401,
     "wof:name": "3K Aviation Photographs",
     "wof:parent_id": 1914600983,
     "wof:placetype": "enclosure",

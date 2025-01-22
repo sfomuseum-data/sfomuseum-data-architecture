@@ -28,6 +28,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1796889471
     ],
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1763588505,
     "wof:label": "1E Mid-Pier Gallery (2021-11-09)",
-    "wof:lastmodified": 1737504350,
+    "wof:lastmodified": 1737511400,
     "wof:name": "1E Mid-Pier Gallery",
     "wof:parent_id": 1763588177,
     "wof:placetype": "enclosure",

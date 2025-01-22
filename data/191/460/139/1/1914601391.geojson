@@ -39,6 +39,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1914666213
     ],
@@ -90,7 +91,7 @@
     ],
     "wof:id": 1914601391,
     "wof:label": "2A Boomerang Gallery (2024-06-17)",
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511401,
     "wof:name": "2A Boomerang Gallery",
     "wof:parent_id": 1914601349,
     "wof:placetype": "enclosure",

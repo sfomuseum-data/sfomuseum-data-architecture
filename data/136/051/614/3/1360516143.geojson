@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       1159396205,
       102527513,
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1360516143,
     "wof:label": "F-03 Gate 76 (2000~ - 2006~)",
-    "wof:lastmodified": 1693418722,
+    "wof:lastmodified": 1737511400,
     "wof:name": "F-03 Gate 76",
     "wof:parent_id": 1159396205,
     "wof:placetype": "enclosure",

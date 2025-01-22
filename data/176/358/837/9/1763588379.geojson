@@ -31,6 +31,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -79,7 +80,7 @@
     ],
     "wof:id": 1763588379,
     "wof:label": "A9 (2021-11-09)",
-    "wof:lastmodified": 1672878185,
+    "wof:lastmodified": 1737511400,
     "wof:name": "A9",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

@@ -33,6 +33,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -81,7 +82,7 @@
     ],
     "wof:id": 1914600905,
     "wof:label": "3C North Connector (2024-06-17)",
-    "wof:lastmodified": 1731958743,
+    "wof:lastmodified": 1737511401,
     "wof:name": "3C North Connector",
     "wof:parent_id": 1914600845,
     "wof:placetype": "enclosure",
@@ -89,8 +90,7 @@
       "gallery"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
       1763588519
     ],

@@ -39,6 +39,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1796935611
     ],
@@ -90,7 +91,7 @@
     ],
     "wof:id": 1763588543,
     "wof:label": "4C International South Wall (2021-11-09)",
-    "wof:lastmodified": 1737504350,
+    "wof:lastmodified": 1737511400,
     "wof:name": "4C International South Wall",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",

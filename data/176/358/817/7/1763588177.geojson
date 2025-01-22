@@ -31,6 +31,7 @@
     "sfomuseum:placetype": "boardingarea",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "boardingarea",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1763588177,
     "wof:label": "Boarding Area B (2021-11-09)",
-    "wof:lastmodified": 1720821890,
+    "wof:lastmodified": 1737511400,
     "wof:name": "Boarding Area B",
     "wof:parent_id": 1763588175,
     "wof:placetype": "concourse",

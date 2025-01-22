@@ -18,6 +18,7 @@
     "sfo:level": -1,
     "sfomuseum:placetype": "garage",
     "src:geom": "flysfo",
+    "wfnd:placetype": "garage",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1477855991,
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1737511400,
     "wof:name": "Garage G",
     "wof:parent_id": 1477855657,
     "wof:placetype": "building",

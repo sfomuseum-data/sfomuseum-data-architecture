@@ -27,6 +27,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       1159554853,
       102527513,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1360541553,
-    "wof:lastmodified": 1693418722,
+    "wof:lastmodified": 1737511400,
     "wof:name": "E-01 Children’s Art Gallery #2",
     "wof:parent_id": 1159554853,
     "wof:placetype": "enclosure",

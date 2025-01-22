@@ -39,6 +39,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1914666229
     ],
@@ -90,7 +91,7 @@
     ],
     "wof:id": 1914601393,
     "wof:label": "2C Kids’ Spot (2024-06-17)",
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511401,
     "wof:name": "2C Kids’ Spot",
     "wof:parent_id": 1914601349,
     "wof:placetype": "enclosure",

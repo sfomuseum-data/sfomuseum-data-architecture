@@ -35,6 +35,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -70,7 +71,7 @@
     ],
     "wof:id": 1159157927,
     "wof:label": "F-08 Gate 81 (1987-09-01 - 1988~)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1737511400,
     "wof:name": "F-08 Gate 81",
     "wof:parent_id": 1159554819,
     "wof:placetype": "enclosure",

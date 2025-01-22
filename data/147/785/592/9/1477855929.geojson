@@ -37,6 +37,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       1477855927,
       102527513,
@@ -85,7 +86,7 @@
     ],
     "wof:id": 1477855929,
     "wof:label": "A-01 International South Wall (2019)",
-    "wof:lastmodified": 1693418722,
+    "wof:lastmodified": 1737511401,
     "wof:name": "A-01 International South Wall",
     "wof:parent_id": 1477855927,
     "wof:placetype": "enclosure",

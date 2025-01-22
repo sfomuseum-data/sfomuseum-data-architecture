@@ -34,6 +34,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -82,7 +83,7 @@
     ],
     "wof:id": 1914600919,
     "wof:label": "E6 (2024-06-17)",
-    "wof:lastmodified": 1731958747,
+    "wof:lastmodified": 1737511401,
     "wof:name": "E6",
     "wof:parent_id": 1914600917,
     "wof:placetype": "venue",

@@ -34,6 +34,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -82,7 +83,7 @@
     ],
     "wof:id": 1914601353,
     "wof:label": "D3 (2024-06-17)",
-    "wof:lastmodified": 1731958769,
+    "wof:lastmodified": 1737511401,
     "wof:name": "D3",
     "wof:parent_id": 1914601349,
     "wof:placetype": "venue",

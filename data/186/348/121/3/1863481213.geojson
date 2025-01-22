@@ -28,6 +28,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -60,7 +61,7 @@
     ],
     "wof:id": 1863481213,
     "wof:label": "K-03 Aviation Museum Gallery 03 (2011~)",
-    "wof:lastmodified": 1683074369,
+    "wof:lastmodified": 1737511400,
     "wof:name": "K-03 Aviation Museum Gallery 03",
     "wof:parent_id": 1360521565,
     "wof:placetype": "enclosure",

@@ -37,6 +37,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wfnd:waypoint_id": [
       1796935593
     ],
@@ -88,7 +89,7 @@
     ],
     "wof:id": 1763588141,
     "wof:label": "D7 (2021-11-09)",
-    "wof:lastmodified": 1737504350,
+    "wof:lastmodified": 1737511400,
     "wof:name": "D7",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

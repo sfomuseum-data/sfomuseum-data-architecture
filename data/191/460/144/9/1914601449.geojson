@@ -25,6 +25,7 @@
     ],
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "commonarea",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1914601449,
     "wof:label": "Terminal Two Departures (Post-Security) (2024-06-17)",
-    "wof:lastmodified": 1731958793,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Terminal Two Departures (Post-Security)",
     "wof:parent_id": 1914601345,
     "wof:placetype": "concourse",

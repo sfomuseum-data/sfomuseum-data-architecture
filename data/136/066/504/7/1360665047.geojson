@@ -21,6 +21,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:placetype": "building",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "building",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -47,7 +48,7 @@
     ],
     "wof:id": 1360665047,
     "wof:label": "San Francisco Airport Administration Building (1927 - 1954~)",
-    "wof:lastmodified": 1716581988,
+    "wof:lastmodified": 1737511400,
     "wof:name": "San Francisco Airport Administration Building",
     "wof:parent_id": 102527513,
     "wof:placetype": "building",

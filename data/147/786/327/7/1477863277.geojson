@@ -18,6 +18,7 @@
     "sfo:level": -1,
     "sfomuseum:placetype": "building",
     "src:geom": "flysfo",
+    "wfnd:placetype": "building",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -53,7 +54,7 @@
       }
     ],
     "wof:id": 1477863277,
-    "wof:lastmodified": 1731960865,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Rental Car Center",
     "wof:parent_id": 102527513,
     "wof:placetype": "building",

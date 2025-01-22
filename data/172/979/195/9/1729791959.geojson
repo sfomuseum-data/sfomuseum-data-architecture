@@ -19,6 +19,7 @@
     "sfomuseum:placetype": "airtrain",
     "sfomuseum:post_security": 0,
     "src:geom": "flysfo",
+    "wfnd:placetype": "airtrain",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1729791959,
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Terminal 2 Air Train Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "arcade",

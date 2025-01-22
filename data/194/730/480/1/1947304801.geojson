@@ -25,6 +25,7 @@
     "sfomuseum:map_id_alt": "D16",
     "sfomuseum:placetype": "gallery",
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1947305119
     ],
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1947304801,
     "wof:label": "2D Sky Terrace Platform (2024-11-05)",
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511401,
     "wof:name": "2D Sky Terrace Platform",
     "wof:parent_id": 1947304799,
     "wof:placetype": "enclosure",

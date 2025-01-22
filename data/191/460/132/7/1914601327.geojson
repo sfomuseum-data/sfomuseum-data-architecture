@@ -25,6 +25,7 @@
     ],
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:placetype": "commonarea",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1914601327,
     "wof:label": "Terminal One Arrivals (2024-06-17)",
-    "wof:lastmodified": 1731958722,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Terminal One Arrivals",
     "wof:parent_id": 1914601197,
     "wof:placetype": "concourse",

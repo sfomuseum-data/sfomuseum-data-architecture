@@ -21,6 +21,7 @@
     "sfo:min_level": 1,
     "sfomuseum:placetype": "garage",
     "src:geom": "flysfo",
+    "wfnd:placetype": "garage",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1477856011,
-    "wof:lastmodified": 1720826354,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Central Parking Garage",
     "wof:parent_id": 102527513,
     "wof:placetype": "building",

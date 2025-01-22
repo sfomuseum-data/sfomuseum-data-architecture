@@ -23,6 +23,7 @@
     "sfomuseum:placetype": "boardingarea",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "boardingarea",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -53,7 +54,7 @@
     ],
     "wof:id": 1159396189,
     "wof:label": "Pier G (1974~ - 1979~)",
-    "wof:lastmodified": 1693347362,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Pier G",
     "wof:parent_id": 1159396169,
     "wof:placetype": "concourse",

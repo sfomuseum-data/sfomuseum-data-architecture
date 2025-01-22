@@ -37,6 +37,7 @@
       "sfogis-subterranean",
       "sfogis-ground"
     ],
+    "wfnd:placetype": "terminal",
     "wfnd:waypoint_id": [
       1947304923
     ],
@@ -79,7 +80,7 @@
     ],
     "wof:id": 1947304591,
     "wof:label": "Terminal 2 (2024-11-05)",
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Terminal 2",
     "wof:parent_id": 1947304067,
     "wof:placetype": "wing",

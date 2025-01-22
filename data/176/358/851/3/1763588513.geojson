@@ -33,6 +33,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -81,7 +82,7 @@
     ],
     "wof:id": 1763588513,
     "wof:label": "1J Terminal One Lower Gallery (2021-11-09)",
-    "wof:lastmodified": 1673030055,
+    "wof:lastmodified": 1737511400,
     "wof:name": "1J Terminal One Lower Gallery",
     "wof:parent_id": 1763588261,
     "wof:placetype": "enclosure",

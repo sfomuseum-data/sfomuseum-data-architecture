@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -82,7 +83,7 @@
     ],
     "wof:id": 1745882455,
     "wof:label": "D-14 Kids’ Spot (2021-05-25)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1737511401,
     "wof:name": "2B Kids’ Spot",
     "wof:parent_id": 1745882087,
     "wof:placetype": "enclosure",

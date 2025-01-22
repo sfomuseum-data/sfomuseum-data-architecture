@@ -21,6 +21,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -64,7 +65,7 @@
       }
     ],
     "wof:id": 1763594987,
-    "wof:lastmodified": 1724087075,
+    "wof:lastmodified": 1737511400,
     "wof:name": "HM03 Sterile Connector",
     "wof:parent_id": 1745882227,
     "wof:placetype": "enclosure",

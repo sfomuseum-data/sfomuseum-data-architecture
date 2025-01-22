@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -64,7 +65,7 @@
     ],
     "wof:id": 1360516445,
     "wof:label": "C-03 Entrance Lobby C (2006~ - 2011~)",
-    "wof:lastmodified": 1672882085,
+    "wof:lastmodified": 1737511400,
     "wof:name": "C-03 Entrance Lobby C",
     "wof:parent_id": 1159396139,
     "wof:placetype": "enclosure",

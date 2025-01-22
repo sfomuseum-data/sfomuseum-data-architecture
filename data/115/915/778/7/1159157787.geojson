@@ -24,6 +24,7 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1159396267,
       102527513,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1159157787,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511400,
     "wof:name": "E67A",
     "wof:parent_id": 1159396267,
     "wof:placetype": "venue",

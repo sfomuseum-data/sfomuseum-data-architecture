@@ -32,6 +32,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1729792403,
     "wof:label": "D5 (2020-~05)",
-    "wof:lastmodified": 1672878184,
+    "wof:lastmodified": 1737511401,
     "wof:name": "D5",
     "wof:parent_id": 1729792391,
     "wof:placetype": "venue",

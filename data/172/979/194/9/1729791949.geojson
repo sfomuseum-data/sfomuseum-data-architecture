@@ -19,6 +19,7 @@
     "sfomuseum:placetype": "airtrain",
     "sfomuseum:post_security": 0,
     "src:geom": "unknown",
+    "wfnd:placetype": "airtrain",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -56,7 +57,7 @@
       }
     ],
     "wof:id": 1729791949,
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Garage A AirTrain Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "arcade",

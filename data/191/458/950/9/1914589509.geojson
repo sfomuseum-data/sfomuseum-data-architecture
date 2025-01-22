@@ -32,6 +32,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wfnd:waypoint_id": [
       1796935607
     ],
@@ -85,7 +86,7 @@
     ],
     "wof:id": 1914589509,
     "wof:label": "AML Aviation Museum Gallery 01 (2021-11-09)",
-    "wof:lastmodified": 1737504350,
+    "wof:lastmodified": 1737511400,
     "wof:name": "AML Aviation Museum Gallery 01",
     "wof:parent_id": 1863481173,
     "wof:placetype": "enclosure",

@@ -35,6 +35,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -70,7 +71,7 @@
     ],
     "wof:id": 1159157881,
     "wof:label": "F-01 Gate 68 Children’s Art Gallery (1988-07-01 - 2000~)",
-    "wof:lastmodified": 1672882085,
+    "wof:lastmodified": 1737511401,
     "wof:name": "F-01 Gate 68 Children’s Art Gallery",
     "wof:parent_id": 1159554821,
     "wof:placetype": "enclosure",

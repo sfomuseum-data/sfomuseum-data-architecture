@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1477855831,
     "wof:label": "F-12 Student Art (2019)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1737511401,
     "wof:name": "F-12 Aviation Photographs",
     "wof:parent_id": 1477855699,
     "wof:placetype": "enclosure",

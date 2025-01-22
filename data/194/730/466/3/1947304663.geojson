@@ -28,6 +28,7 @@
     "sfomuseum:placetype": "boardingarea",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "boardingarea",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1947304663,
     "wof:label": "Boarding Area C (2024-11-05)",
-    "wof:lastmodified": 1731958786,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Boarding Area C",
     "wof:parent_id": 1947304591,
     "wof:placetype": "concourse",

@@ -27,6 +27,7 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1729792477,
     "wof:label": "C9 (2020-~05)",
-    "wof:lastmodified": 1672878184,
+    "wof:lastmodified": 1737511401,
     "wof:name": "C9",
     "wof:parent_id": 1729792459,
     "wof:placetype": "venue",

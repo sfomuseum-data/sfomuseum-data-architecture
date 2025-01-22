@@ -25,6 +25,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -69,7 +70,7 @@
     ],
     "wof:id": 1745882465,
     "wof:label": "B-15 Harvey Milk Temporary Wall Gallery (2021-05-25)",
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1737511401,
     "wof:name": "HM02 Harvey Milk Temporary Wall Gallery",
     "wof:parent_id": 1745882139,
     "wof:placetype": "enclosure",

@@ -37,6 +37,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wfnd:waypoint_id": [
       1796935457
     ],
@@ -88,7 +89,7 @@
     ],
     "wof:id": 1763588467,
     "wof:label": "G14 (2021-11-09)",
-    "wof:lastmodified": 1737504350,
+    "wof:lastmodified": 1737511400,
     "wof:name": "G14",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

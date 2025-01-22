@@ -28,6 +28,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -76,7 +77,7 @@
     ],
     "wof:id": 1863481171,
     "wof:label": "AML 03 AML North Interior (2021-05-25)",
-    "wof:lastmodified": 1683072870,
+    "wof:lastmodified": 1737511400,
     "wof:name": "AML 03 AML North Interior",
     "wof:parent_id": 1745885811,
     "wof:placetype": "enclosure",

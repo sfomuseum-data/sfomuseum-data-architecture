@@ -14,6 +14,7 @@
     "sfo:level": -1,
     "sfomuseum:placetype": "rail",
     "src:geom": "sfo",
+    "wfnd:placetype": "rail",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -52,7 +53,7 @@
       }
     ],
     "wof:id": 1779914099,
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1737511400,
     "wof:name": "AirTrain Rail",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

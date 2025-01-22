@@ -24,6 +24,7 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1159157337,
       102527513,
@@ -58,7 +59,7 @@
       }
     ],
     "wof:id": 1159157681,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511401,
     "wof:name": "G99B",
     "wof:parent_id": 1159157337,
     "wof:placetype": "venue",

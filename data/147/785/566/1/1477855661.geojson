@@ -33,6 +33,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -79,7 +80,7 @@
     ],
     "wof:id": 1477855661,
     "wof:label": "C-04 Entrance Lobby C Meet and Greet (2019)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1737511401,
     "wof:name": "C-04 Entrance Lobby C Meet and Greet",
     "wof:parent_id": 1477855657,
     "wof:placetype": "enclosure",

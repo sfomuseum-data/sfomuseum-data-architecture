@@ -19,6 +19,7 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "flysfo",
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1159396217,
       102527513,
@@ -50,7 +51,7 @@
       }
     ],
     "wof:id": 1376996231,
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1737511401,
     "wof:name": "B28",
     "wof:parent_id": 1159396217,
     "wof:placetype": "venue",

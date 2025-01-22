@@ -35,6 +35,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wfnd:waypoint_id": [
       1947305161
     ],
@@ -86,7 +87,7 @@
     ],
     "wof:id": 1947304145,
     "wof:label": "G5 (2024-11-05)",
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511401,
     "wof:name": "G5",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

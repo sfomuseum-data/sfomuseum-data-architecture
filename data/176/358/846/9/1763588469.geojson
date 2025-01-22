@@ -39,6 +39,7 @@
     ],
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:placetype": "commonarea",
     "wfnd:waypoint_id": [
       1796935609
     ],
@@ -87,7 +88,7 @@
     ],
     "wof:id": 1763588469,
     "wof:label": "International Terminal Main Hall (2021-11-09)",
-    "wof:lastmodified": 1737504350,
+    "wof:lastmodified": 1737511400,
     "wof:name": "International Terminal Main Hall",
     "wof:parent_id": 1763588369,
     "wof:placetype": "concourse",

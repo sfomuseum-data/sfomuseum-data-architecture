@@ -25,6 +25,7 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       85688637,
       102087579,
@@ -70,7 +71,7 @@
     ],
     "wof:id": 1745882383,
     "wof:label": "A7 (2021-05-25)",
-    "wof:lastmodified": 1672969952,
+    "wof:lastmodified": 1737511401,
     "wof:name": "A7",
     "wof:parent_id": 1745882337,
     "wof:placetype": "venue",

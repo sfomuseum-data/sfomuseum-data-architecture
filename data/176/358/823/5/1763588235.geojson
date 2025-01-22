@@ -35,6 +35,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wfnd:waypoint_id": [
       1947305229
     ],
@@ -86,7 +87,7 @@
     ],
     "wof:id": 1763588235,
     "wof:label": "C2 (2021-11-09)",
-    "wof:lastmodified": 1737504350,
+    "wof:lastmodified": 1737511400,
     "wof:name": "C2",
     "wof:parent_id": 1763588233,
     "wof:placetype": "venue",

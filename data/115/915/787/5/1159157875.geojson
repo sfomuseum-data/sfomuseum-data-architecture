@@ -35,6 +35,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -70,7 +71,7 @@
     ],
     "wof:id": 1159157875,
     "wof:label": "B-04 Entrance Lobby B (1997-01-29 - 2000~)",
-    "wof:lastmodified": 1672966493,
+    "wof:lastmodified": 1737511401,
     "wof:name": "B-04 Entrance Lobby B",
     "wof:parent_id": 1159554817,
     "wof:placetype": "enclosure",

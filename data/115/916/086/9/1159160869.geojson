@@ -23,6 +23,7 @@
     "sfomuseum:placetype": "liminal",
     "sfomuseum:post_security": -1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "liminal",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -65,7 +66,7 @@
     ],
     "wof:id": 1159160869,
     "wof:label": "Null Terminal (1980)",
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Null Terminal",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

@@ -40,6 +40,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wfnd:waypoint_id": [
       1914666703
     ],
@@ -91,7 +92,7 @@
     ],
     "wof:id": 1914601359,
     "wof:label": "D6 (2024-06-17)",
-    "wof:lastmodified": 1737504351,
+    "wof:lastmodified": 1737511401,
     "wof:name": "D6",
     "wof:parent_id": 1914601349,
     "wof:placetype": "venue",

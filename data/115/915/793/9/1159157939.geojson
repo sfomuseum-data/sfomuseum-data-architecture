@@ -34,6 +34,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       1159157335,
       102527513,
@@ -70,7 +71,7 @@
     ],
     "wof:id": 1159157939,
     "wof:label": "G-03 Video Arts Gallery (2017-09-07)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1737511400,
     "wof:name": "G-03 Video Arts Gallery",
     "wof:parent_id": 1159157335,
     "wof:placetype": "enclosure",

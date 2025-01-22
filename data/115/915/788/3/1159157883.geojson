@@ -35,6 +35,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -70,7 +71,7 @@
     ],
     "wof:id": 1159157883,
     "wof:label": "A-03 Entrance Lobby A (1990-09-01 - 2000~)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1737511401,
     "wof:name": "A-03 Entrance Lobby A",
     "wof:parent_id": 1159554817,
     "wof:placetype": "enclosure",

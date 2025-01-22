@@ -37,6 +37,7 @@
     ],
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:placetype": "commonarea",
     "wfnd:waypoint_id": [
       1947304923
     ],
@@ -85,7 +86,7 @@
     ],
     "wof:id": 1947304739,
     "wof:label": "Terminal 2 Main Hall (2024-11-05)",
-    "wof:lastmodified": 1737504350,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Terminal 2 Main Hall",
     "wof:parent_id": 1947304591,
     "wof:placetype": "concourse",

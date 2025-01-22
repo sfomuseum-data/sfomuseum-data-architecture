@@ -26,6 +26,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -74,7 +75,7 @@
     ],
     "wof:id": 1745887111,
     "wof:label": "AML Aviation Museum Perimeter 08 (2021-05-25)",
-    "wof:lastmodified": 1672882086,
+    "wof:lastmodified": 1737511400,
     "wof:name": "AML 08 Aviation Museum Perimeter 08",
     "wof:parent_id": 1745885811,
     "wof:placetype": "enclosure",

@@ -28,6 +28,7 @@
     "sfomuseum:placetype": "terminal",
     "sfomuseum:terminal_id": "T2",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "terminal",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -55,7 +56,7 @@
       }
     ],
     "wof:id": 1360521545,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511400,
     "wof:name": "Terminal 2",
     "wof:parent_id": 1159396337,
     "wof:placetype": "wing",

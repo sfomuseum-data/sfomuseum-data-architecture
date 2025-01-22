@@ -20,6 +20,7 @@
     "sfomuseum:name": "Long Term Parking AirTrain Station",
     "sfomuseum:placetype": "airtrain",
     "src:geom": "sfogis",
+    "wfnd:placetype": "airtrain",
     "wof:alt_placetype": [
       "airtrain"
     ],
@@ -57,7 +58,7 @@
       }
     ],
     "wof:id": 1730051431,
-    "wof:lastmodified": 1720826354,
+    "wof:lastmodified": 1737511401,
     "wof:name": "Long Term Parking AirTrain Station",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

@@ -20,6 +20,7 @@
     "sfomuseum:map_id_alt": "D18",
     "sfomuseum:placetype": "gallery",
     "src:geom": "sfo",
+    "wfnd:placetype": "gallery",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -64,7 +65,7 @@
     ],
     "wof:id": 1914601501,
     "wof:label": "2F Pre-Security Connector/Zuber (2024-06-17)",
-    "wof:lastmodified": 1731958807,
+    "wof:lastmodified": 1737511401,
     "wof:name": "2F Pre-Security Connector/Zuber",
     "wof:parent_id": 1914601497,
     "wof:placetype": "enclosure",

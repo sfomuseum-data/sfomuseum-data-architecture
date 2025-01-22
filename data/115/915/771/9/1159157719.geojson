@@ -29,6 +29,7 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1159157337,
       102527513,
@@ -63,7 +64,7 @@
       }
     ],
     "wof:id": 1159157719,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737511400,
     "wof:name": "G101B",
     "wof:parent_id": 1159157337,
     "wof:placetype": "venue",
