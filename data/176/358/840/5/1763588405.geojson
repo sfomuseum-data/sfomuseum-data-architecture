@@ -32,6 +32,9 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1796935461
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -80,7 +83,7 @@
     ],
     "wof:id": 1763588405,
     "wof:label": "A2 (2021-11-09)",
-    "wof:lastmodified": 1720821819,
+    "wof:lastmodified": 1737504350,
     "wof:name": "A2",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

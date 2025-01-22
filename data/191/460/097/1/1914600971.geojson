@@ -37,6 +37,9 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666425
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -86,7 +89,7 @@
     ],
     "wof:id": 1914600971,
     "wof:label": "3A E Plaza Meet and Greet (2024-06-17)",
-    "wof:lastmodified": 1731958760,
+    "wof:lastmodified": 1737504351,
     "wof:name": "3A E Plaza Meet and Greet",
     "wof:parent_id": 1914600967,
     "wof:placetype": "enclosure",

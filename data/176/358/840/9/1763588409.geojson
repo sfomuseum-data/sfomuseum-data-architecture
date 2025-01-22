@@ -37,6 +37,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:waypoint_id": [
+      1796935465
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +88,7 @@
     ],
     "wof:id": 1763588409,
     "wof:label": "A5 (2021-11-09)",
-    "wof:lastmodified": 1720821821,
+    "wof:lastmodified": 1737504350,
     "wof:name": "A5",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

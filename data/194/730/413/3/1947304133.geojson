@@ -35,6 +35,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:waypoint_id": [
+      1947305141
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -83,7 +86,7 @@
     ],
     "wof:id": 1947304133,
     "wof:label": "G8 (2024-11-05)",
-    "wof:lastmodified": 1732064811,
+    "wof:lastmodified": 1737504351,
     "wof:name": "G8",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

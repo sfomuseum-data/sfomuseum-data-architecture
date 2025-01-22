@@ -37,6 +37,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:waypoint_id": [
+      1914666681
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +88,7 @@
     ],
     "wof:id": 1914601379,
     "wof:label": "D15 (2024-06-17)",
-    "wof:lastmodified": 1731958775,
+    "wof:lastmodified": 1737504351,
     "wof:name": "D15",
     "wof:parent_id": 1914601349,
     "wof:placetype": "venue",

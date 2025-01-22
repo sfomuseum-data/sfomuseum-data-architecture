@@ -26,6 +26,9 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947305233
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -70,7 +73,7 @@
     ],
     "wof:id": 1947304387,
     "wof:label": "C1 (2024-11-05)",
-    "wof:lastmodified": 1732064812,
+    "wof:lastmodified": 1737504351,
     "wof:name": "C1",
     "wof:parent_id": 1947304383,
     "wof:placetype": "venue",

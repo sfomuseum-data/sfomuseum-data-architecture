@@ -30,6 +30,9 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666601
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -75,7 +78,7 @@
     ],
     "wof:id": 1914601217,
     "wof:label": "B18 (2024-06-17)",
-    "wof:lastmodified": 1731958693,
+    "wof:lastmodified": 1737504351,
     "wof:name": "B18",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",

@@ -35,6 +35,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:waypoint_id": [
+      1947305253
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -83,7 +86,7 @@
     ],
     "wof:id": 1947304609,
     "wof:label": "D9 (2024-11-05)",
-    "wof:lastmodified": 1732064812,
+    "wof:lastmodified": 1737504351,
     "wof:name": "D9",
     "wof:parent_id": 1947304595,
     "wof:placetype": "venue",

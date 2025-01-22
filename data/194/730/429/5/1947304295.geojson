@@ -26,6 +26,9 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947305247
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -70,7 +73,7 @@
     ],
     "wof:id": 1947304295,
     "wof:label": "B22 (2024-11-05)",
-    "wof:lastmodified": 1732064811,
+    "wof:lastmodified": 1737504351,
     "wof:name": "B22",
     "wof:parent_id": 1947304261,
     "wof:placetype": "venue",

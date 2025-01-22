@@ -39,6 +39,10 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1796889641,
+      1796935611
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -88,7 +92,7 @@
     ],
     "wof:id": 1763588549,
     "wof:label": "4E Video Arts Gallery (2021-11-09)",
-    "wof:lastmodified": 1720821872,
+    "wof:lastmodified": 1737504350,
     "wof:name": "4E Video Arts Gallery",
     "wof:parent_id": 1763588469,
     "wof:placetype": "enclosure",

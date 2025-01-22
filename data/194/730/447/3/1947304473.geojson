@@ -35,6 +35,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:waypoint_id": [
+      1947305047
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -83,7 +86,7 @@
     ],
     "wof:id": 1947304473,
     "wof:label": "F17 (2024-11-05)",
-    "wof:lastmodified": 1732064811,
+    "wof:lastmodified": 1737504351,
     "wof:name": "F17",
     "wof:parent_id": 1947304451,
     "wof:placetype": "venue",

@@ -31,6 +31,9 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666719
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -79,7 +82,7 @@
     ],
     "wof:id": 1914632987,
     "wof:label": "AML 06 AML Photography (2024-06-17)",
-    "wof:lastmodified": 1722033599,
+    "wof:lastmodified": 1737504350,
     "wof:name": "AML 06 AML Photography",
     "wof:parent_id": 1914601171,
     "wof:placetype": "enclosure",

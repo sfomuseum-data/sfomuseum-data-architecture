@@ -37,6 +37,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:waypoint_id": [
+      1914666555
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +88,7 @@
     ],
     "wof:id": 1914601071,
     "wof:label": "G10 (2024-06-17)",
-    "wof:lastmodified": 1731958657,
+    "wof:lastmodified": 1737504351,
     "wof:name": "G10",
     "wof:parent_id": 1914601057,
     "wof:placetype": "venue",

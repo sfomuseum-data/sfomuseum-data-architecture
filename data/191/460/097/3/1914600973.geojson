@@ -38,6 +38,9 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666375
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -87,7 +90,7 @@
     ],
     "wof:id": 1914600973,
     "wof:label": "3L Terminal 3 Connector Arrival Level (2024-06-17)",
-    "wof:lastmodified": 1731958760,
+    "wof:lastmodified": 1737504351,
     "wof:name": "3L Terminal 3 Connector Arrival Level",
     "wof:parent_id": 1914600967,
     "wof:placetype": "enclosure",

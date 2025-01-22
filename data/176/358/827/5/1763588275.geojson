@@ -37,6 +37,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:waypoint_id": [
+      1796935379
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +88,7 @@
     ],
     "wof:id": 1763588275,
     "wof:label": "E1 (2021-11-09)",
-    "wof:lastmodified": 1720821766,
+    "wof:lastmodified": 1737504350,
     "wof:name": "E1",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",

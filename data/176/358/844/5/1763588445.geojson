@@ -37,6 +37,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:waypoint_id": [
+      1796935445
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +88,7 @@
     ],
     "wof:id": 1763588445,
     "wof:label": "G4 (2021-11-09)",
-    "wof:lastmodified": 1720821843,
+    "wof:lastmodified": 1737504350,
     "wof:name": "G4",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

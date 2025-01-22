@@ -37,6 +37,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:waypoint_id": [
+      1914666701
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +88,7 @@
     ],
     "wof:id": 1914601425,
     "wof:label": "C3 (2024-06-17)",
-    "wof:lastmodified": 1731958788,
+    "wof:lastmodified": 1737504351,
     "wof:name": "C3",
     "wof:parent_id": 1914601421,
     "wof:placetype": "venue",

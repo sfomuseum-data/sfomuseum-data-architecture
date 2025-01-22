@@ -8,7 +8,7 @@
     "date:inception_upper": "2021-05-25",
     "edtf:cessation": "2021-11-09",
     "edtf:inception": "2021-05-25",
-    "geom:area": 4.294380651619424e-10,
+    "geom:area": 4.294380651619423e-10,
     "geom:area_square_m": 397.817241,
     "geom:bbox": "-122.387450,37.620123,-122.387376,37.620233",
     "geom:latitude": 37.620173704195516,
@@ -37,6 +37,9 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1796889511
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +88,7 @@
     ],
     "wof:id": 1745882483,
     "wof:label": "F-03 Gate 76 (2021-05-25)",
-    "wof:lastmodified": 1673474928,
+    "wof:lastmodified": 1737504351,
     "wof:name": "3E Gate 76",
     "wof:parent_id": 1745882237,
     "wof:placetype": "enclosure",

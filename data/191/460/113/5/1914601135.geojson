@@ -39,6 +39,9 @@
     ],
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666717
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -84,7 +87,7 @@
     ],
     "wof:id": 1914601135,
     "wof:label": "International Terminal Main Hall (2024-06-17)",
-    "wof:lastmodified": 1731958669,
+    "wof:lastmodified": 1737504351,
     "wof:name": "International Terminal Main Hall",
     "wof:parent_id": 1914600999,
     "wof:placetype": "concourse",

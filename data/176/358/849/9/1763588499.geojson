@@ -29,6 +29,9 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1796889629
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -74,7 +77,7 @@
     ],
     "wof:id": 1763588499,
     "wof:label": "HM01 Central Photo Wall (2021-11-09)",
-    "wof:lastmodified": 1720821944,
+    "wof:lastmodified": 1737504350,
     "wof:name": "HM01 Central Photo Wall",
     "wof:parent_id": 1763588261,
     "wof:placetype": "enclosure",

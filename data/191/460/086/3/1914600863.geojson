@@ -32,6 +32,9 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666445
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -80,7 +83,7 @@
     ],
     "wof:id": 1914600863,
     "wof:label": "F6 (2024-06-17)",
-    "wof:lastmodified": 1731958734,
+    "wof:lastmodified": 1737504351,
     "wof:name": "F6",
     "wof:parent_id": 1914600845,
     "wof:placetype": "venue",

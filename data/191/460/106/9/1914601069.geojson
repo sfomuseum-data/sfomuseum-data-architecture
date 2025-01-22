@@ -37,6 +37,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:waypoint_id": [
+      1914666505
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +88,7 @@
     ],
     "wof:id": 1914601069,
     "wof:label": "G6 (2024-06-17)",
-    "wof:lastmodified": 1731958656,
+    "wof:lastmodified": 1737504351,
     "wof:name": "G6",
     "wof:parent_id": 1914601057,
     "wof:placetype": "venue",

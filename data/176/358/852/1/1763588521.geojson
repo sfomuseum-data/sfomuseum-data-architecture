@@ -38,6 +38,9 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1796889515
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -86,7 +89,7 @@
     ],
     "wof:id": 1763588521,
     "wof:label": "3F Gate 87a (2021-11-09)",
-    "wof:lastmodified": 1720821784,
+    "wof:lastmodified": 1737504350,
     "wof:name": "3F Gate 87a",
     "wof:parent_id": 1763588271,
     "wof:placetype": "enclosure",

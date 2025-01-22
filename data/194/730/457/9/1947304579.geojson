@@ -36,6 +36,7 @@
     ],
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -81,7 +82,7 @@
     ],
     "wof:id": 1947304579,
     "wof:label": "Terminal 3 Main Hall (2024-11-05)",
-    "wof:lastmodified": 1732240922,
+    "wof:lastmodified": 1737504351,
     "wof:name": "Terminal 3 Main Hall",
     "wof:parent_id": 1947304447,
     "wof:placetype": "concourse",

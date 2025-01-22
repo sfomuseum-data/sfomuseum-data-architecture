@@ -28,6 +28,10 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666389,
+      1914666411
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -72,7 +76,7 @@
     ],
     "wof:id": 1914601147,
     "wof:label": "4A International North Cases (2024-06-17)",
-    "wof:lastmodified": 1731958672,
+    "wof:lastmodified": 1737504351,
     "wof:name": "4A International North Cases",
     "wof:parent_id": 1914601135,
     "wof:placetype": "enclosure",

@@ -28,6 +28,9 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1796935525
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -72,7 +75,7 @@
     ],
     "wof:id": 1763588209,
     "wof:label": "B26 (2021-11-09)",
-    "wof:lastmodified": 1720821904,
+    "wof:lastmodified": 1737504350,
     "wof:name": "B26",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

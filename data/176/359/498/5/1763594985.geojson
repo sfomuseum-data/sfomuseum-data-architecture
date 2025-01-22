@@ -26,6 +26,9 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1796889579
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -69,7 +72,7 @@
       }
     ],
     "wof:id": 1763594985,
-    "wof:lastmodified": 1721943035,
+    "wof:lastmodified": 1737504350,
     "wof:name": "2E Kadish Gallery",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",

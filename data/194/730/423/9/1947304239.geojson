@@ -27,6 +27,7 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -75,7 +76,7 @@
     ],
     "wof:id": 1947304239,
     "wof:label": "AML Aviation Museum Ceiling 07 (2024-11-05)",
-    "wof:lastmodified": 1731979878,
+    "wof:lastmodified": 1737504351,
     "wof:name": "AML Aviation Museum Ceiling 07",
     "wof:parent_id": 1947304235,
     "wof:placetype": "enclosure",

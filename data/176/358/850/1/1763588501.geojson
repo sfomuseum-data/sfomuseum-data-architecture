@@ -29,6 +29,10 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1847571693,
+      1847571707
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -73,7 +77,7 @@
     ],
     "wof:id": 1763588501,
     "wof:label": "1D Alley Gallery (2021-11-09)",
-    "wof:lastmodified": 1720821916,
+    "wof:lastmodified": 1737504350,
     "wof:name": "1D Alley Gallery",
     "wof:parent_id": 1763588177,
     "wof:placetype": "enclosure",

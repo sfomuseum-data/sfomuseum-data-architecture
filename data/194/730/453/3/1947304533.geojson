@@ -37,6 +37,9 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947304861
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +88,7 @@
     ],
     "wof:id": 1947304533,
     "wof:label": "3B Kid’s Spot Boarding Area E (2024-11-05)",
-    "wof:lastmodified": 1731979878,
+    "wof:lastmodified": 1737504351,
     "wof:name": "3B Kid’s Spot Boarding Area E",
     "wof:parent_id": 1947304511,
     "wof:placetype": "enclosure",
