@@ -37,6 +37,14 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:detail": "ITB",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "ITB",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gate",
+    "wfnd:waypoint_id": [
+      1914666517
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +93,7 @@
     ],
     "wof:id": 1914601013,
     "wof:label": "A9 (2024-06-17)",
-    "wof:lastmodified": 1731958637,
+    "wof:lastmodified": 1737577131,
     "wof:name": "A9",
     "wof:parent_id": 1914601001,
     "wof:placetype": "venue",

@@ -37,6 +37,14 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:detail": "",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gallery",
+    "wfnd:waypoint_id": [
+      1796889511
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +93,7 @@
     ],
     "wof:id": 1763588533,
     "wof:label": "3J Photographs (2021-11-09)",
-    "wof:lastmodified": 1721768606,
+    "wof:lastmodified": 1737577130,
     "wof:name": "3J Photographs",
     "wof:parent_id": 1763588359,
     "wof:placetype": "enclosure",

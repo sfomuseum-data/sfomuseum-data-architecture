@@ -32,6 +32,14 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "T3",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T3",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gate",
+    "wfnd:waypoint_id": [
+      1796935387
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -80,7 +88,7 @@
     ],
     "wof:id": 1763588297,
     "wof:label": "F6 (2021-11-09)",
-    "wof:lastmodified": 1720821769,
+    "wof:lastmodified": 1737577130,
     "wof:name": "F6",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",

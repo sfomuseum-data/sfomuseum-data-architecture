@@ -29,6 +29,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:is_restricted": true,
+    "wfnd:level": -1,
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1159396181,
       102527513,
@@ -63,7 +66,7 @@
       }
     ],
     "wof:id": 1159157791,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737577131,
     "wof:name": "D58A",
     "wof:parent_id": 1159396181,
     "wof:placetype": "venue",

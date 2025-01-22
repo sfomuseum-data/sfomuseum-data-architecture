@@ -22,6 +22,9 @@
     "sfomuseum:placetype": "checkpoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 2,
+    "wfnd:placetype": "checkpoint",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -69,7 +72,7 @@
     ],
     "wof:id": 1914601499,
     "wof:label": "Security Checkpoint D (2024-06-17)",
-    "wof:lastmodified": 1731958806,
+    "wof:lastmodified": 1737577131,
     "wof:name": "Security Checkpoint D",
     "wof:parent_id": 1914601497,
     "wof:placetype": "venue",

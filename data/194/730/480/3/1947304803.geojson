@@ -25,6 +25,14 @@
     "sfomuseum:map_id_alt": "D16",
     "sfomuseum:placetype": "gallery",
     "src:geom": "sfo",
+    "wfnd:detail": "T2",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "T2",
+    "wfnd:level": 4,
+    "wfnd:placetype": "gallery",
+    "wfnd:waypoint_id": [
+      1947305119
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -72,7 +80,7 @@
     ],
     "wof:id": 1947304803,
     "wof:label": "2D Sky Terrace Wall (2024-11-05)",
-    "wof:lastmodified": 1731979878,
+    "wof:lastmodified": 1737577131,
     "wof:name": "2D Sky Terrace Wall",
     "wof:parent_id": 1947304799,
     "wof:placetype": "enclosure",

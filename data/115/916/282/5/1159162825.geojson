@@ -19,6 +19,9 @@
     "sfomuseum:placetype": "collection",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 0,
+    "wfnd:placetype": "collection",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -53,7 +56,7 @@
     ],
     "wof:id": 1159162825,
     "wof:label": "Permanent Collection (1980)",
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1737577131,
     "wof:name": "Permanent Collection",
     "wof:parent_id": 1159160869,
     "wof:placetype": "custom",

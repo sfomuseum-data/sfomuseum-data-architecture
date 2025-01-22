@@ -30,6 +30,9 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "flysfo",
+    "wfnd:is_restricted": true,
+    "wfnd:level": -1,
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1477855703,
       102527513,
@@ -75,7 +78,7 @@
     ],
     "wof:id": 1477930443,
     "wof:label": "F15 (2019-10)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737577130,
     "wof:name": "F15",
     "wof:parent_id": 1477855703,
     "wof:placetype": "venue",

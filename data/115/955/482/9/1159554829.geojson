@@ -22,6 +22,9 @@
     "sfomuseum:placetype": "terminal",
     "sfomuseum:terminal_id": "INTL",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": -1,
+    "wfnd:placetype": "terminal",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -50,7 +53,7 @@
     ],
     "wof:id": 1159554829,
     "wof:label": "International Terminal (1988~ - 2000~)",
-    "wof:lastmodified": 1693347362,
+    "wof:lastmodified": 1737577130,
     "wof:name": "International Terminal",
     "wof:parent_id": 1159554803,
     "wof:placetype": "wing",

@@ -31,6 +31,14 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "T1",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gallery",
+    "wfnd:waypoint_id": [
+      1947305179
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -75,7 +83,7 @@
     ],
     "wof:id": 1947304425,
     "wof:label": "1H Student Art North (2024-11-05)",
-    "wof:lastmodified": 1731979878,
+    "wof:lastmodified": 1737577131,
     "wof:name": "1H Student Art North",
     "wof:parent_id": 1947304417,
     "wof:placetype": "enclosure",

@@ -28,6 +28,14 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "HMT1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gallery",
+    "wfnd:waypoint_id": [
+      1914666221
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -72,7 +80,7 @@
     ],
     "wof:id": 1914601261,
     "wof:label": "1E Mid-Pier Gallery (2024-06-17)",
-    "wof:lastmodified": 1731958701,
+    "wof:lastmodified": 1737577131,
     "wof:name": "1E Mid-Pier Gallery",
     "wof:parent_id": 1914601199,
     "wof:placetype": "enclosure",

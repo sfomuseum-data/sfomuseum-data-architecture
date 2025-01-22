@@ -28,6 +28,14 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "HMT1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gallery",
+    "wfnd:waypoint_id": [
+      1796889469
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -72,7 +80,7 @@
     ],
     "wof:id": 1763588517,
     "wof:label": "1F Kids’ Spot/Tree Town (2021-11-09)",
-    "wof:lastmodified": 1720821936,
+    "wof:lastmodified": 1737577130,
     "wof:name": "1F Kids’ Spot/Tree Town",
     "wof:parent_id": 1763588265,
     "wof:placetype": "enclosure",

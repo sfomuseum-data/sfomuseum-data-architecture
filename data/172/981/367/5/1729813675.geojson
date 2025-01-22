@@ -30,6 +30,9 @@
     "sfomuseum:placetype": "museum",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 3,
+    "wfnd:placetype": "museum",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -81,7 +84,7 @@
     ],
     "wof:id": 1729813675,
     "wof:label": "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum (2019)",
-    "wof:lastmodified": 1720815171,
+    "wof:lastmodified": 1737577130,
     "wof:name": "San Francisco Airport Commission Aviation Library and Louis A. Turpen Aviation Museum",
     "wof:parent_id": 1729792679,
     "wof:placetype": "arcade",

@@ -39,6 +39,14 @@
     ],
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "HMT1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "commonarea",
+    "wfnd:waypoint_id": [
+      1796889629
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -84,7 +92,7 @@
     ],
     "wof:id": 1763588261,
     "wof:label": "Terminal 1 Main Hall (2021-11-09)",
-    "wof:lastmodified": 1720821941,
+    "wof:lastmodified": 1737577130,
     "wof:name": "Terminal 1 Main Hall",
     "wof:parent_id": 1763588175,
     "wof:placetype": "concourse",

@@ -24,6 +24,14 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:detail": "ITB",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ITB",
+    "wfnd:level": 3,
+    "wfnd:placetype": "gallery",
+    "wfnd:waypoint_id": [
+      1947305369
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -71,7 +79,7 @@
     ],
     "wof:id": 1947304249,
     "wof:label": "AML 09 AML New Corner Gallery (2024-11-05)",
-    "wof:lastmodified": 1731979878,
+    "wof:lastmodified": 1737577131,
     "wof:name": "AML 09 AML New Corner Gallery",
     "wof:parent_id": 1947304235,
     "wof:placetype": "enclosure",

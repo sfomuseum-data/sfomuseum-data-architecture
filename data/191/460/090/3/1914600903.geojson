@@ -37,6 +37,14 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "T3",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T3",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gallery",
+    "wfnd:waypoint_id": [
+      1914666239
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +93,7 @@
     ],
     "wof:id": 1914600903,
     "wof:label": "F-03 Gate 76 (2024-06-17)",
-    "wof:lastmodified": 1731958743,
+    "wof:lastmodified": 1737577130,
     "wof:name": "F-03 Gate 76",
     "wof:parent_id": 1914600845,
     "wof:placetype": "enclosure",

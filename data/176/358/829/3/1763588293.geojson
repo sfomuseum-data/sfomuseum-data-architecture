@@ -37,6 +37,14 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:detail": "T3",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T3",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gate",
+    "wfnd:waypoint_id": [
+      1796935385
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +93,7 @@
     ],
     "wof:id": 1763588293,
     "wof:label": "F5 (2021-11-09)",
-    "wof:lastmodified": 1721956808,
+    "wof:lastmodified": 1737577130,
     "wof:name": "F5",
     "wof:parent_id": 1763588271,
     "wof:placetype": "venue",

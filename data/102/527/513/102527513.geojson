@@ -195,6 +195,9 @@
     ],
     "src:lbl_centroid": "mapshaper",
     "wd:wordcount": 8627,
+    "wfnd:is_restricted": false,
+    "wfnd:level": -1,
+    "wfnd:placetype": "airport",
     "woe:hierarchy": {
       "country_id": 23424977,
       "county_id": 12587710,
@@ -252,7 +255,7 @@
       }
     ],
     "wof:id": 102527513,
-    "wof:lastmodified": 1721244382,
+    "wof:lastmodified": 1737577130,
     "wof:name": "San Francisco International Airport",
     "wof:parent_id": 85922583,
     "wof:placetype": "campus",

@@ -41,6 +41,9 @@
       "sfogis-subterranean",
       "sfogis-ground"
     ],
+    "wfnd:is_restricted": true,
+    "wfnd:level": -1,
+    "wfnd:placetype": "terminal",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -83,7 +86,7 @@
     ],
     "wof:id": 1745882233,
     "wof:label": "Terminal 3 (2021-05-25)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737577130,
     "wof:name": "Terminal 3",
     "wof:parent_id": 1745882083,
     "wof:placetype": "wing",

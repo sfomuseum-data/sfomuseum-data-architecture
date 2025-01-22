@@ -21,6 +21,9 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": true,
+    "wfnd:level": -1,
+    "wfnd:placetype": "gate",
     "wof:belongsto": [],
     "wof:breaches": [],
     "wof:controlled": [
@@ -36,7 +39,7 @@
     ],
     "wof:id": 1477855783,
     "wof:label": "F84A (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737577131,
     "wof:name": "F84A",
     "wof:parent_id": -1,
     "wof:placetype": "venue",

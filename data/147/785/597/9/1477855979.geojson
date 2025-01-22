@@ -18,6 +18,9 @@
     "sfo:level": -1,
     "sfomuseum:placetype": "building",
     "src:geom": "unknown",
+    "wfnd:is_restricted": false,
+    "wfnd:level": -1,
+    "wfnd:placetype": "building",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -53,7 +56,7 @@
       }
     ],
     "wof:id": 1477855979,
-    "wof:lastmodified": 1716581988,
+    "wof:lastmodified": 1737577131,
     "wof:name": "Consolidated Administration Campus",
     "wof:parent_id": 1477855657,
     "wof:placetype": "building",

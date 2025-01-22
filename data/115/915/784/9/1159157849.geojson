@@ -24,6 +24,9 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": true,
+    "wfnd:level": -1,
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1159396301,
       102527513,
@@ -58,7 +61,7 @@
       }
     ],
     "wof:id": 1159157849,
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737577131,
     "wof:name": "F87A",
     "wof:parent_id": 1159396301,
     "wof:placetype": "venue",

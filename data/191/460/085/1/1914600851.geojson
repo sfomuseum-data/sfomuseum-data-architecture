@@ -34,6 +34,11 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:detail": "T3",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T3",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -82,7 +87,7 @@
     ],
     "wof:id": 1914600851,
     "wof:label": "F16 (2024-06-17)",
-    "wof:lastmodified": 1731958734,
+    "wof:lastmodified": 1737577130,
     "wof:name": "F16",
     "wof:parent_id": 1914600845,
     "wof:placetype": "venue",

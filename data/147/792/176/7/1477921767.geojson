@@ -25,6 +25,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:is_restricted": true,
+    "wfnd:level": -1,
+    "wfnd:placetype": "gate",
     "wof:belongsto": [],
     "wof:breaches": [],
     "wof:controlled": [
@@ -40,7 +43,7 @@
     ],
     "wof:id": 1477921767,
     "wof:label": "Gate D59B (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737577131,
     "wof:name": "D59B",
     "wof:parent_id": -1,
     "wof:placetype": "venue",

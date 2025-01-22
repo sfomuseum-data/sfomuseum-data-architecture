@@ -20,6 +20,9 @@
     "sfomuseum:placetype": "checkpoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 2,
+    "wfnd:placetype": "checkpoint",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -64,7 +67,7 @@
     ],
     "wof:id": 1745882449,
     "wof:label": "Customs and Passport Control A (2021-05-25)",
-    "wof:lastmodified": 1643748802,
+    "wof:lastmodified": 1737577131,
     "wof:name": "Customs and Passport Control A",
     "wof:parent_id": 1745882447,
     "wof:placetype": "venue",

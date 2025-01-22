@@ -42,6 +42,12 @@
       "sfogis-ground",
       "sfogis-subterranean"
     ],
+    "wfnd:is_restricted": true,
+    "wfnd:level": -1,
+    "wfnd:placetype": "terminal",
+    "wfnd:waypoint_id": [
+      1914666393
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -84,7 +90,7 @@
     ],
     "wof:id": 1914601197,
     "wof:label": "Terminal 1 (2024-06-17)",
-    "wof:lastmodified": 1731958683,
+    "wof:lastmodified": 1737577131,
     "wof:name": "Terminal 1",
     "wof:parent_id": 1914600839,
     "wof:placetype": "wing",

@@ -38,6 +38,14 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "T2",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T2",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gallery",
+    "wfnd:waypoint_id": [
+      1796889493
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -86,7 +94,7 @@
     ],
     "wof:id": 1763588489,
     "wof:label": "2B Kids’ Spot (2021-11-09)",
-    "wof:lastmodified": 1720821962,
+    "wof:lastmodified": 1737577130,
     "wof:name": "2B Kids’ Spot",
     "wof:parent_id": 1763588125,
     "wof:placetype": "enclosure",

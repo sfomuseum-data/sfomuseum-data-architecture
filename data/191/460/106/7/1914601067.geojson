@@ -37,6 +37,14 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:detail": "ITB",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "ITB",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gate",
+    "wfnd:waypoint_id": [
+      1914666535
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +93,7 @@
     ],
     "wof:id": 1914601067,
     "wof:label": "G5 (2024-06-17)",
-    "wof:lastmodified": 1731958654,
+    "wof:lastmodified": 1737577131,
     "wof:name": "G5",
     "wof:parent_id": 1914601057,
     "wof:placetype": "venue",

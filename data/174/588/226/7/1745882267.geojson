@@ -32,6 +32,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:is_restricted": true,
+    "wfnd:level": 2,
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -80,7 +83,7 @@
     ],
     "wof:id": 1745882267,
     "wof:label": "F9 (2021-05-25)",
-    "wof:lastmodified": 1672878184,
+    "wof:lastmodified": 1737577130,
     "wof:name": "F9",
     "wof:parent_id": 1745882237,
     "wof:placetype": "venue",

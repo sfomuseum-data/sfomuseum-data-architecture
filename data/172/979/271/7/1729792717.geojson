@@ -22,6 +22,9 @@
     "sfomuseum:placetype": "checkpoint",
     "sfomuseum:post_security": 0,
     "src:geom": "sfo",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 2,
+    "wfnd:placetype": "checkpoint",
     "wof:belongsto": [
       1729792387,
       102527513,
@@ -69,7 +72,7 @@
     ],
     "wof:id": 1729792717,
     "wof:label": "Security Checkpoint F3 (2020-~05)",
-    "wof:lastmodified": 1643748801,
+    "wof:lastmodified": 1737577130,
     "wof:name": "Security Checkpoint F3",
     "wof:parent_id": 1729792577,
     "wof:placetype": "venue",

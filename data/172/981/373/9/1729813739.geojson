@@ -32,6 +32,14 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:detail": "ITB",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "ITB",
+    "wfnd:level": 3,
+    "wfnd:placetype": "gallery",
+    "wfnd:waypoint_id": [
+      1796935607
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -80,7 +88,7 @@
     ],
     "wof:id": 1729813739,
     "wof:label": "AML Aviation Museum Gallery 02 (2020-~05)",
-    "wof:lastmodified": 1720723071,
+    "wof:lastmodified": 1737577130,
     "wof:name": "AML 02 AML Back Gallery",
     "wof:parent_id": 1729813675,
     "wof:placetype": "enclosure",

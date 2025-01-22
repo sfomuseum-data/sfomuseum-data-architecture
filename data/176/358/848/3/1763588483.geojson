@@ -27,6 +27,14 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "HMT1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gate",
+    "wfnd:waypoint_id": [
+      1796935483
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -70,7 +78,7 @@
     ],
     "wof:id": 1763588483,
     "wof:label": "B5 (2021-11-09)",
-    "wof:lastmodified": 1720821914,
+    "wof:lastmodified": 1737577130,
     "wof:name": "B5",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

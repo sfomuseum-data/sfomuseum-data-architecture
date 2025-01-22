@@ -16,6 +16,9 @@
     "sfomuseum:placetype": "taxiway",
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": true,
+    "wfnd:level": 0,
+    "wfnd:placetype": "taxiway",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -52,7 +55,7 @@
       }
     ],
     "wof:id": 1730008951,
-    "wof:lastmodified": 1716579711,
+    "wof:lastmodified": 1737577131,
     "wof:name": "Taxiway A/B/F",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",

@@ -36,6 +36,14 @@
     "sfomuseum:placetype": "gallery",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "T3",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T3",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gallery",
+    "wfnd:waypoint_id": [
+      1796889517
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -84,7 +92,7 @@
     ],
     "wof:id": 1763588525,
     "wof:label": "F-05 Terminal 3 Hub (2021-11-09)",
-    "wof:lastmodified": 1673474928,
+    "wof:lastmodified": 1737577130,
     "wof:name": "F-05 Terminal 3 Hub",
     "wof:parent_id": 1763588271,
     "wof:placetype": "enclosure",

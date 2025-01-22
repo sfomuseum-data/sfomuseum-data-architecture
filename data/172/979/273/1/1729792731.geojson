@@ -2,6 +2,8 @@
   "id": 1729792731,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-24",
+    "date:cessation_upper": "2024-07-24",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "2024-07-24",
@@ -23,6 +25,11 @@
     "sfomuseum:placetype": "gate",
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:detail": "T1",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1729792387,
       102527513,
@@ -67,7 +74,7 @@
     ],
     "wof:id": 1729792731,
     "wof:label": "C1 (2020-~05)",
-    "wof:lastmodified": 1681261559,
+    "wof:lastmodified": 1737577130,
     "wof:name": "C1",
     "wof:parent_id": 1729792691,
     "wof:placetype": "venue",
@@ -75,7 +82,10 @@
       "gate"
     ],
     "wof:repo": "sfomuseum-data-architecture",
-    "wof:superseded_by": [1930448509,1930448513],
+    "wof:superseded_by": [
+      1930448509,
+      1930448513
+    ],
     "wof:supersedes": []
   },
   "bbox": [

@@ -37,6 +37,14 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:detail": "T1",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "gate",
+    "wfnd:waypoint_id": [
+      1796935557
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -85,7 +93,7 @@
     ],
     "wof:id": 1763588253,
     "wof:label": "C10 (2021-11-09)",
-    "wof:lastmodified": 1720821979,
+    "wof:lastmodified": 1737577130,
     "wof:name": "C10",
     "wof:parent_id": 1763588233,
     "wof:placetype": "venue",

@@ -30,6 +30,9 @@
     "src:geom_alt": [
       "faa"
     ],
+    "wfnd:is_restricted": true,
+    "wfnd:level": -1,
+    "wfnd:placetype": "gate",
     "wof:belongsto": [
       1477855835,
       102527513,
@@ -78,7 +81,7 @@
     ],
     "wof:id": 1477855857,
     "wof:label": "A5 (2019)",
-    "wof:lastmodified": 1693347363,
+    "wof:lastmodified": 1737577131,
     "wof:name": "A5",
     "wof:parent_id": 1477855835,
     "wof:placetype": "venue",

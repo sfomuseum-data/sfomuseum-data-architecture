@@ -25,6 +25,9 @@
     ],
     "sfomuseum:post_security": 1,
     "src:geom": "sfo",
+    "wfnd:is_restricted": true,
+    "wfnd:level": 3,
+    "wfnd:placetype": "commonarea",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -66,7 +69,7 @@
     ],
     "wof:id": 1763588479,
     "wof:label": "International Terminal Departures (Post-Security) (2021-11-09)",
-    "wof:lastmodified": 1720821869,
+    "wof:lastmodified": 1737577130,
     "wof:name": "International Terminal Departures (Post-Security)",
     "wof:parent_id": 1763588369,
     "wof:placetype": "concourse",
