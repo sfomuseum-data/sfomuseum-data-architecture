@@ -35,7 +35,7 @@
     "src:geom_alt": [
       "faa"
     ],
-    "wfnd:detail": "T1",
+    "wfnd:detail": "C",
     "wfnd:is_restricted": true,
     "wfnd:kind": "T1",
     "wfnd:level": 2,
@@ -91,7 +91,7 @@
     ],
     "wof:id": 1947304675,
     "wof:label": "C5 (2024-11-05)",
-    "wof:lastmodified": 1737577131,
+    "wof:lastmodified": 1737577456,
     "wof:name": "C5",
     "wof:parent_id": 1947304663,
     "wof:placetype": "venue",

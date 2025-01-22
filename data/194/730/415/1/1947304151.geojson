@@ -35,7 +35,7 @@
     "src:geom_alt": [
       "faa"
     ],
-    "wfnd:detail": "ITB",
+    "wfnd:detail": "G",
     "wfnd:is_restricted": true,
     "wfnd:kind": "ITB",
     "wfnd:level": 2,
@@ -91,7 +91,7 @@
     ],
     "wof:id": 1947304151,
     "wof:label": "G6 (2024-11-05)",
-    "wof:lastmodified": 1737577131,
+    "wof:lastmodified": 1737577456,
     "wof:name": "G6",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

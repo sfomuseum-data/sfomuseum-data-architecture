@@ -34,7 +34,7 @@
     "src:geom_alt": [
       "faa"
     ],
-    "wfnd:detail": "T3",
+    "wfnd:detail": "E",
     "wfnd:is_restricted": true,
     "wfnd:kind": "T3",
     "wfnd:level": 2,
@@ -87,7 +87,7 @@
     ],
     "wof:id": 1763588341,
     "wof:label": "E6 (2021-11-09)",
-    "wof:lastmodified": 1737577130,
+    "wof:lastmodified": 1737577456,
     "wof:name": "E6",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",

@@ -37,7 +37,7 @@
     "src:geom_alt": [
       "faa"
     ],
-    "wfnd:detail": "T1",
+    "wfnd:detail": "C",
     "wfnd:is_restricted": true,
     "wfnd:kind": "T1",
     "wfnd:level": 2,
@@ -93,7 +93,7 @@
     ],
     "wof:id": 1914601439,
     "wof:label": "C11 (2024-06-17)",
-    "wof:lastmodified": 1737577131,
+    "wof:lastmodified": 1737577456,
     "wof:name": "C11",
     "wof:parent_id": 1914601421,
     "wof:placetype": "venue",

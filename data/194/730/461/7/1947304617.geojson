@@ -35,7 +35,7 @@
     "src:geom_alt": [
       "faa"
     ],
-    "wfnd:detail": "T2",
+    "wfnd:detail": "D",
     "wfnd:is_restricted": true,
     "wfnd:kind": "T2",
     "wfnd:level": 2,
@@ -91,7 +91,7 @@
     ],
     "wof:id": 1947304617,
     "wof:label": "D8 (2024-11-05)",
-    "wof:lastmodified": 1737577131,
+    "wof:lastmodified": 1737577456,
     "wof:name": "D8",
     "wof:parent_id": 1947304595,
     "wof:placetype": "venue",

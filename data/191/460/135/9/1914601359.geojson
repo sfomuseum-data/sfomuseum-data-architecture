@@ -40,7 +40,7 @@
     "src:geom_alt": [
       "faa"
     ],
-    "wfnd:detail": "T2",
+    "wfnd:detail": "D",
     "wfnd:is_restricted": true,
     "wfnd:kind": "T2",
     "wfnd:level": 2,
@@ -96,7 +96,7 @@
     ],
     "wof:id": 1914601359,
     "wof:label": "D6 (2024-06-17)",
-    "wof:lastmodified": 1737577131,
+    "wof:lastmodified": 1737577456,
     "wof:name": "D6",
     "wof:parent_id": 1914601349,
     "wof:placetype": "venue",
