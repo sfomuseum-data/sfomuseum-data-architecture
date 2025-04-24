@@ -21,7 +21,12 @@
     "mz:is_approximate": 0,
     "mz:is_current": 1,
     "name:eng_x_preferred": [
-      "T1"
+      "Harvey Milk Terminal 1"
+    ],
+    "name:eng_x_variant": [
+      "T1",
+      "Terminal 1",
+      "HMT1"
     ],
     "sfo:id": "200",
     "sfo:level": -1,
@@ -30,7 +35,7 @@
       "D16DCB30-6FA5-40BC-AACF-4E88BE836818"
     ],
     "sfomuseum:is_sfo": 1,
-    "sfomuseum:name": "Terminal One",
+    "sfomuseum:name": "Harvey Milk Terminal 1",
     "sfomuseum:parent_id": "SFO",
     "sfomuseum:placetype": "terminal",
     "sfomuseum:post_security": -1,
@@ -87,9 +92,9 @@
       }
     ],
     "wof:id": 1947304259,
-    "wof:label": "Terminal 1 (2024-11-05)",
-    "wof:lastmodified": 1737577131,
-    "wof:name": "Terminal 1",
+    "wof:label": "Harvey Milk Terminal 1 (2024-11-05)",
+    "wof:lastmodified": 1745535922,
+    "wof:name": "Harvey Milk Terminal 1",
     "wof:parent_id": 1947304067,
     "wof:placetype": "wing",
     "wof:placetype_alt": [
